@@ -1,0 +1,25 @@
+{
+  "name": "steineroriginals",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Rudolf Steiner lecture catalog (SSOT), originals, and reference tooling",
+  "scripts": {
+    "validate": "tsx src/scripts/validate_catalog.ts",
+    "stats": "tsx src/scripts/stats_catalog.ts",
+    "sort": "tsx src/scripts/sort_lectures_by_id.ts",
+    "export:csv": "tsx src/scripts/yaml_to_csv.ts",
+    "maintain:ga-suggest": "tsx src/scripts/maintain-lecture-catalog/suggest_ga_for_missing.ts",
+    "maintain:ga-toc": "tsx src/scripts/maintain-lecture-catalog/add_ga_from_ga_pdf_toc.ts",
+    "maintain:ga-catalog": "tsx src/scripts/maintain-lecture-catalog/add_missing_ga_to_catalog.ts"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "latest",
+    "@types/node": "latest",
+    "tsx": "latest",
+    "typescript": "latest"
+  },
+  "dependencies": {
+    "js-yaml": "latest"
+  }
+}

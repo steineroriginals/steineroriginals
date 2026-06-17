@@ -1,0 +1,1686 @@
+bands:
+  - ga: '1'
+    title: >-
+      Buch:1_Seite:_1_Zur_Titelerweiterung_Der_frühere_Titel_«Goethes_Naturwissenschaftliche_Schriften»_ist_in_der_Ausgabe_von_1987_erweitert_worden_in_«Einleitungen_zu_Goethes_Naturwissenschaftliche_Schriften»_und_durch_den_Untertitel_«zugleich_eine
+    titleDisplay: >-
+      Buch:1 Seite: 1 Zur Titelerweiterung Der frühere Titel «Goethes Naturwissenschaftliche Schriften» ist in der
+      Ausgabe von 1987 erweitert worden in «Einleitungen zu Goethes Naturwissenschaftliche Schriften» und durch den
+      Untertitel «zugleich eine
+    pdf: GA 001.pdf
+  - ga: '2'
+    title: Buch:_2_Seite:_1_R_U_D_O_L_F_S_T_E_I_N_E_R_GESAMTAUSGABE_Abteilung_A:_Schriften,_I._Werke_Herausgegeben_von_der
+    titleDisplay: 'Buch: 2 Seite: 1 R U D O L F S T E I N E R GESAMTAUSGABE Abteilung A: Schriften, I. Werke Herausgegeben von der'
+    pdf: GA 002.pdf
+  - ga: '3'
+    title: Buch:_3_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 3 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 Seite: 2 RUDOLF STEINER'
+    pdf: GA 003.pdf
+  - ga: '4'
+    title: Buch:_4_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_4_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 4 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 4 Seite: 2 RUDOLF STEINER'
+    pdf: GA 004.pdf
+  - ga: 4a
+    title: Buch:_4_a_Seite:_1_Weimar_1896_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_4_a
+    titleDisplay: 'Buch: 4 a Seite: 1 Weimar 1896 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 4 a'
+    pdf: GA 004a.pdf
+  - ga: '5'
+    title: Buch:_5_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_5_Seite:_2
+    titleDisplay: 'Buch: 5 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 5 Seite: 2'
+    pdf: GA 005.pdf
+  - ga: '6'
+    title: Buch:_6_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaitung_Buch:_6_Seite:_2
+    titleDisplay: 'Buch: 6 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaitung Buch: 6 Seite: 2'
+    pdf: GA 006.pdf
+  - ga: '7'
+    title: Buch:_7_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaitung_Buch:_7_Seite:_2
+    titleDisplay: 'Buch: 7 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaitung Buch: 7 Seite: 2'
+    pdf: GA 007.pdf
+  - ga: '8'
+    title: Buch:_8_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_8_Seite:_2
+    titleDisplay: 'Buch: 8 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 8 Seite: 2'
+    pdf: GA 008.pdf
+  - ga: '9'
+    title: Buch:_9_Seite:_1_R_U_D_O_L_F_STEINER_GESAMTAUSGABE_Abteilung_A:_Schriften,_I._Werke_Herausgegeben_von_der
+    titleDisplay: 'Buch: 9 Seite: 1 R U D O L F STEINER GESAMTAUSGABE Abteilung A: Schriften, I. Werke Herausgegeben von der'
+    pdf: GA 009.pdf
+  - ga: '10'
+    title: Buch:_10_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_10_Seite:_2
+    titleDisplay: 'Buch: 10 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 10 Seite: 2'
+    pdf: GA 010.pdf
+  - ga: '11'
+    title: Buch:_11_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:11_Seite:2
+    titleDisplay: 'Buch: 11 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch:11 Seite:2'
+    pdf: GA 011.pdf
+  - ga: '12'
+    title: Buch:_12_Seite:_1_Copyright_Rudolf_Steiner_Nachiass-Verwaitung_Buch:_12_Seite:_2
+    titleDisplay: 'Buch: 12 Seite: 1 Copyright Rudolf Steiner Nachiass-Verwaitung Buch: 12 Seite: 2'
+    pdf: GA 012.pdf
+  - ga: '13'
+    title: Buch:_13_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_13_Seite:_2
+    titleDisplay: 'Buch: 13 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 13 Seite: 2'
+    pdf: GA 013.pdf
+  - ga: '14'
+    title: Buch:_14_Seite:_Oa_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:14_Seite:0b
+    titleDisplay: 'Buch: 14 Seite: Oa Copyright Rudolf Steiner Nachlass-Verwaltung Buch:14 Seite:0b'
+    pdf: GA 014.pdf
+  - ga: '15'
+    title: Buch:_15_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_15_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 15 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 15 Seite: 2 RUDOLF STEINER'
+    pdf: GA 015.pdf
+  - ga: '16'
+    title: Buch:_16_Seite:_1_R_U_D_O_L_F_S_T_E_I_N_E_R_GESAMTAUSGABE_Abteilung_A:_Schriften,_I._Werke_Herausgegeben_von_der
+    titleDisplay: 'Buch: 16 Seite: 1 R U D O L F S T E I N E R GESAMTAUSGABE Abteilung A: Schriften, I. Werke Herausgegeben von der'
+    pdf: GA 016.pdf
+  - ga: '17'
+    title: Buch:_17_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_17_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 17 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 17 Seite: 2 RUDOLF STEINER'
+    pdf: GA 017.pdf
+  - ga: '18'
+    title: Buch:_18_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_18_Seite:_2
+    titleDisplay: 'Buch: 18 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 18 Seite: 2'
+    pdf: GA 018.pdf
+  - ga: '19'
+    title: Gedanken_während_der_Zeit_des_Krieges_(1915)
+    titleDisplay: Band GA 19 RUDOLF STEINER Gedanken während der Zeit des Krieges (1915)
+    pdf: GA 019.pdf
+  - ga: '20'
+    title: Buch:_2_0_Seite:_1_Copyright_Rudolf_Steiner_Nachiass-Verwaitung_Buch:_20_Seite:_2
+    titleDisplay: 'Buch: 2 0 Seite: 1 Copyright Rudolf Steiner Nachiass-Verwaitung Buch: 20 Seite: 2'
+    pdf: GA 020.pdf
+  - ga: '21'
+    title: Buch:_21_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_21_Seite:_2
+    titleDisplay: 'Buch: 21 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 21 Seite: 2'
+    pdf: GA 021.pdf
+  - ga: '22'
+    title: Buch:_2_2_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_22_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 2 2 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 22 Seite: 2 RUDOLF STEINER'
+    pdf: GA 022.pdf
+  - ga: '23'
+    title: Buch:_2_3_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_2_3_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 2 3 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 2 3 Seite: 2 RUDOLF STEINER'
+    pdf: GA 023.pdf
+  - ga: '24'
+    title: Buch:_2_4_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_2_4_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 2 4 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 2 4 Seite: 2 RUDOLF STEINER'
+    pdf: GA 024.pdf
+  - ga: '25'
+    title: Buch:_2_5_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_2_5_Seite:_2
+    titleDisplay: 'Buch: 2 5 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 2 5 Seite: 2'
+    pdf: GA 025.pdf
+  - ga: '26'
+    title: Buch:_2_6_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:26_Seite:2
+    titleDisplay: 'Buch: 2 6 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch:26 Seite:2'
+    pdf: GA 026.pdf
+  - ga: '27'
+    title: Buch:_2_7_Seite:_1_Copyright_Rudolf_Steiner_Nachiass-Verwaitung_Buch:_27_Seite:_2
+    titleDisplay: 'Buch: 2 7 Seite: 1 Copyright Rudolf Steiner Nachiass-Verwaitung Buch: 27 Seite: 2'
+    pdf: GA 027.pdf
+  - ga: '28'
+    title: Buch:_2_8_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_2_8_Seite:_2
+    titleDisplay: 'Buch: 2 8 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 2 8 Seite: 2'
+    pdf: GA 028.pdf
+  - ga: '29'
+    title: Buch:_2_9_Seite:_1_R_U_D_O_L_F_STEINER_GESAMTAUSGABE_Abteilung_A:_Schriften,
+    titleDisplay: 'Buch: 2 9 Seite: 1 R U D O L F STEINER GESAMTAUSGABE Abteilung A: Schriften,'
+    pdf: GA 029.pdf
+  - ga: '30'
+    title: Buch:_3_0_Seite:_1_Copyright_Rudolf_Steiner_Nachiass-Verwaltung_Buch:_3_0_Seite:_2
+    titleDisplay: 'Buch: 3 0 Seite: 1 Copyright Rudolf Steiner Nachiass-Verwaltung Buch: 3 0 Seite: 2'
+    pdf: GA 030.pdf
+  - ga: '31'
+    title: Buch:_31_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_31_Seite:_2
+    titleDisplay: 'Buch: 31 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 31 Seite: 2'
+    pdf: GA 031.pdf
+  - ga: '32'
+    title: Buch:_3_2_Seite:_0_R_U_D_O_L_F_STEINER_GESAMTAUSGABE_Abteilung_A:_Schriften,
+    titleDisplay: 'Buch: 3 2 Seite: 0 R U D O L F STEINER GESAMTAUSGABE Abteilung A: Schriften,'
+    pdf: GA 032.pdf
+  - ga: '33'
+    title: Buch:_3_3_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_3_Seite:_2
+    titleDisplay: 'Buch: 3 3 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 3 Seite: 2'
+    pdf: GA 033.pdf
+  - ga: '34'
+    title: Buch:_3_4_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_4_Seite:_2
+    titleDisplay: 'Buch: 3 4 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 4 Seite: 2'
+    pdf: GA 034.pdf
+  - ga: '35'
+    title: Buch:_3_5_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_5_Seite:_2
+    titleDisplay: 'Buch: 3 5 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 5 Seite: 2'
+    pdf: GA 035.pdf
+  - ga: '36'
+    title: Buch:_3_6_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_6_Seite:_2
+    titleDisplay: 'Buch: 3 6 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 6 Seite: 2'
+    pdf: GA 036.pdf
+  - ga: '37'
+    title: Schriften_zur_Geschichte_der_anthroposophischen_Bewegung_und_Gesellschaft_1902-1925
+    titleDisplay: Band GA 37 RUDOLF STEINER Schriften zur Geschichte der anthroposophischen Bewegung und Gesellschaft 1902-1925
+    pdf: GA 037.pdf
+  - ga: '38'
+    title: Buch:_3_8_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_8_Seite:_2
+    titleDisplay: 'Buch: 3 8 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 8 Seite: 2'
+    pdf: GA 038.pdf
+  - ga: '39'
+    title: Buch:_3_9_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_9_Seite:_2
+    titleDisplay: 'Buch: 3 9 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 9 Seite: 2'
+    pdf: GA 039.pdf
+  - ga: '40'
+    title: Buch:_4_0_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_4_0_Seite:_2
+    titleDisplay: 'Buch: 4 0 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 4 0 Seite: 2'
+    pdf: GA 040.pdf
+  - ga: 40a
+    title: Buch:40a_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:40a_Seite:_2
+    titleDisplay: 'Buch:40a Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch:40a Seite: 2'
+    pdf: GA 040a.pdf
+  - ga: 41a
+    title: ‘uaijuqosjiuisSwuoA_{761“_£061_dlOCimi_9V1HHA
+    titleDisplay: Band GA 41a ‘uaijuqosjiuisSwuoA {761“ £061 dlOCimi 9V1HHA
+    pdf: GA 041a.pdf
+  - ga: '44'
+    title: Buch:_4_4_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_4_4_Seite:_2
+    titleDisplay: 'Buch: 4 4 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 4 4 Seite: 2'
+    pdf: GA 044.pdf
+  - ga: '45'
+    title: >-
+      Buch:_4_5_Seite:_1_R_U_D_O_L_F_STEINER_GESAMTAUSGABE_Abteilung_A:_Schriften,_III._Veröffentlichungen_aus_dem_Nachlass
+    titleDisplay: >-
+      Buch: 4 5 Seite: 1 R U D O L F STEINER GESAMTAUSGABE Abteilung A: Schriften, III. Veröffentlichungen aus dem
+      Nachlass
+    pdf: GA 045.pdf
+  - ga: '51'
+    title: Buch:_51_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_51_Seite:_2
+    titleDisplay: 'Buch: 51 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 51 Seite: 2'
+    pdf: GA 051.pdf
+  - ga: '53'
+    title: Buch:_5_3_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_53_Seite:_2
+    titleDisplay: 'Buch: 5 3 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 53 Seite: 2'
+    pdf: GA 053.pdf
+  - ga: '54'
+    title: Buch:_5_4_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_54_Seite:_2
+    titleDisplay: 'Buch: 5 4 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 54 Seite: 2'
+    pdf: GA 054.pdf
+  - ga: '55'
+    title: Buch:_5_5_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_5_5_Seite:_2
+    titleDisplay: 'Buch: 5 5 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 5 5 Seite: 2'
+    pdf: GA 055.pdf
+  - ga: '56'
+    title: Buch:_5_6_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_5_6_Seite:_2
+    titleDisplay: 'Buch: 5 6 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 5 6 Seite: 2'
+    pdf: GA 056.pdf
+  - ga: '57'
+    title: Buch:_5_7_Seite:_1_Copyright_Rudolf_Steiner_Nachiass-Verwaitung_Buch:_5_7_Seite:_2
+    titleDisplay: 'Buch: 5 7 Seite: 1 Copyright Rudolf Steiner Nachiass-Verwaitung Buch: 5 7 Seite: 2'
+    pdf: GA 057.pdf
+  - ga: '58'
+    title: Buch:_5_8_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_5_8_Seite:_2
+    titleDisplay: 'Buch: 5 8 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 5 8 Seite: 2'
+    pdf: GA 058.pdf
+  - ga: '59'
+    title: Buch:_5_9_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_5_9_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 5 9 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 5 9 Seite: 2 RUDOLF STEINER'
+    pdf: GA 059.pdf
+  - ga: '60'
+    title: Buch:_6_0_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_6_0_Seite:_2
+    titleDisplay: 'Buch: 6 0 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 6 0 Seite: 2'
+    pdf: GA 060.pdf
+  - ga: '61'
+    title: Buch:_61_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_61_Seite:_2
+    titleDisplay: 'Buch: 61 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 61 Seite: 2'
+    pdf: GA 061.pdf
+  - ga: '62'
+    title: Buch:_6_2_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaitung_Buch:_6_2_Seite:_2
+    titleDisplay: 'Buch: 6 2 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaitung Buch: 6 2 Seite: 2'
+    pdf: GA 062.pdf
+  - ga: '63'
+    title: Buch:_6_3_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaitung_Buch:_63_Seite:_2
+    titleDisplay: 'Buch: 6 3 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaitung Buch: 63 Seite: 2'
+    pdf: GA 063.pdf
+  - ga: '64'
+    title: Buch:_6_4_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_6_4_Seite:_2
+    titleDisplay: 'Buch: 6 4 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 6 4 Seite: 2'
+    pdf: GA 064.pdf
+  - ga: '65'
+    title: Buch:_6_5_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_6_5_Seite:_2
+    titleDisplay: 'Buch: 6 5 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 6 5 Seite: 2'
+    pdf: GA 065.pdf
+  - ga: '66'
+    title: Buch:_6_6_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_6_6_Seite:_2
+    titleDisplay: 'Buch: 6 6 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 6 6 Seite: 2'
+    pdf: GA 066.pdf
+  - ga: '67'
+    title: Buch:_6_7_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_6_7_Seite:_2
+    titleDisplay: 'Buch: 6 7 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 6 7 Seite: 2'
+    pdf: GA 067.pdf
+  - ga: 68a
+    title: Über_das_Wesen_des_Christentums_Dreiundfünfzig_öffentliche_Vorträge_und
+    titleDisplay: Band GA 68a RUDOLF STEINER Über das Wesen des Christentums Dreiundfünfzig öffentliche Vorträge und
+    pdf: GA 068a.pdf
+  - ga: 68b
+    title: Der_Kreislauf_des_Menschen_innerhalb_der_Sinnes-,_Seelenund_Geisteswelt_Achtundfünfzig_öffentliche_Vorträge_und
+    titleDisplay: >-
+      Band GA 68b RUDOLF STEINER Der Kreislauf des Menschen innerhalb der Sinnes-, Seelenund Geisteswelt Achtundfünfzig
+      öffentliche Vorträge und
+    pdf: GA 068b.pdf
+  - ga: 68c
+    title: Goethe_und_die_Gegenwart
+    titleDisplay: Band GA 68c RUDOLF STEINER Goethe und die Gegenwart
+    pdf: GA 068c.pdf
+  - ga: 68d
+    title: Das_Wesen_des_Menschen_im_Lichte_der_Geisteswissenschaft
+    titleDisplay: Band GA 68d RUDOLF STEINER Das Wesen des Menschen im Lichte der Geisteswissenschaft
+    pdf: GA 068d.pdf
+  - ga: 69a
+    title: Wahrheiten_und_Irrtümer_der_Geistesforschung_Geisteswissenschaft_und_Menschenzukunft
+    titleDisplay: Band GA 69a RUDOLF STEINER Wahrheiten und Irrtümer der Geistesforschung Geisteswissenschaft und Menschenzukunft
+    pdf: GA 069a.pdf
+  - ga: 69b
+    title: Erkenntnis_Unsterblichkeit_Zehn_öffentliche_Vorträge,
+    titleDisplay: Band GA 69b RUDOLF STEINER Erkenntnis Unsterblichkeit Zehn öffentliche Vorträge,
+    pdf: GA 069b.pdf
+  - ga: 69c
+    title: Neues_Christus-Erleben
+    titleDisplay: Band GA 69c RUDOLF STEINER Neues Christus-Erleben
+    pdf: GA 069c.pdf
+  - ga: 69d
+    title: Tod_und_Unsterblichkeit_im_Lichte_der_Geisteswissenschaft
+    titleDisplay: Band GA 69d RUDOLF STEINER Tod und Unsterblichkeit im Lichte der Geisteswissenschaft
+    pdf: GA 069d.pdf
+  - ga: 69e
+    title: Geisteswissenschaft_und_die_geistigen_Ziele_unserer_Zeit_Zwanzig_öffentliche_Vorträge_und_fünf
+    titleDisplay: >-
+      Band GA 69e RUDOLF STEINER Geisteswissenschaft und die geistigen Ziele unserer Zeit Zwanzig öffentliche Vorträge
+      und fünf
+    pdf: GA 069e.pdf
+  - ga: 70a
+    title: Menschenseele,_Schicksal_und_Tod_Zwanzig_öffentliche_Vorträge_während_des_Weltkriegs
+    titleDisplay: Band GA 70a RUDOLF STEINER Menschenseele, Schicksal und Tod Zwanzig öffentliche Vorträge während des Weltkriegs
+    pdf: GA 070a.pdf
+  - ga: 70b
+    title: Wege_zur_Erkenntnis_der_ewigen_Kräfte_der_Menschenseele
+    titleDisplay: Band GA 70b RUDOLF STEINER Wege zur Erkenntnis der ewigen Kräfte der Menschenseele
+    pdf: GA 070b.pdf
+  - ga: 71a
+    title: Seelenunsterblichkeit,_Schicksalskräfte_und_menschlicher_Lebenslauf
+    titleDisplay: Band GA 71a RUDOLF STEINER Seelenunsterblichkeit, Schicksalskräfte und menschlicher Lebenslauf
+    pdf: GA 071a.pdf
+  - ga: 71b
+    title: Der_Mensch_als_Geist-_und_Seelenwesen
+    titleDisplay: Band GA 71b RUDOLF STEINER Der Mensch als Geist- und Seelenwesen
+    pdf: GA 071b.pdf
+  - ga: '72'
+    title: Buch:_7_2_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_7_2_Seite:_2
+    titleDisplay: 'Buch: 7 2 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 7 2 Seite: 2'
+    pdf: GA 072.pdf
+  - ga: '73'
+    title: >-
+      Seite:_1_Xu_den_Veröffentlichungen_aus_dem_Vortragswerk_von_Rudolf_Steiner_Die_Grundlage_der_anthroposophisch_orientierten_Geisteswissenschaft_bilden_die_von_Rudolf_Steiner_(1861_-_1925)_geschriebenen_und_veröffentlichten_Werke._Daneben_hielt_er_in_den_Jahren_1900_bis_1924_zahlreiche_Vorträge_und_Kurse,_sowohl
+    titleDisplay: >-
+      Seite: 1 Xu den Veröffentlichungen aus dem Vortragswerk von Rudolf Steiner Die Grundlage der anthroposophisch
+      orientierten Geisteswissenschaft bilden die von Rudolf Steiner (1861 - 1925) geschriebenen und veröffentlichten
+      Werke. Daneben hielt er in den Jahren 1900 bis 1924 zahlreiche Vorträge und Kurse, sowohl
+    pdf: GA 073.pdf
+  - ga: 73a
+    title: Fachwissenschaften_und_Anthroposophie_Acht_Vorträge,_elf_Fragenbeantwortungen,
+    titleDisplay: Band GA 73a RUDOLF STEINER Fachwissenschaften und Anthroposophie Acht Vorträge, elf Fragenbeantwortungen,
+    pdf: GA 073a.pdf
+  - ga: '74'
+    title: >-
+      Buch:_7_4_Seite:_1_Xu_den_Veröffentlichungen_aus_dem_Vortragswerk_von_Rudolf_Steiner_Die_Grundlage_der_anthroposophisch_orientierten_Geisteswissenschaft_bilden_die_von_Rudolf_Steiner_(1861-1925)_geschriebenen_und_veröffentlichten_Werke._Daneben_hielt_er
+    titleDisplay: >-
+      Buch: 7 4 Seite: 1 Xu den Veröffentlichungen aus dem Vortragswerk von Rudolf Steiner Die Grundlage der
+      anthroposophisch orientierten Geisteswissenschaft bilden die von Rudolf Steiner (1861-1925) geschriebenen und
+      veröffentlichten Werke. Daneben hielt er
+    pdf: GA 074.pdf
+  - ga: '76'
+    title: Buch:_7_6_Seite:_1_Copyright_Rudolf_Steiner_Nachiass-Verwaitung_Buch:76_Seite:2
+    titleDisplay: 'Buch: 7 6 Seite: 1 Copyright Rudolf Steiner Nachiass-Verwaitung Buch:76 Seite:2'
+    pdf: GA 076.pdf
+  - ga: 77a
+    title: Buch:77a_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:77a_Seite:2
+    titleDisplay: 'Buch:77a Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch:77a Seite:2'
+    pdf: GA 077a.pdf
+  - ga: 77b
+    title: Buch:77b_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaitung_Buch:_7_7_b_Seite:_2
+    titleDisplay: 'Buch:77b Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaitung Buch: 7 7 b Seite: 2'
+    pdf: GA 077b.pdf
+  - ga: '78'
+    title: >-
+      Buch:_7_8_Seite:_1_Xu_den_Veröffentlichungen_aus_dem_Vortragswerk_von_Rudolf_Steiner_Die_Grundlage_der_anthroposophisch_orientierten_Geisteswissenschaft_bilden_die_von_Rudolf_Steiner_(1861_-1925)_geschriebenen_und_veröffentlichten_Werke._Daneben_hielt_er
+    titleDisplay: >-
+      Buch: 7 8 Seite: 1 Xu den Veröffentlichungen aus dem Vortragswerk von Rudolf Steiner Die Grundlage der
+      anthroposophisch orientierten Geisteswissenschaft bilden die von Rudolf Steiner (1861 -1925) geschriebenen und
+      veröffentlichten Werke. Daneben hielt er
+    pdf: GA 078.pdf
+  - ga: '79'
+    title: Buch:_7_9_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaitung_Buch:_7_9_Seite:_2
+    titleDisplay: 'Buch: 7 9 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaitung Buch: 7 9 Seite: 2'
+    pdf: GA 079.pdf
+  - ga: 80a
+    title: Das_Wesen_der_Anthroposophie_Dreizehn_von_der_Konzertagentur_Wolff_&_Sachs
+    titleDisplay: Band GA 80a RUDOLF STEINER Das Wesen der Anthroposophie Dreizehn von der Konzertagentur Wolff & Sachs
+    pdf: GA 080a.pdf
+  - ga: 80b
+    title: Das_Innere_der_Natur_und_das_Wesen_der_Menschenseele_Dreizehn_öffentliche_Vorträge,_gehalten_in_Bern,
+    titleDisplay: >-
+      Band GA 80b RUDOLF STEINER Das Innere der Natur und das Wesen der Menschenseele Dreizehn öffentliche Vorträge,
+      gehalten in Bern,
+    pdf: GA 080b.pdf
+  - ga: 80c
+    title: Die_anthroposophische_Geisteswissenschaft_und_die_großen_Zivilisationsfragen
+    titleDisplay: Band GA 80c RUDOLF STEINER Die anthroposophische Geisteswissenschaft und die großen Zivilisationsfragen
+    pdf: GA 080c.pdf
+  - ga: '81'
+    title: Buch:_81_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaitung_Buch:_81_Seite:_2
+    titleDisplay: 'Buch: 81 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaitung Buch: 81 Seite: 2'
+    pdf: GA 081.pdf
+  - ga: '82'
+    title: über_den_Hochschulkurs
+    titleDisplay: über den Hochschulkurs
+    pdf: GA 082.pdf
+  - ga: '83'
+    title: Buch:_8_3_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_8_3_Seite:_2
+    titleDisplay: 'Buch: 8 3 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 8 3 Seite: 2'
+    pdf: GA 083.pdf
+  - ga: '84'
+    title: >-
+      Buch:_8_4_Seite:_1_Zu_den_Veröffentlichungen_aus_dem_Vortragswerk_von_RudolfSteiner_Die_Grundlage_der_anthroposophisch_orientierten_Geisteswissenschaft_bilden_die_von_Rudolf_Steiner_(1861_-1925)_geschriebenen_und_veröffentlichten_Werke._Daneben_hielt_er
+    titleDisplay: >-
+      Buch: 8 4 Seite: 1 Zu den Veröffentlichungen aus dem Vortragswerk von RudolfSteiner Die Grundlage der
+      anthroposophisch orientierten Geisteswissenschaft bilden die von Rudolf Steiner (1861 -1925) geschriebenen und
+      veröffentlichten Werke. Daneben hielt er
+    pdf: GA 084.pdf
+  - ga: '85'
+    title: Nachträge_zur_Abteilung
+    titleDisplay: Band GA 85 RUDOLF STEINER Nachträge zur Abteilung
+    pdf: GA 085.pdf
+  - ga: '87'
+    title: Antike_Mysterien_und_Christentum_Vierundzwanzig_Vorträge_über_das
+    titleDisplay: Band GA 87 RUDOLF STEINER Antike Mysterien und Christentum Vierundzwanzig Vorträge über das
+    pdf: GA 087.pdf
+  - ga: '88'
+    title: Buch:_8_8_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_8_8_Seite:_2
+    titleDisplay: 'Buch: 8 8 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 8 8 Seite: 2'
+    pdf: GA 088.pdf
+  - ga: '89'
+    title: Buch:_8_9_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_8_9_Seite:_2
+    titleDisplay: 'Buch: 8 9 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 8 9 Seite: 2'
+    pdf: GA 089.pdf
+  - ga: 90a
+    title: Selbsterkenntnis_und_Gotteserkenntnis
+    titleDisplay: Band GA 90a RUDOLF STEINER Selbsterkenntnis und Gotteserkenntnis
+    pdf: GA 090a.pdf
+  - ga: 90b
+    title: Selbsterkenntnis_und_Gotteserkenntnis
+    titleDisplay: Band GA 90b RUDOLF STEINER Selbsterkenntnis und Gotteserkenntnis
+    pdf: GA 090b.pdf
+  - ga: 90c
+    title: Theosophie_und_Okkultismus_Fünfzehn_«Lehrstunden»_vornehmlich_im_Kreis_bei_Clara_Motzkus,_Berlin
+    titleDisplay: >-
+      Band GA 90c RUDOLF STEINER Theosophie und Okkultismus Fünfzehn «Lehrstunden» vornehmlich im Kreis bei Clara
+      Motzkus, Berlin
+    pdf: GA 090c.pdf
+  - ga: '92'
+    title: Buch:_9_2_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_9_2_Seite:_2
+    titleDisplay: 'Buch: 9 2 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 9 2 Seite: 2'
+    pdf: GA 092.pdf
+  - ga: '93'
+    title: >-
+      Buch:_9_3_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_VERÖFFENTLICHUNGEN_ZUR_GESCHICHTE_UND_AUS_DEN_INHALTEN_DER_ESOTERISCHEN_SCHULE
+    titleDisplay: >-
+      Buch: 9 3 Seite: 1 RUDOLF STEINER GESAMTAUSGABE VERÖFFENTLICHUNGEN ZUR GESCHICHTE UND AUS DEN INHALTEN DER
+      ESOTERISCHEN SCHULE
+    pdf: GA 093.pdf
+  - ga: 93a
+    title: >-
+      Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_VERÖFFENTLICHUNGEN_ZUR_GESCHICHTE_UND_AUS_DEN_INHALTEN_DER_ESOTERISCHEN_SCHULE_1904-1914
+    titleDisplay: >-
+      Seite: 1 RUDOLF STEINER GESAMTAUSGABE VERÖFFENTLICHUNGEN ZUR GESCHICHTE UND AUS DEN INHALTEN DER ESOTERISCHEN
+      SCHULE 1904-1914
+    pdf: GA 093a.pdf
+  - ga: '94'
+    title: Buch:_9_4_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_9_4_Seite:_2
+    titleDisplay: 'Buch: 9 4 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 9 4 Seite: 2'
+    pdf: GA 094.pdf
+  - ga: '95'
+    title: Buch:_9_5_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_9_5_Seite:_2
+    titleDisplay: 'Buch: 9 5 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 9 5 Seite: 2'
+    pdf: GA 095.pdf
+  - ga: '96'
+    title: Buch:_9_6_Seite:_1_GESELLSCHAFT_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_9_6
+    titleDisplay: 'Buch: 9 6 Seite: 1 GESELLSCHAFT Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 9 6'
+    pdf: GA 096.pdf
+  - ga: '97'
+    title: Buch:_9_7_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_9_7_Seite:_2
+    titleDisplay: 'Buch: 9 7 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 9 7 Seite: 2'
+    pdf: GA 097.pdf
+  - ga: '98'
+    title: Buch:_9_8_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_9_8_Seite:_2
+    titleDisplay: 'Buch: 9 8 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 9 8 Seite: 2'
+    pdf: GA 098.pdf
+  - ga: '99'
+    title: Buch:_9_9_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_9_9_Seite:_2
+    titleDisplay: 'Buch: 9 9 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 9 9 Seite: 2'
+    pdf: GA 099.pdf
+  - ga: '100'
+    title: Buch:_100_Seite:_1_Copyright_Rudolf_Steiner_Nachiass-Verwaitung_Buch:_100_Seite:_2
+    titleDisplay: 'Buch: 100 Seite: 1 Copyright Rudolf Steiner Nachiass-Verwaitung Buch: 100 Seite: 2'
+    pdf: GA 100.pdf
+  - ga: '101'
+    title: Buch:_101_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_101_Seite:_2
+    titleDisplay: 'Buch: 101 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 101 Seite: 2'
+    pdf: GA 101.pdf
+  - ga: '102'
+    title: Buch:_10_2_Seite:_1_Copyright_Rudolf_Steiner_Nachiass-Verwaitung_Buch:_102_Seite:_2
+    titleDisplay: 'Buch: 10 2 Seite: 1 Copyright Rudolf Steiner Nachiass-Verwaitung Buch: 102 Seite: 2'
+    pdf: GA 102.pdf
+  - ga: '103'
+    title: >-
+      Buch:_10_3_Seite:_1_Zu_den_Veröffentlichungen_aus_dem_Vorfragswerk_Rudolf_Steiners_Die_Gesamtausgabe_der_Werke_Rudolf_Steiners_(1861—1925)_gliedert
+    titleDisplay: >-
+      Buch: 10 3 Seite: 1 Zu den Veröffentlichungen aus dem Vorfragswerk Rudolf Steiners Die Gesamtausgabe der Werke
+      Rudolf Steiners (1861—1925) gliedert
+    pdf: GA 103.pdf
+  - ga: '104'
+    title: Buch:_104_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_104_Seite:_2
+    titleDisplay: 'Buch: 104 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 104 Seite: 2'
+    pdf: GA 104.pdf
+  - ga: 104a
+    title: >-
+      Buch:_10_4_a_Seite:_1_Zu_dieser_Ausgabe_Die_vorliegende_Ausgabe_enthält_inhaltliche_Zusammenfassungen_von_zwei_Vortragsreihen_über_die_Apokalypse_des_Johannes,_die_Rudolf_Steiner_in_München_und_Kristiania_(Oslo)_in_den_Jahren_1907_und_1909_gehalten_hat._Dem_gedruckten
+    titleDisplay: >-
+      Buch: 10 4 a Seite: 1 Zu dieser Ausgabe Die vorliegende Ausgabe enthält inhaltliche Zusammenfassungen von zwei
+      Vortragsreihen über die Apokalypse des Johannes, die Rudolf Steiner in München und Kristiania (Oslo) in den Jahren
+      1907 und 1909 gehalten hat. Dem gedruckten
+    pdf: GA 104a.pdf
+  - ga: '105'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_105_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 105 Seite: 2 RUDOLF STEINER'
+    pdf: GA 105.pdf
+  - ga: '106'
+    title: Buch:_106_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_106_Seite:_2
+    titleDisplay: 'Buch: 106 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 106 Seite: 2'
+    pdf: GA 106.pdf
+  - ga: '107'
+    title: Buch:107_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_107_Seite:_2
+    titleDisplay: 'Buch:107 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 107 Seite: 2'
+    pdf: GA 107.pdf
+  - ga: '108'
+    title: Buch:_10_8_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_108_Seite:_2
+    titleDisplay: 'Buch: 10 8 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 108 Seite: 2'
+    pdf: GA 108.pdf
+  - ga: '109'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_109_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 109 Seite: 2 RUDOLF STEINER'
+    pdf: GA 109.pdf
+  - ga: '110'
+    title: Buch:_110_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_110_Seite:_2
+    titleDisplay: 'Buch: 110 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 110 Seite: 2'
+    pdf: GA 110.pdf
+  - ga: '111'
+    title: Einführung_in_die_Grundlagen_der_Theosophie_Drei_Vortragsreihen_in_Hannover,_Rom
+    titleDisplay: Band GA 111 RUDOLF STEINER Einführung in die Grundlagen der Theosophie Drei Vortragsreihen in Hannover, Rom
+    pdf: GA 111.pdf
+  - ga: '112'
+    title: Buch:_112_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_112_Seite:_2
+    titleDisplay: 'Buch: 112 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 112 Seite: 2'
+    pdf: GA 112.pdf
+  - ga: '114'
+    title: >-
+      Die_Herausgabe_besorgten_R._Friedenthal_und_P._G._Bellmann_1._Auflage_Berlin_1917_(Zyklus_X)_2._Auflage_Berlin_1923_(Zyklenform)_3._Auflage_Dornach_1931_(Buchform)_4._Auflage_Dornach_1949
+    titleDisplay: >-
+      Die Herausgabe besorgten R. Friedenthal und P. G. Bellmann 1. Auflage Berlin 1917 (Zyklus X) 2. Auflage Berlin
+      1923 (Zyklenform) 3. Auflage Dornach 1931 (Buchform) 4. Auflage Dornach 1949
+    pdf: GA 114.pdf
+  - ga: '115'
+    title: Buch:_115_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_115_Seite:_2
+    titleDisplay: 'Buch: 115 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 115 Seite: 2'
+    pdf: GA 115.pdf
+  - ga: '116'
+    title: Buch:_116_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_116_Seite:_2
+    titleDisplay: 'Buch: 116 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 116 Seite: 2'
+    pdf: GA 116.pdf
+  - ga: '117'
+    title: Buch:_117_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_117_Seite:_2
+    titleDisplay: 'Buch: 117 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 117 Seite: 2'
+    pdf: GA 117.pdf
+  - ga: 117a
+    title: Das_Johannes-Evangelium_und_die_drei_anderen_Evangelien
+    titleDisplay: Band GA 117a RUDOLF STEINER Das Johannes-Evangelium und die drei anderen Evangelien
+    pdf: GA 117a.pdf
+  - ga: '118'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_118_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 118 Seite: 2 RUDOLF STEINER'
+    pdf: GA 118.pdf
+  - ga: '119'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_119_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 119 Seite: 2 RUDOLF STEINER'
+    pdf: GA 119.pdf
+  - ga: '120'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_120_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 120 Seite: 2 RUDOLF STEINER'
+    pdf: GA 120.pdf
+  - ga: '121'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_121_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 121 Seite: 2 RUDOLF STEINER'
+    pdf: GA 121.pdf
+  - ga: '122'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_122_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 122 Seite: 2 RUDOLF STEINER'
+    pdf: GA 122.pdf
+  - ga: '123'
+    title: Buch:_123_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_123_Seite:_2
+    titleDisplay: 'Buch: 123 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 123 Seite: 2'
+    pdf: GA 123.pdf
+  - ga: '124'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_124_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 124 Seite: 2 RUDOLF STEINER'
+    pdf: GA 124.pdf
+  - ga: '125'
+    title: Seite:_1_GESELLSCHAFT_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_125_Seite:_2
+    titleDisplay: 'Seite: 1 GESELLSCHAFT Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 125 Seite: 2'
+    pdf: GA 125.pdf
+  - ga: '126'
+    title: Buch:_12_6_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_126_Seite:_2
+    titleDisplay: 'Buch: 12 6 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 126 Seite: 2'
+    pdf: GA 126.pdf
+  - ga: '127'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_127_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 127 Seite: 2 RUDOLF STEINER'
+    pdf: GA 127.pdf
+  - ga: '128'
+    title: Seite:_1_GESELLSCHAFT_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_128_Seite:_2
+    titleDisplay: 'Seite: 1 GESELLSCHAFT Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 128 Seite: 2'
+    pdf: GA 128.pdf
+  - ga: '129'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_129_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 129 Seite: 2 RUDOLF STEINER'
+    pdf: GA 129.pdf
+  - ga: '130'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_130_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 130 Seite: 2 RUDOLF STEINER'
+    pdf: GA 130.pdf
+  - ga: '131'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_131_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 131 Seite: 2 RUDOLF STEINER'
+    pdf: GA 131.pdf
+  - ga: '132'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_132_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 132 Seite: 2 RUDOLF STEINER'
+    pdf: GA 132.pdf
+  - ga: '133'
+    title: Buch:_133_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_133_Seite:_2
+    titleDisplay: 'Buch: 133 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 133 Seite: 2'
+    pdf: GA 133.pdf
+  - ga: '134'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_134_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 134 Seite: 2 RUDOLF STEINER'
+    pdf: GA 134.pdf
+  - ga: '135'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_135_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 135 Seite: 2 RUDOLF STEINER'
+    pdf: GA 135.pdf
+  - ga: '136'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_136_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 136 Seite: 2 RUDOLF STEINER'
+    pdf: GA 136.pdf
+  - ga: '137'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_137_Seite:_2_RUDOLF
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 137 Seite: 2 RUDOLF'
+    pdf: GA 137.pdf
+  - ga: '138'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_138_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 138 Seite: 2 RUDOLF STEINER'
+    pdf: GA 138.pdf
+  - ga: '139'
+    title: Buch:_139_Seite:_1_GESELLSCHAFT_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_13_9_Seite:_2
+    titleDisplay: 'Buch: 139 Seite: 1 GESELLSCHAFT Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 13 9 Seite: 2'
+    pdf: GA 139.pdf
+  - ga: '140'
+    title: Buch:_14_0_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_140_Seite:_2
+    titleDisplay: 'Buch: 14 0 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 140 Seite: 2'
+    pdf: GA 140.pdf
+  - ga: '141'
+    title: Buch:141_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_141_Seite:_2
+    titleDisplay: 'Buch:141 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 141 Seite: 2'
+    pdf: GA 141.pdf
+  - ga: '142'
+    title: Buch:_14_2_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_142_Seite:_2
+    titleDisplay: 'Buch: 14 2 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 142 Seite: 2'
+    pdf: GA 142.pdf
+  - ga: '143'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_143_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 143 Seite: 2 RUDOLF STEINER'
+    pdf: GA 143.pdf
+  - ga: '144'
+    title: Buch:_144_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_144_Seite:_2
+    titleDisplay: 'Buch: 144 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 144 Seite: 2'
+    pdf: GA 144.pdf
+  - ga: '145'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_145_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 145 Seite: 2 RUDOLF STEINER'
+    pdf: GA 145.pdf
+  - ga: '146'
+    title: Buch:_14_6_Seite:_1_GESELLSCHAFT_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_146
+    titleDisplay: 'Buch: 14 6 Seite: 1 GESELLSCHAFT Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 146'
+    pdf: GA 146.pdf
+  - ga: '147'
+    title: Buch:_147_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_147_Seite:_2
+    titleDisplay: 'Buch: 147 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 147 Seite: 2'
+    pdf: GA 147.pdf
+  - ga: '148'
+    title: Buch:_14_8_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_148_Seite:_2
+    titleDisplay: 'Buch: 14 8 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 148 Seite: 2'
+    pdf: GA 148.pdf
+  - ga: '149'
+    title: Buch:_149_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_149_Seite:_2
+    titleDisplay: 'Buch: 149 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 149 Seite: 2'
+    pdf: GA 149.pdf
+  - ga: '150'
+    title: Buch:_15_0_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_150_Seite:_2
+    titleDisplay: 'Buch: 15 0 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 150 Seite: 2'
+    pdf: GA 150.pdf
+  - ga: '151'
+    title: Buch:_151_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_151_Seite:_2
+    titleDisplay: 'Buch: 151 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 151 Seite: 2'
+    pdf: GA 151.pdf
+  - ga: '152'
+    title: Buch:_15_2_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_152_Seite:_2
+    titleDisplay: 'Buch: 15 2 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 152 Seite: 2'
+    pdf: GA 152.pdf
+  - ga: '153'
+    title: Buch:_15_3_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_153_Seite:_2
+    titleDisplay: 'Buch: 15 3 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 153 Seite: 2'
+    pdf: GA 153.pdf
+  - ga: '154'
+    title: Buch:_15_4_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_154_Seite:_2
+    titleDisplay: 'Buch: 15 4 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 154 Seite: 2'
+    pdf: GA 154.pdf
+  - ga: '155'
+    title: Buch:_15_5_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_155_Seite:_2
+    titleDisplay: 'Buch: 15 5 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 155 Seite: 2'
+    pdf: GA 155.pdf
+  - ga: '156'
+    title: Buch:_15_6_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_156_Seite:_2
+    titleDisplay: 'Buch: 15 6 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 156 Seite: 2'
+    pdf: GA 156.pdf
+  - ga: '157'
+    title: Buch:_157_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:157_Seite:_2
+    titleDisplay: 'Buch: 157 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch:157 Seite: 2'
+    pdf: GA 157.pdf
+  - ga: 157a
+    title: GESELLSCHAFT_Buch:_157a_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_15_7a
+    titleDisplay: 'GESELLSCHAFT Buch: 157a Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 15 7a'
+    pdf: GA 157a.pdf
+  - ga: '158'
+    title: Buch:_15_8_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_158_Seite:_2
+    titleDisplay: 'Buch: 15 8 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 158 Seite: 2'
+    pdf: GA 158.pdf
+  - ga: '159'
+    title: Buch:_15_9_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_159_Seite:_2
+    titleDisplay: 'Buch: 15 9 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 159 Seite: 2'
+    pdf: GA 159.pdf
+  - ga: '161'
+    title: Buch:_161_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_161_Seite:_2
+    titleDisplay: 'Buch: 161 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 161 Seite: 2'
+    pdf: GA 161.pdf
+  - ga: '162'
+    title: Buch:_162_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_162_Seite:_2
+    titleDisplay: 'Buch: 162 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 162 Seite: 2'
+    pdf: GA 162.pdf
+  - ga: '163'
+    title: Buch:_163_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_163_Seite:_2
+    titleDisplay: 'Buch: 163 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 163 Seite: 2'
+    pdf: GA 163.pdf
+  - ga: '164'
+    title: Buch:_164_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_164_Seite:_2
+    titleDisplay: 'Buch: 164 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 164 Seite: 2'
+    pdf: GA 164.pdf
+  - ga: '165'
+    title: Buch:_165_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_165_Seite:_2
+    titleDisplay: 'Buch: 165 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 165 Seite: 2'
+    pdf: GA 165.pdf
+  - ga: '166'
+    title: Buch:_166_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_166_Seite:_2
+    titleDisplay: 'Buch: 166 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 166 Seite: 2'
+    pdf: GA 166.pdf
+  - ga: '167'
+    title: Buch:_167_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_167_Seite:_2
+    titleDisplay: 'Buch: 167 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 167 Seite: 2'
+    pdf: GA 167.pdf
+  - ga: '168'
+    title: Buch:_168_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_168_Seite:_2
+    titleDisplay: 'Buch: 168 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 168 Seite: 2'
+    pdf: GA 168.pdf
+  - ga: '169'
+    title: >-
+      Buch:_169_Seite:_3_Nach_vom_Vortragenden_nicht_durchgesehenen_Nachschriften_herausgegeben_von_der_Rudolf_Steiner-Nachlaßverwaltung_Die_Herausgabe_besorgte_Robert_Friedenthal
+    titleDisplay: >-
+      Buch: 169 Seite: 3 Nach vom Vortragenden nicht durchgesehenen Nachschriften herausgegeben von der Rudolf
+      Steiner-Nachlaßverwaltung Die Herausgabe besorgte Robert Friedenthal
+    pdf: GA 169.pdf
+  - ga: '170'
+    title: Buch:_170_Seite:_1_RUDOLF_STEINER_KOSMISCHE_UND_MENSCHLICHE
+    titleDisplay: 'Buch: 170 Seite: 1 RUDOLF STEINER KOSMISCHE UND MENSCHLICHE'
+    pdf: GA 170.pdf
+  - ga: '171'
+    title: Buch:_171_Seite:_1_RUDOLF_S_T_E_I_N_E_R_KOSMISCHE_UND_MENSCHLICHE_GESCHICHTE_Band_I
+    titleDisplay: 'Buch: 171 Seite: 1 RUDOLF S T E I N E R KOSMISCHE UND MENSCHLICHE GESCHICHTE Band I'
+    pdf: GA 171.pdf
+  - ga: '172'
+    title: Buch:_172_Seite:_1_RUDOLF_STEINER_KOSMISCHE_UND_MENSCHLICHE
+    titleDisplay: 'Buch: 172 Seite: 1 RUDOLF STEINER KOSMISCHE UND MENSCHLICHE'
+    pdf: GA 172.pdf
+  - ga: '173'
+    title: Buch:_173_Seite:_1_RUDOLF_STEINER_KOSMISCHE_UND_MENSCHLICHE
+    titleDisplay: 'Buch: 173 Seite: 1 RUDOLF STEINER KOSMISCHE UND MENSCHLICHE'
+    pdf: GA 173.pdf
+  - ga: '174'
+    title: Buch:_174_Seite:_1_RUDOLF_S_T_E_I_N_E_R_KOSMISCHE_UND_MENSCHLICHE_GESCHICHTE_Band_I
+    titleDisplay: 'Buch: 174 Seite: 1 RUDOLF S T E I N E R KOSMISCHE UND MENSCHLICHE GESCHICHTE Band I'
+    pdf: GA 174.pdf
+  - ga: 174a
+    title: Buch:_174a_Seite:_1_RUDOLF_STEINER_KOSMISCHE_U_N_D_MENSCHLICHE_GESCHICHTE_Band_I
+    titleDisplay: 'Buch: 174a Seite: 1 RUDOLF STEINER KOSMISCHE U N D MENSCHLICHE GESCHICHTE Band I'
+    pdf: GA 174a.pdf
+  - ga: 174b
+    title: Buch:_174b_Seite:_1_R_U_D_O_L_F_STEINER_KOSMISCHE_Band_I
+    titleDisplay: 'Buch: 174b Seite: 1 R U D O L F STEINER KOSMISCHE Band I'
+    pdf: GA 174b.pdf
+  - ga: '175'
+    title: Buch:_17_5_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_175_Seite:_2
+    titleDisplay: 'Buch: 17 5 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 175 Seite: 2'
+    pdf: GA 175.pdf
+  - ga: '176'
+    title: Buch:_176_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_176_Seite:_2
+    titleDisplay: 'Buch: 176 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 176 Seite: 2'
+    pdf: GA 176.pdf
+  - ga: '177'
+    title: Buch:_177_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_Geistige_Wesen_und_ihre_Wirkungen_Band_I
+    titleDisplay: 'Buch: 177 Seite: 1 RUDOLF STEINER GESAMTAUSGABE Geistige Wesen und ihre Wirkungen Band I'
+    pdf: GA 177.pdf
+  - ga: '178'
+    title: Buch:_178_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_Geistige_Wesen_und_ihre_Wirkungen
+    titleDisplay: 'Buch: 178 Seite: 1 RUDOLF STEINER GESAMTAUSGABE Geistige Wesen und ihre Wirkungen'
+    pdf: GA 178.pdf
+  - ga: '179'
+    title: 'Buch:_17_9_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_Geistige_Wesen_und_ihre_Wirkungen_Band_I:'
+    titleDisplay: 'Buch: 17 9 Seite: 1 RUDOLF STEINER GESAMTAUSGABE Geistige Wesen und ihre Wirkungen Band I:'
+    pdf: GA 179.pdf
+  - ga: '180'
+    title: >-
+      Buch:_180_Seite:_1_Zu_den_Veröffentlichungen_aus_dem_Vortragswerk_von_Rudolf_Steiner_Die_Grundlage_der_anthroposophisch_orientierten_Geisteswissenschaft
+    titleDisplay: >-
+      Buch: 180 Seite: 1 Zu den Veröffentlichungen aus dem Vortragswerk von Rudolf Steiner Die Grundlage der
+      anthroposophisch orientierten Geisteswissenschaft
+    pdf: GA 180.pdf
+  - ga: '181'
+    title: Buch:_181_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_181_Seite:_2
+    titleDisplay: 'Buch: 181 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 181 Seite: 2'
+    pdf: GA 181.pdf
+  - ga: '182'
+    title: Buch:_182_Seite:_1_Copyright_Rudolf_Steiner_Nachiass-Verwaitung_Buch:_182_Seite:_2
+    titleDisplay: 'Buch: 182 Seite: 1 Copyright Rudolf Steiner Nachiass-Verwaitung Buch: 182 Seite: 2'
+    pdf: GA 182.pdf
+  - ga: '183'
+    title: Buch:_183_Seite:_1_GESELLSCHAFT_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_183
+    titleDisplay: 'Buch: 183 Seite: 1 GESELLSCHAFT Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 183'
+    pdf: GA 183.pdf
+  - ga: '184'
+    title: Buch:_184_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_184_Seite:_2
+    titleDisplay: 'Buch: 184 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 184 Seite: 2'
+    pdf: GA 184.pdf
+  - ga: '185'
+    title: Buch:_185_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_185_Seite:_2
+    titleDisplay: 'Buch: 185 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 185 Seite: 2'
+    pdf: GA 185.pdf
+  - ga: 185a
+    title: Buch:_185a_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE
+    titleDisplay: 'Buch: 185a Seite: 1 RUDOLF STEINER GESAMTAUSGABE'
+    pdf: GA 185a.pdf
+  - ga: '186'
+    title: Buch:_18_6_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_186_Seite:_2
+    titleDisplay: 'Buch: 18 6 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 186 Seite: 2'
+    pdf: GA 186.pdf
+  - ga: '187'
+    title: Buch:_18_7_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_187_Seite:_2
+    titleDisplay: 'Buch: 18 7 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 187 Seite: 2'
+    pdf: GA 187.pdf
+  - ga: '188'
+    title: Buch:_18_8_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_188_Seite:_2
+    titleDisplay: 'Buch: 18 8 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 188 Seite: 2'
+    pdf: GA 188.pdf
+  - ga: '189'
+    title: Buch:_189_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_189_Seite:_2
+    titleDisplay: 'Buch: 189 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 189 Seite: 2'
+    pdf: GA 189.pdf
+  - ga: '190'
+    title: Buch:_19_0_Seite:_1_RUDOLF_STEINER_DIE_GEISTIGEN_HINTERGRÜNDE_DER_SOZIALEN_FRAGE
+    titleDisplay: 'Buch: 19 0 Seite: 1 RUDOLF STEINER DIE GEISTIGEN HINTERGRÜNDE DER SOZIALEN FRAGE'
+    pdf: GA 190.pdf
+  - ga: '191'
+    title: Seite:_1_RUDOLF_STEINER_DIE_GEISTIGEN_HINTERGRÜNDE_DER_SOZIALEN_FRAGE
+    titleDisplay: 'Seite: 1 RUDOLF STEINER DIE GEISTIGEN HINTERGRÜNDE DER SOZIALEN FRAGE'
+    pdf: GA 191.pdf
+  - ga: '192'
+    title: >-
+      Buch:_19_2_Seite:_1_Xu_den_Veröffentlichungen_aus_dem_Vortragswerk_von_Rudolf_Steiner_Die_Grundlage_der_anthroposophisch_orientierten_Geisteswissenschaft_bilden_die_von_Rudolf_Steiner_(1861-1925)_geschriebenen_und
+    titleDisplay: >-
+      Buch: 19 2 Seite: 1 Xu den Veröffentlichungen aus dem Vortragswerk von Rudolf Steiner Die Grundlage der
+      anthroposophisch orientierten Geisteswissenschaft bilden die von Rudolf Steiner (1861-1925) geschriebenen und
+    pdf: GA 192.pdf
+  - ga: '193'
+    title: Buch:_193_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_193_Seite:_2
+    titleDisplay: 'Buch: 193 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 193 Seite: 2'
+    pdf: GA 193.pdf
+  - ga: '194'
+    title: Buch:_19_4_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_194_Seite:_2
+    titleDisplay: 'Buch: 19 4 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 194 Seite: 2'
+    pdf: GA 194.pdf
+  - ga: '195'
+    title: Buch:_19_5_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_195_Seite:_2
+    titleDisplay: 'Buch: 19 5 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 195 Seite: 2'
+    pdf: GA 195.pdf
+  - ga: '196'
+    title: Buch:_19_6_Seite:_1_GESELLSCHAFT_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_196
+    titleDisplay: 'Buch: 19 6 Seite: 1 GESELLSCHAFT Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 196'
+    pdf: GA 196.pdf
+  - ga: '197'
+    title: Buch:_197_Seite:_1_Copyright_Rudolf_Steiner_Nachiass-Verwaitung_Buch:_197_Seite:_2
+    titleDisplay: 'Buch: 197 Seite: 1 Copyright Rudolf Steiner Nachiass-Verwaitung Buch: 197 Seite: 2'
+    pdf: GA 197.pdf
+  - ga: '198'
+    title: Buch:_198_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_198_Seite:_2
+    titleDisplay: 'Buch: 198 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 198 Seite: 2'
+    pdf: GA 198.pdf
+  - ga: '199'
+    title: >-
+      Buch:_199_Seite:_1_Xu_den_Veröffentlichungen_aus_dem_Vortragswerk_von_Rudolf_Steiner_Die_Grundlage_der_anthroposophisch_orientierten_Geisteswissenschaft_bilden_die_von_Rudolf_Steiner_(1861-1925)_geschriebenen
+    titleDisplay: >-
+      Buch: 199 Seite: 1 Xu den Veröffentlichungen aus dem Vortragswerk von Rudolf Steiner Die Grundlage der
+      anthroposophisch orientierten Geisteswissenschaft bilden die von Rudolf Steiner (1861-1925) geschriebenen
+    pdf: GA 199.pdf
+  - ga: '200'
+    title: Buch:_2_00_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE
+    titleDisplay: 'Buch: 2 00 Seite: 1 RUDOLF STEINER GESAMTAUSGABE'
+    pdf: GA 200.pdf
+  - ga: '201'
+    title: Buch:_2_01_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_201_Seite:_2
+    titleDisplay: 'Buch: 2 01 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 201 Seite: 2'
+    pdf: GA 201.pdf
+  - ga: 201t
+    title: Buch:_201t_Seite:_0_RUDOLF_STEINER_TAFELZEICHNUNGEN_Beilage_zum_Band
+    titleDisplay: 'Buch: 201t Seite: 0 RUDOLF STEINER TAFELZEICHNUNGEN Beilage zum Band'
+    pdf: GA 201t.pdf
+  - ga: '202'
+    title: Buch:_2_02_Seite:_1_DER_MENSCH_IN_SEINEM_ZUSAMMENHANG_MIT_DEM_KOSMOS_Band_I
+    titleDisplay: 'Buch: 2 02 Seite: 1 DER MENSCH IN SEINEM ZUSAMMENHANG MIT DEM KOSMOS Band I'
+    pdf: GA 202.pdf
+  - ga: '203'
+    title: Buch:_2_03_Seite:_1_DER_MENSCH_IN_SEINEM_ZUSAMMENHANG_MIT_DEM_KOSMOS_Band_I
+    titleDisplay: 'Buch: 2 03 Seite: 1 DER MENSCH IN SEINEM ZUSAMMENHANG MIT DEM KOSMOS Band I'
+    pdf: GA 203.pdf
+  - ga: '204'
+    title: 'Buch:_2_04_Seite:_1_DER_MENSCH_IN_SEINEM_ZUSAMMENHANG_MIT_DEM_KOSMOS_Band_I:'
+    titleDisplay: 'Buch: 2 04 Seite: 1 DER MENSCH IN SEINEM ZUSAMMENHANG MIT DEM KOSMOS Band I:'
+    pdf: GA 204.pdf
+  - ga: '205'
+    title: Buch:_2_05_Seite:_1_DER_MENSCH_IN_SEINEM_ZUSAMMENHANG_MIT_DEM_KOSMOS_Band_I
+    titleDisplay: 'Buch: 2 05 Seite: 1 DER MENSCH IN SEINEM ZUSAMMENHANG MIT DEM KOSMOS Band I'
+    pdf: GA 205.pdf
+  - ga: '206'
+    title: Buch:_2_06_Seite:_1_DER_MENSCH_Band_I_IN_SEINEM_ZUSAMMENHANG
+    titleDisplay: 'Buch: 2 06 Seite: 1 DER MENSCH Band I IN SEINEM ZUSAMMENHANG'
+    pdf: GA 206.pdf
+  - ga: '207'
+    title: Buch:_2_07_Seite:_1_DER_M_E_N_S_C_H_IN_SEINEM_Z_U_S_A_M_M_E_N_H_A_N_G_M_I_T_DEM_K_O_S_M_O_S_Band_I
+    titleDisplay: 'Buch: 2 07 Seite: 1 DER M E N S C H IN SEINEM Z U S A M M E N H A N G M I T DEM K O S M O S Band I'
+    pdf: GA 207.pdf
+  - ga: '208'
+    title: Buch:_2_08_Seite:_1_DER_MENSCH_IN_SEINEM_ZUSAMMENHANG_MIT_DEM_KOSMOS_Band_I
+    titleDisplay: 'Buch: 2 08 Seite: 1 DER MENSCH IN SEINEM ZUSAMMENHANG MIT DEM KOSMOS Band I'
+    pdf: GA 208.pdf
+  - ga: '209'
+    title: Buch:_2_09_Seite:_1_DER_MENSCH_IN_SEINEM_Z_U_S_A_M_M_E_N_H_A_N_G_MIT_DEM_KOSMOS_Band_I
+    titleDisplay: 'Buch: 2 09 Seite: 1 DER MENSCH IN SEINEM Z U S A M M E N H A N G MIT DEM KOSMOS Band I'
+    pdf: GA 209.pdf
+  - ga: '210'
+    title: Buch:_210_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_210_Seite:_2
+    titleDisplay: 'Buch: 210 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 210 Seite: 2'
+    pdf: GA 210.pdf
+  - ga: '211'
+    title: Buch:_211_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_211_Seite:_2
+    titleDisplay: 'Buch: 211 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 211 Seite: 2'
+    pdf: GA 211.pdf
+  - ga: '212'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_212_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 212 Seite: 2 RUDOLF STEINER'
+    pdf: GA 212.pdf
+  - ga: '213'
+    title: Buch:_213_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_213_Seite:_2
+    titleDisplay: 'Buch: 213 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 213 Seite: 2'
+    pdf: GA 213.pdf
+  - ga: '214'
+    title: Buch:_214_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_214_Seite:_2
+    titleDisplay: 'Buch: 214 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 214 Seite: 2'
+    pdf: GA 214.pdf
+  - ga: '215'
+    title: Buch:_215_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_215_Seite:_2
+    titleDisplay: 'Buch: 215 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 215 Seite: 2'
+    pdf: GA 215.pdf
+  - ga: '216'
+    title: Buch:_216_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_216_Seite:_2
+    titleDisplay: 'Buch: 216 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 216 Seite: 2'
+    pdf: GA 216.pdf
+  - ga: '217'
+    title: Buch:_217_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_217_Seite:_2
+    titleDisplay: 'Buch: 217 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 217 Seite: 2'
+    pdf: GA 217.pdf
+  - ga: 217a
+    title: Buch:_217a_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_217a_Seite:_2
+    titleDisplay: 'Buch: 217a Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 217a Seite: 2'
+    pdf: GA 217a.pdf
+  - ga: '218'
+    title: Buch:_218_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_218_Seite:_2
+    titleDisplay: 'Buch: 218 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 218 Seite: 2'
+    pdf: GA 218.pdf
+  - ga: '219'
+    title: Buch:_219_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_219_Seite:_2
+    titleDisplay: 'Buch: 219 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 219 Seite: 2'
+    pdf: GA 219.pdf
+  - ga: '220'
+    title: Buch:_2_20_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_220_Seite:_2
+    titleDisplay: 'Buch: 2 20 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 220 Seite: 2'
+    pdf: GA 220.pdf
+  - ga: '221'
+    title: Buch:_221_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_221_Seite:_2
+    titleDisplay: 'Buch: 221 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 221 Seite: 2'
+    pdf: GA 221.pdf
+  - ga: '222'
+    title: Buch:_2_22_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_222_Seite:_2
+    titleDisplay: 'Buch: 2 22 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 222 Seite: 2'
+    pdf: GA 222.pdf
+  - ga: '223'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_223_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 223 Seite: 2 RUDOLF STEINER'
+    pdf: GA 223.pdf
+  - ga: '224'
+    title: Buch:_2_24_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_224_Seite:_2
+    titleDisplay: 'Buch: 2 24 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 224 Seite: 2'
+    pdf: GA 224.pdf
+  - ga: '225'
+    title: Buch:_2_25_Seite:_1_GESELLSCHAFT_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_225
+    titleDisplay: 'Buch: 2 25 Seite: 1 GESELLSCHAFT Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 225'
+    pdf: GA 225.pdf
+  - ga: '226'
+    title: Buch:_2_26_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_226_Seite:_2
+    titleDisplay: 'Buch: 2 26 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 226 Seite: 2'
+    pdf: GA 226.pdf
+  - ga: '227'
+    title: Buch:_2_27_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_227_Seite:_2
+    titleDisplay: 'Buch: 2 27 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 227 Seite: 2'
+    pdf: GA 227.pdf
+  - ga: '228'
+    title: Buch:_2_28_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_228_Seite:_2
+    titleDisplay: 'Buch: 2 28 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 228 Seite: 2'
+    pdf: GA 228.pdf
+  - ga: '229'
+    title: Buch:_2_29_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_229_Seite:_2
+    titleDisplay: 'Buch: 2 29 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 229 Seite: 2'
+    pdf: GA 229.pdf
+  - ga: '230'
+    title: Buch:_2_30_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_230_Seite:_2
+    titleDisplay: 'Buch: 2 30 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 230 Seite: 2'
+    pdf: GA 230.pdf
+  - ga: '231'
+    title: Buch:_2_31_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_231_Seite:_2
+    titleDisplay: 'Buch: 2 31 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 231 Seite: 2'
+    pdf: GA 231.pdf
+  - ga: '232'
+    title: Buch:_2_32_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_232_Seite:_2
+    titleDisplay: 'Buch: 2 32 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 232 Seite: 2'
+    pdf: GA 232.pdf
+  - ga: '233'
+    title: Buch:_2_33_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_233_Seite:_2
+    titleDisplay: 'Buch: 2 33 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 233 Seite: 2'
+    pdf: GA 233.pdf
+  - ga: 233a
+    title: Buch:_2_33a_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_233a_Seite:_2
+    titleDisplay: 'Buch: 2 33a Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 233a Seite: 2'
+    pdf: GA 233a.pdf
+  - ga: '234'
+    title: Buch:_2_34_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_234_Seite:_2
+    titleDisplay: 'Buch: 2 34 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 234 Seite: 2'
+    pdf: GA 234.pdf
+  - ga: '235'
+    title: Buch:_2_35_Seite:_1_RUDOLF_STEINER_Esoterische_Betrachtungen_karmischer_Zusammenhänge_aus_dem_Jahre_1924
+    titleDisplay: 'Buch: 2 35 Seite: 1 RUDOLF STEINER Esoterische Betrachtungen karmischer Zusammenhänge aus dem Jahre 1924'
+    pdf: GA 235.pdf
+  - ga: '236'
+    title: Buch:_2_36_Seite:_1_RUDOLF_STEINER_Esoterische_Betrachtungen_karmischer_Zusammenhänge_aus_dem_Jahre_1924
+    titleDisplay: 'Buch: 2 36 Seite: 1 RUDOLF STEINER Esoterische Betrachtungen karmischer Zusammenhänge aus dem Jahre 1924'
+    pdf: GA 236.pdf
+  - ga: '237'
+    title: Buch:_2_37_Seite:_1_RUDOLF_STEINER_Esoterische_Betrachtungen_karmischer_Zusammenhänge_aus_dem_Jahre_1924
+    titleDisplay: 'Buch: 2 37 Seite: 1 RUDOLF STEINER Esoterische Betrachtungen karmischer Zusammenhänge aus dem Jahre 1924'
+    pdf: GA 237.pdf
+  - ga: '238'
+    title: Buch:_2_38_Seite:_1_GESELLSCHAFT_RUDOLF_STEINER_Esoterische_Betrachtungen_karmischer_Zusammenhänge
+    titleDisplay: 'Buch: 2 38 Seite: 1 GESELLSCHAFT RUDOLF STEINER Esoterische Betrachtungen karmischer Zusammenhänge'
+    pdf: GA 238.pdf
+  - ga: '239'
+    title: Buch:_2_39_Seite:_1_RUDOLF_STEINER_Esoterische_Betrachtungen_karmischer_Zusammenhänge_aus_dem_Jahre_1924
+    titleDisplay: 'Buch: 2 39 Seite: 1 RUDOLF STEINER Esoterische Betrachtungen karmischer Zusammenhänge aus dem Jahre 1924'
+    pdf: GA 239.pdf
+  - ga: '240'
+    title: Buch:_2_4_0_Seite:_1_RUDOLF_STEINER_Esoterische_Betrachtungen_karmischer_Zusammenhänge_aus_dem_Jahre_1924
+    titleDisplay: 'Buch: 2 4 0 Seite: 1 RUDOLF STEINER Esoterische Betrachtungen karmischer Zusammenhänge aus dem Jahre 1924'
+    pdf: GA 240.pdf
+  - ga: '243'
+    title: Buch:_2_4_3_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_243_Seite:_2
+    titleDisplay: 'Buch: 2 4 3 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 243 Seite: 2'
+    pdf: GA 243.pdf
+  - ga: '244'
+    title: Fragenbeantwortungen_und_Interviews_Schriftliche_Fragenbeantwortungen_1892-1924
+    titleDisplay: Band GA 244 RUDOLF STEINER Fragenbeantwortungen und Interviews Schriftliche Fragenbeantwortungen 1892-1924
+    pdf: GA 244.pdf
+  - ga: '246'
+    title: Nachträge_zur
+    titleDisplay: Band GA 246 RUDOLF STEINER Nachträge zur
+    pdf: GA 246.pdf
+  - ga: '250'
+    title: VERLAG_GA_250_-_Zur_Geschichte_der_Deutschen_Sektion_der_Theosophischen_rSöCöllcrhaft_1009.1019
+    titleDisplay: >-
+      Band GA 250 RUDOLF STEINER VERLAG GA 250 - Zur Geschichte der Deutschen Sektion der Theosophischen rSöCöllcrhaft
+      1009.1019
+    pdf: GA 250.pdf
+  - ga: '251'
+    title: Zur_Geschichte_der_Anthroposophischen_Gesellschaft_1913-1922
+    titleDisplay: Band GA 251 RUDOLF STEINER Zur Geschichte der Anthroposophischen Gesellschaft 1913-1922
+    pdf: GA 251.pdf
+  - ga: '253'
+    title: Buch:_2_5_3_Seite:_1_RUDOLF_STEINER_DAS_LEBENDIGE_WESEN_DER_ANTHROPOSOPHIE_UND_SEINE_PFLEGE
+    titleDisplay: 'Buch: 2 5 3 Seite: 1 RUDOLF STEINER DAS LEBENDIGE WESEN DER ANTHROPOSOPHIE UND SEINE PFLEGE'
+    pdf: GA 253.pdf
+  - ga: '254'
+    title: Buch:_2_5_4_Seite:_1_RUDOLF_STEINER_DAS_LEBENDIGE_WESEN_DER_ANTHROPOSOPHIE_UND_SEINE_PFLEGE
+    titleDisplay: 'Buch: 2 5 4 Seite: 1 RUDOLF STEINER DAS LEBENDIGE WESEN DER ANTHROPOSOPHIE UND SEINE PFLEGE'
+    pdf: GA 254.pdf
+  - ga: 255b
+    title: Buch:_2_5_5b_Seite:_1_R_U_D_O_L_F_STEINER_GESAMTAUSGABE
+    titleDisplay: 'Buch: 2 5 5b Seite: 1 R U D O L F STEINER GESAMTAUSGABE'
+    pdf: GA 255b.pdf
+  - ga: '257'
+    title: >-
+      Seite:_1_RUDOLF_STEINER_DAS_L_E_B_E_N_D_I_G_E_WESEN_DER_A_N_T_H_R_O_P_O_S_O_P_H_I_E_UND_SEINE_PFLEGE_Bisher_erschienene_Bände_der_Schriften_und_Vorträge_zur_Geschichte
+    titleDisplay: >-
+      Seite: 1 RUDOLF STEINER DAS L E B E N D I G E WESEN DER A N T H R O P O S O P H I E UND SEINE PFLEGE Bisher
+      erschienene Bände der Schriften und Vorträge zur Geschichte
+    pdf: GA 257.pdf
+  - ga: '258'
+    title: Buch:_258_Seite:_1_RUDOLF_STEINER_DAS_LEBENDIGE_WESEN_DER_ANTHROPOSOPHIE_U_N_D_SEINE_PFLEGE
+    titleDisplay: 'Buch: 258 Seite: 1 RUDOLF STEINER DAS LEBENDIGE WESEN DER ANTHROPOSOPHIE U N D SEINE PFLEGE'
+    pdf: GA 258.pdf
+  - ga: '259'
+    title: Buch:_2_5_9_Seite:_1_RUDOLF_STEINER_DAS_LEBENDIGE_WESEN_DER_ANTHROPOSOPHIE_UND_SEINE_PFLEGE
+    titleDisplay: 'Buch: 2 5 9 Seite: 1 RUDOLF STEINER DAS LEBENDIGE WESEN DER ANTHROPOSOPHIE UND SEINE PFLEGE'
+    pdf: GA 259.pdf
+  - ga: '260'
+    title: >-
+      Seite:_1_RUDOLF_STEINER_DAS_LEBENDIGE_WESEN_DER_ANTHROPOSOPHIE_UND_SEINE_PFLEGE_Bisher_erschienene_Bände_der_Schriften_und_Vorträge_zur_Geschichte
+    titleDisplay: >-
+      Seite: 1 RUDOLF STEINER DAS LEBENDIGE WESEN DER ANTHROPOSOPHIE UND SEINE PFLEGE Bisher erschienene Bände der
+      Schriften und Vorträge zur Geschichte
+    pdf: GA 260.pdf
+  - ga: 260a
+    title: >-
+      Seite:_1_R_U_D_O_L_F_STEINER_DAS_LEBENDIGE_WESEN_DER_ANTHROPOSOPHIE_UND_SEINE_PFLEGE_Bisher_erschienene_Bände_der_Schriften_und_Vorträge_zur_Geschichte
+    titleDisplay: >-
+      Seite: 1 R U D O L F STEINER DAS LEBENDIGE WESEN DER ANTHROPOSOPHIE UND SEINE PFLEGE Bisher erschienene Bände der
+      Schriften und Vorträge zur Geschichte
+    pdf: GA 260a.pdf
+  - ga: '261'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_261_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 261 Seite: 2 RUDOLF STEINER'
+    pdf: GA 261.pdf
+  - ga: '262'
+    title: Buch:_262_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_262_Seite:_2
+    titleDisplay: 'Buch: 262 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 262 Seite: 2'
+    pdf: GA 262.pdf
+  - ga: 263a
+    title: >-
+      Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_DAS_LEBENDIGE_WESEN_DER_ANTHROPOSOPHIE_UND_SEINE_PFLEGE_Bis_1990_erschienene_Bände_der_Schriften_und_Vorträge_zur_Geschichte
+    titleDisplay: >-
+      Seite: 1 RUDOLF STEINER GESAMTAUSGABE DAS LEBENDIGE WESEN DER ANTHROPOSOPHIE UND SEINE PFLEGE Bis 1990 erschienene
+      Bände der Schriften und Vorträge zur Geschichte
+    pdf: GA 263a.pdf
+  - ga: '264'
+    title: >-
+      Buch:_2_64_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_VERÖFFENTLICHUNGEN_ZUR_GESCHICHTE_UND_AUS_DEN_INHALTEN_DER_ESOTERISCHEN_LEHRTÄTIGKEIT
+    titleDisplay: >-
+      Buch: 2 64 Seite: 1 RUDOLF STEINER GESAMTAUSGABE VERÖFFENTLICHUNGEN ZUR GESCHICHTE UND AUS DEN INHALTEN DER
+      ESOTERISCHEN LEHRTÄTIGKEIT
+    pdf: GA 264.pdf
+  - ga: '265'
+    title: >-
+      Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_VERÖFFENTLICHUNGEN_ZUR_GESCHICHTE_UND_AUS_DEN_INHALTEN_DER_ESOTERISCHEN_SCHULE_1904_BIS_1914
+    titleDisplay: >-
+      Seite: 1 RUDOLF STEINER GESAMTAUSGABE VERÖFFENTLICHUNGEN ZUR GESCHICHTE UND AUS DEN INHALTEN DER ESOTERISCHEN
+      SCHULE 1904 BIS 1914
+    pdf: GA 265.pdf
+  - ga: 266a
+    title: >-
+      Buch:_2_66a_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_VERÖFFENTLICHUNGEN_ZUR_GESCHICHTE_UND_AUS_DEN_INHALTEN_DER_ESOTERISCHEN_SCHULE
+    titleDisplay: >-
+      Buch: 2 66a Seite: 1 RUDOLF STEINER GESAMTAUSGABE VERÖFFENTLICHUNGEN ZUR GESCHICHTE UND AUS DEN INHALTEN DER
+      ESOTERISCHEN SCHULE
+    pdf: GA 266a.pdf
+  - ga: 266b
+    title: >-
+      Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_VERÖFFENTLICHUNGEN_ZUR_GESCHICHTE_UND_AUS_DEN_INHALTEN_DER_ESOTERISCHEN_LEHRTÄTIGKEIT_Bisher_erschienene_Bände
+    titleDisplay: >-
+      Seite: 1 RUDOLF STEINER GESAMTAUSGABE VERÖFFENTLICHUNGEN ZUR GESCHICHTE UND AUS DEN INHALTEN DER ESOTERISCHEN
+      LEHRTÄTIGKEIT Bisher erschienene Bände
+    pdf: GA 266b.pdf
+  - ga: 266c
+    title: >-
+      Buch:_2_66c_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_VERÖFFENTLICHUNGEN_ZUR_GESCHICHTE_UND_AUS_DEN_INHALTEN_DER_ESOTERISCHEN_LEHRTÄTIGKEIT
+    titleDisplay: >-
+      Buch: 2 66c Seite: 1 RUDOLF STEINER GESAMTAUSGABE VERÖFFENTLICHUNGEN ZUR GESCHICHTE UND AUS DEN INHALTEN DER
+      ESOTERISCHEN LEHRTÄTIGKEIT
+    pdf: GA 266c.pdf
+  - ga: '267'
+    title: Buch:_2_67_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_VERÖFFENTLICHUNGEN_GESCHICHTE
+    titleDisplay: 'Buch: 2 67 Seite: 1 RUDOLF STEINER GESAMTAUSGABE VERÖFFENTLICHUNGEN GESCHICHTE'
+    pdf: GA 267.pdf
+  - ga: '268'
+    title: Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_VERÖFFENTLICHUNGEN_ZUR_GESCHICHTE_UND_AUS
+    titleDisplay: 'Seite: 1 RUDOLF STEINER GESAMTAUSGABE VERÖFFENTLICHUNGEN ZUR GESCHICHTE UND AUS'
+    pdf: GA 268.pdf
+  - ga: '269'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_269_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 269 Seite: 2 RUDOLF STEINER'
+    pdf: GA 269.pdf
+  - ga: 270a
+    title: Buch:_270a_Seite:_0a_Übersicht_über_die_Klassenstunden_in_vier_Bänden_ERSTER_UND_ZWEITER_BAND_Neunzehn_Stunden,
+    titleDisplay: 'Buch: 270a Seite: 0a Übersicht über die Klassenstunden in vier Bänden ERSTER UND ZWEITER BAND Neunzehn Stunden,'
+    pdf: GA 270a.pdf
+  - ga: 270b
+    title: Buch:_270b_Seite:_1_Übersicht_über_die_Klassenstunden_in_vier_Bänden_ERSTER_U_N_D_ZWEITER_BAND_Neunzehn_Stunden,
+    titleDisplay: 'Buch: 270b Seite: 1 Übersicht über die Klassenstunden in vier Bänden ERSTER U N D ZWEITER BAND Neunzehn Stunden,'
+    pdf: GA 270b.pdf
+  - ga: 270c
+    title: Buch:_270c_Seite:_1_Übersicht_über_die_Klassenstunden_in_vier_Bänden_ERSTER_U_N_D_ZWEITER_BAND_Neunzehn_Stunden,
+    titleDisplay: 'Buch: 270c Seite: 1 Übersicht über die Klassenstunden in vier Bänden ERSTER U N D ZWEITER BAND Neunzehn Stunden,'
+    pdf: GA 270c.pdf
+  - ga: '271'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_271_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 271 Seite: 2 RUDOLF STEINER'
+    pdf: GA 271.pdf
+  - ga: '272'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_272_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 272 Seite: 2 RUDOLF STEINER'
+    pdf: GA 272.pdf
+  - ga: '273'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_273_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 273 Seite: 2 RUDOLF STEINER'
+    pdf: GA 273.pdf
+  - ga: '274'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_274_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 274 Seite: 2 RUDOLF STEINER'
+    pdf: GA 274.pdf
+  - ga: '275'
+    title: Buch:_2_75_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_275_Seite:_2
+    titleDisplay: 'Buch: 2 75 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 275 Seite: 2'
+    pdf: GA 275.pdf
+  - ga: '276'
+    title: >-
+      Seite:_1_Die_Wiedergaben_der_Original-Wandtafelzeichnungen_Rudolf_Steiners_zu_den_Vorträgen_in_diesem_Band_(vgl._die_Randvermerke_und_den_Text_am_Beginn_der_Hinweise)_sind_innerhalb_der_Gesamtausgabe_erschienen_in_der_Reihe:
+    titleDisplay: >-
+      Seite: 1 Die Wiedergaben der Original-Wandtafelzeichnungen Rudolf Steiners zu den Vorträgen in diesem Band (vgl.
+      die Randvermerke und den Text am Beginn der Hinweise) sind innerhalb der Gesamtausgabe erschienen in der Reihe:
+    pdf: GA 276.pdf
+  - ga: '277'
+    title: >-
+      Seite:_1_EURYTHMIE_Werke_Rudolf_Steiners_in_der_Gesamtausgabe_Eurythmie_—_Die_Offenbarung_der_sprechenden_Seele_Ansprachen_zu_Eurythmie-Aufführungen_1918-1924
+    titleDisplay: >-
+      Seite: 1 EURYTHMIE Werke Rudolf Steiners in der Gesamtausgabe Eurythmie — Die Offenbarung der sprechenden Seele
+      Ansprachen zu Eurythmie-Aufführungen 1918-1924
+    pdf: GA 277.pdf
+  - ga: 277a
+    title: Die_Entstehung_und_Entwicklung_der_Eurythmie_1912-1918_Notizbucheintragungen,_Ansprachen_und
+    titleDisplay: >-
+      Band GA 277a RUDOLF STEINER Die Entstehung und Entwicklung der Eurythmie 1912-1918 Notizbucheintragungen,
+      Ansprachen und
+    pdf: GA 277a.pdf
+  - ga: 277b
+    title: Die_Entstehung_und_Entwicklung_der_Eurythmie_1918-1920_Ansprachen,_Notizbucheintragungen,
+    titleDisplay: >-
+      Band GA 277b RUDOLF STEINER Die Entstehung und Entwicklung der Eurythmie 1918-1920 Ansprachen,
+      Notizbucheintragungen,
+    pdf: GA 277b.pdf
+  - ga: 277c
+    title: Die_Entstehung_und_Entwicklung_der_Eurythmie_1920-1922_Ansprachen,_Notizbucheintragungen,
+    titleDisplay: >-
+      Band GA 277c RUDOLF STEINER Die Entstehung und Entwicklung der Eurythmie 1920-1922 Ansprachen,
+      Notizbucheintragungen,
+    pdf: GA 277c.pdf
+  - ga: 277d
+    title: Die_Entstehung_und_Entwicklung_der_Eurythmie_1923-1925_Ansprachen_und_eine_Konferenz,_Notizbucheintragungen,
+    titleDisplay: >-
+      Band GA 277d RUDOLF STEINER Die Entstehung und Entwicklung der Eurythmie 1923-1925 Ansprachen und eine Konferenz,
+      Notizbucheintragungen,
+    pdf: GA 277d.pdf
+  - ga: '278'
+    title: >-
+      Seite:_1_•_Die_Wiedergaben_der_Original-Wandtafelzeichnungen_Rudolf_Steiners_zu_den_Vorträgen_in_diesem_Band_(vgl._die_Randvermerke_und_den_Text_am_Beginn_der_Hinweise)_sind_innerhalb_der_Gesamtausgabe_erschienen_in_der_Reihe:
+    titleDisplay: >-
+      Seite: 1 • Die Wiedergaben der Original-Wandtafelzeichnungen Rudolf Steiners zu den Vorträgen in diesem Band (vgl.
+      die Randvermerke und den Text am Beginn der Hinweise) sind innerhalb der Gesamtausgabe erschienen in der Reihe:
+    pdf: GA 278.pdf
+  - ga: '279'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_279_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 279 Seite: 2 RUDOLF STEINER'
+    pdf: GA 279.pdf
+  - ga: '280'
+    title: Buch:280_Seite:_1_SPRACHGESTALTUNG_UND_DRAMATISCHE_KUNST
+    titleDisplay: 'Buch:280 Seite: 1 SPRACHGESTALTUNG UND DRAMATISCHE KUNST'
+    pdf: GA 280.pdf
+  - ga: '281'
+    title: Seite:_1_SPRACHGESTALTUNG_UND_DRAMATISCHE_KUNST
+    titleDisplay: 'Seite: 1 SPRACHGESTALTUNG UND DRAMATISCHE KUNST'
+    pdf: GA 281.pdf
+  - ga: '282'
+    title: Buch:_2_82_Seite:_1_SPRACHGESTALTUNG_UND_DRAMATISCHE_KUNST_Methodik_und_Wesen_der_Sprachgestaltung
+    titleDisplay: 'Buch: 2 82 Seite: 1 SPRACHGESTALTUNG UND DRAMATISCHE KUNST Methodik und Wesen der Sprachgestaltung'
+    pdf: GA 282.pdf
+  - ga: '283'
+    title: Buch:_2_83_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_2_8_3_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 2 83 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 2 8 3 Seite: 2 RUDOLF STEINER'
+    pdf: GA 283.pdf
+  - ga: '284'
+    title: Buch:_284_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_284_Seite:_2
+    titleDisplay: 'Buch: 284 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 284 Seite: 2'
+    pdf: GA 284.pdf
+  - ga: '286'
+    title: Buch:_286_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_286_Seite:_2
+    titleDisplay: 'Buch: 286 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 286 Seite: 2'
+    pdf: GA 286.pdf
+  - ga: '287'
+    title: Buch:_287_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_287_Seite:_2
+    titleDisplay: 'Buch: 287 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 287 Seite: 2'
+    pdf: GA 287.pdf
+  - ga: '291'
+    title: Buch:_2_91_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_2_91_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 2 91 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 2 91 Seite: 2 RUDOLF STEINER'
+    pdf: GA 291.pdf
+  - ga: 291a
+    title: >-
+      A_b_b_i_Id_u_n_ge_n,_11_a_ndsc_h_ri_fte_n_w_i_ed_erga_ben_und_Dokumente_1889-1925_Herausgegeben_und_kommentiert_von_I_leih_Wicsberger_und_I_leinrich_O._Proskauer
+    titleDisplay: >-
+      A b b i Id u n ge n, 11 a ndsc h ri fte n w i ed erga ben und Dokumente 1889-1925 Herausgegeben und kommentiert
+      von I leih Wicsberger und I leinrich O. Proskauer
+    pdf: GA 291a.pdf
+  - ga: '292'
+    title: Buch:_2_92_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_2_92_Seite:_2
+    titleDisplay: 'Buch: 2 92 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 2 92 Seite: 2'
+    pdf: GA 292.pdf
+  - ga: '293'
+    title: Seite:_1_RUDOLF_STEINER_Vorträge_und_Kurse,_gehalten_für_die_Lehrer_der_Freien_Waldorfschule_in_Stuttgart
+    titleDisplay: 'Seite: 1 RUDOLF STEINER Vorträge und Kurse, gehalten für die Lehrer der Freien Waldorfschule in Stuttgart'
+    pdf: GA 293.pdf
+  - ga: '294'
+    title: Buch:_2_94_ERZIEHUNG_Seite:_1_Zu_den_Veröffentlichungen_aus_dem_Vortragswerk_von_Rudolf_Steiner
+    titleDisplay: 'Buch: 2 94 ERZIEHUNG Seite: 1 Zu den Veröffentlichungen aus dem Vortragswerk von Rudolf Steiner'
+    pdf: GA 294.pdf
+  - ga: '295'
+    title: >-
+      Buch:_2_95_Seite:_1_RUDOLF_STEINER_Vorträge_und_Kurse,_gehalten_für_die_Lehrer_der_Freien_Waldorf_schule_in_Stuttgart
+    titleDisplay: >-
+      Buch: 2 95 Seite: 1 RUDOLF STEINER Vorträge und Kurse, gehalten für die Lehrer der Freien Waldorf schule in
+      Stuttgart
+    pdf: GA 295.pdf
+  - ga: '296'
+    title: Buch:_2_96_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_2_9_6_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 2 96 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 2 9 6 Seite: 2 RUDOLF STEINER'
+    pdf: GA 296.pdf
+  - ga: '297'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_297_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 297 Seite: 2 RUDOLF STEINER'
+    pdf: GA 297.pdf
+  - ga: 297a
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_297a_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 297a Seite: 2 RUDOLF STEINER'
+    pdf: GA 297a.pdf
+  - ga: '298'
+    title: Buch:_298_Seite:_1_Aufnahme;_O._Rietmann,_St,_Gallen,_1915_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_2_98
+    titleDisplay: 'Buch: 298 Seite: 1 Aufnahme; O. Rietmann, St, Gallen, 1915 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 2 98'
+    pdf: GA 298.pdf
+  - ga: '299'
+    title: >-
+      Buch:_299_Seite:_1_RUDOLF_STEINER_Vorträge_und_Kurse,_gehalten_für_die_Lehrer_der_Freien_Waldorf_schule_in_Stuttgart
+    titleDisplay: >-
+      Buch: 299 Seite: 1 RUDOLF STEINER Vorträge und Kurse, gehalten für die Lehrer der Freien Waldorf schule in
+      Stuttgart
+    pdf: GA 299.pdf
+  - ga: 300a
+    title: >-
+      Seite:_1_Veröffentlichung_aus_dem_Archiv_der_Rudolf_Steiner-Nachlaßverwaltung,_Dornach_als_Studienmaterial_für_die_Lehrer_an_Waldorfschulen_Aus_verschiedenen,_von_Rudolf_Steiner_nicht_durchgesehenen_unvollständigen_Nachschriften_und_handschriftlichen_Notizen_der_Teilnehmer_zusammengestellt_und
+    titleDisplay: >-
+      Seite: 1 Veröffentlichung aus dem Archiv der Rudolf Steiner-Nachlaßverwaltung, Dornach als Studienmaterial für die
+      Lehrer an Waldorfschulen Aus verschiedenen, von Rudolf Steiner nicht durchgesehenen unvollständigen Nachschriften
+      und handschriftlichen Notizen der Teilnehmer zusammengestellt und
+    pdf: GA 300a.pdf
+  - ga: 300b
+    title: >-
+      Buch:_3_00b_Seite:_1_Veröffentlichung_aus_dem_Archiv_der_Rudolf_Steiner-Nachlaß_Verwaltung_als_Studienmaterial_für_die_Lehrer_an_Waldorfschulen_Übersicht_über_die_Konferenzen_in_drei_Bänden
+    titleDisplay: >-
+      Buch: 3 00b Seite: 1 Veröffentlichung aus dem Archiv der Rudolf Steiner-Nachlaß Verwaltung als Studienmaterial für
+      die Lehrer an Waldorfschulen Übersicht über die Konferenzen in drei Bänden
+    pdf: GA 300b.pdf
+  - ga: 300c
+    title: >-
+      Buch:_3_0_0_c_Seite:_1_Veröffentlichung_aus_dem_Archiv_der_Rudolf_Steiner-Nachlaß_Verwaltung_als_Studienmaterial_für_die_Lehrer_an_Waldorfschulen_Übersicht_über_die_Konferenzen_in_drei_Bänden
+    titleDisplay: >-
+      Buch: 3 0 0 c Seite: 1 Veröffentlichung aus dem Archiv der Rudolf Steiner-Nachlaß Verwaltung als Studienmaterial
+      für die Lehrer an Waldorfschulen Übersicht über die Konferenzen in drei Bänden
+    pdf: GA 300c.pdf
+  - ga: '301'
+    title: >-
+      Seite:_1_Zu_den_Veröffentlichungen_aus_dem_Vortragswerk_von_Rudolf_Steiner_Die_Grundlage_der_anthroposophisch_orientierten_Geisteswissenschaft_bilden_die_von_Rudolf_Steiner_(1861_-1925)_geschriebenen_und_veröffentlichten_Werke._Daneben_hielt_er_in_den_Jahren_1900_bis
+    titleDisplay: >-
+      Seite: 1 Zu den Veröffentlichungen aus dem Vortragswerk von Rudolf Steiner Die Grundlage der anthroposophisch
+      orientierten Geisteswissenschaft bilden die von Rudolf Steiner (1861 -1925) geschriebenen und veröffentlichten
+      Werke. Daneben hielt er in den Jahren 1900 bis
+    pdf: GA 301.pdf
+  - ga: '302'
+    title: >-
+      Buch:_3_02_Seite:_1_RUDOLF_STEINER_Vorträge_und_Kurse,_gehalten_für_die_Lehrer_der_Freien_Waldorf_schule_in_Stuttgart
+    titleDisplay: >-
+      Buch: 3 02 Seite: 1 RUDOLF STEINER Vorträge und Kurse, gehalten für die Lehrer der Freien Waldorf schule in
+      Stuttgart
+    pdf: GA 302.pdf
+  - ga: 302a
+    title: Seite:_1_RUDOLF_STEINER_Vorträge_und_Kurse,_gehalten_für_die_Lehrer_der_Freien_Waldorfschule_in_Stuttgart
+    titleDisplay: 'Seite: 1 RUDOLF STEINER Vorträge und Kurse, gehalten für die Lehrer der Freien Waldorfschule in Stuttgart'
+    pdf: GA 302a.pdf
+  - ga: '303'
+    title: >-
+      Seite:_1_2.u_den_Veröffentlichungen_aus_dem_Vortragswerk_von_Rudolf_Steiner_Die_Grundlage_der_anthroposophisch_orientierten_Geisteswissenschaft_bilden_die_von_Rudolf_Steiner_(1861_-_1925)_geschriebenen_und_veröffentlichten_Werke._Daneben_hielt_er_in_den_Jahren_1900_bis
+    titleDisplay: >-
+      Seite: 1 2.u den Veröffentlichungen aus dem Vortragswerk von Rudolf Steiner Die Grundlage der anthroposophisch
+      orientierten Geisteswissenschaft bilden die von Rudolf Steiner (1861 - 1925) geschriebenen und veröffentlichten
+      Werke. Daneben hielt er in den Jahren 1900 bis
+    pdf: GA 303.pdf
+  - ga: '304'
+    title: Buch:_3_0_4_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_0_4_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 3 0 4 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 0 4 Seite: 2 RUDOLF STEINER'
+    pdf: GA 304.pdf
+  - ga: 304a
+    title: Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_0_4a_Seite:_2_RUDOLF_STEINER_Anthroposophische_Menschenkunde
+    titleDisplay: 'Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 0 4a Seite: 2 RUDOLF STEINER Anthroposophische Menschenkunde'
+    pdf: GA 304a.pdf
+  - ga: '305'
+    title: >-
+      Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_0_5_Seite:_2_RUDOLF_STEINER_Die_geistig-seelischen_Grundkräfte
+    titleDisplay: >-
+      Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 0 5 Seite: 2 RUDOLF STEINER Die geistig-seelischen
+      Grundkräfte
+    pdf: GA 305.pdf
+  - ga: '306'
+    title: Buch:_3_0_6_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_0_6_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 3 0 6 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 0 6 Seite: 2 RUDOLF STEINER'
+    pdf: GA 306.pdf
+  - ga: '307'
+    title: >-
+      Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_0_7_Seite:_2_RUDOLF_STEINER_Gegenwärtiges_Geistesleben
+    titleDisplay: >-
+      Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 0 7 Seite: 2 RUDOLF STEINER Gegenwärtiges
+      Geistesleben
+    pdf: GA 307.pdf
+  - ga: '308'
+    title: >-
+      Buch:308_Seite:_1_Zu_den_Veröffentlichungen_aus_dem_Vortragswerk_von_Rudolf_Steiner_Die_Grundlage_der_anthroposophisch_orientierten_Geisteswissenschaft_bilden_die_von_Rudolf_Steiner_(1861_-_1925)_geschriebenen_und
+    titleDisplay: >-
+      Buch:308 Seite: 1 Zu den Veröffentlichungen aus dem Vortragswerk von Rudolf Steiner Die Grundlage der
+      anthroposophisch orientierten Geisteswissenschaft bilden die von Rudolf Steiner (1861 - 1925) geschriebenen und
+    pdf: GA 308.pdf
+  - ga: '309'
+    title: >-
+      Seite:_1_Zu_den_Veröffentlichungen_aus_dem_Vortragswerk_von_Rudolf_Steiner_Die_Grundlage_der_anthroposophisch_orientierten_Geisteswissenschaft_bilden_die_von_Rudolf_Steiner_(1861-1925)_geschriebenen_und_veröffentlichten_Werke._Daneben_hielt_er_in_den_Jahren_1900_bis
+    titleDisplay: >-
+      Seite: 1 Zu den Veröffentlichungen aus dem Vortragswerk von Rudolf Steiner Die Grundlage der anthroposophisch
+      orientierten Geisteswissenschaft bilden die von Rudolf Steiner (1861-1925) geschriebenen und veröffentlichten
+      Werke. Daneben hielt er in den Jahren 1900 bis
+    pdf: GA 309.pdf
+  - ga: '310'
+    title: Buch:_310_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_310_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 310 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 310 Seite: 2 RUDOLF STEINER'
+    pdf: GA 310.pdf
+  - ga: '311'
+    title: Buch:_311_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_311_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 311 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 311 Seite: 2 RUDOLF STEINER'
+    pdf: GA 311.pdf
+  - ga: '312'
+    title: Buch:_312_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_312_Seite:_2
+    titleDisplay: 'Buch: 312 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 312 Seite: 2'
+    pdf: GA 312.pdf
+  - ga: '313'
+    title: >-
+      Buch:_313_Seite:_1_Die_Wiedergaben_der_Original-Wandtafelzeichnungen_Rudolf_Steiners_zu_den_Vorträgen_in_diesem_Band_(vgl._die_Randvermerke_und_den_Text_am_Beginn_der_Hinweise)
+    titleDisplay: >-
+      Buch: 313 Seite: 1 Die Wiedergaben der Original-Wandtafelzeichnungen Rudolf Steiners zu den Vorträgen in diesem
+      Band (vgl. die Randvermerke und den Text am Beginn der Hinweise)
+    pdf: GA 313.pdf
+  - ga: 313b
+    title: VERLAG_DORNACH_/_SCHWEIZ_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:313b_Seite:0
+    titleDisplay: RUDOLF STEINER VERLAG DORNACH / SCHWEIZ Copyright Rudolf Steiner Nachlass-Verwaltung Buch:313b Seite:0
+    pdf: GA 313b.pdf
+  - ga: '314'
+    title: >-
+      Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_314_Seite:_2_RUDOLF_STEINER_Physiologisch-Therapeutisches
+    titleDisplay: >-
+      Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 314 Seite: 2 RUDOLF STEINER
+      Physiologisch-Therapeutisches
+    pdf: GA 314.pdf
+  - ga: '315'
+    title: Buch:_315_Seite:_1_R_U_D_O_L_F_STEINER_GESAMTAUSGABE
+    titleDisplay: 'Buch: 315 Seite: 1 R U D O L F STEINER GESAMTAUSGABE'
+    pdf: GA 315.pdf
+  - ga: '316'
+    title: Buch:_316_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE
+    titleDisplay: 'Buch: 316 Seite: 1 RUDOLF STEINER GESAMTAUSGABE'
+    pdf: GA 316.pdf
+  - ga: '317'
+    title: >-
+      Buch:317_Seite:_1_Die_Original-Wandtafelzeichnungen_von_Rudolf_Steiner_zu_den_Vorträgen_in_diesem_Band_sind_innerhalb_der_Gesamtausgabe_erschienen_in_der_Reihe
+    titleDisplay: >-
+      Buch:317 Seite: 1 Die Original-Wandtafelzeichnungen von Rudolf Steiner zu den Vorträgen in diesem Band sind
+      innerhalb der Gesamtausgabe erschienen in der Reihe
+    pdf: GA 317.pdf
+  - ga: '318'
+    title: Buch:_318_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_318_Seite:_2
+    titleDisplay: 'Buch: 318 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 318 Seite: 2'
+    pdf: GA 318.pdf
+  - ga: '319'
+    title: Buch:_319_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_319_Seite:_2
+    titleDisplay: 'Buch: 319 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 319 Seite: 2'
+    pdf: GA 319.pdf
+  - ga: '320'
+    title: Buch:_3_20_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_320_Seite:_2
+    titleDisplay: 'Buch: 3 20 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 320 Seite: 2'
+    pdf: GA 320.pdf
+  - ga: '321'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_321_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 321 Seite: 2 RUDOLF STEINER'
+    pdf: GA 321.pdf
+  - ga: '322'
+    title: Buch:_3_22_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_2_2_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 3 22 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 2 2 Seite: 2 RUDOLF STEINER'
+    pdf: GA 322.pdf
+  - ga: '323'
+    title: Buch:323_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_323_Seite:_2
+    titleDisplay: 'Buch:323 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 323 Seite: 2'
+    pdf: GA 323.pdf
+  - ga: '324'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_2_4_Seite:_2_RUDOLF_STEINER_Naturbeobachtung,
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 2 4 Seite: 2 RUDOLF STEINER Naturbeobachtung,'
+    pdf: GA 324.pdf
+  - ga: 324a
+    title: Buch:_3_24a_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_324a_Seite:_2
+    titleDisplay: 'Buch: 3 24a Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 324a Seite: 2'
+    pdf: GA 324a.pdf
+  - ga: '325'
+    title: Buch:_3_25_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_2_5_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 3 25 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 2 5 Seite: 2 RUDOLF STEINER'
+    pdf: GA 325.pdf
+  - ga: '326'
+    title: Buch:_3_26_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_2_6_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 3 26 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 2 6 Seite: 2 RUDOLF STEINER'
+    pdf: GA 326.pdf
+  - ga: '327'
+    title: >-
+      Buch:_327_Seite:_1_Die_Wiedergaben_der_Original-Wandtafelzeichnungen_Rudolf_Steiners_zu_den_Vorträgen_in_diesem_Band_(vgl._die_Randvermerke_und_den_Text_am_Beginn_der_Hinweise)
+    titleDisplay: >-
+      Buch: 327 Seite: 1 Die Wiedergaben der Original-Wandtafelzeichnungen Rudolf Steiners zu den Vorträgen in diesem
+      Band (vgl. die Randvermerke und den Text am Beginn der Hinweise)
+    pdf: GA 327.pdf
+  - ga: '328'
+    title: Buch:_3_28_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_2_8_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 3 28 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 2 8 Seite: 2 RUDOLF STEINER'
+    pdf: GA 328.pdf
+  - ga: '329'
+    title: Buch:_3_29_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_3_2_9_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Buch: 3 29 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 3 2 9 Seite: 2 RUDOLF STEINER'
+    pdf: GA 329.pdf
+  - ga: '330'
+    title: Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_330_Seite:_2_RUDOLF_STEINER
+    titleDisplay: 'Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 330 Seite: 2 RUDOLF STEINER'
+    pdf: GA 330.pdf
+  - ga: '331'
+    title: Buch:_331_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_331_Seite:_2
+    titleDisplay: 'Buch: 331 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 331 Seite: 2'
+    pdf: GA 331.pdf
+  - ga: 332a
+    title: >-
+      Die_Herausgabe_besorgten_Paul_G._Bellmann_und_Walter_Kugler_1._Auflage,_herausgegeben_durch_Roman_Boos,_Bern_1950_2.,_neu_durchgesehene_Auflage_Gesamtausgabe_Dornach_1977
+    titleDisplay: >-
+      Die Herausgabe besorgten Paul G. Bellmann und Walter Kugler 1. Auflage, herausgegeben durch Roman Boos, Bern 1950
+      2., neu durchgesehene Auflage Gesamtausgabe Dornach 1977
+    pdf: GA 332a.pdf
+  - ga: 332b
+    title: Zu_sozialen_und_wirtschaftlichen_Fragen_der_Gegenwart
+    titleDisplay: Band GA 332b RUDOLF STEINER Zu sozialen und wirtschaftlichen Fragen der Gegenwart
+    pdf: GA 332b.pdf
+  - ga: '333'
+    title: >-
+      Buch:_333_Seite:_1_2«_den_Veröffentlichungen_aus_dem_Vortragswerk_von_Rudolf_Steiner_Die_Grundlage_der_anthroposophisch_orientierten_Geisteswissenschaft_bilden_die_von_Rudolf_Steiner_(1861-1925)_geschriebenen
+    titleDisplay: >-
+      Buch: 333 Seite: 1 2« den Veröffentlichungen aus dem Vortragswerk von Rudolf Steiner Die Grundlage der
+      anthroposophisch orientierten Geisteswissenschaft bilden die von Rudolf Steiner (1861-1925) geschriebenen
+    pdf: GA 333.pdf
+  - ga: '334'
+    title: Buch:_3_34_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_334_Seite:_2
+    titleDisplay: 'Buch: 3 34 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 334 Seite: 2'
+    pdf: GA 334.pdf
+  - ga: '335'
+    title: >-
+      hat_seine_Vorträge_stets_frei,_also_ohne_Manuskript,_gehalten._Viele_seiner_Vorüberlegungen_hielt_er_lediglich_in_Stichworten,_manchmal_auch_in_kurzen_Sätzen,_Schemata_oder_Skizzen_in_seinen_Notizbüchern_fest,_ohne_daß_er_sie_weiter_schriftlich_ausgearbeitet_hätte._Nur_in_ganz_wenigen_Fällen_liegen_vorbereitete_schriftliche_Zusammenfassungen_vor,_die_für_Übersetzer
+    titleDisplay: >-
+      Rudolf Steiner hat seine Vorträge stets frei, also ohne Manuskript, gehalten. Viele seiner Vorüberlegungen hielt
+      er lediglich in Stichworten, manchmal auch in kurzen Sätzen, Schemata oder Skizzen in seinen Notizbüchern fest,
+      ohne daß er sie weiter schriftlich ausgearbeitet hätte. Nur in ganz wenigen Fällen liegen vorbereitete
+      schriftliche Zusammenfassungen vor, die für Übersetzer
+    pdf: GA 335.pdf
+  - ga: '336'
+    title: Die_großen_Fragen_der_Zeit_und_die_anthroposophische_Geist-Erkenntnis_19_öffentliche_Vorträge,_zwei_Autoreferatc
+    titleDisplay: >-
+      Band GA 336 RUDOLF STEINER Die großen Fragen der Zeit und die anthroposophische Geist-Erkenntnis 19 öffentliche
+      Vorträge, zwei Autoreferatc
+    pdf: GA 336.pdf
+  - ga: 337a
+    title: >-
+      Die_Herausgabe_besorgten_Alexander_Lüscher_und_Ulla_Trapp_1._Auflage,_Gesamtausgabe_Dornach_1999_Bibliographie-Nr._337a_Zeichnungen_im_Text_nach_den_Skizzen_in_den_Stenogrammen
+    titleDisplay: >-
+      Die Herausgabe besorgten Alexander Lüscher und Ulla Trapp 1. Auflage, Gesamtausgabe Dornach 1999 Bibliographie-Nr.
+      337a Zeichnungen im Text nach den Skizzen in den Stenogrammen
+    pdf: GA 337a.pdf
+  - ga: 337b
+    title: >-
+      Die_Herausgabe_besorgten_Alexander_Lüscher_und_Ulla_Trapp_1._Auflage_Gesamtausgabe_Dornach_1999_Bibliographie-Nr._337b_Zu_den_Tafelzeichnungen_siehe_Seite_275
+    titleDisplay: >-
+      Die Herausgabe besorgten Alexander Lüscher und Ulla Trapp 1. Auflage Gesamtausgabe Dornach 1999 Bibliographie-Nr.
+      337b Zu den Tafelzeichnungen siehe Seite 275
+    pdf: GA 337b.pdf
+  - ga: '338'
+    title: Buch:_338_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_338_Seite:_2
+    titleDisplay: 'Buch: 338 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 338 Seite: 2'
+    pdf: GA 338.pdf
+  - ga: '339'
+    title: >-
+      Die_Herausgabe_besorgte_Walter_Kugler_1._Auflage,_Dornach_1940_(Vervielfältigung_als_Studienmaterial_zur_Sozialwissenschaft_durch_Dr._Roman_Boos)_2.,_neu_durchgesehene_Auflage
+    titleDisplay: >-
+      Die Herausgabe besorgte Walter Kugler 1. Auflage, Dornach 1940 (Vervielfältigung als Studienmaterial zur
+      Sozialwissenschaft durch Dr. Roman Boos) 2., neu durchgesehene Auflage
+    pdf: GA 339.pdf
+  - ga: '340'
+    title: Buch:_3_4_0_Seite:_1_AUFGABEN_EINER_NEUEN_WIRTSCHAFTSWISSENSCHAFT
+    titleDisplay: 'Buch: 3 4 0 Seite: 1 AUFGABEN EINER NEUEN WIRTSCHAFTSWISSENSCHAFT'
+    pdf: GA 340.pdf
+  - ga: '341'
+    title: Buch:_3_41_Seite:_1_AUFGABEN_EINER_NEUEN_WIRTSCHAFTSWISSENSCHAFT
+    titleDisplay: 'Buch: 3 41 Seite: 1 AUFGABEN EINER NEUEN WIRTSCHAFTSWISSENSCHAFT'
+    pdf: GA 341.pdf
+  - ga: '342'
+    title: Buch:_342_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_342_Seite:_2
+    titleDisplay: 'Buch: 342 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 342 Seite: 2'
+    pdf: GA 342.pdf
+  - ga: '343'
+    title: Buch:_343_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_343_Seite:_2
+    titleDisplay: 'Buch: 343 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 343 Seite: 2'
+    pdf: GA 343.pdf
+  - ga: '344'
+    title: Buch:_344_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_344_Seite:_2
+    titleDisplay: 'Buch: 344 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 344 Seite: 2'
+    pdf: GA 344.pdf
+  - ga: '345'
+    title: Buch:_3_4_5_Seite:_1_Copyright_Rudolf_Steiner_Nachiass-Verwaitung_Buch:_3_4_5_Seite:_2
+    titleDisplay: 'Buch: 3 4 5 Seite: 1 Copyright Rudolf Steiner Nachiass-Verwaitung Buch: 3 4 5 Seite: 2'
+    pdf: GA 345.pdf
+  - ga: '346'
+    title: Buch:_3_4_6_Seite:_1_Copyright_Rudolf_Steiner_Nachlass-Verwaltung_Buch:_346_Seite:_2
+    titleDisplay: 'Buch: 3 4 6 Seite: 1 Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 346 Seite: 2'
+    pdf: GA 346.pdf
+  - ga: '347'
+    title: Buch:_347_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_Vorträge_für_die_Arbeiter_am_Goetheanumbau_Band_1
+    titleDisplay: 'Buch: 347 Seite: 1 RUDOLF STEINER GESAMTAUSGABE Vorträge für die Arbeiter am Goetheanumbau Band 1'
+    pdf: GA 347.pdf
+  - ga: '348'
+    title: >-
+      Buch:_348_Seite:_1_R_U_D_O_L_F_S_T_E_I_N_E_R_GESAMTAUSGABE_Vorträge_für_die_Arbeiter_am_Goetheanumbau_Band_1_Die_Erkenntnis_des_Menschenwesens_nach_Leib,_Seele_und
+    titleDisplay: >-
+      Buch: 348 Seite: 1 R U D O L F S T E I N E R GESAMTAUSGABE Vorträge für die Arbeiter am Goetheanumbau Band 1 Die
+      Erkenntnis des Menschenwesens nach Leib, Seele und
+    pdf: GA 348.pdf
+  - ga: '349'
+    title: Buch:_349_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_Vorträge_für_die_Arbeiter_am_Goetheanumbau_Band_1
+    titleDisplay: 'Buch: 349 Seite: 1 RUDOLF STEINER GESAMTAUSGABE Vorträge für die Arbeiter am Goetheanumbau Band 1'
+    pdf: GA 349.pdf
+  - ga: '350'
+    title: Buch:_350_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_Vorträge_für_die_Arbeiter_am_Goetheanumbau_Band_1
+    titleDisplay: 'Buch: 350 Seite: 1 RUDOLF STEINER GESAMTAUSGABE Vorträge für die Arbeiter am Goetheanumbau Band 1'
+    pdf: GA 350.pdf
+  - ga: '351'
+    title: Buch:_3_51_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_Vorträge_für_die_Arbeiter_am_Goetheanumbau_Band_1
+    titleDisplay: 'Buch: 3 51 Seite: 1 RUDOLF STEINER GESAMTAUSGABE Vorträge für die Arbeiter am Goetheanumbau Band 1'
+    pdf: GA 351.pdf
+  - ga: '352'
+    title: Buch:_3_5_2_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_Vorträge_für_die_Arbeiter_am_Goetheanumbau_Band_1
+    titleDisplay: 'Buch: 3 5 2 Seite: 1 RUDOLF STEINER GESAMTAUSGABE Vorträge für die Arbeiter am Goetheanumbau Band 1'
+    pdf: GA 352.pdf
+  - ga: '353'
+    title: Buch:_353_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_Vorträge_für_die_Arbeiter_am_Goetheanumbau_Band_1
+    titleDisplay: 'Buch: 353 Seite: 1 RUDOLF STEINER GESAMTAUSGABE Vorträge für die Arbeiter am Goetheanumbau Band 1'
+    pdf: GA 353.pdf
+  - ga: '354'
+    title: Buch:_3_5_4_Seite:_1_RUDOLF_STEINER_GESAMTAUSGABE_Vorträge_für_die_Arbeiter_am_Goetheanumbau_Band_1
+    titleDisplay: 'Buch: 3 5 4 Seite: 1 RUDOLF STEINER GESAMTAUSGABE Vorträge für die Arbeiter am Goetheanumbau Band 1'
+    pdf: GA 354.pdf
