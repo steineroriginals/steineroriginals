@@ -11,7 +11,8 @@
     "export:csv": "tsx src/scripts/yaml_to_csv.ts",
     "maintain:ga-suggest": "tsx src/scripts/maintain-lecture-catalog/suggest_ga_for_missing.ts",
     "maintain:ga-toc": "tsx src/scripts/maintain-lecture-catalog/add_ga_from_ga_pdf_toc.ts",
-    "maintain:ga-catalog": "tsx src/scripts/maintain-lecture-catalog/add_missing_ga_to_catalog.ts"
+    "maintain:ga-catalog": "tsx src/scripts/maintain-lecture-catalog/add_missing_ga_to_catalog.ts",
+    "maintain:ga-rsarchive": "tsx src/scripts/maintain-lecture-catalog/check_ga_against_rsarchive.ts"
   },
   "devDependencies": {
     "@types/js-yaml": "latest",

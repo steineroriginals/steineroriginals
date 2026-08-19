@@ -753,6 +753,20 @@ lectures:
     vortragstitel: ""
     anlass: Esoterische Stunde
     ga: 266/1
+  - id: 19030328a
+    uuid: e28216d2-bb7c-5b29-bead-e8b917477567
+    datum: 28.03.1903
+    jahr: "1903"
+    ort: Berlin
+    vortragstitel: ""
+    anlass: Theosophisches Konversatorium B
+  - id: 19030328b
+    uuid: 139fb214-8a08-502e-b944-92b88cb09273
+    datum: 28.03.1903
+    jahr: "1903"
+    ort: Berlin
+    vortragstitel: Vortrag 23
+    reihe: Fortlaufende Vorträge in der Theosophischen Bibliothek über das Gesamtgebiet der Theosophie
   - id: 19030415
     uuid: 23a341b1-7827-59d3-be4a-d8e9c98b4aa2
     datum: 15.04.1903
@@ -829,6 +843,19 @@ lectures:
     vortragstitel: Farben und Lichtlehre V
     reihe: Zur Farben und Lichtlehre/ Privatstunde
     ga: 91
+  - id: 19030821a
+    uuid: 416aa201-419b-5a25-9fea-732f1e9ecdf9
+    datum: 21.08.1903
+    jahr: "1903"
+    ort: Berlin
+    vortragstitel: ""
+    anlass: Öffentlicher Vortrags- und Diskussionsabend
+  - id: 19030821b
+    uuid: ffe918f5-a81b-5dae-9cc2-d67edfa96278
+    datum: 21.08.1903
+    jahr: "1903"
+    ort: Berlin
+    vortragstitel: Evolution und Wiederverkörperung, Schule der Phytagoräer 1
   - id: 19030824
     uuid: 50aee6eb-8898-5cf4-af57-51f97cfac6ad
     datum: 24.08.1903
@@ -850,6 +877,19 @@ lectures:
     ort: Berlin
     vortragstitel: Geheimnisse und Geheimhaltung
     ga: 88,90c,90c
+  - id: 19030904a
+    uuid: 379f1162-89ed-505a-9f99-b1f7fbe6d758
+    datum: 04.09.1903
+    jahr: "1903"
+    ort: Berlin
+    vortragstitel: ""
+    anlass: Öffentlicher Vortrags- und Diskussionsabend
+  - id: 19030904b
+    uuid: bfdc077a-ed3e-59a8-b9ed-17d9ff802ea5
+    datum: 04.09.1903
+    jahr: "1903"
+    ort: Berlin
+    vortragstitel: Geheimhaltung oder Veröffentlichung esoterischer Lehren und geheimen Wissens
   - id: 19030906
     uuid: 59235068-b41c-5066-9eb1-986821ea5e6b
     datum: 06.09.1903
@@ -2498,6 +2538,18 @@ lectures:
     vortragstitel: Das Geisterland
     reihe: Grundbegriffe der Theosophie
     ga: 53
+  - id: 19041126a
+    uuid: 057c8314-35d6-53a9-8785-c7331bc03ffb
+    datum: 26.11.1904
+    jahr: "1904"
+    ort: Heidelberg
+    vortragstitel: Darwinismus und Theosophie
+  - id: 19041126b
+    uuid: c5921a3f-99cf-5fcf-9827-12de1d69f1e5
+    datum: 26.11.1904
+    jahr: "1904"
+    ort: Heidelberg
+    vortragstitel: Über die Meister
   - id: 19041127
     uuid: be334e6b-1181-52a0-be90-59be89d863c4
     datum: 27.11.1904
@@ -3664,7 +3716,7 @@ lectures:
     vortragstitel: ""
     anlass: Esoterische Stunde
     ga: 264,266/1
-  - id: 19051005aqw
+  - id: 19051005a
     uuid: 4b07c900-aa26-5dbd-8e00-ef73f39b48fd
     datum: 05.10.1905
     jahr: "1905"
@@ -5142,6 +5194,19 @@ lectures:
     datum: 05.09.1906
     jahr: "1906"
     ort: Stuttgart
+    vortragstitel: ""
+    anlass: Esoterische Stunde
+  - id: 19060906a
+    uuid: b5ba3d5a-df25-5890-b4df-b8e3199f4956
+    datum: 06.09.1906
+    jahr: "1906"
+    ort: Heidelberg
+    vortragstitel: ""
+  - id: 19060906b
+    uuid: 07cbea28-e6ef-5809-bcb4-03a680e8bb9f
+    datum: 06.09.1906
+    jahr: "1906"
+    ort: Heidelberg
     vortragstitel: ""
     anlass: Esoterische Stunde
   - id: 19060911
@@ -7200,6 +7265,18 @@ lectures:
     ort: Berlin
     vortragstitel: Unsere Planetenentwicklung
     ga: 102
+  - id: 19080216a
+    uuid: c976fdc3-5167-55be-9288-55fcfdee3ed1
+    datum: 16.02.1908
+    jahr: "1908"
+    ort: Leipzig
+    vortragstitel: Über Gruppenseelen
+  - id: 19080216b
+    uuid: 43c0e32c-649a-5fe1-98e6-84a761e91dc4
+    datum: 16.02.1908
+    jahr: "1908"
+    ort: Leipzig
+    vortragstitel: Fragenbeantwortung
   - id: 19080217a
     uuid: b9c40a0b-af11-5f57-ab1f-3f1d3e366453
     datum: 17.02.1908
@@ -9305,7 +9382,7 @@ lectures:
     datum: 16.05.1909
     jahr: "1909"
     ort: Kristiania (Oslo)
-    vortragstitel: Alte Offenbarungen und neuzeitliches Fragenlernen
+    vortragstitel: Vortrag 7
     reihe: Theosophie an der Hand der Apokalypse
     ga: 104a,109
   - id: 19090517
@@ -9313,7 +9390,7 @@ lectures:
     datum: 17.05.1909
     jahr: "1909"
     ort: Kristiania (Oslo)
-    vortragstitel: Vortrag 7
+    vortragstitel: Vortrag 8
     reihe: Theosophie an der Hand der Apokalypse
     ga: 104a
   - id: 19090518
@@ -9321,7 +9398,7 @@ lectures:
     datum: 18.05.1909
     jahr: "1909"
     ort: Kristiania (Oslo)
-    vortragstitel: Vortrag 8
+    vortragstitel: Vortrag 9
     reihe: Theosophie an der Hand der Apokalypse
     ga: 104a
   - id: 19090519
@@ -9329,7 +9406,7 @@ lectures:
     datum: 19.05.1909
     jahr: "1909"
     ort: Kristiania (Oslo)
-    vortragstitel: Vortrag 9
+    vortragstitel: Vortrag 10
     reihe: Theosophie an der Hand der Apokalypse
     ga: 104a
   - id: 19090520
@@ -9337,7 +9414,7 @@ lectures:
     datum: 20.05.1909
     jahr: "1909"
     ort: Kristiania (Oslo)
-    vortragstitel: Vortrag 10
+    vortragstitel: Vortrag 11
     reihe: Theosophie an der Hand der Apokalypse
     ga: 104a
   - id: 19090521
@@ -9345,7 +9422,7 @@ lectures:
     datum: 21.05.1909
     jahr: "1909"
     ort: Kristiania (Oslo)
-    vortragstitel: Vortrag 11
+    vortragstitel: Vortrag 12
     reihe: Theosophie an der Hand der Apokalypse
     ga: 104a
   - id: 19090525
@@ -13402,6 +13479,13 @@ lectures:
     jahr: "1912"
     ort: Klagenfurt
     vortragstitel: ""
+  - id: 19120212
+    uuid: 9f6496d2-ef21-52d1-baf8-991b8f825fda
+    datum: 12.02.1912
+    jahr: "1912"
+    ort: Graz
+    vortragstitel: Was bedeuten Hamerling und die übrigen heimatlichen Dichter für die österreichischen Lande?
+    anlass: Gründung des Hamerling-Zweiges
   - id: 19120215
     uuid: e4cb9052-c056-53a8-820b-7eccbebd1c55
     datum: 15.02.1912
@@ -14719,6 +14803,19 @@ lectures:
     ort: Wien
     vortragstitel: Das Leben zwischen dem Tode und einer neuen Geburt
     ga: 140
+  - id: 19130122a
+    uuid: 273ca994-6258-5b03-9cba-496f4f4e2706
+    datum: 22.01.1913
+    jahr: "1913"
+    ort: Graz
+    vortragstitel: Die Wirkung der geisteswissenschaftlichen Wahrheiten auf das Verhalten von Toten und Lebenden
+    anlass: Einweihung des neuen Zweigraums
+  - id: 19130122b
+    uuid: 605b011a-73ac-5b83-9816-56f86b4087c5
+    datum: 22.01.1913
+    jahr: "1913"
+    ort: Graz
+    vortragstitel: Fragenbeantwortung
   - id: 19130123
     uuid: 324772db-5037-5eea-a33a-cdd703c9f547
     datum: 23.01.1913
