@@ -1,0 +1,240 @@
+# GA 90b — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 90b).
+
+ga: 90b
+title: Selbsterkenntnis und Gotteserkenntnis
+pdf: GA 090b.pdf
+period: 1905–1906
+entry_count: 37
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 90b
+    type: vortrag
+    datum: 18.08.1905 (?)
+    ort: Berlin
+    titel: Die sieben Prinzipien
+    beschreibung: Mitglieder-Vortrag
+  - seq: 2
+    ga: 90b
+    type: vortrag
+    datum: 20.08.1905 (?)
+    ort: Berlin
+    reihe: Miglieder-Vortrag
+    titel: Subjektiv-objektiv; Dharma in Karma
+  - seq: 3
+    ga: 90b
+    type: vortrag
+    datum: 01.01.1905
+    ort: Berlin
+    titel: Zu den Wurzelrassen der Atlantier und Arier
+  - seq: 4
+    ga: 90b
+    type: vortrag
+    datum: 02.01.1905
+    ort: Berlin
+    titel: "Elementarische, siderische und himmlische Gottheiten. Menschheitsentwicklung und Tierkreis"
+  - seq: 5
+    ga: 90b
+    type: vortrag
+    datum: 16.01.1905
+    ort: Köln
+    titel: Die Apokalypse des Johannes I
+  - seq: 6
+    ga: 90b
+    type: vortrag
+    datum: 17.01.1905
+    ort: Köln
+    titel: Über das Buch der Genesis
+  - seq: 7
+    ga: 90b
+    type: vortrag
+    datum: 19.01.1905
+    ort: Düsseldorf
+    titel: Über den Gottesbegriff
+  - seq: 8
+    ga: 90b
+    type: vortrag
+    datum: 20.01.1905
+    ort: Düsseldorf
+    titel: Über die Lebensführung eines geistig Strebenden
+  - seq: 9
+    ga: 90b
+    type: vortrag
+    datum: 30.01.1905
+    ort: Berlin
+    titel: Die Apokalypse und theosophische Kosmologie I
+  - seq: 10
+    ga: 90b
+    type: vortrag
+    datum: 06.02.1905
+    ort: Berlin
+    titel: Das Problem verschiedener Ergebnisse der Forschung im Übersinnli­ chen. Die 49 Metamorphosen der Erde zwischen den ihr vorangehenden und ihr folgenden Planeten mit insgesamt 343 Zuständen. Die Apokalypse und theosophische Kosmologie II
+  - seq: 11
+    ga: 90b
+    type: vortrag
+    datum: 13.02.1905
+    ort: Berlin
+    titel: Die Apokalypse und theosophische Kosmologie III
+  - seq: 12
+    ga: 90b
+    type: vortrag
+    datum: 20.02.1905
+    ort: Berlin
+    titel: Die Apokalypse und theosophische Kosmologie IV
+  - seq: 13
+    ga: 90b
+    type: vortrag
+    datum: 27.02.1905
+    ort: Berlin
+    titel: Die Apokalypse und theosophische Kosmologie V
+  - seq: 14
+    ga: 90b
+    type: vortrag
+    datum: 06.03.1905
+    ort: Berlin
+    titel: Die Apokalypse und theosophische Kosmologie VI
+  - seq: 15
+    ga: 90b
+    type: vortrag
+    datum: 17.03.1905
+    ort: Köln
+    titel: Über die Bedeutung der katholischen Messe im Sinne der Mystik
+  - seq: 16
+    ga: 90b
+    type: vortrag
+    datum: 18.03.1905
+    ort: Köln
+    titel: Über die planetarische Entwicklung
+  - seq: 17
+    ga: 90b
+    type: vortrag
+    datum: 19.03.1905
+    ort: Köln
+    titel: "Die verschiedenen Bewusstseinszustände des Menschen, die zugehöri­ gen Naturreiche und Planeten. Auf dem Saturn ist die erste Runde, auf der Sonne die zweite Runde und auf dem Mond die dritte Runde für die Entwicklung des Menschen von Bedeutung. Die Entwicklung des Men­ schen durch die Wurzelrassen. Die Erde zwischen Mars und Merkur. Jupiter, Venus, Vulkan. Die Wochentage als Abbild der planetarischen Entwicklung. Die Apokalypse des Johannes II"
+  - seq: 18
+    ga: 90b
+    type: vortrag
+    datum: 22.03.1905
+    ort: Düsseldorf
+    titel: Die altnordischen Göttersagen
+  - seq: 19
+    ga: 90b
+    type: vortrag
+    datum: 09.04.1905
+    ort: Hamburg
+    titel: Die Wochentage - Sibyllen Weisheit
+  - seq: 20
+    ga: 90b
+    type: vortrag
+    datum: 21.04.1905
+    ort: Berlin
+    titel: Ostern und die Theosophie
+  - seq: 21
+    ga: 90b
+    type: vortrag
+    datum: 26.04.1905
+    ort: Köln
+    titel: Novalis’ Dichtung «Heinrich von Ofterdingen»
+  - seq: 22
+    ga: 90b
+    type: vortrag
+    datum: 27.04.1905
+    ort: Köln
+    titel: Yoga und Unio mystica
+  - seq: 23
+    ga: 90b
+    type: vortrag
+    datum: 19.06.1905
+    ort: —
+    titel: "(Mt 5,3-9) aus dem Notizbuch 124 zum Vortrag"
+  - seq: 24
+    ga: 90b
+    type: vortrag
+    datum: 26.06.1905
+    ort: Berlin
+    titel: Über das Johannes-Evangelium
+  - seq: 25
+    ga: 90b
+    type: vortrag
+    datum: 09.10.1905
+    ort: Berlin
+    titel: "Subjektiv - objektiv; Dharma in Karma Berlin, 20. August (1905?) ........................................................ 132 Subjektiv erwacht sein: wirkend, aber nicht wahrnehmend. Objektiv erwacht sein: wirkend und wahrnehmend. Die Entwicklung besteht im fortwährenden Verwandeln des Subjektiven ins Objektive oder des Gesetzes in die Wirklichkeit. Karma ist das in die Materie gekreuzigte Dharma. Dharma ist die Entwicklung im Fortschritt und das Übersein in einem Sein. «Vater* entspricht dem Übersein; «Mutter* entspricht dem sich entwickelnden Wesen; «Sohn* entspricht demjenigen, was aus dem Sein vermöge des Überseins wird. Nirwana als Abwesenheit von Karma, weil ganzes Dharma offenbar. Geisteswissenschaft als Gesundungsquell"
+  - seq: 26
+    ga: 90b
+    type: vortrag
+    datum: 15.10.1905
+    ort: Hamburg
+    titel: Die geistige Entwicklung des Menschen
+  - seq: 27
+    ga: 90b
+    type: vortrag
+    datum: 16.10.1905
+    ort: Berlin
+    titel: Selbsterkenntnis und Gotteserkenntnis
+  - seq: 28
+    ga: 90b
+    type: vortrag
+    datum: 22.10.1905
+    ort: Berlin
+    titel: Das Verhältnis des Okkultismus zur THEOSOPHISCHEN BEWEGUNG
+  - seq: 29
+    ga: 90b
+    type: vortrag
+    datum: 30.10.1905
+    ort: Berlin
+    titel: Theosophie im alltäglichen Leben
+  - seq: 30
+    ga: 90b
+    type: vortrag
+    datum: 06.11.1905
+    ort: Berlin
+    titel: "Unser Verhalten als Nährboden für Elementarwesen und deren Ent­ wicklung. Den Schmerz vergraben lernen. Die Pflanze schläft, ihr Be­ wusstsein ist außerhalb. Physischer Plan, Astralplan, Mentalplan. Das Tier hat sein Bewusstsein im Astralplan. Naturwesenheiten mit Körper auf dem Astralplan und Bewusstsein auf dem physischen Plan. Der Tod von geistigen Wesenheiten im Verstandesdenken des Menschen. Der Geist der Lüge. Die Vorbereitung einer hellseherischen Kultur als Auf­ gabe der Theosophischen Gesellschaft. Theosophie und Freiheitsbegriff"
+  - seq: 31
+    ga: 90b
+    type: vortrag
+    datum: 02.12.1905
+    ort: Köln
+    titel: Die Bergpredigt
+  - seq: 32
+    ga: 90b
+    type: vortrag
+    datum: 04.12.1905
+    ort: Düsseldorf
+    titel: Yoga
+  - seq: 33
+    ga: 90b
+    type: vortrag
+    datum: 10.12.1905
+    ort: Hamburg
+    titel: Über die deutsche Mythologie
+  - seq: 34
+    ga: 90b
+    type: vortrag
+    datum: 11.12.1905
+    ort: Berlin
+    titel: Erkenntnis der höheren Welten I
+  - seq: 35
+    ga: 90b
+    type: vortrag
+    datum: 18.12.1905
+    ort: Berlin
+    titel: Erkenntnis der höheren Welten II
+  - seq: 36
+    ga: 90b
+    type: vortrag
+    datum: 28.12.1905
+    ort: Berlin
+    titel: Erkenntnis der höheren Welten III
+  - seq: 37
+    ga: 90b
+    type: vortrag
+    datum: 10.01.1906
+    ort: Lugano
+    titel: Das Vergängliche und das Ewige

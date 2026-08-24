@@ -1,0 +1,23 @@
+# GA reference YAML coverage
+
+Local PDFs (excluding `*o.pdf` and `*t.pdf` duplicates): **376**
+Reference YAML files in this directory: **376** (complete)
+
+## Already done before 2026-08-19 batch (35)
+
+68a, 68b, 68c, 68d, 69b, 69c, 69d, 69e, 70a, 70b, 71a, 71b, 80a, 80b, 80c, 85, 87, 90a, 90b, 90c, 111, 117a, 208, 244, 246, 250, 251, 269, 277a, 277b, 277c, 277d, 291a, 332b, 336
+
+## Batch-generated 2026-08-19 (342)
+
+1–67, 69a, 72–84, 88–89, 92–110, 112–336 (except already done), 337a–354, plus 255b, etc. (not 201t — transcript duplicate)
+
+## Volumes without parseable INHALT (empty entries)
+
+18, 113, 313b
+
+## Regenerate
+
+```bash
+npm run maintain:ga-reference -- --list-missing
+npm run maintain:ga-reference -- --missing --write
+```

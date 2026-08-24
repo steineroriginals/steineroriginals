@@ -1,0 +1,93 @@
+# GA 243 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 243).
+
+ga: 243
+title: GA 243
+pdf: GA 243.pdf
+period: 1924
+entry_count: 11
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 243
+    type: vortrag
+    datum: 11.08.1924
+    ort: Torquay
+    reihe: Die wahren und die falschen Wege der geistigen Forschung
+    titel: Die Natur ist die grosse Illusion. Erkenne dich selbst.
+  - seq: 2
+    ga: 243
+    type: vortrag
+    datum: 12.08.1924
+    ort: Torquay
+    reihe: Die wahren und die falschen Wege der geistigen Forschung
+    titel: Die drei Welten und ihre Spiegelbilder
+  - seq: 3
+    ga: 243
+    type: vortrag
+    datum: 13.08.1924
+    ort: Torquay
+    reihe: Die wahren und die falschen Wege der geistigen Forschung
+    titel: Form und Substantialität des Mineralischen mit Bezug auf die Bewusstseinszustände des Menschen
+  - seq: 4
+    ga: 243
+    type: vortrag
+    datum: 14.08.1924
+    ort: Torquay
+    reihe: Die wahren und die falschen Wege der geistigen Forschung
+    titel: Das Geheimnis des Erforschens anderer Welten duch die Metamorphose des Bewusstseins
+  - seq: 5
+    ga: 243
+    type: vortrag
+    datum: 15.08.1924
+    ort: Torquay
+    reihe: Die wahren und die falschen Wege der geistigen Forschung
+    titel: Das innere Beleben der Seele durch die Eigenschaften des Metallischen
+  - seq: 6
+    ga: 243
+    type: vortrag
+    datum: 16.08.1924
+    ort: Torquay
+    reihe: Die wahren und die falschen Wege der geistigen Forschung
+    titel: Initiationserkenntnisse. Das Tagwachen und das Traumbewusstsein...
+  - seq: 7
+    ga: 243
+    type: vortrag
+    datum: 18.08.1924
+    ort: Torquay
+    reihe: Die wahren und die falschen Wege der geistigen Forschung
+    titel: Sternenerkenntnis. Die geistigen Hintergründe des geschichtlichen Werdens
+  - seq: 8
+    ga: 243
+    type: vortrag
+    datum: 19.08.1924
+    ort: Torquay
+    reihe: Die wahren und die falschen Wege der geistigen Forschung
+    titel: Möglichkeiten der Abirrung in der geistigen Forschung
+  - seq: 9
+    ga: 243
+    type: vortrag
+    datum: 20.08.1924
+    ort: Torquay
+    reihe: Die wahren und die falschen Wege der geistigen Forschung
+    titel: Abnorme Wege in die geistige Welt und deren Umwandlung
+  - seq: 10
+    ga: 243
+    type: vortrag
+    datum: 21.08.1924
+    ort: Torquay
+    reihe: Die wahren und die falschen Wege der geistigen Forschung
+    titel: Einflüsse des ausserirdischen Kosmos auf das menschliche Bewusstsein
+  - seq: 11
+    ga: 243
+    type: vortrag
+    datum: 22.08.1924
+    ort: Torquay
+    reihe: Die wahren und die falschen Wege der geistigen Forschung
+    titel: "Wie steht es mit dem Verständnis für geistige Forschung?"

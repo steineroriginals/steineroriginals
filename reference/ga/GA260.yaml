@@ -1,0 +1,200 @@
+# GA 260 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 260).
+
+ga: 260
+title: "Seite: 1 RUDOLF STEINER DAS LEBENDIGE WESEN DER ANTHROPOSOPHIE UND SEINE PFLEGE Bisher erschienene Bände der Schrifte..."
+pdf: GA 260.pdf
+period: 1923–1924
+entry_count: 26
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 260
+    type: vortrag
+    datum: 23.12.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung. Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 2
+    ga: 260
+    type: vortrag
+    datum: 24.12.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitung zum Vortrag von Albert Steffen «Aus der Schicksalsgeschichte des Goetheanums». Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 3
+    ga: 260
+    type: vortrag
+    datum: 24.12.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Worte nach Vortrag von Steffen. Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 4
+    ga: 260
+    type: vortrag
+    datum: 24.12.1923
+    ort: Dornach
+    titel: Die Geschichte der anthroposophischen Bewegung und der Anthroposophischen Gesellschaft. Statutenentwurf für die Allgemeine Anthroposophische Gesellschaft
+    beschreibung: Eröffnungsvortrag. Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 5
+    ga: 260
+    type: vortrag
+    datum: 25.12.1923
+    ort: Dornach
+    titel: Grundsteinlegung der Allgemeinen Anthroposophischen Gesellschaft
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 6
+    ga: 260
+    type: vortrag
+    datum: 25.12.1923
+    ort: Dornach
+    titel: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft
+    beschreibung: Berichte der Generalsekretäre. Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 7
+    ga: 260
+    type: vortrag
+    datum: 25.12.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Versammlung der Generalsekretäre und Vorstände der Ländergesellschaften. Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 8
+    ga: 260
+    type: vortrag
+    datum: 26.12.1923
+    ort: Dornach
+    titel: Fortsetzung der Gründungsversammlung. Einleitende Worte über die Allgemeine Anthroposophische Gesellschaft und den bei ihrer Grundsteinlegung gegebenen Weihespruch.
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 9
+    ga: 260
+    type: vortrag
+    datum: 27.12.1923
+    ort: Dornach
+    titel: Fortsetzung der Gründungsversammlung. Erläuterungen zum Weihespruch der Grundsteinlegung
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 10
+    ga: 260
+    type: vortrag
+    datum: 27.12.1923
+    ort: Dornach
+    titel: Fortsetzung der Gründungsversammlung
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 11
+    ga: 260
+    type: vortrag
+    datum: 28.12.1923
+    ort: Dornach
+    titel: Fortsetzung der Gründungsversammlung. Erläuterungen zu Weihespruch der Grundsteinlegung
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 12
+    ga: 260
+    type: vortrag
+    datum: 28.12.1923
+    ort: Dornach
+    titel: Fortsetzung der Gründungsversammlung.
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 13
+    ga: 260
+    type: vortrag
+    datum: 28.12.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Generalversammlung des Schulvereins. Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 14
+    ga: 260
+    type: vortrag
+    datum: 29.12.1923
+    ort: Dornach
+    titel: "Sitzung des Vorstandes der Allgemeinen Anthroposophischen Gesellschaft, der Generalsekretäre der Ländergesellschaften mit ihren Sekretären und der schweizerischen Zweige"
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 15
+    ga: 260
+    type: vortrag
+    datum: 29.12.1923
+    ort: Dornach
+    titel: Fortsetzung der Gründungsversammlung. Erläuterungen zum Weihespruch der Grundsteinlegung
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 16
+    ga: 260
+    type: vortrag
+    datum: 29.12.1923
+    ort: Darnach
+    titel: Fortsetzung der Gründungsversammlung.
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 17
+    ga: 260
+    type: vortrag
+    datum: 30.12.1923
+    ort: Dornach
+    titel: Fortsetzung der Gründungsversammlung. Erläuterungen zum Weihespruch der Grundsteinlegung
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 18
+    ga: 260
+    type: vortrag
+    datum: 30.12.1923
+    ort: Dornach
+    titel: Fortsetzung der Gründungsversammlung.
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 19
+    ga: 260
+    type: vortrag
+    datum: 31.12.1923
+    ort: Dornach
+    titel: Fortsetzung der Gründungsversammlung. Erläuterungen zum Weihespruch der Grundsteinlegung
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 20
+    ga: 260
+    type: vortrag
+    datum: 31.12.1923
+    ort: Dornach
+    titel: Fortsetzung der Gründungsversammlung. Bemerkungen zu den Referaten von Dr. Rudolf Maier und Frau L. Kolisko. - Der Baugedanke von Dornach. – Einiges über die Einrichtung der Hochschule für Geisteswissenschaft
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 21
+    ga: 260
+    type: vortrag
+    datum: 31.12.1923
+    ort: Dornach
+    titel: Versammlung der Anthroposophischen Gesellschaft in der Schweiz. Freie Aussprache der schweizerischen Delegierten unter dem Vorsitz Rudolf Steiner
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 22
+    ga: 260
+    type: vortrag
+    datum: 31.12.1923
+    ort: Dornach
+    reihe: Die Weltgeschichte in anthroposophischer Beleuchtung und als Grundlage der Erkenntnis des Menschen
+    titel: Der Brand von Ephesus und der Brand des Goetheanum. Der Neid der Götter - Der Neid der Menschen (Rückblick auf den Brand des Goetheanums in der Silvesternacht 1922/1923)
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 23
+    ga: 260
+    type: vortrag
+    datum: 01.01.1924
+    ort: Dornach
+    titel: Fortsetzung der Gründungsversammlung. Erläuterungen zum Weihespruch der Grundsteinlegung
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 24
+    ga: 260
+    type: vortrag
+    datum: 01.01.1924
+    ort: Dornach
+    titel: Der Baugedanke von Dornach. Zum Wiederaufbau des Goetheanums
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 25
+    ga: 260
+    type: vortrag
+    datum: 01.01.1924
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: "Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924.Begrüssungsworte beim \"Rout\""
+  - seq: 26
+    ga: 260
+    type: vortrag
+    datum: 01.01.1924
+    ort: Dornach
+    reihe: Die Weltgeschichte in anthroposophischer Beleuchtung und als Grundlage der Erkenntnis des Menschen
+    titel: Das richtige Hineinkommen in die geistige Welt. Die uns auferlegte Verantwortung
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924

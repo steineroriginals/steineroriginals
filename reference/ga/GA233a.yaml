@@ -1,0 +1,76 @@
+# GA 233a — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 233a).
+
+ga: 233a
+title: GA 233a
+pdf: GA 233a.pdf
+period: 1924
+entry_count: 10
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 233a
+    type: vortrag
+    datum: 04.01.1924
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 233a
+    type: vortrag
+    datum: 05.01.1924
+    ort: Dornach
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 233a
+    type: vortrag
+    datum: 06.01.1924
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 233a
+    type: vortrag
+    datum: 11.01.1924
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 233a
+    type: vortrag
+    datum: 12.01.1924
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 233a
+    type: vortrag
+    datum: 13.01.1924
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 233a
+    type: vortrag
+    datum: 19.04.1924
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 8
+    ga: 233a
+    type: vortrag
+    datum: 20.04.1924
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 9
+    ga: 233a
+    type: vortrag
+    datum: 21.04.1924
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 10
+    ga: 233a
+    type: vortrag
+    datum: 22.04.1924
+    ort: —
+    titel: Vierter Vortrag

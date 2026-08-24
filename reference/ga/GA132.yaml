@@ -1,0 +1,47 @@
+# GA 132 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 132.pdf table of contents.
+
+ga: 132
+title: "Nachlass-Verwaltung Buch: 132 Seite: 2 RUDOLF STEINER"
+pdf: GA 132.pdf
+period: 1911
+entry_count: 5
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 132
+    type: vortrag
+    datum: 31.10.1911
+    ort: Berlin
+    titel: "ERSTER VORTRAG, Berlin"
+  - seq: 2
+    ga: 132
+    type: vortrag
+    datum: 07.11.1911
+    ort: Berlin
+    titel: "ZWEITER VORTRAG, Berlin"
+  - seq: 3
+    ga: 132
+    type: vortrag
+    datum: 14.11.1911
+    ort: Berlin
+    titel: "DRITTER VORTRAG, Berlin"
+  - seq: 4
+    ga: 132
+    type: vortrag
+    datum: 21.11.1911
+    ort: Berlin
+    titel: "VIERTER VORTRAG, Berlin"
+  - seq: 5
+    ga: 132
+    type: vortrag
+    datum: 05.12.1911
+    ort: Berlin
+    reihe: Wille. Das Aufblitzen der Egoität durch diesen zurückgehaltenen
+    titel: "FÜNFTER VORTRAG, Berlin"

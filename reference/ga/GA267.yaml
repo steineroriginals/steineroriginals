@@ -1,0 +1,65 @@
+# GA 267 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 267).
+
+ga: 267
+title: RUDOLF STEINER GESAMTAUSGABE VERÖFFENTLICHUNGEN GESCHICHTE
+pdf: GA 267.pdf
+period: 1905–1924
+entry_count: 7
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 267
+    type: vortrag
+    datum: 03.10.1905
+    ort: Berlin
+    titel: Reinkarnation. Tierkreis. Die Hochzeit zu Kana. Trappisten. Judas
+  - seq: 2
+    ga: 267
+    type: vortrag
+    datum: 04.09.1906
+    ort: Stuttgart
+    reihe: Vor dem Tore der Theosophie
+    titel: 3. Rosenkreuzer-Schulung. - Einblick in den Zusammenhang zwischen dem Menschen und der ganzen Erde. Erdbeben und Vulkanausbrüche
+  - seq: 3
+    ga: 267
+    type: vortrag
+    datum: 06.06.1907
+    ort: München
+    reihe: Die Theosophie des Rosenkreuzers
+    titel: Das Wesen der Einweihung
+  - seq: 4
+    ga: 267
+    type: vortrag
+    datum: 08.04.1911
+    ort: Bologna
+    titel: Die psychologischen Grundlagen und die erkenntnistheoretische Stellung der Theosophie
+    beschreibung: "IV. Internationaler Philosophen-Kongreß. Sektion V : Filosofia della Religione."
+  - seq: 5
+    ga: 267
+    type: vortrag
+    datum: 20.08.1922
+    ort: Oxford
+    titel: "Die Erforschung der übersinnlichen Welten. Die Wege der modernen Initiationserkenntnis. Imagination, Inspiration und Intuition"
+    beschreibung: Oxford Holiday Conferences «Spiritual Values in Education and Social Life»
+  - seq: 6
+    ga: 267
+    type: vortrag
+    datum: 20.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: "Die geistige und physische Welt- und Menschheitsentwicklung der Vergangenheit, Gegenwart und Zukunft im Lichte der Anthroposophie"
+    titel: Der Initiationsweg. Inspiration und Intuition
+    beschreibung: International Summer School 18.-31. August
+  - seq: 7
+    ga: 267
+    type: vortrag
+    datum: 22.04.1924
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Osterkurs für Ärzte und Medizinstudierende 21. bis 25. April 1924 Kursus für Mediziner der Medizinischen Sektion der Freien Hochschule für Geisteswissenschaft

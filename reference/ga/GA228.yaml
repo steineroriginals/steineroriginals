@@ -1,0 +1,70 @@
+# GA 228 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 228).
+
+ga: 228
+title: GA 228
+pdf: GA 228.pdf
+period: 1923
+entry_count: 9
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 228
+    type: vortrag
+    datum: 27.07.1923
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 228
+    type: vortrag
+    datum: 28.07.1923
+    ort: Dornach
+    titel: "ZWEITER VORTRAG, Dornach"
+  - seq: 3
+    ga: 228
+    type: vortrag
+    datum: 29.07.1923
+    ort: Dornach
+    titel: "DRITTER VORTRAG, Dornach"
+  - seq: 4
+    ga: 228
+    type: vortrag
+    datum: 02.09.1923
+    ort: London
+    titel: Schlafen und Wachen. Der Zusammenhang zwischen den Wesensgliedern des Menschen und den höheren Hierarchien. Die Beziehungen der Wesenheiten der Planetenkörper zueinander und zu den Menschen
+  - seq: 5
+    ga: 228
+    type: vortrag
+    datum: 09.09.1923
+    ort: Dornach
+    titel: Bericht über die englische Reise
+  - seq: 6
+    ga: 228
+    type: vortrag
+    datum: 10.09.1923
+    ort: Dornach
+    titel: Druidenkultur und Wotanzivilisation
+  - seq: 7
+    ga: 228
+    type: vortrag
+    datum: 14.09.1923
+    ort: Stuttgart
+    titel: "ERSTER VORTRAG, Stuttgart"
+  - seq: 8
+    ga: 228
+    type: vortrag
+    datum: 15.09.1923
+    ort: Stuttgart
+    titel: "Der Mensch in Vergangenheit, Gegenwart und Zukunft"
+  - seq: 9
+    ga: 228
+    type: vortrag
+    datum: 16.09.1923
+    ort: Stuttgart
+    titel: "Der Mensch in Vergangenheit, Gegenwart und Zukunft"

@@ -1,0 +1,112 @@
+# GA 171 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 171).
+
+ga: 171
+title: RUDOLF S T E I N E R KOSMISCHE UND MENSCHLICHE GESCHICHTE Band I
+pdf: GA 171.pdf
+period: 1916
+entry_count: 16
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 171
+    type: vortrag
+    datum: 16.09.1916
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 171
+    type: vortrag
+    datum: 17.09.1916
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 171
+    type: vortrag
+    datum: 18.09.1916
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 171
+    type: vortrag
+    datum: 23.09.1916
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 171
+    type: vortrag
+    datum: 24.09.1916
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 171
+    type: vortrag
+    datum: 25.09.1916
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 171
+    type: vortrag
+    datum: 30.09.1916
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 171
+    type: vortrag
+    datum: 01.10.1916
+    ort: —
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 171
+    type: vortrag
+    datum: 02.10.1916
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 171
+    type: vortrag
+    datum: 07.10.1916
+    ort: —
+    titel: Zehnter Vortrag
+  - seq: 11
+    ga: 171
+    type: vortrag
+    datum: 14.10.1916
+    ort: —
+    titel: Auslese der Passendsten. Gegensatz dazu Kropotkins Prinzip der gegen- seitigen Hilfeleistung. H. P. Blavatsky zwischen östlichen und westlichen Beeinflussungen.
+  - seq: 12
+    ga: 171
+    type: vortrag
+    datum: 15.10.1916
+    ort: —
+    titel: "Polarität zwischen westlicher und östlicher Kultur in Europa. Westliches Glücks- und östliches Erlösungsstreben. Neue Erkenntnisse: Urphänome- ne und freie Imaginationen. Bourgeois und Pilger. Calderons «Wunder- tätiger Magus» und Goethes «Faust»."
+  - seq: 13
+    ga: 171
+    type: vortrag
+    datum: 21.10.1916
+    ort: —
+    titel: "Auseinandergehen des Lebensäthers und des erdigen Elements in der menschlichen Organisation. Im Westen: Beobachtung von Verwandlung und Geburt, Streben nach Glück und Nützlichkeit. Osten: Aufsuchen des Bösen und des Leidens, Hinlenkung auf den Tod, Suche nach Erlö- sung und Befreiung. Das «Büro Julia». Spiritismus; Freuds Psychoanalyse; Laurence Oliphant; H. P. Blavatsky; Ku Hung Ming. Pol der Utilität, Pol des Sakramentalismus. Bourgeois und Pilger. Blavatskys Persönlichkeit."
+  - seq: 14
+    ga: 171
+    type: vortrag
+    datum: 28.10.1916
+    ort: —
+    titel: Episodische Betrachtung. Versiegen der Goetheschen Anschauung des in der Sinneswelt verborgenen Geistigen im 19. Jahrhundert. Haeckels bio- genetisches Grundgesetz. Weiterbildung Goethescher Anschauungen durch die Geisteswissenschaft. Kopf und übriger Organismus des Men- schen in der Entwicklung.
+  - seq: 15
+    ga: 171
+    type: vortrag
+    datum: 29.10.1916
+    ort: —
+    titel: Faust und der Erdgeist. Der Einfluß des Materialismus auf das Gedanken- leben im 19. Jahrhundert. Die Erforschung des Leblosen. Die Beobach- tungen von John Tyndall und Leconte. Die Theologie im Banne der Na- turwissenschaft. Die Verkennung der Anthroposophie durch Theologen.
+  - seq: 16
+    ga: 171
+    type: vortrag
+    datum: 30.10.1916
+    ort: —
+    titel: Sechzehnter Vortrag

@@ -1,0 +1,112 @@
+# GA 301 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 301).
+
+ga: 301
+title: "Seite: 1 Zu den Veröffentlichungen aus dem Vortragswerk von Rudolf Steiner Die Grundlage der anthroposophisch orienti..."
+pdf: GA 301.pdf
+period: 1920
+entry_count: 16
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 301
+    type: vortrag
+    datum: 20.04.1920
+    ort: Basel
+    titel: "ERSTER VORTRAG, Basel"
+  - seq: 2
+    ga: 301
+    type: vortrag
+    datum: 21.04.1920
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 301
+    type: vortrag
+    datum: 22.04.1920
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 301
+    type: vortrag
+    datum: 23.04.1920
+    ort: —
+    titel: Zum Viertenvortrag
+  - seq: 5
+    ga: 301
+    type: vortrag
+    datum: 26.04.1920
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 301
+    type: vortrag
+    datum: 28.04.1920
+    ort: —
+    titel: zum SECHSTEN VORTRAG
+  - seq: 7
+    ga: 301
+    type: vortrag
+    datum: 29.04.1920
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 301
+    type: vortrag
+    datum: 03.05.1920
+    ort: —
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 301
+    type: vortrag
+    datum: 04.05.1920
+    ort: —
+    titel: Zum Neuntenvortrag
+  - seq: 10
+    ga: 301
+    type: vortrag
+    datum: 05.05.1920
+    ort: —
+    titel: Zehnter Vortrag
+  - seq: 11
+    ga: 301
+    type: vortrag
+    datum: 06.05.1920
+    ort: —
+    titel: Elfter Vortrag
+  - seq: 12
+    ga: 301
+    type: vortrag
+    datum: 07.05.1920
+    ort: —
+    titel: Zwölfter Vortrag
+  - seq: 13
+    ga: 301
+    type: vortrag
+    datum: 10.05.1920
+    ort: —
+    titel: Dreizehnter Vortrag
+  - seq: 14
+    ga: 301
+    type: vortrag
+    datum: 11.05.1920
+    ort: —
+    titel: Vierzehnter Vortrag
+  - seq: 15
+    ga: 301
+    type: vortrag
+    datum: 15.05.1920
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 16
+    ga: 301
+    type: vortrag
+    datum: 16.05.1920
+    ort: Dornach
+    titel: Kein Titel

@@ -1,0 +1,236 @@
+# GA 85 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 85).
+
+ga: 85
+title: Nachträge zur Abteilung
+pdf: GA 085.pdf
+period: 1894–1921
+entry_count: 35
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 85
+    type: vortrag
+    datum: 19.01.1894
+    ort: Weimar
+    titel: "Genie, Irrsinn und Verbrechertum"
+    beschreibung: "populär-wissenschaftlicher Vortrag, veranstaltet vom \"Volksbildungsverein\""
+  - seq: 2
+    ga: 85
+    type: vortrag
+    datum: 01.04.1895
+    ort: Weimar
+    titel: Kein Titel
+    beschreibung: Inoffizelle Ansprache bei einer Bismarckfeier
+  - seq: 3
+    ga: 85
+    type: vortrag
+    datum: 17.03.1900
+    ort: Berlin
+    titel: "Methoden, das Gesetz von der Erhaltung der Kraft im Hochschulunterricht zu behandeln"
+    beschreibung: Vortrag für den «Verband für Hochschulpädagogik».
+  - seq: 4
+    ga: 85
+    type: vortrag
+    datum: 18.01.1902
+    ort: Dresden
+    titel: "Friedrich Nietzsche, der einsame Kämpfer, und die Kultur der Gegenwart"
+  - seq: 5
+    ga: 85
+    type: vortrag
+    datum: 03.12.1904
+    ort: Berlin
+    titel: Die deutsche Mystik und ihre Voraussetzungen
+    beschreibung: Vorträge in der Freien Hochschule
+  - seq: 6
+    ga: 85
+    type: vortrag
+    datum: 10.12.1904
+    ort: Berlin
+    titel: Die deutsche Mystik und ihre Voraussetzungen
+    beschreibung: Vorträge in der Freien Hochschule
+  - seq: 7
+    ga: 85
+    type: vortrag
+    datum: 08.02.1906
+    ort: Berlin
+    titel: Theosophie und Kunst
+  - seq: 8
+    ga: 85
+    type: vortrag
+    datum: 31.03.1906
+    ort: Köln
+    titel: Siegfried und die Götterdämmerung
+  - seq: 9
+    ga: 85
+    type: vortrag
+    datum: 26.04.1907
+    ort: Berlin
+    titel: Bibel und Weisheit II
+  - seq: 10
+    ga: 85
+    type: vortrag
+    datum: 20.10.1907
+    ort: Berlin
+    titel: Über den Fortgang des Geisteslebens
+  - seq: 11
+    ga: 85
+    type: vortrag
+    datum: 23.11.1907
+    ort: Basel
+    titel: Die Naturwissenschaft am Scheidewege
+  - seq: 12
+    ga: 85
+    type: vortrag
+    datum: 19.08.1908
+    ort: Karlsruhe
+    titel: Germanische Mythen und Göttersagen
+  - seq: 13
+    ga: 85
+    type: vortrag
+    datum: 19.04.1909
+    ort: Düsseldorf
+    titel: Der Eintritt des Christus in den Okzident
+  - seq: 14
+    ga: 85
+    type: vortrag
+    datum: 16.01.1910
+    ort: Norrköping
+    titel: Das Geheimnis des Todes als Schlüssel zum Rätsel des Lebens
+  - seq: 15
+    ga: 85
+    type: vortrag
+    datum: 08.03.1910
+    ort: Stuttgart
+    titel: Askese und Krankheit
+  - seq: 16
+    ga: 85
+    type: vortrag
+    datum: 01.02.1911
+    ort: Bonn
+    titel: "Galilei, Giordano Bruno und Goethe"
+  - seq: 17
+    ga: 85
+    type: vortrag
+    datum: 03.06.1912
+    ort: Kristiania (Oslo)
+    titel: Tod und Unsterblichkeit im Lichte der Geisteswissenschaft
+  - seq: 18
+    ga: 85
+    type: vortrag
+    datum: 16.12.1912
+    ort: Bern
+    titel: Wahrheiten und Irrtümer der Geistesforschung
+  - seq: 19
+    ga: 85
+    type: vortrag
+    datum: 24.02.1913
+    ort: Mannheim
+    titel: Die Theosophie in ihrem Verhältnis zum Buddhismus und Christentum
+  - seq: 20
+    ga: 85
+    type: vortrag
+    datum: 09.10.1913
+    ort: Bergen
+    titel: Die Rätsel des Lebens
+  - seq: 21
+    ga: 85
+    type: vortrag
+    datum: 04.03.1914
+    ort: Stuttgart
+    titel: Aufgaben und Ziel der Geisteswissenschaft und das geistige Suchen in der Gegenwart
+  - seq: 22
+    ga: 85
+    type: vortrag
+    datum: 11.04.1914
+    ort: Wien
+    titel: Robert Hamerling als Philosoph und Reformator
+    beschreibung: Vortrag für den Bund «Homo contra Homunculus»
+  - seq: 23
+    ga: 85
+    type: vortrag
+    datum: 16.04.1914
+    ort: Prag
+    titel: "Wie findet die Menschenseele ihre wahre Wesenheit?"
+  - seq: 24
+    ga: 85
+    type: vortrag
+    datum: 20.08.1918
+    ort: Dornach
+    titel: "Leseprobe für einer Auführung der \"Klassischen Walpurgisnacht\" aus Goethes \"Faust\""
+  - seq: 25
+    ga: 85
+    type: vortrag
+    datum: 23.08.1918
+    ort: Dornach
+    titel: "Leseprobe (Fortsetzung) für einer Auführung der \"Klassischen Walpurgisnacht\" aus Goethes \"Faust\""
+  - seq: 26
+    ga: 85
+    type: vortrag
+    datum: 16.01.1919
+    ort: Dornach
+    titel: Einleitende Worte zur Aufführung der Szene «Ägäisches Meer» aus «Faust» II. Teil vor Gästen (deutschen Internierten)
+  - seq: 27
+    ga: 85
+    type: vortrag
+    datum: 19.01.1919
+    ort: Dornach
+    titel: "Ansprache vor der klassischen Walpurgisnacht, Faust"
+  - seq: 28
+    ga: 85
+    type: vortrag
+    datum: 25.01.1919
+    ort: Dornach
+    titel: Einleitende Worte vor der Aufführung der Szene «Ägäisches Meer» aus «Faust» II. Teil vor Gästen
+  - seq: 29
+    ga: 85
+    type: vortrag
+    datum: 26.01.1919
+    ort: Dornach
+    titel: Einleitende Worte zur Aufführung der Szene «Ägäisches Meer» aus «Faust» II. Teil vor Gästen
+  - seq: 30
+    ga: 85
+    type: vortrag
+    datum: 02.02.1919
+    ort: Dornach
+    titel: Menschliches Erkenntnisstreben und echte Künstlerschaft
+    beschreibung: Einleitende Worte zur Aufführung der Szene «Ägäisches Meer» aus «Faust» II. Teil vor Gästen
+  - seq: 31
+    ga: 85
+    type: vortrag
+    datum: 20.09.1919
+    ort: Dresden
+    titel: Die philosophische Rechtfertigung der Anthroposophie
+    beschreibung: Vortrag in der Schopenhauer-Gesellschaft
+  - seq: 32
+    ga: 85
+    type: vortrag
+    datum: 21.09.1919
+    ort: Dresden
+    titel: "Der Weg der inneren Schulung und die Gefahren des Okkultismus Spiritismus, Mediumschaft und anderes"
+  - seq: 33
+    ga: 85
+    type: vortrag
+    datum: 26.09.1920
+    ort: Dornach
+    titel: Einleitende Worte zur musikalisch-eurythmischen Darbietung
+    beschreibung: Eröffnung des Ersten anthroposophischen Hochschulkursus am Goetheanum (26. Sept.-16. Okt.)
+  - seq: 34
+    ga: 85
+    type: vortrag
+    datum: 21.03.1921
+    ort: Stuttgart
+    titel: Erkenntnistheorie und Geist-Erkenntnis. Antwort Rudolf Steiners auf Ausführungen des Philosophen Kurt Greiling
+  - seq: 35
+    ga: 85
+    type: vortrag
+    datum: 04.06.1921
+    ort: Zürich
+    titel: Disputationsabend zu naturwissenschaftlichen Fragen
+    beschreibung: Disputationsabend. Veranstaltung des Bundes für Anthroposophische Hochschularbeit

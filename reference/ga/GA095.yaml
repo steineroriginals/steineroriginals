@@ -1,0 +1,114 @@
+# GA 95 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 95).
+
+ga: 95
+title: GA 95
+pdf: GA 095.pdf
+period: 1906
+entry_count: 15
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 95
+    type: vortrag
+    datum: 22.08.1906
+    ort: Stuttgart
+    titel: "ERSTER VORTRAG, Stuttgart"
+  - seq: 2
+    ga: 95
+    type: vortrag
+    datum: 23.08.1906
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 95
+    type: vortrag
+    datum: 24.08.1906
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 95
+    type: vortrag
+    datum: 25.08.1906
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 95
+    type: vortrag
+    datum: 26.08.1906
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 95
+    type: vortrag
+    datum: 27.08.1906
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 95
+    type: vortrag
+    datum: 28.08.1906
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 95
+    type: vortrag
+    datum: 29.08.1906
+    ort: —
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 95
+    type: vortrag
+    datum: 30.08.1906
+    ort: Stuttgart
+    reihe: Vor dem Tore der Theosophie
+    titel: Gut und Böse. Karmische Einzelfragen
+  - seq: 10
+    ga: 95
+    type: vortrag
+    datum: 31.08.1906
+    ort: Stuttgart
+    reihe: Vor dem Tore der Theosophie
+    titel: Evolution der Erde
+  - seq: 11
+    ga: 95
+    type: vortrag
+    datum: 01.09.1906
+    ort: —
+    titel: Vortrag
+  - seq: 12
+    ga: 95
+    type: vortrag
+    datum: 02.09.1906
+    ort: —
+    titel: Okkulte Entwicklung
+  - seq: 12a
+    ga: 95
+    type: fragenbeantwortung
+    datum: 02.09.1906
+    ort: —
+    titel: FRAGENBEANTWORTUNG                    (Notizen)
+  - seq: 13
+    ga: 95
+    type: vortrag
+    datum: 03.09.1906
+    ort: —
+    titel: Dreizehnter Vortrag
+  - seq: 14
+    ga: 95
+    type: fragenbeantwortung
+    datum: 04.09.1906
+    ort: —
+    titel: FRAGENBEANTWORTUNG (Notizen)
+  - seq: 15
+    ga: 95
+    type: vortrag
+    datum: 04.09.1906
+    ort: —
+    titel: Vierzehnter Vortrag

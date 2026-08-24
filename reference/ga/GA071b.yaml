@@ -1,0 +1,118 @@
+# GA 71b — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 71b).
+
+ga: 71b
+title: Der Mensch als Geist- und Seelenwesen
+pdf: GA 071b.pdf
+period: 1918
+entry_count: 17
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 71b
+    type: vortrag
+    datum: 11.02.1918
+    ort: Nürnberg
+    titel: "Leib, Seele und Geist des Menschen. Ergebnisse aus den Forschungen der Geisteswissenschaft"
+  - seq: 2
+    ga: 71b
+    type: vortrag
+    datum: 12.02.1918
+    ort: Nürnberg
+    titel: Die Offenbarungen des Unbewussten im Seelenleben vom geisteswissenschaftlichen Gesichtspunkte
+  - seq: 3
+    ga: 71b
+    type: vortrag
+    datum: 16.02.1918
+    ort: München
+    titel: "Das Traumleben und die verschiedenen Traumarten an­ hand von Beispielen. Unterschied zwischen Traumbil­ dern und Halluzinationen. Mediumistische Erscheinun­ gen am Beispiel, das Oliver Lodge beschreibt. Das Gebiet des künstlerischen Schaffens. Über den Schulungsweg. Be­ sonderheiten des schauenden Bewusstseins. Bedeutung der Aneignung von Geistesgegenwart. Somnambulismus. Ab­ strakt naturwissenschaftliche und geistige Betrachtung von Mensch und Welt. Der Mensch als Geist- und Seelenwesen. Forschungen vom Gesichtspunkt der Geisteswissenschaft"
+  - seq: 4
+    ga: 71b
+    type: vortrag
+    datum: 18.02.1918
+    ort: München
+    titel: Die Offenbarungen des Unbewussten im Seelenleben vom geisteswissenschaftlichen Gesichtspunkt
+  - seq: 5
+    ga: 71b
+    type: vortrag
+    datum: 25.02.1918
+    ort: Stuttgart
+    titel: Der Mensch als Geist- und Seelenwesen. Forschungen vom Gesichtspunkte der Geisteswissenschaft
+  - seq: 6
+    ga: 71b
+    type: vortrag
+    datum: 26.02.1918
+    ort: Stuttgart
+    titel: Die Offenbarungen des Unbewussten im Seelenleben vom geisteswissenschaftlichen Gesichtspunkte
+  - seq: 7
+    ga: 71b
+    type: vortrag
+    datum: 28.03.1918
+    ort: Berlin
+    titel: Das Leben in der Kunst und die Kunst im Leben vom geisteswissenschaftlichen Gesichtspunkte
+  - seq: 8
+    ga: 71b
+    type: vortrag
+    datum: 24.04.1918
+    ort: Stuttgart
+    titel: Der übersinnliche Mensch und die Fragen der Willensfreiheit und Unsterblichkeit nach Ergebnissen der Geisteswissenschaft
+  - seq: 9
+    ga: 71b
+    type: vortrag
+    datum: 25.04.1918
+    ort: Stuttgart
+    titel: Die Rätsel des geschichtlichen Lebens der Menschheit nach Ergebnissen der Geisteswissenschaft
+  - seq: 10
+    ga: 71b
+    type: vortrag
+    datum: 01.05.1918
+    ort: München
+    titel: "Herman Grimms Charakterisierung von Edward Gibbons Geschichtsbetrachtung. Wachen, Träumen und Schlafen im Menschenleben und das Wirken des Unbewussten in der Geschichte. Geisteswissenschaftliche Geschichtsbetrach­ tung unter Einbeziehung der Scclcncntwicklung. Unter­ schiede bei verschiedenen Völkern. Das «Jüngerwerden» der Menschheit und die Bedeutung des Christusereig- nisses. Verständnis für die Gegenwart durch wahre Ge­ schichtsbetrachtung fühlt zum Ergreifen der Wirklichkeit. Der übersinnliche Mensch und die Fragen der Willensfreiheit und Unsterblichkeit nach Ergebnissen der Geisteswissenschaft"
+  - seq: 11
+    ga: 71b
+    type: vortrag
+    datum: 03.05.1918
+    ort: München
+    titel: Der Mensch und das geschichtliche und moralische Leben der Menschheit nach Ergebnissen der Geisteswissenschaft
+  - seq: 12
+    ga: 71b
+    type: vortrag
+    datum: 11.05.1918
+    ort: Leipzig
+    titel: Der übersinnliche Mensch und die Fragen der Willensfreiheit und Seelenunsterblichkeit
+  - seq: 13
+    ga: 71b
+    type: vortrag
+    datum: 27.05.1918
+    ort: Wien
+    titel: "Wie kann man wissenschaftlich das über­ sinnliche Leben und Wesen der Menschen­ seele erkennen? Ergebnisse geistiger Wirklichkeitsforschung"
+  - seq: 14
+    ga: 71b
+    type: vortrag
+    datum: 29.05.1918
+    ort: Wien
+    titel: Das geschichtliche Leben der Menschheit im Lichte übersinnlicher Wirklichkeits­ forschung
+  - seq: 15
+    ga: 71b
+    type: vortrag
+    datum: 14.06.1918
+    ort: Prag
+    titel: "Wie kann man das übersinnliche Leben und Wesen der Menschenseele erkennen?"
+  - seq: 16
+    ga: 71b
+    type: vortrag
+    datum: 01.07.1918
+    ort: Hamburg
+    titel: Die wissenschaftliche Erkenntnis des Über­ sinnlichen UND DIE WAHRE WIRKLICHKEIT DES menschlichen Lebens
+  - seq: 17
+    ga: 71b
+    type: vortrag
+    datum: 08.11.1918
+    ort: Basel
+    titel: "Sittliches, soziales und religiöses Leben im Lichte einer übersinnlichen Welterkenntnis"

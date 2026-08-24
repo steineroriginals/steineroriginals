@@ -1,0 +1,64 @@
+# GA 324 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 324.pdf table of contents.
+
+ga: 324
+title: "Naturbeobachtung,"
+pdf: GA 324.pdf
+period: 1921
+entry_count: 8
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 324
+    type: vortrag
+    datum: 16.03.1921
+    ort: Stuttgart
+    titel: Erster Vortrag
+  - seq: 2
+    ga: 324
+    type: vortrag
+    datum: 17.03.1921
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 324
+    type: vortrag
+    datum: 18.03.1921
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 324
+    type: vortrag
+    datum: 19.03.1921
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 324
+    type: vortrag
+    datum: 21.03.1921
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 324
+    type: vortrag
+    datum: 22.03.1921
+    ort: —
+    titel: Vortrag
+  - seq: 7
+    ga: 324
+    type: vortrag
+    datum: 23.03.1921
+    ort: —
+    titel: Achter Vortrag
+  - seq: 8
+    ga: 324
+    type: vortrag
+    datum: 23.03.1921
+    ort: —
+    titel: Diskussionsvotum

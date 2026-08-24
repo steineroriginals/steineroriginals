@@ -1,0 +1,94 @@
+# GA 158 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 158).
+
+ga: 158
+title: GA 158
+pdf: GA 158.pdf
+period: 1912–1914
+entry_count: 13
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 158
+    type: ansprache
+    datum: 01.01.1912
+    ort: Hannover
+    titel: Ansprache
+  - seq: 2
+    ga: 158
+    type: fragenbeantwortung
+    datum: 07.04.1912
+    ort: Helsingfors
+    titel: Fragenbeantwortung
+  - seq: 3
+    ga: 158
+    type: vortrag
+    datum: 09.04.1912
+    ort: Helsingfors
+    titel: "ÖFFENTLICHER VORTRAG, Helsingfors"
+  - seq: 4
+    ga: 158
+    type: ansprache
+    datum: 11.04.1912
+    ort: Helsingfors
+    titel: Ansprache
+  - seq: 5
+    ga: 158
+    type: ansprache
+    datum: 07.01.1913
+    ort: Berlin
+    titel: Ansprache
+  - seq: 6
+    ga: 158
+    type: ansprache
+    datum: 05.06.1913
+    ort: Helsingfors
+    titel: Ansprache
+  - seq: 7
+    ga: 158
+    type: vortrag
+    datum: 09.11.1914
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 8
+    ga: 158
+    type: vortrag
+    datum: 14.11.1914
+    ort: Dornach
+    titel: "ZWEITER VORTRAG, Dornach"
+  - seq: 9
+    ga: 158
+    type: vortrag
+    datum: 15.11.1914
+    ort: Dornach
+    titel: "DRITTER VORTRAG, Dornach"
+  - seq: 10
+    ga: 158
+    type: vortrag
+    datum: 20.11.1914
+    ort: Dornach
+    titel: "VIERTER VORTRAG, Dornach"
+  - seq: 11
+    ga: 158
+    type: vortrag
+    datum: 21.11.1914
+    ort: Dornach
+    titel: "FÜNFTER VORTRAG, Dornach"
+  - seq: 12
+    ga: 158
+    type: vortrag
+    datum: 22.11.1914
+    ort: Dornach
+    titel: "SECHSTER VORTRAG, Dornach"
+  - seq: 13
+    ga: 158
+    type: ansprache
+    datum: 31.12.1914
+    ort: Dornach
+    titel: Ansprache

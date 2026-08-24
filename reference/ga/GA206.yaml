@@ -1,0 +1,82 @@
+# GA 206 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 206.pdf table of contents.
+
+ga: 206
+title: DER MENSCH Band I IN SEINEM ZUSAMMENHANG
+pdf: GA 206.pdf
+period: 1921
+entry_count: 11
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 206
+    type: vortrag
+    datum: 22.07.1921
+    ort: Dornach
+    titel: "VIERZEHNTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 206
+    type: vortrag
+    datum: 23.07.1921
+    ort: —
+    titel: Fünfzehnter Vortrag
+  - seq: 3
+    ga: 206
+    type: vortrag
+    datum: 24.07.1921
+    ort: —
+    titel: Sechzehnter Vortrag
+  - seq: 4
+    ga: 206
+    type: vortrag
+    datum: 05.08.1921
+    ort: —
+    titel: Siebzehnter Vortrag
+  - seq: 5
+    ga: 206
+    type: vortrag
+    datum: 06.08.1921
+    ort: —
+    titel: Achtzehnter Vortrag
+  - seq: 6
+    ga: 206
+    type: vortrag
+    datum: 07.08.1921
+    ort: —
+    titel: Neunzehnter Vortrag
+  - seq: 7
+    ga: 206
+    type: vortrag
+    datum: 12.08.1921
+    ort: —
+    titel: Zwanzigster Vortrag
+  - seq: 8
+    ga: 206
+    type: vortrag
+    datum: 13.08.1921
+    ort: —
+    titel: Einundzwanzigster Vortrag
+  - seq: 9
+    ga: 206
+    type: vortrag
+    datum: 14.08.1921
+    ort: —
+    titel: Zweiundzwanzigster Vortrag
+  - seq: 10
+    ga: 206
+    type: vortrag
+    datum: 19.08.1921
+    ort: —
+    titel: Dreiundzwanzigster Vortrag
+  - seq: 11
+    ga: 206
+    type: vortrag
+    datum: 20.08.1921
+    ort: —
+    titel: Vierundzwanzigster Vortrag

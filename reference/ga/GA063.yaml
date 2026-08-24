@@ -1,0 +1,88 @@
+# GA 63 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 63).
+
+ga: 63
+title: GA 63
+pdf: GA 063.pdf
+period: 1913–1914
+entry_count: 12
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 63
+    type: vortrag
+    datum: 30.10.1913
+    ort: Berlin
+    titel: Ausblicke in die Ziele der Gegenwart
+  - seq: 2
+    ga: 63
+    type: vortrag
+    datum: 06.11.1913
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 3
+    ga: 63
+    type: vortrag
+    datum: 20.11.1913
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 4
+    ga: 63
+    type: vortrag
+    datum: 27.11.1913
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 5
+    ga: 63
+    type: vortrag
+    datum: 04.12.1913
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 6
+    ga: 63
+    type: vortrag
+    datum: 08.01.1914
+    ort: Berlin
+    titel: der Geisteswissenschaft
+  - seq: 7
+    ga: 63
+    type: vortrag
+    datum: 15.01.1914
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 8
+    ga: 63
+    type: vortrag
+    datum: 12.02.1914
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 9
+    ga: 63
+    type: vortrag
+    datum: 26.02.1914
+    ort: Berlin
+    titel: wissenschaft
+  - seq: 10
+    ga: 63
+    type: vortrag
+    datum: 19.03.1914
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 11
+    ga: 63
+    type: vortrag
+    datum: 26.03.1914
+    ort: Berlin
+    titel: XL Homunkulus
+  - seq: 12
+    ga: 63
+    type: vortrag
+    datum: 23.04.1914
+    ort: Berlin
+    titel: XII. Geisteswissenschaft als Lebensgut

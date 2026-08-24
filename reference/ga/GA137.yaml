@@ -1,0 +1,76 @@
+# GA 137 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 137).
+
+ga: 137
+title: "Nachlass-Verwaltung Buch: 137 Seite: 2 RUDOLF"
+pdf: GA 137.pdf
+period: 1912
+entry_count: 10
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 137
+    type: vortrag
+    datum: 02.06.1912
+    ort: Kristiania (Oslo)
+    titel: "ERSTER VORTRAG, Kristiania (Oslo)"
+  - seq: 2
+    ga: 137
+    type: vortrag
+    datum: 04.06.1912
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 137
+    type: vortrag
+    datum: 05.06.1912
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 137
+    type: vortrag
+    datum: 06.06.1912
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 137
+    type: vortrag
+    datum: 07.06.1912
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 137
+    type: vortrag
+    datum: 08.06.1912
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 137
+    type: vortrag
+    datum: 09.06.1912
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 137
+    type: vortrag
+    datum: 10.06.1912
+    ort: —
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 137
+    type: vortrag
+    datum: 11.06.1912
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 137
+    type: vortrag
+    datum: 12.06.1912
+    ort: —
+    titel: Zehnter Vortrag

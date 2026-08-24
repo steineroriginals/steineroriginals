@@ -1,0 +1,101 @@
+# GA 143 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 143).
+
+ga: 143
+title: "Nachlass-Verwaltung Buch: 143 Seite: 2 RUDOLF STEINER"
+pdf: GA 143.pdf
+period: 1912
+entry_count: 14
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 143
+    type: vortrag
+    datum: 11.01.1912
+    ort: München
+    titel: Nervosität und Ichheit
+  - seq: 2
+    ga: 143
+    type: vortrag
+    datum: 14.01.1912
+    ort: Winterthur
+    reihe: "zwei öffentlichen Vorträgen, die ich hier gehalten habe. Das Eigenar- in seinen Wirkungen groß ist, wie sozusagen wir..."
+    titel: Die Menschlichen Seelenbetatigungen Im Wandel Der Zeiten
+  - seq: 3
+    ga: 143
+    type: vortrag
+    datum: 15.01.1912
+    ort: Zürich
+    titel: Der Weg der Erkenntnis und sein Zusammenhang mit der moralischen Natur des Menschen
+  - seq: 4
+    ga: 143
+    type: vortrag
+    datum: 03.02.1912
+    ort: Breslau
+    titel: Gewissen und Staunen als Hinweise auf geistiges Schauen in Vergangenheit und Zukunft
+  - seq: 5
+    ga: 143
+    type: vortrag
+    datum: 25.02.1912
+    ort: München
+    titel: Spiegelungen des Bewußtseins. Oberbewußtsein und Unterbewußtsein
+  - seq: 6
+    ga: 143
+    type: vortrag
+    datum: 27.02.1912
+    ort: München
+    titel: Verborgene Kräfte des Seelenlebens
+  - seq: 7
+    ga: 143
+    type: vortrag
+    datum: 16.04.1912
+    ort: Stockholm
+    titel: "Erster Vortrag: Der Weg durch die Evangelien und der Weg der inneren Erfahrung"
+  - seq: 8
+    ga: 143
+    type: vortrag
+    datum: 17.04.1912
+    ort: Stockholm
+    titel: "Zweiter Vortrag: Der Weg der Initiation"
+  - seq: 9
+    ga: 143
+    type: vortrag
+    datum: 07.05.1912
+    ort: Köln
+    titel: Die Geheimnisse der Reiche der Himmel in Gleichnissen und in wirklicher Gestalt
+  - seq: 10
+    ga: 143
+    type: vortrag
+    datum: 08.05.1912
+    ort: Köln
+    titel: "Vorverkündigung und Heroldtum des Christus-Impulses. Der Christus-Geist und seine Hüllen: eine Pfingstbotschaft"
+  - seq: 11
+    ga: 143
+    type: vortrag
+    datum: 16.05.1912
+    ort: München
+    titel: Zur Synthese der Weltanschauungen. Eine vierfache Heroldschaft
+  - seq: 12
+    ga: 143
+    type: vortrag
+    datum: 17.12.1912
+    ort: Zürich
+    titel: Die Liebe und ihre Bedeutung in der Welt
+  - seq: 13
+    ga: 143
+    type: vortrag
+    datum: 24.12.1912
+    ort: Berlin
+    titel: Die Geburt des Erdenlichtes aus der Finsternis der Weihenacht
+  - seq: 14
+    ga: 143
+    type: vortrag
+    datum: 29.12.1912
+    ort: Köln
+    titel: Novalis als Verkünder des spirituell zu erfassenden Christus-Impulses

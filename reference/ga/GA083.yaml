@@ -1,0 +1,78 @@
+# GA 83 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 83).
+
+ga: 83
+title: GA 83
+pdf: GA 083.pdf
+period: 1922
+entry_count: 10
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 83
+    type: vortrag
+    datum: 01.06.1922
+    ort: Wien
+    reihe: Anthroposophie und Wissenschaften
+    titel: Anthroposophie und Naturwissenschaft
+    beschreibung: West-Ost. Zweiter internationaler Kongress der anthroposophischen Bewegung 1.-12. Juni 1922
+  - seq: 2
+    ga: 83
+    type: vortrag
+    datum: 02.06.1922
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 83
+    type: vortrag
+    datum: 03.06.1922
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 83
+    type: vortrag
+    datum: 04.06.1922
+    ort: —
+    titel: Vortrag
+  - seq: 5
+    ga: 83
+    type: vortrag
+    datum: 05.06.1922
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 83
+    type: vortrag
+    datum: 07.06.1922
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 83
+    type: vortrag
+    datum: 08.06.1922
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 83
+    type: vortrag
+    datum: 09.06.1922
+    ort: —
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 83
+    type: vortrag
+    datum: 10.06.1922
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 83
+    type: vortrag
+    datum: 11.06.1922
+    ort: —
+    titel: Zehnter Vortrag

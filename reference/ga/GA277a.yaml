@@ -1,0 +1,266 @@
+# GA 277a — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 277a).
+
+ga: 277a
+title: Die Entstehung und Entwicklung der Eurythmie 1912–1918
+pdf: GA 277a.pdf
+period: 1911–1924
+entry_count: 36
+
+excluded:
+  - Teilnehmer-Aufzeichnungen (Lory Maier-Smits, Erna van Deventer, u. a.)
+  - Programme, Plakate, Postkarten, Zeitungsartikel
+  - Notizzettel und Notizbucheintragungen ohne Vortragstext
+  - München 24.08.1913 (nur Ankündigung einer Aufführung)
+  - Vorwort zu Leopold van der Pals
+
+entries:
+  - seq: 1
+    ga: 277a
+    type: vortrag
+    datum: 15.12.1911
+    ort: Berlin
+    titel: "Ein esoterisch-sozialer Zukunftsimpuls. Versuch zur \"Stiftung\" einer Gesellschaft für theosophische Art und Kunst"
+    beschreibung: Mitteilung über die Stiftung einer «Gesellschaft für theosophische Art und Kunst»
+  - seq: 2
+    ga: 277a
+    type: vortrag
+    datum: 28.08.1913
+    ort: München
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur ersten Eurythmie-Darbietung
+  - seq: 3
+    ga: 277a
+    type: vortrag
+    datum: 21.01.1914
+    ort: Berlin
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zu eurythmischen Darbietungen
+  - seq: 4
+    ga: 277a
+    type: vortrag
+    datum: 07.06.1914
+    ort: Dornach
+    titel: Über das Akanthusblatt
+  - seq: 5
+    ga: 277a
+    type: vortrag
+    datum: 28.06.1914
+    ort: Dornach
+    titel: Der baukünstlerische Gedanke des Dornacher Baues. Kreis und Ellipse. Die Säulen
+  - seq: 6
+    ga: 277a
+    type: vortrag
+    datum: 07.10.1914
+    ort: Dornach
+    titel: Einführende Worte über das Wesen der Eurythmie
+    beschreibung: Einleitung zur Rezitation von Gedichten von Christian Morgenstern
+  - seq: 7
+    ga: 277a
+    type: vortrag
+    datum: 18.08.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Vortrag 1
+  - seq: 8
+    ga: 277a
+    type: vortrag
+    datum: 19.08.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Vortrag 2
+  - seq: 9
+    ga: 277a
+    type: vortrag
+    datum: 20.08.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Vortrag 3
+  - seq: 10
+    ga: 277a
+    type: vortrag
+    datum: 21.08.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Vortrag 4
+  - seq: 11
+    ga: 277a
+    type: vortrag
+    datum: 23.08.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Vortrag 5
+  - seq: 12
+    ga: 277a
+    type: vortrag
+    datum: 23.08.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Vortrag 6
+  - seq: 13
+    ga: 277a
+    type: vortrag
+    datum: 24.08.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Vortrag 7
+  - seq: 14
+    ga: 277a
+    type: vortrag
+    datum: 25.08.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Vortrag 8
+  - seq: 15
+    ga: 277a
+    type: vortrag
+    datum: 26.08.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Vortrag 9
+  - seq: 16
+    ga: 277a
+    type: vortrag
+    datum: 27.08.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Vortrag 10
+  - seq: 17
+    ga: 277a
+    type: vortrag
+    datum: 28.08.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Vortrag 11
+  - seq: 18
+    ga: 277a
+    type: vortrag
+    datum: 29.08.1915
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Eurythmieaufführung
+  - seq: 19
+    ga: 277a
+    type: vortrag
+    datum: 30.08.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Vortrag 12
+  - seq: 20
+    ga: 277a
+    type: vortrag
+    datum: 31.08.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Vortrag 13
+  - seq: 21
+    ga: 277a
+    type: vortrag
+    datum: 01.09.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Vortrag 14
+  - seq: 22
+    ga: 277a
+    type: vortrag
+    datum: 02.09.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Vortrag 15
+  - seq: 23
+    ga: 277a
+    type: vortrag
+    datum: 06.09.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Vortrag 16
+  - seq: 24
+    ga: 277a
+    type: vortrag
+    datum: 07.09.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Form für vierzeilige Strophen mit sich wiederholender vierter Zeile
+  - seq: 25
+    ga: 277a
+    type: vortrag
+    datum: 08.09.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: "Das Fünfeck, für Gedichte mit fünf Zeilen"
+  - seq: 26
+    ga: 277a
+    type: vortrag
+    datum: 09.09.1915
+    ort: Dornach
+    reihe: Zweiter Eurythmiekurs
+    titel: Das Sechseck und Achteck für sechs- bzw. achtzeilige Gedichte
+  - seq: 27
+    ga: 277a
+    type: vortrag
+    datum: 13.02.1918
+    ort: Nürnberg
+    titel: Ansprache zur Eurythmie
+    beschreibung: "Die Trennung von Wissenschaft, Kunst und Religion. Kehlkopfbewegungen in der Eurythmie."
+  - seq: 28
+    ga: 277a
+    type: vortrag
+    datum: 19.02.1918
+    ort: München
+    titel: Über Eurythmie
+  - seq: 29
+    ga: 277a
+    type: vortrag
+    datum: 26.02.1918
+    ort: Stuttgart
+    titel: Über die Eurythmie
+    beschreibung: Einleitende Wort zur Eurythmie-Aufführung
+  - seq: 30
+    ga: 277a
+    type: vortrag
+    datum: 24.02.1919
+    ort: Zürich
+    titel: "Was ist und will die neue Bewegungskunst?"
+    beschreibung: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+  - seq: 31
+    ga: 277a
+    type: vortrag
+    datum: 14.12.1919
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 32
+    ga: 277a
+    type: vortrag
+    datum: 09.05.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 33
+    ga: 277a
+    type: vortrag
+    datum: 26.08.1923
+    ort: Penmaenmawr (N.Wales)
+    titel: "Eurythmie, was sie ist und wie sie entstanden ist. Die Eurythmie"
+    beschreibung: International Summer School 18.-31. August
+  - seq: 34
+    ga: 277a
+    type: vortrag
+    datum: 23.12.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung. Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 35
+    ga: 277a
+    type: vortrag
+    datum: 20.04.1924
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung für Mitglieder
+  - seq: 36
+    ga: 277a
+    type: vortrag
+    datum: 30.04.1924
+    ort: Stuttgart
+    titel: Erste Konferenz mit Lehrern der Eurythmie-Schule. Konferenz mit Lehrerinnen und Dozenten des Eurythmeums

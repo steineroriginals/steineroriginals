@@ -1,0 +1,82 @@
+# GA 214 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 214.pdf table of contents.
+
+ga: 214
+title: GA 214
+pdf: GA 214.pdf
+period: 1922
+entry_count: 11
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 214
+    type: vortrag
+    datum: 23.07.1922
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 214
+    type: vortrag
+    datum: 28.07.1922
+    ort: Dornach
+    titel: "Geisteswissenschaftliche Gesichtspunkte zur Entwicklung der Theologie: das verschüttete Geistesleben der ersten vier christli- chen Jahrhunderte. Dionysius Areopagita, Augustinus, die Schola- stik. Das Wirken eines Kollegiums in Italien zur Ausrottung des Initiationsprinzips. Die nach Süden einströmenden nordischen Völker und ihr Verhältnis zum Geistigen, insbesondere zu den Toten. Auserlesene Tote als Hüter des Heiligen Grals, wirkend durch die Ritter des Schwanenordens. Die Lohengrin-Sage. Die mittelalterliche Theologie. Martianus Capeila. Die sieben freien Künste. Die moderne Theologie. Gregor Mendel."
+  - seq: 3
+    ga: 214
+    type: vortrag
+    datum: 29.07.1922
+    ort: Dornach
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 214
+    type: vortrag
+    datum: 30.07.1922
+    ort: Dornach
+    titel: "Glaubenskämpfe des Mittelalters als Grundlage für die neuzeit- lichen Geistesrichtungen. Johannes Scotus Eriugena und der Mönch Gottschalk. Der Prädestinations- und der Abendmahlstreit. Ausläufer der scholastischen Gegensätzlichkeit von Vernunft- und Offenbarungserkenntnis bis in die neueste Zeit, zum Beispiel im Gegensatz zwischen Schiller und Goethe."
+  - seq: 5
+    ga: 214
+    type: vortrag
+    datum: 05.08.1922
+    ort: Dornach
+    titel: "FÜNFTER VORTRAG, Dornach"
+  - seq: 6
+    ga: 214
+    type: vortrag
+    datum: 06.08.1922
+    ort: Dornach
+    titel: "SECHSTER VORTRAG, Dornach"
+  - seq: 7
+    ga: 214
+    type: vortrag
+    datum: 09.08.1922
+    ort: Dornach
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 214
+    type: vortrag
+    datum: 20.08.1922
+    ort: Oxford
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 214
+    type: vortrag
+    datum: 22.08.1922
+    ort: Oxford
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 214
+    type: vortrag
+    datum: 27.08.1922
+    ort: Oxford
+    titel: "ZEHNTER VORTRAG,        Oxford"
+  - seq: 11
+    ga: 214
+    type: vortrag
+    datum: 30.08.1922
+    ort: London
+    titel: "ELFTER VORTRAG, London"

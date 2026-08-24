@@ -1,0 +1,106 @@
+# GA 191 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 191).
+
+ga: 191
+title: "Seite: 1 RUDOLF STEINER DIE GEISTIGEN HINTERGRÜNDE DER SOZIALEN FRAGE"
+pdf: GA 191.pdf
+period: 1919
+entry_count: 15
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 191
+    type: vortrag
+    datum: 03.10.1919
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 191
+    type: vortrag
+    datum: 04.10.1919
+    ort: —
+    titel: "Dreigliederungsbewegung und Anthroposophie. Deutschland, die Schweiz und die Dreigliederung. Ahnungslosigkeit der Anthropo- sophen in bezug auf soziale Probleme. Die zukünftige Form menschlicher Zusammenhänge: Die Assoziationen. Zusammen- empfinden des Astronomischen mit dem Sozialen. Griechisches Landbewußtsein, heutiges Erdenbewußtsein, zukünftiges Welt- bewußtsein."
+  - seq: 3
+    ga: 191
+    type: vortrag
+    datum: 05.10.1919
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 191
+    type: vortrag
+    datum: 10.10.1919
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 191
+    type: vortrag
+    datum: 11.10.1919
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 191
+    type: vortrag
+    datum: 12.10.1919
+    ort: —
+    titel: Die Veranlagungen der Völker. Der Intellektualismus der Euro- päer verhindert die Entwickelung religiöser und wirtschaftlicher Impulse. Abgrund zwischen Wissen und Glauben. Lujo Brentanos oberflächliches Denken. Ökonomische Strömung von Europa nach Amerika. In neuester Zeit in Mitteleuropa Stocken der reli- giösen Strömung aus dem Osten sowie des ökonomischen Stromes nach dem Westen. Neue Gestaltung der Strömungen nur durch Dreigliederung.
+  - seq: 7
+    ga: 191
+    type: vortrag
+    datum: 17.10.1919
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 191
+    type: vortrag
+    datum: 18.10.1919
+    ort: —
+    titel: "weder sittliche noch soziale Ideen. Kants Kritiken der «reinen» und der «praktischen» Vernunft als Ausdruck der Kluft zwischen sittlichen Idealen und Sinneserkenntnis. In der heidnischen Kultur waren beide vereint: «Das verlorene Wort.» Die UrWeisheit mußte verlorengehen, um den Menschen die Freiheit zu ermöglichen. Das Mysterium von Golgatha bewahrt die alte Urweisheit und trägt den moralischen Impuls weiter. Seit der Mitte des 15. Jahrhunderts neue Weisheit: Naturwissen ohne Moral. Diese muß durch über- sinnliches Wissen errungen werden, damit soziale Antriebe ent- stehen können. Forschungsmethode und Forschungsresultat in Naturwissenschaft und Geisteswissenschaft. Bequemlichkeit als das Haupthindernis übersinnlicher Erkenntnis."
+  - seq: 9
+    ga: 191
+    type: vortrag
+    datum: 19.10.1919
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 191
+    type: vortrag
+    datum: 23.10.1919
+    ort: —
+    titel: "Der Mensch schläft aber in bezug auf sein Wollen auch bei Tage. Daß man das eigene Ich nur negativ wahrnehmen kann, ermög- licht, das Ich des anderen Menschen wahrzunehmen. Ihn nehmen wir durch unser Wollen wahr; er wiederum schläfert uns für einen Augenblick ein. Dieses Hin- und Hervibrieren ist das Urelement des sozialen Zusammenlebens von Mensch zu Mensch. Die alten Formen der Bluts- und Volkszusammenhänge müssen überwunden werden. Seit der Reformation drei Etappen: Herrschaft des öko- nomischen Menschen, des Bankiers und des Kapitals. Jetzt muß eintreten soziales Verständnis, das für die nächste Inkarnation Ver- ständnis für Karma schafft, das heißt Verständnis für das Schicksal des einzelnen Menschen."
+  - seq: 11
+    ga: 191
+    type: vortrag
+    datum: 01.11.1919
+    ort: —
+    titel: Elfter Vortrag
+  - seq: 12
+    ga: 191
+    type: vortrag
+    datum: 02.11.1919
+    ort: der Zeiten-
+    titel: Zwölfter Vortrag
+  - seq: 13
+    ga: 191
+    type: vortrag
+    datum: 09.11.1919
+    ort: der Zeiten-
+    titel: Dreizehnter Vortrag
+  - seq: 14
+    ga: 191
+    type: vortrag
+    datum: 14.11.1919
+    ort: der Zeiten-
+    titel: Vierzehnter Vortrag
+  - seq: 15
+    ga: 191
+    type: vortrag
+    datum: 15.11.1919
+    ort: der Zeiten-
+    titel: Fünfzehnter Vortrag

@@ -1,0 +1,76 @@
+# GA 297 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 297).
+
+ga: 297
+title: "Nachlass-Verwaltung Buch: 297 Seite: 2 RUDOLF STEINER"
+pdf: GA 297.pdf
+period: 1919–1920
+entry_count: 10
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 297
+    type: vortrag
+    datum: 24.08.1919
+    ort: Stuttgart
+    titel: "Welche Gesichtspunkte liegen der Errichtung der Waldorf- schule zugrunde?"
+  - seq: 2
+    ga: 297
+    type: vortrag
+    datum: 31.08.1919
+    ort: Stuttgart
+    titel: "Aus welchem Geiste kann sich eine Erziehungskunst der Gegenwart entwickeln?"
+  - seq: 3
+    ga: 297
+    type: vortrag
+    datum: 31.08.1919
+    ort: Stuttgart
+    titel: Vortrag für die Eltern der Waldorfschulkinder
+  - seq: 4
+    ga: 297
+    type: vortrag
+    datum: 24.09.1919
+    ort: Stuttgart
+    titel: Übersinnliche Erkenntnis und sozial-pädagogische Lebenskraft
+  - seq: 5
+    ga: 297
+    type: vortrag
+    datum: 25.11.1919
+    ort: Basel
+    titel: Die sozial-pädagogische Bedeutung der anthroposophisch orientierten Geisteswissenschaft
+  - seq: 6
+    ga: 297
+    type: vortrag
+    datum: 27.11.1919
+    ort: Basel
+    titel: Geisteswissenschaft und Pädagogik
+  - seq: 7
+    ga: 297
+    type: vortrag
+    datum: 21.05.1920
+    ort: Aarau
+    titel: Erziehung und soziale Gemeinschaft vom Gesichtspunkt der Geisteswissenschaft
+  - seq: 8
+    ga: 297
+    type: vortrag
+    datum: 08.09.1920
+    ort: Dornach
+    titel: Pädagogisch-didaktische Kunst und die Waldorfschule
+  - seq: 9
+    ga: 297
+    type: besprechung
+    datum: 08.10.1920
+    ort: Dornach
+    titel: Besprechung pädagogischer und psychologischer Fragen
+  - seq: 10
+    ga: 297
+    type: fragenbeantwortung
+    datum: 29.12.1920
+    ort: Ölten
+    titel: Fragenbeantwortung

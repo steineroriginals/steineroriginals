@@ -1,0 +1,130 @@
+# GA 279 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 279.pdf table of contents.
+
+ga: 279
+title: "Nachlass-Verwaltung Buch: 279 Seite: 2 RUDOLF STEINER"
+pdf: GA 279.pdf
+period: 1922–1924
+entry_count: 19
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 279
+    type: vortrag
+    datum: 04.08.1922
+    ort: Dornach
+    titel: Über die eurythmische Kunst
+  - seq: 2
+    ga: 279
+    type: vortrag
+    datum: 26.08.1923
+    ort: —
+    titel: Penmaenmawr
+  - seq: 3
+    ga: 279
+    type: vortrag
+    datum: 24.06.1924
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 4
+    ga: 279
+    type: vortrag
+    datum: 25.06.1924
+    ort: Dornach
+    titel: "ZWEITER VORTRAG, Dornach"
+  - seq: 5
+    ga: 279
+    type: vortrag
+    datum: 26.06.1924
+    ort: Dornach
+    titel: "DRITTER VORTRAG, Dornach"
+  - seq: 6
+    ga: 279
+    type: vortrag
+    datum: 27.06.1924
+    ort: Dornach
+    titel: "VIERTER VORTRAG, Dornach"
+  - seq: 7
+    ga: 279
+    type: vortrag
+    datum: 30.06.1924
+    ort: Dornach
+    titel: "FÜNFTER VORTRAG, Dornach"
+  - seq: 8
+    ga: 279
+    type: vortrag
+    datum: 01.07.1924
+    ort: Dornach
+    titel: "SECHSTER VORTRAG, Dornach"
+  - seq: 9
+    ga: 279
+    type: vortrag
+    datum: 02.07.1924
+    ort: Dornach
+    titel: Siebenter Vortrag
+  - seq: 10
+    ga: 279
+    type: vortrag
+    datum: 03.07.1924
+    ort: Dornach
+    titel: "ACHTER VORTRAG, Dornach"
+  - seq: 11
+    ga: 279
+    type: vortrag
+    datum: 04.07.1924
+    ort: Dornach
+    titel: "NEUNTER VORTRAG, Dornach"
+  - seq: 12
+    ga: 279
+    type: vortrag
+    datum: 07.07.1924
+    ort: Dornach
+    titel: "ZEHNTER VORTRAG, Dornach"
+  - seq: 13
+    ga: 279
+    type: vortrag
+    datum: 08.07.1924
+    ort: Dornach
+    titel: "ELFTER VORTRAG, Dornach"
+  - seq: 14
+    ga: 279
+    type: vortrag
+    datum: 09.07.1924
+    ort: Dornach
+    titel: "ZWÖLFTER VORTRAG, Dornach"
+  - seq: 15
+    ga: 279
+    type: vortrag
+    datum: 10.07.1924
+    ort: Dornach
+    titel: "DREIZEHNTER VORTRAG, Dornach"
+  - seq: 16
+    ga: 279
+    type: vortrag
+    datum: 11.07.1924
+    ort: Dornach
+    titel: "VIERZEHNTER VORTRAG, Dornach"
+  - seq: 17
+    ga: 279
+    type: vortrag
+    datum: 12.07.1924
+    ort: Dornach
+    titel: "FÜNFZEHNTER VORTRAG, Dornach"
+  - seq: 18
+    ga: 279
+    type: vortrag
+    datum: 20.07.1924
+    ort: —
+    titel: "BERICHT, «Nachrichtenblatt»"
+  - seq: 19
+    ga: 279
+    type: vortrag
+    datum: 22.06.1924
+    ort: —
+    titel: "BERICHT, «Nachrichtenblatt»"

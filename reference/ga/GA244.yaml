@@ -1,0 +1,167 @@
+# GA 244 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 244).
+
+ga: 244
+title: Fragenbeantwortungen und Interviews Schriftliche Fragenbeantwortungen 1892-1924
+pdf: GA 244.pdf
+period: 1903–1923
+entry_count: 22
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 244
+    type: vortrag
+    datum: 18.10.1903
+    ort: Berlin
+    titel: "Okkulte Geschichtsforschung, mit besonderer Rücksicht auf die Gegenwart"
+    beschreibung: Erste Generalversammlung der Deutschen Sektion der Theosophischen Gesellschaft
+  - seq: 2
+    ga: 244
+    type: vortrag
+    datum: 26.10.1908
+    ort: Berlin
+    titel: "Gemüt, Musik, philosoph. Systeme. Über Formale Logik"
+  - seq: 3
+    ga: 244
+    type: vortrag
+    datum: 08.01.1909
+    ort: München
+    titel: Kein Titel
+  - seq: 4
+    ga: 244
+    type: vortrag
+    datum: 09.01.1909
+    ort: München
+    titel: Kein Titel
+  - seq: 5
+    ga: 244
+    type: vortrag
+    datum: 09.06.1913
+    ort: Stockholm
+    titel: Ein theosophischer Ketzer. Doktor Rudolf Steiner über Anthroposophen und Theosophen
+    beschreibung: "Interview («Aftonbladet», 9. Juni 1913). Textgrundlage: «En teosofisk kättare. Doktor Rudolf Steiner om antroposofer och teosofer.» Kopie, RSA Standort-Nr. 076/1."
+  - seq: 6
+    ga: 244
+    type: vortrag
+    datum: 03.03.1921
+    ort: Den Haag
+    titel: Interview
+    beschreibung: "Interview (GA 244, Anhang). Textgrundlage: Vreede-Archiv, Den Haag (Fragenbeantwortungen, Schrank 1), RSA 1A."
+  - seq: 7
+    ga: 244
+    type: vortrag
+    datum: 23.03.1921
+    ort: Stuttgart
+    titel: Fragebeantwortung
+    beschreibung: "Mündliche Fragenbeantwortung (GA 244, Anhang). Im Rahmen der Freien anthroposophischen Hochschulkurse 13.–23. März 1921 in Stuttgart."
+  - seq: 8
+    ga: 244
+    type: vortrag
+    datum: 10.04.1921
+    ort: Dornach
+    titel: Fragenbeantwortung zu Bühnenkunst und Schauspielkunst
+    beschreibung: "Notizzettel-Fragenbeantwortung im Anschluss an den Zweiten anthroposophischen Hochschulkurs (GA 76). Themen: Bühnenkunst, Aufführung von Dramen. Textgrundlage: RSA NZ 5629."
+  - seq: 9
+    ga: 244
+    type: vortrag
+    datum: 05.10.1921
+    ort: Paris
+    titel: Une lueur sur les origines de la guerre. Ein Interview über die unveröffentlichten Memoiren von Moltke
+    beschreibung: "Interview Jules Sauerwein («Le Matin» / «Le Marin», 5. Oktober 1921). Textgrundlage: RSA Standort-Nr. 076/2."
+  - seq: 10
+    ga: 244
+    type: vortrag
+    datum: 12.10.1921
+    ort: Stuttgart
+    titel: Neue Tatsachen über die Vorgeschichte des Weltkrieges
+    beschreibung: "Deutsche Fassung des Interviews Jules Sauerwein über Moltkes Memoiren («Dreigliederung des sozialen Organismus», 12. Oktober 1921). Siehe auch Paris, 5. Oktober 1921."
+  - seq: 11
+    ga: 244
+    type: vortrag
+    datum: 23.11.1921
+    ort: Kristiania (Oslo)
+    titel: Als Doktor Steiner kam. Ein paar Worte mit dem berühmten Mann
+    beschreibung: "Interview («Tidens Tegn», 23. November 1921). Textgrundlage: «Da doktor Steiner kom. Et par ord med den beromte mand». Kopie, RSA Standort-Nr. 140/2."
+  - seq: 12
+    ga: 244
+    type: vortrag
+    datum: 23.11.1921
+    ort: Kristiania (Oslo)
+    titel: Dr. Rudolf Steiner in Kristiania. Der berühmte Geistesforscher spricht mit «Aftenposten»
+    beschreibung: "Interview («Aftenposten», 23. November 1921). Themen: Anthroposophie, Eurythmie, v. Moltkes Memoiren. Kopie, RSA Standort-Nr. 176/2."
+  - seq: 13
+    ga: 244
+    type: vortrag
+    datum: 23.11.1921
+    ort: Kristiania (Oslo)
+    titel: Dr. Rudolf Steiner und Frau kamen gestern nach Kristiania. Ein Gespräch über Geisteswissenschaft und Realpolitik
+    beschreibung: "Interview («Verdens Gang», 23. November 1921). Kopie, RSA Standort-Nr. 176/2."
+  - seq: 14
+    ga: 244
+    type: vortrag
+    datum: 09.12.1921
+    ort: Kristiania (Oslo)
+    titel: Bei Dr. Rudolf Steiner
+    beschreibung: "Interview («Norges Gymnasiaster», 9. Dezember 1921). Themen: Schulreform, Waldorfschule. Kopie, RSA Standort-Nr. 176/2."
+  - seq: 15
+    ga: 244
+    type: vortrag
+    datum: 01.06.1922
+    ort: Wien
+    titel: Gespräch mit Dr. Rudolf Steiner
+    beschreibung: "Interview («Neue Freie Presse», 1. Juni 1922, Abendblatt). Im Rahmen des zweiten internationalen Kongresses der anthroposophischen Bewegung, Wien. Kopie, RSA Standort-Nr. 176/3."
+  - seq: 16
+    ga: 244
+    type: vortrag
+    datum: 02.06.1922
+    ort: Wien
+    titel: Der Kongress der Anthroposophie. Ein Gespräch mit Dr. Rudolf Steiner
+    beschreibung: "Interview («Neues Wiener Tagblatt», 2. Juni 1922). Kontext: Der Herausgeber Wolfgang Vögele der unten angegebenen Textsammlung schreibt zu diesem Interview: «Während des zweiten internationalen Kongresses der anthroposophischen Bewegung (dokumentiert in: Westliche und östliche Weltgegensätzlichkeit, GA 83), der in den Pfingsttagen 1922 [1. bis 12. Juni] in Wien unter dem Motto «Zur Verständigung westlicher und östlicher Weltgegensätzlichkeit» tagte, gab Rudolf Steiner im Hotel «Imperial» am Kärntner Ring (1. Stock, Zimmer 5), nicht nur unzählige Audienzen; er empfing [unter anderem] auch Korrespondenten des «Neuen Wiener Tagblattes».» Siehe auch das vorangehende Interview. Textgrundlage: «Neues Wiener Tagblatt», 2. Juni 1922. Kopie, RSA Standort-Nr. 176/3. Bisherige Veröffentlichungen: «Dreigliederung des sozialen Organismus», 3. Jg., Nr. 49, 8. Juni 1922, S. 6; W. Vögele (Hrsg.): Der andere Rudolf Steiner, 2. Aufl. Basel 2005, S. 314-316."
+  - seq: 17
+    ga: 244
+    type: vortrag
+    datum: 01.01.1923
+    ort: London
+    titel: Der Waldorf-Plan
+    beschreibung: "Interview C. S. Bremner («The Educational Times», Januar 1923). Nach der Oxford-Konferenz «Spiritual Values in Education and Social Life» (August 1922). Kopie, RSA Standort-Nr. 176/3."
+  - seq: 18
+    ga: 244
+    type: vortrag
+    datum: 02.01.1923
+    ort: Basel
+    titel: Ein Interview bei Dr. Steiner
+    beschreibung: "Interview mit Basler Zeitungskorrespondenten über den Brand des Goetheanums («National-Zeitung», 2. Januar 1923). Gespräch in der Villa Hansi, Dörnach. Kopie, RSA Standort-Nr. 176/3."
+  - seq: 19
+    ga: 244
+    type: vortrag
+    datum: 05.01.1923
+    ort: Basel
+    titel: Nach dem Brande des Goetheanums. Die Erforschung der Brandursache
+    beschreibung: "Interview mit Basler Zeitungskorrespondenten («National-Zeitung», 5. Januar 1923). Themen: Brandursache, vermisster Jakob Ott. Kopie, RSA Standort-Nr. 176/3."
+  - seq: 20
+    ga: 244
+    type: vortrag
+    datum: 05.01.1923
+    ort: Basel
+    titel: Zum Brand im Goetheanum. Ott im Verdacht als Brandstifter oder Mitwisser
+    beschreibung: "Interview mit Basler Zeitungskorrespondenten («Basler Nachrichten», 5. Januar 1923). Kopie, RSA Standort-Nr. 176/3."
+  - seq: 21
+    ga: 244
+    type: vortrag
+    datum: 29.01.1923
+    ort: Dornach
+    titel: "I. Bericht des Dr. Rudolf Steiner, Schriftsteller, Sohn des Johann, geb. 27. Februar 1861, von Geras Nieder-Österreich, wohnhaft in Dornach."
+    beschreibung: "Amtliche Untersuchung des Brandes des Goetheanums in der Silvesternacht vom 31. Dezember 1922, Januar 1923. Siehe dazu die Dokumentation: «Zum Brandgeschehen. A. Offizielle Dokumente, B. Zeitungsberichte», in: Das Schicksalsjahr 1923 in der Geschichte der Anthroposophischen Gesellschaft, GA 259, 1. Aufl. Dornach 1991, S. 747-793. — Man beachte, dass es sich bei den nachfolgenden Texten nicht um publizierte Interviews handelt, sondern um amtliche Protokolle von Gesprächen. Textgrundlage: «Branduntersuchung, Goetheanum, Dörnach 1923» (Standort des Originals: Staatsarchiv Solothurn (StASO), Akzession 2014/4, Akten der Kriminaluntersuchung nach dem Brand des Goetheanums in Dörnach (1923)), Sp. 9, S. 15-16 [handschriftlich S. 12-13] und S. 195-199 [handschriftlich S. 36-40]. Kopie: RSA Standort-Nr. 066/2."
+  - seq: 22
+    ga: 244
+    type: vortrag
+    datum: 27.09.1923
+    ort: Wien
+    titel: Die praktische Arbeit der Anthroposophen
+    beschreibung: "Interview («Der Tag», 27. September 1923). Im Rahmen der Herbsttagung der anthroposophischen Bewegung in Österreich. Kopie, RSA Standort-Nr. 176/3."

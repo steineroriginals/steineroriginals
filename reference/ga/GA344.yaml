@@ -1,0 +1,168 @@
+# GA 344 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 344).
+
+ga: 344
+title: GA 344
+pdf: GA 344.pdf
+period: 1922
+entry_count: 19
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 344
+    type: vortrag
+    datum: 06.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vorbesprechung
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 2
+    ga: 344
+    type: vortrag
+    datum: 07.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 1
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 3
+    ga: 344
+    type: vortrag
+    datum: 08.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 2
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 4
+    ga: 344
+    type: vortrag
+    datum: 09.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 3
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 5
+    ga: 344
+    type: vortrag
+    datum: 10.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 4
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 6
+    ga: 344
+    type: vortrag
+    datum: 11.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 5
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 7
+    ga: 344
+    type: vortrag
+    datum: 12.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 6
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 8
+    ga: 344
+    type: vortrag
+    datum: 13.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 7
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 9
+    ga: 344
+    type: vortrag
+    datum: 16.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 8
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 10
+    ga: 344
+    type: vortrag
+    datum: 17.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 9
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 11
+    ga: 344
+    type: vortrag
+    datum: 18.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 10
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 12
+    ga: 344
+    type: vortrag
+    datum: 18.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 11
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 13
+    ga: 344
+    type: vortrag
+    datum: 19.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 12
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 14
+    ga: 344
+    type: vortrag
+    datum: 19.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 13
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 15
+    ga: 344
+    type: vortrag
+    datum: 20.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 14
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 16
+    ga: 344
+    type: vortrag
+    datum: 20.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 15
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 17
+    ga: 344
+    type: vortrag
+    datum: 21.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 16
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 18
+    ga: 344
+    type: vortrag
+    datum: 21.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 17
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft
+  - seq: 19
+    ga: 344
+    type: vortrag
+    datum: 22.09.1922
+    ort: Dornach
+    reihe: Dritter Theologen-Kurs
+    titel: Vortrag 18
+    beschreibung: Vorträge bei der Begründung der Christengemeinschaft

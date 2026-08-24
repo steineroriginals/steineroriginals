@@ -1,0 +1,58 @@
+# GA 200 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 200.pdf table of contents.
+
+ga: 200
+title: RUDOLF STEINER GESAMTAUSGABE
+pdf: GA 200.pdf
+period: 1920
+entry_count: 7
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 200
+    type: vortrag
+    datum: 17.10.1920
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 200
+    type: vortrag
+    datum: 22.10.1920
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 200
+    type: vortrag
+    datum: 23.10.1920
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 200
+    type: vortrag
+    datum: 24.10.1920
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 200
+    type: vortrag
+    datum: 29.10.1920
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 200
+    type: vortrag
+    datum: 30.10.1920
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 200
+    type: vortrag
+    datum: 31.10.1920
+    ort: —
+    titel: Siebenter Vortrag

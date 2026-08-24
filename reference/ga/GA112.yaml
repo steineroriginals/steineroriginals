@@ -1,0 +1,100 @@
+# GA 112 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 112).
+
+ga: 112
+title: GA 112
+pdf: GA 112.pdf
+period: 1909
+entry_count: 14
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 112
+    type: vortrag
+    datum: 24.06.1909
+    ort: Kassel
+    titel: "ERSTER VORTRAG, Kassel"
+  - seq: 2
+    ga: 112
+    type: vortrag
+    datum: 25.06.1909
+    ort: Kassel
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 112
+    type: vortrag
+    datum: 26.06.1909
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 112
+    type: vortrag
+    datum: 27.06.1909
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 112
+    type: vortrag
+    datum: 28.06.1909
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 112
+    type: vortrag
+    datum: 29.06.1909
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 112
+    type: vortrag
+    datum: 30.06.1909
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 112
+    type: vortrag
+    datum: 01.07.1909
+    ort: —
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 112
+    type: vortrag
+    datum: 02.07.1909
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 112
+    type: vortrag
+    datum: 03.07.1909
+    ort: —
+    titel: Zehnter Vortrag
+  - seq: 11
+    ga: 112
+    type: vortrag
+    datum: 04.07.1909
+    ort: —
+    titel: Elfter Vortrag
+  - seq: 12
+    ga: 112
+    type: vortrag
+    datum: 05.07.1909
+    ort: —
+    titel: Zwölfter Vortrag
+  - seq: 13
+    ga: 112
+    type: vortrag
+    datum: 06.07.1909
+    ort: —
+    titel: Dreizehnter Vortrag
+  - seq: 14
+    ga: 112
+    type: vortrag
+    datum: 07.07.1909
+    ort: —
+    titel: Vierzehnter Vortrag

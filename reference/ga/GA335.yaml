@@ -1,0 +1,76 @@
+# GA 335 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 335).
+
+ga: 335
+title: "Rudolf Steiner hat seine Vorträge stets frei, also ohne Manuskript, gehalten. Viele seiner Vorüberlegungen hielt er l..."
+pdf: GA 335.pdf
+period: 1920
+entry_count: 10
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 335
+    type: vortrag
+    datum: 02.03.1920
+    ort: Stuttgart
+    titel: "ERSTER ÖFFENTLICHER VORTRAG, Stuttgart"
+  - seq: 2
+    ga: 335
+    type: vortrag
+    datum: 04.03.1920
+    ort: Stuttgart
+    titel: Die geistigen Forderungen des kommenden Tages
+  - seq: 3
+    ga: 335
+    type: vortrag
+    datum: 10.03.1920
+    ort: Stuttgart
+    titel: Die Völker der Erde im Lichte der Geisteswissenschaft
+  - seq: 4
+    ga: 335
+    type: vortrag
+    datum: 12.03.1920
+    ort: —
+    titel: Vierter Öffentlicher Vortrag
+  - seq: 5
+    ga: 335
+    type: vortrag
+    datum: 08.06.1920
+    ort: Stuttgart
+    titel: Der Weg zu gesundem Denken und die Lebenslage des Gegenwartsmenschen. Schlusswort über Gegner
+  - seq: 6
+    ga: 335
+    type: vortrag
+    datum: 10.06.1920
+    ort: —
+    titel: Sechster Öffentlicher Vortrag
+  - seq: 7
+    ga: 335
+    type: vortrag
+    datum: 15.06.1920
+    ort: —
+    titel: Siebenter Öffentlicher Vortrag
+  - seq: 8
+    ga: 335
+    type: vortrag
+    datum: 29.07.1920
+    ort: Stuttgart
+    titel: "Wer darf gegen den Untergang des Abendlandes reden? Eine zweite Gegenwartsrede"
+  - seq: 9
+    ga: 335
+    type: vortrag
+    datum: 20.09.1920
+    ort: —
+    titel: Neunter Öffentlicher Vortrag
+  - seq: 10
+    ga: 335
+    type: vortrag
+    datum: 10.11.1920
+    ort: —
+    titel: Zehnter Öffentlicher Vortrag

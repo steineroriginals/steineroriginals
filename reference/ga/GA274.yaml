@@ -1,0 +1,140 @@
+# GA 274 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 274).
+
+ga: 274
+title: "Nachlass-Verwaltung Buch: 274 Seite: 2 RUDOLF STEINER"
+pdf: GA 274.pdf
+period: 1915–1924
+entry_count: 18
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 274
+    type: vortrag
+    datum: 26.12.1915
+    ort: Dornach
+    reihe: "Volksgemüt diese Spiele festgehalten und als eine würdige Art, Weih-"
+    titel: I
+  - seq: 2
+    ga: 274
+    type: vortrag
+    datum: 03.01.1917
+    ort: Dornach
+    reihe: Dornach gehalten wurden. Am 28. Dezember 1915 hält Rudolf Steiner zudem in
+    titel: II
+  - seq: 3
+    ga: 274
+    type: vortrag
+    datum: 07.01.1917
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte vor der Aufführung des Paradeisspiels und des Hirtenspiels
+  - seq: 4
+    ga: 274
+    type: vortrag
+    datum: 30.12.1917
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Begrüßung in der Schweiz internierter deutscher Kriegsgefangener vor der Aufführung der Oberuferer Weihnachtsspiele
+  - seq: 5
+    ga: 274
+    type: vortrag
+    datum: 06.01.1918
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zu einer Aufführung des Oberuferer Paradeis- und Christgeburtspiels
+  - seq: 6
+    ga: 274
+    type: vortrag
+    datum: 19.12.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Aufführung der Weihnachtsspiele
+  - seq: 7
+    ga: 274
+    type: vortrag
+    datum: 22.12.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Aufführung der Weihnachtsspiele
+  - seq: 8
+    ga: 274
+    type: vortrag
+    datum: 23.12.1921
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Aufführung des Paradeisspiels
+  - seq: 9
+    ga: 274
+    type: vortrag
+    datum: 08.01.1922
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Aufführung des Dreikönigspiels
+  - seq: 10
+    ga: 274
+    type: vortrag
+    datum: 24.12.1922
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zum Christgeburtspiel
+  - seq: 11
+    ga: 274
+    type: vortrag
+    datum: 01.01.1923
+    ort: Dornach
+    titel: Einleitende Worte zum Dreikönigspiel. Über die Brandkatastrophe
+  - seq: 12
+    ga: 274
+    type: vortrag
+    datum: 14.12.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Aufführung der Weihnachtsspiele
+  - seq: 13
+    ga: 274
+    type: vortrag
+    datum: 24.12.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924. Einleitende Worte zur Aufführung des Paradeisspiels
+  - seq: 14
+    ga: 274
+    type: vortrag
+    datum: 25.12.1923
+    ort: Dornach
+    titel: Einleitende Worte zur Aufführung des Christgeburtspiels
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 15
+    ga: 274
+    type: vortrag
+    datum: 27.12.1923
+    ort: Dornach
+    titel: Einleitende Worte zur Aufführung des Dreikönigspiels
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 16
+    ga: 274
+    type: vortrag
+    datum: 29.12.1923
+    ort: Dornach
+    titel: Einleitende Worte zur Aufführung des Christgeburtspiels
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 17
+    ga: 274
+    type: vortrag
+    datum: 31.12.1923
+    ort: Dornach
+    titel: Einleitende Worte zur Aufführung des Dreikönigspiels
+    beschreibung: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 18
+    ga: 274
+    type: vortrag
+    datum: 06.01.1924
+    ort: —
+    titel: XVIII.

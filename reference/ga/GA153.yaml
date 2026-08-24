@@ -1,0 +1,70 @@
+# GA 153 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 153.pdf table of contents.
+
+ga: 153
+title: GA 153
+pdf: GA 153.pdf
+period: 1914
+entry_count: 9
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 153
+    type: vortrag
+    datum: 06.04.1914
+    ort: Wien
+    titel: "ÖFFENTLICHER VORTRAG, Wien"
+  - seq: 2
+    ga: 153
+    type: vortrag
+    datum: 08.04.1914
+    ort: Wien
+    titel: "ÖFFENTLICHER VORTRAG, Wien"
+  - seq: 3
+    ga: 153
+    type: vortrag
+    datum: 09.04.1914
+    ort: Wien
+    titel: "ERSTER VORTRAG, Wien"
+  - seq: 4
+    ga: 153
+    type: vortrag
+    datum: 10.04.1914
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 5
+    ga: 153
+    type: vortrag
+    datum: 11.04.1914
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 6
+    ga: 153
+    type: vortrag
+    datum: 12.04.1914
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 7
+    ga: 153
+    type: vortrag
+    datum: 13.04.1914
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 8
+    ga: 153
+    type: vortrag
+    datum: 14.04.1914
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 9
+    ga: 153
+    type: ansprache
+    datum: 14.04.1914
+    ort: —
+    titel: Ansprache

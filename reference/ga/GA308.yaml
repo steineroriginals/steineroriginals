@@ -1,0 +1,46 @@
+# GA 308 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 308).
+
+ga: 308
+title: Zu den Veröffentlichungen aus dem Vortragswerk von Rudolf Steiner Die Grundlage der anthroposophisch orientierten Gei...
+pdf: GA 308.pdf
+period: 1924
+entry_count: 5
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 308
+    type: vortrag
+    datum: 08.04.1924
+    ort: Stuttgart
+    titel: Vortrag
+  - seq: 2
+    ga: 308
+    type: vortrag
+    datum: 09.04.1924
+    ort: —
+    titel: Vortrag
+  - seq: 3
+    ga: 308
+    type: vortrag
+    datum: 10.04.1924
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 308
+    type: vortrag
+    datum: 10.04.1924
+    ort: —
+    titel: Vortrag
+  - seq: 5
+    ga: 308
+    type: vortrag
+    datum: 11.04.1924
+    ort: —
+    titel: Vortrag

@@ -1,0 +1,95 @@
+# GA 162 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 162).
+
+ga: 162
+title: GA 162
+pdf: GA 162.pdf
+period: 1915
+entry_count: 13
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 162
+    type: vortrag
+    datum: 23.05.1915
+    ort: Dornach
+    titel: "ERSTERVORTRAG, Dornach"
+  - seq: 2
+    ga: 162
+    type: vortrag
+    datum: 24.05.1915
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 162
+    type: vortrag
+    datum: 29.05.1915
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 162
+    type: vortrag
+    datum: 30.05.1915
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 162
+    type: vortrag
+    datum: 03.06.1915
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 162
+    type: vortrag
+    datum: 17.07.1915
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 162
+    type: vortrag
+    datum: 18.07.1915
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 162
+    type: vortrag
+    datum: 24.07.1915
+    ort: —
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 162
+    type: vortrag
+    datum: 25.07.1915
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 162
+    type: vortrag
+    datum: 31.07.1915
+    ort: —
+    titel: Zehnter Vortrag
+  - seq: 11
+    ga: 162
+    type: vortrag
+    datum: 01.08.1915
+    ort: —
+    reihe: "Anhang: Schlußworte zum Vortrag vom 1. August 1915                        . 279"
+    titel: "Anhang: Schlußworte zum Vortrag vom"
+  - seq: 12
+    ga: 162
+    type: vortrag
+    datum: 07.08.1915
+    ort: —
+    titel: Zwölfter Vortrag
+  - seq: 13
+    ga: 162
+    type: vortrag
+    datum: 08.08.1915
+    ort: Dornach
+    titel: Die Entwicklung der menschlichen Sinnesorgane. Das Wirken Luzifers und Ahrimans im Menschen

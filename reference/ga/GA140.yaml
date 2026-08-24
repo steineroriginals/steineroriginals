@@ -1,0 +1,136 @@
+# GA 140 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 140.pdf table of contents.
+
+ga: 140
+title: GA 140
+pdf: GA 140.pdf
+period: 1912–1913
+entry_count: 20
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 140
+    type: vortrag
+    datum: 26.10.1912
+    ort: Erster Vortrag
+    titel: Kein Titel
+  - seq: 2
+    ga: 140
+    type: vortrag
+    datum: 27.10.1912
+    ort: Zweiter Vortrag
+    titel: Kein Titel
+  - seq: 3
+    ga: 140
+    type: vortrag
+    datum: 18.11.1912
+    ort: Hannover
+    titel: Der Durchgang des Menschen durch die Planetensphären und die Bedeutung der Christus-Erkenntnis
+  - seq: 4
+    ga: 140
+    type: vortrag
+    datum: 03.11.1912
+    ort: Wien
+    titel: Die neuesten Ergebnisse okkulter Forschung über das Leben zwischen Tod und neuer Geburt
+  - seq: 5
+    ga: 140
+    type: vortrag
+    datum: 26.11.1912
+    ort: Erster Vortrag
+    titel: Kein Titel
+  - seq: 6
+    ga: 140
+    type: vortrag
+    datum: 28.11.1912
+    ort: Zweiter Vortrag
+    titel: Kein Titel
+  - seq: 7
+    ga: 140
+    type: vortrag
+    datum: 15.12.1912
+    ort: Bern
+    titel: Einiges über die Technik des Karma im Leben nach dem Tode
+  - seq: 8
+    ga: 140
+    type: vortrag
+    datum: 21.01.1913
+    ort: Wien
+    titel: Zwischen Tod und neuer Geburt
+  - seq: 9
+    ga: 140
+    type: vortrag
+    datum: 26.01.1913
+    ort: Linz
+    titel: Vom Leben nach dem Tode
+  - seq: 10
+    ga: 140
+    type: vortrag
+    datum: 16.02.1913
+    ort: Tübingen
+    titel: Anthroposophie als Empfindungs- und Lebensgehalt. Andacht und Ehrfurcht vor dem Verborgenen
+  - seq: 11
+    ga: 140
+    type: vortrag
+    datum: 17.02.1913
+    ort: Erster Vortrag
+    titel: Kein Titel
+  - seq: 12
+    ga: 140
+    type: vortrag
+    datum: 20.02.1913
+    ort: Zweiter Vortrag
+    titel: Kein Titel
+  - seq: 13
+    ga: 140
+    type: vortrag
+    datum: 02.03.1913
+    ort: Frankfurt
+    titel: Die Mission des Erdenlebens als Durchgangspunkt für das Jenseits
+  - seq: 14
+    ga: 140
+    type: vortrag
+    datum: 10.03.1913
+    ort: Erster Vortrag
+    titel: Kein Titel
+  - seq: 15
+    ga: 140
+    type: vortrag
+    datum: 12.03.1913
+    ort: Zweiter Vortrag
+    titel: Kein Titel
+  - seq: 16
+    ga: 140
+    type: vortrag
+    datum: 05.04.1913
+    ort: Breslau
+    titel: Ergänzende Tatsachen über das Leben zwischen Tod und neuer Geburt
+  - seq: 17
+    ga: 140
+    type: vortrag
+    datum: 27.04.1913
+    ort: Düsseldorf
+    titel: Über den Verkehr mit den Toten
+  - seq: 18
+    ga: 140
+    type: vortrag
+    datum: 13.05.1913
+    ort: —
+    titel: Straßburg
+  - seq: 19
+    ga: 140
+    type: vortrag
+    datum: 10.10.1913
+    ort: Erster Vortrag
+    titel: Kein Titel
+  - seq: 20
+    ga: 140
+    type: vortrag
+    datum: 11.10.1913
+    ort: Zweiter Vortrag
+    titel: Kein Titel

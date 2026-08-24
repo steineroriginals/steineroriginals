@@ -1,0 +1,88 @@
+# GA 302a — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 302a).
+
+ga: 302a
+title: "Seite: 1 RUDOLF STEINER Vorträge und Kurse, gehalten für die Lehrer der Freien Waldorfschule in Stuttgart"
+pdf: GA 302a.pdf
+period: 1920–1923
+entry_count: 9
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 302a
+    type: vortrag
+    datum: 15.09.1920
+    ort: Stuttgart
+    reihe: Meditativ erarbeitete Menschenkunde
+    titel: Vortrag 1
+    beschreibung: Zweiter pädagogischer Kurs für die Lehrer der Freien Waldorfschule
+  - seq: 2
+    ga: 302a
+    type: vortrag
+    datum: 16.09.1920
+    ort: Stuttgart
+    reihe: Meditativ erarbeitete Menschenkunde
+    titel: Vortrag 2
+    beschreibung: Zweiter pädagogischer Kurs für die Lehrer der Freien Waldorfschule
+  - seq: 3
+    ga: 302a
+    type: vortrag
+    datum: 21.09.1920
+    ort: Stuttgart
+    reihe: Meditativ erarbeitete Menschenkunde
+    titel: Vortrag 3
+    beschreibung: Zweiter pädagogischer Kurs für die Lehrer der Freien Waldorfschule
+  - seq: 4
+    ga: 302a
+    type: vortrag
+    datum: 22.09.1920
+    ort: Stuttgart
+    reihe: Meditativ erarbeitete Menschenkunde
+    titel: Vortrag 4
+    beschreibung: Zweiter pädagogischer Kurs für die Lehrer der Freien Waldorfschule
+  - seq: 5
+    ga: 302a
+    type: vortrag
+    datum: 21.06.1922
+    ort: Stuttgart
+    reihe: Erziehungsfragen im Reifealter. Zur künstlerischen Gestaltung des Unterrichts
+    titel: Vortrag 1
+    beschreibung: Zwei pädagogische Vorträge für die Lehrer der Freien Waldorfschule
+  - seq: 6
+    ga: 302a
+    type: vortrag
+    datum: 22.06.1922
+    ort: Stuttgart
+    reihe: Erziehungsfragen im Reifealter. Zur künstlerischen Gestaltung des Unterrichts
+    titel: Vortrag 2
+    beschreibung: Zwei pädagogische Vorträge für die Lehrer der Freien Waldorfschule
+  - seq: 7
+    ga: 302a
+    type: vortrag
+    datum: 15.10.1923
+    ort: Stuttgart
+    reihe: Anregung zur innerlichen Durchdringung des Lehr- und Erzieherberufes
+    titel: Vortrag 1
+    beschreibung: Drei Vorträge für die Waldorflehrer
+  - seq: 8
+    ga: 302a
+    type: vortrag
+    datum: 16.10.1923
+    ort: Stuttgart
+    reihe: Anregung zur innerlichen Durchdringung des Lehr- und Erzieherberufes
+    titel: Vortrag 2
+    beschreibung: Drei Vorträge für die Waldorflehrer
+  - seq: 9
+    ga: 302a
+    type: vortrag
+    datum: 16.10.1923
+    ort: Stuttgart
+    reihe: Anregung zur innerlichen Durchdringung des Lehr- und Erzieherberufes
+    titel: Vortrag 3
+    beschreibung: Drei Vorträge für die Waldorflehrer

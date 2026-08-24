@@ -1,0 +1,58 @@
+# GA 169 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 169.pdf table of contents.
+
+ga: 169
+title: Nach vom Vortragenden nicht durchgesehenen Nachschriften herausgegeben von der Rudolf Steiner-Nachlaßverwaltung Die H...
+pdf: GA 169.pdf
+period: 1916
+entry_count: 7
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 169
+    type: vortrag
+    datum: 06.06.1916
+    ort: Berlin
+    titel: Vortrag
+  - seq: 2
+    ga: 169
+    type: vortrag
+    datum: 13.06.1916
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 169
+    type: vortrag
+    datum: 20.06.1916
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 169
+    type: vortrag
+    datum: 27.06.1916
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 169
+    type: vortrag
+    datum: 04.07.1916
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 169
+    type: vortrag
+    datum: 11.07.1916
+    ort: —
+    titel: Vortrag
+  - seq: 7
+    ga: 169
+    type: vortrag
+    datum: 18.07.1916
+    ort: —
+    titel: Siebenter Vortrag

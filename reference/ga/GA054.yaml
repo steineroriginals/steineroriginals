@@ -1,0 +1,151 @@
+# GA 54 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 54).
+
+ga: 54
+title: GA 54
+pdf: GA 054.pdf
+period: 1905–1908
+entry_count: 22
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 54
+    type: vortrag
+    datum: 05.10.1905
+    ort: Berlin
+    titel: "Haeckel, die Welträtsel und die Theosophie"
+  - seq: 2
+    ga: 54
+    type: vortrag
+    datum: 12.10.1905
+    ort: Berlin
+    titel: "Unsere Weltlage. Krieg, Frieden und die Wissenschaft des Geistes. Unsere Weltlage. Krieg, Frieden und Theosophie"
+  - seq: 3
+    ga: 54
+    type: vortrag
+    datum: 19.10.1905
+    ort: Berlin
+    titel: Grundbegriffe der Theosophie. Seele und Geist des Menschen
+  - seq: 4
+    ga: 54
+    type: vortrag
+    datum: 09.11.1905
+    ort: Berlin
+    titel: Die Grundbegriffe der Theosophie. Die Menschenrassen
+  - seq: 5
+    ga: 54
+    type: vortrag
+    datum: 16.11.1905
+    ort: Berlin
+    titel: Der Weisheitskern in den Religionen
+  - seq: 6
+    ga: 54
+    type: vortrag
+    datum: 23.11.1905
+    ort: Berlin
+    titel: Bruderschaft und Daseinskampf
+  - seq: 7
+    ga: 54
+    type: vortrag
+    datum: 07.12.1905
+    ort: Berlin
+    titel: Innere Entwicklung
+  - seq: 8
+    ga: 54
+    type: vortrag
+    datum: 14.12.1905
+    ort: Berlin
+    titel: Das Weihnachtsfest als Wahrzeichen des Sonnensieges. Weihnachten
+  - seq: 9
+    ga: 54
+    type: vortrag
+    datum: 01.02.1906
+    ort: Berlin
+    titel: Die Weisheitslehren des Christentums
+  - seq: 10
+    ga: 54
+    type: vortrag
+    datum: 15.02.1906
+    ort: Berlin
+    reihe: Grundbegriffe der Theosophie
+    titel: Wiederverkörperung und Karma. Wiederverkörperung und Karma als Schlüssel zum Menschenrätsel
+  - seq: 11
+    ga: 54
+    type: vortrag
+    datum: 22.02.1906
+    ort: Berlin
+    reihe: Esoterik I
+    titel: Luzifer
+  - seq: 12
+    ga: 54
+    type: vortrag
+    datum: 01.03.1906
+    ort: Berlin
+    reihe: Esoterik II
+    titel: Die Kinder des Luzifer
+  - seq: 13
+    ga: 54
+    type: vortrag
+    datum: 08.03.1906
+    ort: Berlin
+    titel: Germanische und indische Geheimlehre
+  - seq: 14
+    ga: 54
+    type: vortrag
+    datum: 15.03.1906
+    ort: Berlin
+    titel: Die Theosophen des 19. Jahrhunderts. Deutsche Theosophen vom Anfang des 19. Jahrhunderts
+  - seq: 15
+    ga: 54
+    type: vortrag
+    datum: 22.03.1906
+    ort: Berlin
+    titel: Siegfried und die Götterdämmerung
+  - seq: 16
+    ga: 54
+    type: vortrag
+    datum: 29.03.1906
+    ort: Berlin
+    titel: Parzival und Lohengrin
+  - seq: 17
+    ga: 54
+    type: vortrag
+    datum: 12.04.1906
+    ort: Berlin
+    titel: Das Osterfest. Ostern
+  - seq: 18
+    ga: 54
+    type: vortrag
+    datum: 19.04.1906
+    ort: Berlin
+    titel: Innere Entwicklung
+  - seq: 19
+    ga: 54
+    type: vortrag
+    datum: 26.04.1906
+    ort: Berlin
+    titel: Paracelsus
+  - seq: 20
+    ga: 54
+    type: vortrag
+    datum: 03.05.1906
+    ort: Berlin
+    titel: Jakob Böhme
+  - seq: 21
+    ga: 54
+    type: vortrag
+    datum: 17.11.1906
+    ort: Hamburg
+    titel: Die Frauenfrage
+  - seq: 22
+    ga: 54
+    type: vortrag
+    datum: 02.03.1908
+    ort: Hamburg
+    titel: Geisteswissenschaft und soziale Frage. Die soziale Frage

@@ -1,0 +1,124 @@
+# GA 57 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 057.pdf table of contents.
+
+ga: 57
+title: GA 57
+pdf: GA 057.pdf
+period: 1908–1909
+entry_count: 18
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 57
+    type: vortrag
+    datum: 15.10.1908
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 2
+    ga: 57
+    type: vortrag
+    datum: 22.10.1908
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 3
+    ga: 57
+    type: vortrag
+    datum: 24.10.1908
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 4
+    ga: 57
+    type: vortrag
+    datum: 12.11.1908
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 5
+    ga: 57
+    type: vortrag
+    datum: 14.11.1908
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 6
+    ga: 57
+    type: vortrag
+    datum: 10.12.1908
+    ort: Berlin
+    titel: wissenschaft
+  - seq: 7
+    ga: 57
+    type: vortrag
+    datum: 17.12.1908
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 8
+    ga: 57
+    type: vortrag
+    datum: 14.01.1909
+    ort: Berlin
+    titel: wissenschaft
+  - seq: 9
+    ga: 57
+    type: vortrag
+    datum: 28.01.1909
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 10
+    ga: 57
+    type: vortrag
+    datum: 11.02.1909
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 11
+    ga: 57
+    type: vortrag
+    datum: 18.02.1909
+    ort: Berlin
+    titel: XL Die unsichtbaren Glieder der Menschennatur und das praktische Leben
+  - seq: 12
+    ga: 57
+    type: vortrag
+    datum: 04.03.1909
+    ort: Berlin
+    titel: XII. Das Geheimnis der menschlichen Temperamente
+  - seq: 13
+    ga: 57
+    type: vortrag
+    datum: 11.03.1909
+    ort: Berlin
+    titel: XIII. Die Rätsel in Goethes «Faust» - exoterisch
+  - seq: 14
+    ga: 57
+    type: vortrag
+    datum: 12.03.1909
+    ort: Berlin
+    titel: XIV. Die Rätsel in Goethes «Faust» - esoterisch
+  - seq: 15
+    ga: 57
+    type: vortrag
+    datum: 20.03.1909
+    ort: Berlin
+    titel: XV. Nietzsche im Lichte der Geisteswissenschaft
+  - seq: 16
+    ga: 57
+    type: vortrag
+    datum: 29.04.1909
+    ort: Berlin
+    titel: XVI. Isis und Madonna
+  - seq: 17
+    ga: 57
+    type: vortrag
+    datum: 01.05.1909
+    ort: Berlin
+    titel: XVII. Alteuropäisches Hellsehen
+  - seq: 18
+    ga: 57
+    type: vortrag
+    datum: 06.05.1909
+    ort: Berlin
+    titel: XVIII. Die europäischen Mysterien und ihre Eingeweihten

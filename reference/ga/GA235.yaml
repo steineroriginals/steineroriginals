@@ -1,0 +1,88 @@
+# GA 235 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 235.pdf table of contents.
+
+ga: 235
+title: RUDOLF STEINER Esoterische Betrachtungen karmischer Zusammenhänge aus dem Jahre 1924
+pdf: GA 235.pdf
+period: 1924
+entry_count: 12
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 235
+    type: vortrag
+    datum: 16.02.1924
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 235
+    type: vortrag
+    datum: 17.02.1924
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 235
+    type: vortrag
+    datum: 23.02.1924
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 235
+    type: vortrag
+    datum: 24.02.1924
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 235
+    type: vortrag
+    datum: 01.03.1924
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 235
+    type: vortrag
+    datum: 02.03.1924
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 235
+    type: vortrag
+    datum: 08.03.1924
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 235
+    type: vortrag
+    datum: 09.03.1924
+    ort: —
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 235
+    type: vortrag
+    datum: 15.03.1924
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 235
+    type: vortrag
+    datum: 16.03.1924
+    ort: —
+    titel: Zehnter Vortrag
+  - seq: 11
+    ga: 235
+    type: vortrag
+    datum: 22.03.1924
+    ort: —
+    titel: Elfter Vortrag
+  - seq: 12
+    ga: 235
+    type: vortrag
+    datum: 23.03.1924
+    ort: —
+    titel: Zwölfter Vortrag

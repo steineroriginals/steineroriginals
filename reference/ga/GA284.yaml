@@ -1,0 +1,106 @@
+# GA 284 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 284).
+
+ga: 284
+title: GA 284
+pdf: GA 284.pdf
+period: 1907–1923
+entry_count: 15
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 284
+    type: vortrag
+    datum: 19.05.1907
+    ort: München
+    titel: Kongress Vortrag
+  - seq: 2
+    ga: 284
+    type: vortrag
+    datum: 20.05.1907
+    ort: München
+    titel: Kongress Vortrag
+  - seq: 3
+    ga: 284
+    type: vortrag
+    datum: 21.05.1907
+    ort: München
+    titel: Erläuterungen zur Einrichtung und Ausgestaltung des Kongreßsaales
+  - seq: 4
+    ga: 284
+    type: vortrag
+    datum: 12.06.1907
+    ort: Berlin
+    titel: Vor dem Vortrag
+  - seq: 5
+    ga: 284
+    type: vortrag
+    datum: 16.09.1907
+    ort: Stuttgart
+    titel: Die apokalyptischen Siegel
+  - seq: 6
+    ga: 284
+    type: vortrag
+    datum: 19.10.1907
+    ort: Berlin
+    titel: Symbole und Zeichen als Wirkungen des Chaos
+  - seq: 7
+    ga: 284
+    type: vortrag
+    datum: 20.10.1907
+    ort: Berlin
+    titel: Bericht über den Kongreß bei der Generalversammlung der Deutschen Sektion der Theosophi- schen Gesellschaft
+  - seq: 8
+    ga: 284
+    type: vortrag
+    datum: 05.04.1909
+    ort: Malsch
+    titel: Grundsteinlegung zum Modellbau eines Rosenkreuzer-Tempels
+  - seq: 9
+    ga: 284
+    type: vortrag
+    datum: 06.04.1909
+    ort: —
+    titel: "Maisch, 5./"
+  - seq: 10
+    ga: 284
+    type: vortrag
+    datum: 05.05.1909
+    ort: Berlin
+    titel: Vorbemerkungen des Herausgebers 123 RUDOLF STEINER Die Einweihung des neuen Zweigraumes Die Raumgestaltung - Raffaels «Schule von Athen» und «Disputa» und das zukünftige dritte Gemälde - H. P. Blavatsky und die theosophische Bewegung
+  - seq: 11
+    ga: 284
+    type: vortrag
+    datum: 03.01.1911
+    ort: Stuttgart
+    titel: Vorbemerkungen des Herausgebers 139 RUDOLF STEINER Die Grundsteinlegung des Stuttgarter Hauses
+  - seq: 12
+    ga: 284
+    type: vortrag
+    datum: 15.10.1911
+    ort: Stuttgart
+    titel: Die okkulten Gesichtspunkte des Stuttgarter Baues
+  - seq: 13
+    ga: 284
+    type: ansprache
+    datum: 15.10.1911
+    ort: Stuttgart
+    titel: Jose del Monte - Ansprache des Vorsitzenden des Verbandes Stuttgarter Zweige Adolf Arenson - Weiherede von Rudolf Steiner
+  - seq: 14
+    ga: 284
+    type: vortrag
+    datum: 16.10.1911
+    ort: Stuttgart
+    titel: "In welchem Sinne sind wir Theosophen und in welchem Sinne sind wir Rosenkreu2er?"
+  - seq: 15
+    ga: 284
+    type: vortrag
+    datum: 24.08.1923
+    ort: —
+    titel: Penmaenmawr

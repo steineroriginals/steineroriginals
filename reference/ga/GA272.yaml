@@ -1,0 +1,114 @@
+# GA 272 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 272).
+
+ga: 272
+title: "Nachlass-Verwaltung Buch: 272 Seite: 2 RUDOLF STEINER"
+pdf: GA 272.pdf
+period: 1910–1916
+entry_count: 16
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 272
+    type: vortrag
+    datum: 23.01.1910
+    ort: Straßburg
+    titel: Goethes «Faust» vom geisteswissenschaftlichen Standpunkt . . 15
+  - seq: 2
+    ga: 272
+    type: vortrag
+    datum: 11.04.1911
+    ort: Dornach
+    titel: Das Eindringen Fausts in die geistige Welt 73
+  - seq: 3
+    ga: 272
+    type: vortrag
+    datum: 17.12.1911
+    ort: Berlin
+    titel: "Über Faust. Das Verhältnis des Goetheschen \"Faust\" zu Goethe"
+  - seq: 4
+    ga: 272
+    type: vortrag
+    datum: 04.04.1915
+    ort: Dornach
+    titel: Eine Ostcrbctrachtung.
+  - seq: 5
+    ga: 272
+    type: vortrag
+    datum: 11.04.1915
+    ort: Dornach
+    reihe: Ostern und Pfingsten 1915
+    titel: Faust und Wagner. Abschiedsworte. Das Eindringen Fausts in die geistitge Welt
+    beschreibung: nach einer eurythmisch-dramatischen Darstellung
+  - seq: 6
+    ga: 272
+    type: vortrag
+    datum: 22.05.1915
+    ort: Dornach
+    titel: Pfingststimmung. Fausts Initiation mit den Geistern der Erde . 96
+  - seq: 7
+    ga: 272
+    type: vortrag
+    datum: 30.05.1915
+    ort: Dornach
+    titel: "«Faust», die größte Strebensdichtung der Welt. Die klassische Phantasmagorie 119"
+  - seq: 8
+    ga: 272
+    type: vortrag
+    datum: 14.08.1915
+    ort: Dornach
+    titel: Fausts Himmelfahrt 142
+  - seq: 9
+    ga: 272
+    type: vortrag
+    datum: 15.08.1915
+    ort: Dornach
+    titel: Mystische Erkenntnis und geistige Offenbarung der Natur . . 156
+  - seq: 10
+    ga: 272
+    type: vortrag
+    datum: 16.08.1915
+    ort: Dornach
+    titel: Das Reich der Mütter. Die Mater gloriosa 176
+  - seq: 11
+    ga: 272
+    type: vortrag
+    datum: 19.08.1916
+    ort: Dornach
+    titel: Weisheit - Schönheit - Güte. Michael - Gabriel - Raphael . . 194
+  - seq: 12
+    ga: 272
+    type: vortrag
+    datum: 20.08.1916
+    ort: Dornach
+    titel: Die historische Bedeutung des «Faust» 215
+  - seq: 13
+    ga: 272
+    type: vortrag
+    datum: 04.09.1916
+    ort: Dornach
+    titel: "Die Grablegung. Das Wesen der Lemuren, der Dick- und Dürrteufel 233"
+  - seq: 14
+    ga: 272
+    type: vortrag
+    datum: 09.09.1916
+    ort: Dornach
+    titel: Goethes Einblicke in die Geheimnisse des menschlichen Daseins . 254
+  - seq: 15
+    ga: 272
+    type: vortrag
+    datum: 10.09.1916
+    ort: Dornach
+    titel: Ausblicke in die von Goethe gesuchten wahren Wirklichkeiten . 274
+  - seq: 16
+    ga: 272
+    type: vortrag
+    datum: 11.09.1916
+    ort: Dornach
+    titel: Goethes Aufsuchen der Tiefen des Werdens und der Welt- geheimnisse in seinem «Faust». Die luziferische und die ahrimanische Verführung 298

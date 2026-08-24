@@ -1,0 +1,100 @@
+# GA 210 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 210).
+
+ga: 210
+title: GA 210
+pdf: GA 210.pdf
+period: 1922
+entry_count: 14
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 210
+    type: vortrag
+    datum: 01.01.1922
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 210
+    type: vortrag
+    datum: 07.01.1922
+    ort: Dornach
+    titel: "ZWEITER VORTRAG, Dornach"
+  - seq: 3
+    ga: 210
+    type: vortrag
+    datum: 08.01.1922
+    ort: Dornach
+    titel: "DRITTER VORTRAG, Dornach"
+  - seq: 4
+    ga: 210
+    type: vortrag
+    datum: 19.01.1922
+    ort: Mannheim
+    titel: VORTRAG Mannheim
+  - seq: 5
+    ga: 210
+    type: vortrag
+    datum: 01.02.1922
+    ort: Breslau
+    titel: Vortrag
+  - seq: 6
+    ga: 210
+    type: vortrag
+    datum: 11.02.1922
+    ort: Dornach
+    titel: "VIERTER VORTRAG, Dornach"
+  - seq: 7
+    ga: 210
+    type: vortrag
+    datum: 12.02.1922
+    ort: Dornach
+    titel: "FÜNFTER VORTRAG, Dornach"
+  - seq: 8
+    ga: 210
+    type: vortrag
+    datum: 17.02.1922
+    ort: Dornach
+    titel: "SECHSTER VORTRAG, Dornach"
+  - seq: 9
+    ga: 210
+    type: vortrag
+    datum: 18.02.1922
+    ort: Dornach
+    titel: Siebenter Vortrag
+  - seq: 10
+    ga: 210
+    type: vortrag
+    datum: 19.02.1922
+    ort: Dornach
+    titel: Achter Vortrag
+  - seq: 11
+    ga: 210
+    type: vortrag
+    datum: 24.02.1922
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 12
+    ga: 210
+    type: vortrag
+    datum: 25.02.1922
+    ort: Dornach
+    titel: "ZWEITER VORTRAG, Dornach"
+  - seq: 13
+    ga: 210
+    type: vortrag
+    datum: 26.02.1922
+    ort: Dornach
+    titel: Dritter Vortrag
+  - seq: 14
+    ga: 210
+    type: vortrag
+    datum: 19.03.1922
+    ort: Dornach
+    titel: "VIERTER VORTRAG, Dornach"

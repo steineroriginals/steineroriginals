@@ -1,0 +1,210 @@
+# GA 307 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 307).
+
+ga: 307
+title: Gegenwärtiges Geistesleben
+pdf: GA 307.pdf
+period: 1923
+entry_count: 25
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 307
+    type: vortrag
+    datum: 05.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: "Die Verbindung von Erkenntnis, Kunst und Moralität durch Imagination, Inspiration, Intuition Einleitender Vortrag (Special Address)"
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education» 4.-17. August"
+  - seq: 2
+    ga: 307
+    type: vortrag
+    datum: 06.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: "Warum verlangt die gegenwärtige Zivilisation neue Erziehungsmethoden? I"
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 3
+    ga: 307
+    type: vortrag
+    datum: 06.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: Fragenbeantwortung 1
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 4
+    ga: 307
+    type: vortrag
+    datum: 07.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: "Warum verlangt die gegenwärtige Zivilisation neue Erziehungsmethoden? II"
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 5
+    ga: 307
+    type: vortrag
+    datum: 07.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: Fragenbeantwortung 2
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 6
+    ga: 307
+    type: vortrag
+    datum: 08.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: "Warum verlangt die gegenwärtige Zivilisation neue Erziehungsmethoden? III"
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 7
+    ga: 307
+    type: vortrag
+    datum: 08.08.1923
+    ort: Ilkley (York)
+    titel: Worte zur Ausstellung
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 8
+    ga: 307
+    type: vortrag
+    datum: 09.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: "Warum verlangt die gegenwärtige Zivilisation neue Erziehungsmethoden? IV"
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 9
+    ga: 307
+    type: vortrag
+    datum: 09.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: Fragenbeantwortung
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 10
+    ga: 307
+    type: vortrag
+    datum: 10.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: "Woher sollen die neuen Erziehungsmethoden kommen und wie sollen sie sein? V"
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 11
+    ga: 307
+    type: vortrag
+    datum: 11.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: "Woher sollen die neuen Erziehungsmethoden kommen und wie sollen sie sein? VI"
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 12
+    ga: 307
+    type: vortrag
+    datum: 12.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: "Special Address (Sondervortrag) Drei Entwicklungsperioden der Initiationswissenschaft. Vater, Sohn, Heiliger Geist"
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 13
+    ga: 307
+    type: vortrag
+    datum: 13.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: "Woher sollen die neuen Erziehungsmethoden kommen und wie sollen sie sein? VII"
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 14
+    ga: 307
+    type: vortrag
+    datum: 14.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: "Woher sollen die neuen Erziehungsmethoden kommen und wie sollen sie sein? VIII"
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 15
+    ga: 307
+    type: vortrag
+    datum: 14.08.1923
+    ort: Ilkley (York)
+    titel: Kein Titel
+    beschreibung: "Einleitende Worte zur Eurythmie-Aufführung. Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.- 17. August"
+  - seq: 16
+    ga: 307
+    type: vortrag
+    datum: 15.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: Begründung und Einrichtung der Waldorfschule I (IX)
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 17
+    ga: 307
+    type: vortrag
+    datum: 16.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: Begründung und Einrichtung der Waldorfschule II (X)
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 18
+    ga: 307
+    type: vortrag
+    datum: 16.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: Fragenbeantwortung
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 19
+    ga: 307
+    type: vortrag
+    datum: 17.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: Kulturkonsequenzen der neuen Erziehungsmethoden I (XI)
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 20
+    ga: 307
+    type: vortrag
+    datum: 17.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: Fragenbeantwortung
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 21
+    ga: 307
+    type: vortrag
+    datum: 17.08.1923
+    ort: Ilkley (York)
+    reihe: Gegenwärtiges Geistesleben und Erziehung
+    titel: Kulturkonsequenzen der neuen Erziehungsmethoden II (Abschiedsrede)
+    beschreibung: "Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August"
+  - seq: 22
+    ga: 307
+    type: vortrag
+    datum: 26.08.1923
+    ort: Penmaenmawr (N.Wales)
+    titel: "Eurythmie, was sie ist und wie sie entstanden ist. Die Eurythmie"
+    beschreibung: International Summer School 18.-31. August
+  - seq: 23
+    ga: 307
+    type: vortrag
+    datum: 27.08.1923
+    ort: Penmaenmawr (N.Wales)
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung. International Summer School 18.-31. August
+  - seq: 24
+    ga: 307
+    type: vortrag
+    datum: 04.09.1923
+    ort: London
+    titel: Kein Titel
+    beschreibung: "Einleitende Worte zur Eurythmie-Aufführung (Autoreferat, GA 307)"
+  - seq: 25
+    ga: 307
+    type: vortrag
+    datum: 11.09.1923
+    ort: London
+    titel: Kein Titel
+    beschreibung: "Einleitende Worte zur Eurythmie-Aufführung (Autoreferat, GA 307)"

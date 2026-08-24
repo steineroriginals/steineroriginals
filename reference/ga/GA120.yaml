@@ -1,0 +1,86 @@
+# GA 120 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 120).
+
+ga: 120
+title: "Nachlass-Verwaltung Buch: 120 Seite: 2 RUDOLF STEINER"
+pdf: GA 120.pdf
+period: 1910
+entry_count: 11
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 120
+    type: vortrag
+    datum: 16.05.1910
+    ort: Hamburg
+    titel: "ERSTER VORTRAG, Hamburg"
+  - seq: 2
+    ga: 120
+    type: vortrag
+    datum: 17.05.1910
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 120
+    type: vortrag
+    datum: 18.05.1910
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 120
+    type: vortrag
+    datum: 19.05.1910
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 120
+    type: vortrag
+    datum: 20.05.1910
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 120
+    type: vortrag
+    datum: 21.05.1910
+    ort: Hamburg
+    reihe: Die Offenbarungen des Karma
+    titel: Lebensunfälle in Beziehung zu Karma
+  - seq: 7
+    ga: 120
+    type: vortrag
+    datum: 22.05.1910
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 120
+    type: vortrag
+    datum: 25.05.1910
+    ort: Hamburg
+    reihe: Die Offenbarungen des Karma
+    titel: Karma der höheren Wesenheiten
+  - seq: 9
+    ga: 120
+    type: vortrag
+    datum: 26.05.1910
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 120
+    type: vortrag
+    datum: 27.05.1910
+    ort: Hamburg
+    reihe: Die Offenbarungen des Karma
+    titel: Freier Wille und Karma in der Zukunft der Menschheitsentwicklung
+  - seq: 11
+    ga: 120
+    type: vortrag
+    datum: 28.05.1910
+    ort: Hamburg
+    reihe: Die Offenbarungen des Karma
+    titel: "Individuelles und Gemeinschaftskarma, Menschheitskarma und Karma der höheren Wesenheiten"

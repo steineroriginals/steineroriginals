@@ -1,0 +1,94 @@
+# GA 55 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 55).
+
+ga: 55
+title: GA 55
+pdf: GA 055.pdf
+period: 1906–1907
+entry_count: 13
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 55
+    type: vortrag
+    datum: 11.10.1906
+    ort: Berlin
+    titel: Die Erkenntnis des Übersinnlichen in unserer Zeit und deren Bedeutung für das heutige Leben
+  - seq: 2
+    ga: 55
+    type: vortrag
+    datum: 25.10.1906
+    ort: Berlin
+    titel: Blut ist ein ganz besonderer Saft
+  - seq: 3
+    ga: 55
+    type: vortrag
+    datum: 08.11.1906
+    ort: Berlin
+    titel: Der Ursprung des Leides
+  - seq: 4
+    ga: 55
+    type: vortrag
+    datum: 22.11.1906
+    ort: Berlin
+    titel: Der Ursprung des Bösen
+  - seq: 5
+    ga: 55
+    type: vortrag
+    datum: 01.12.1906
+    ort: Köln
+    titel: Die Erziehung des Kindes vom Standpunkt der Geistewissenschaft
+  - seq: 6
+    ga: 55
+    type: vortrag
+    datum: 13.12.1906
+    ort: Berlin
+    titel: "Wie begreift man Krankheit und Tod?"
+  - seq: 7
+    ga: 55
+    type: vortrag
+    datum: 24.01.1907
+    ort: Berlin
+    titel: Schulfragen vom Standpunkt der Geisteswissenschaft
+  - seq: 8
+    ga: 55
+    type: vortrag
+    datum: 31.01.1907
+    ort: Berlin
+    titel: Der Irrsinn vom Standpunkt der Geisteswissenschaft
+  - seq: 9
+    ga: 55
+    type: vortrag
+    datum: 14.02.1907
+    ort: Berlin
+    titel: Weisheit und Gesundheit
+  - seq: 10
+    ga: 55
+    type: vortrag
+    datum: 28.02.1907
+    ort: Berlin
+    titel: Der Lebenslauf des Menschen vom geisteswissenschaftlichen Standpunkt
+  - seq: 11
+    ga: 55
+    type: vortrag
+    datum: 14.03.1907
+    ort: Berlin
+    titel: "Wer sind die Rosenkreuzer?"
+  - seq: 12
+    ga: 55
+    type: vortrag
+    datum: 28.03.1907
+    ort: Berlin
+    titel: Richard Wagner und die Mystik
+  - seq: 13
+    ga: 55
+    type: vortrag
+    datum: 26.04.1907
+    ort: Berlin
+    titel: Bibel und Weisheit II

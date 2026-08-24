@@ -1,0 +1,107 @@
+# GA 159 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 159).
+
+ga: 159
+title: GA 159
+pdf: GA 159.pdf
+period: 1915
+entry_count: 15
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 159
+    type: vortrag
+    datum: 31.01.1915
+    ort: Zürich
+    titel: Die vier platonischen Tugenden und ihr Zusammenhang mit den menschlichen Wesensgliedern - Das Hereinwirken geistiger Mächte in die physische Welt
+  - seq: 2
+    ga: 159
+    type: vortrag
+    datum: 19.02.1915
+    ort: Hannover
+    titel: Der Durchgang des Menschen durch die Todespforte - eine Lebens- wandlung
+  - seq: 3
+    ga: 159
+    type: vortrag
+    datum: 21.02.1915
+    ort: Bremen
+    titel: Die Geisteswissenschaft und die Rätsel des Todes - Tiefere Zusam- menhänge der europäischen Geschichte
+  - seq: 4
+    ga: 159
+    type: vortrag
+    datum: 07.03.1915
+    ort: Leipzig
+    titel: Das intime Element der mitteleuropäischen Kultur und das mittel- europäische Streben
+  - seq: 5
+    ga: 159
+    type: vortrag
+    datum: 13.03.1915
+    ort: Nürnberg
+    titel: Das Eingreifen des Christus-Impulses in das geschichtliche Gesche- hen - Die Überbrückung der Kluft zwischen Lebenden und Toten
+  - seq: 6
+    ga: 159
+    type: vortrag
+    datum: 14.03.1915
+    ort: Nürnberg
+    titel: Moralische Impulse und ihre Ergebnisse - Das Verhältnis der euro- päischen Völker zu ihren Volksgeistern - Der Kulturimpuls der Eurythmie
+  - seq: 7
+    ga: 159
+    type: vortrag
+    datum: 07.05.1915
+    ort: Wien
+    titel: Kosmische Einwirkungen auf die menschlichen Wesensglieder wäh- rend des Schlafes - Die okkulte Grundlage des Weihnachtsfestes - Der Sinn der Opfertode
+  - seq: 8
+    ga: 159
+    type: vortrag
+    datum: 09.05.1915
+    ort: Wien
+    titel: "Der Krieg, ein Krankheitsprozeß - Mitteleuropa und der slawische Osten - Die Toten als Helfer des Menschheitsfortschrittes"
+  - seq: 9
+    ga: 159
+    type: vortrag
+    datum: 13.05.1915
+    ort: Prag
+    titel: Die Beziehung des Menschen zu den Naturreichen und den Hierar- chien - Zeitgeister und Volksgeister - Die mahnenden Stimmen der Toten
+  - seq: 10
+    ga: 159
+    type: vortrag
+    datum: 15.05.1915
+    ort: Prag
+    titel: Das Walten Luzifers und Ahrimans im Weltenzusammenhang. Die Aufgabe Mitteleuropas. Materielle und spirituelle Kultur. Die Bedeutung des Hineingestelltseins Mitteleuropas zwischen Ost und West - Ahrimanische Inspiration und spirituelle Impulse - Das Symbol des Rosenkreuzes
+    beschreibung: Einweihung des Zweigraumes
+  - seq: 11
+    ga: 159
+    type: vortrag
+    datum: 18.05.1915
+    ort: die physische Welt
+    titel: Christus im Verhältnis zu Luzifer und Ahriman - Die dreifache Wesensgestaltung
+  - seq: 12
+    ga: 159
+    type: vortrag
+    datum: 13.06.1915
+    ort: Elberfeld
+    titel: Geisteswissenschaft als Gesinnung - Der Ätherleib als Abspiegelung des Weltenalls
+  - seq: 13
+    ga: 159
+    type: vortrag
+    datum: 15.06.1915
+    ort: Düsseldorf
+    titel: "Gemeinsamkeit über uns, Christus in uns"
+  - seq: 14
+    ga: 159
+    type: vortrag
+    datum: 17.06.1915
+    ort: Düsseldorf
+    titel: Erfahrungen des Menschen nach dem Durchgang durch die Todes- pforte
+  - seq: 15
+    ga: 159
+    type: vortrag
+    datum: 19.06.1915
+    ort: Köln
+    titel: Die erkenntnisgemäße Überwindung des Todes - Vorgeburtliche und nachtodliche Seelenerlebnisse - Unsere Verbindung mit den Toten

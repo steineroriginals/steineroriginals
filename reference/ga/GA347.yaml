@@ -1,0 +1,76 @@
+# GA 347 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 347).
+
+ga: 347
+title: RUDOLF STEINER GESAMTAUSGABE Vorträge für die Arbeiter am Goetheanumbau Band 1
+pdf: GA 347.pdf
+period: 1922
+entry_count: 10
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 347
+    type: vortrag
+    datum: 02.08.1922
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 347
+    type: mitgliedervortrag
+    datum: 05.08.1922
+    ort: Dornach
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 347
+    type: vortrag
+    datum: 09.08.1922
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 347
+    type: vortrag
+    datum: 09.09.1922
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 347
+    type: vortrag
+    datum: 13.09.1922
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 347
+    type: vortrag
+    datum: 16.09.1922
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 347
+    type: vortrag
+    datum: 20.09.1922
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 347
+    type: vortrag
+    datum: 23.09.1922
+    ort: —
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 347
+    type: vortrag
+    datum: 27.09.1922
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 347
+    type: vortrag
+    datum: 30.09.1922
+    ort: —
+    titel: Zehnter Vortrag

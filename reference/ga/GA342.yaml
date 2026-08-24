@@ -1,0 +1,52 @@
+# GA 342 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 342).
+
+ga: 342
+title: GA 342
+pdf: GA 342.pdf
+period: 1921
+entry_count: 6
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 342
+    type: vortrag
+    datum: 12.06.1921
+    ort: Stuttgart
+    titel: "ERSTER VORTRAG, Stuttgart"
+  - seq: 2
+    ga: 342
+    type: vortrag
+    datum: 13.06.1921
+    ort: —
+    titel: Besprechung
+  - seq: 3
+    ga: 342
+    type: vortrag
+    datum: 14.06.1921
+    ort: —
+    titel: "Copyright Rudolf Steiner Nachlass - Verwaltung Buch: 3 4 2 Seite: 7"
+  - seq: 4
+    ga: 342
+    type: vortrag
+    datum: 14.06.1921
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 5
+    ga: 342
+    type: besprechung
+    datum: 15.06.1921
+    ort: unserer
+    titel: Besprechung
+  - seq: 6
+    ga: 342
+    type: vortrag
+    datum: 16.06.1921
+    ort: unserer
+    titel: Sechster Vortrag

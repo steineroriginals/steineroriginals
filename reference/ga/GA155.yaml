@@ -1,0 +1,76 @@
+# GA 155 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 155).
+
+ga: 155
+title: GA 155
+pdf: GA 155.pdf
+period: 1912–1914
+entry_count: 10
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 155
+    type: vortrag
+    datum: 23.05.1912
+    ort: Kopenhagen
+    titel: Über Den Sinn Des Lebens
+  - seq: 2
+    ga: 155
+    type: vortrag
+    datum: 24.05.1912
+    ort: Kopenhagen
+    titel: "ZWEITER VORTRAG, Kopenhagen"
+  - seq: 3
+    ga: 155
+    type: vortrag
+    datum: 28.05.1912
+    ort: Norrköping
+    titel: Theosophische Moral
+  - seq: 4
+    ga: 155
+    type: vortrag
+    datum: 29.05.1912
+    ort: Norrköping
+    titel: "Instinktive Moral und moralische Prinzipien. Schopenhauers Ausspruch: Moral predigen ist leicht, Moral begründen schwer. Hinführung zu den Quellen der moralischen Impulse. Indische Andacht und nordischer Starkmut. Die neuen moralischen Impulse des fünften nachatlantischen Kulturzeitraumes, «Der arme Heinrich» des Hartmann von Aue. Das mo- ralische Wirken des Franz von Assisi. Jugendliche Verschwendungssucht und Verschwendung moralischer Kräfte. Die Heilwirkung moralischer Impulse."
+  - seq: 5
+    ga: 155
+    type: vortrag
+    datum: 30.05.1912
+    ort: Norrköping
+    titel: "DRITTER VORTRAG, Norrköping"
+  - seq: 6
+    ga: 155
+    type: vortrag
+    datum: 12.07.1914
+    ort: Norrköping
+    titel: Christus Und Die Menschliche Seele
+  - seq: 7
+    ga: 155
+    type: vortrag
+    datum: 13.07.1914
+    ort: Norrköping
+    titel: Öffentlicher Vortrag
+  - seq: 8
+    ga: 155
+    type: vortrag
+    datum: 14.07.1914
+    ort: Norrköping
+    titel: V ORTRAG
+  - seq: 9
+    ga: 155
+    type: vortrag
+    datum: 15.07.1914
+    ort: Norrköping
+    titel: "DRITTER VORTRAG, Norrköping"
+  - seq: 10
+    ga: 155
+    type: vortrag
+    datum: 16.07.1914
+    ort: Norrköping
+    titel: "VIERTER VORTRAG, Norrköping"

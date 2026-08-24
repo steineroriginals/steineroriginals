@@ -1,0 +1,96 @@
+# GA 124 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 124).
+
+ga: 124
+title: "Nachlass-Verwaltung Buch: 124 Seite: 2 RUDOLF STEINER"
+pdf: GA 124.pdf
+period: 1910–1911
+entry_count: 13
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 124
+    type: vortrag
+    datum: 17.10.1910
+    ort: Berlin
+    titel: "ERSTER VORTRAG, Berlin"
+  - seq: 2
+    ga: 124
+    type: vortrag
+    datum: 24.10.1910
+    ort: Berlin
+    titel: "ZWEITER VORTRAG, Berlin"
+  - seq: 3
+    ga: 124
+    type: vortrag
+    datum: 07.11.1910
+    ort: Berlin
+    titel: "DRITTER VORTRAG, Berlin"
+  - seq: 4
+    ga: 124
+    type: vortrag
+    datum: 06.12.1910
+    ort: Berlin
+    titel: "VIERTER VORTRAG, Berlin"
+  - seq: 5
+    ga: 124
+    type: vortrag
+    datum: 12.12.1910
+    ort: München
+    titel: "ELFTER VORTRAG, München"
+  - seq: 6
+    ga: 124
+    type: fragenbeantwortung
+    datum: 18.12.1910
+    ort: —
+    reihe: FRAGENBEANTWORTUNG zum Vortrag vom 18. Dezember                         1910 242
+    titel: FRAGENBEANTWORTUNG zum Vortrag vom
+  - seq: 7
+    ga: 124
+    type: vortrag
+    datum: 19.12.1910
+    ort: Berlin
+    titel: "FÜNFTER VORTRAG, Berlin"
+  - seq: 8
+    ga: 124
+    type: vortrag
+    datum: 16.01.1911
+    ort: Berlin
+    titel: "SECHSTER VORTRAG, Berlin"
+  - seq: 9
+    ga: 124
+    type: fragenbeantwortung
+    datum: 02.02.1911
+    ort: Koblenz
+    reihe: FRAGENBEANTWORTUNG zum Vortrag vom 18. Dezember                         1910 242
+    titel: "DREIZEHNTER VORTRAG, Koblenz"
+  - seq: 10
+    ga: 124
+    type: vortrag
+    datum: 28.02.1911
+    ort: Berlin
+    titel: Siebenter Vortrag
+  - seq: 11
+    ga: 124
+    type: vortrag
+    datum: 07.03.1911
+    ort: Berlin
+    titel: Achter Vortrag
+  - seq: 12
+    ga: 124
+    type: vortrag
+    datum: 13.03.1911
+    ort: Berlin
+    titel: "NEUNTER VORTRAG, Berlin"
+  - seq: 13
+    ga: 124
+    type: vortrag
+    datum: 10.06.1911
+    ort: Berlin
+    titel: "ZEHNTER VORTRAG, Berlin"

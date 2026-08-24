@@ -1,0 +1,70 @@
+# GA 310 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 310).
+
+ga: 310
+title: GA 310
+pdf: GA 310.pdf
+period: 1924
+entry_count: 9
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 310
+    type: vortrag
+    datum: 17.07.1924
+    ort: Arnheim
+    titel: "ERSTER VORTRAG, Arnheim"
+  - seq: 2
+    ga: 310
+    type: vortrag
+    datum: 18.07.1924
+    ort: —
+    titel: Das Erwecken der pädagogischen Gesinnung aus der Erkenntnis des gan- zen Menschen
+  - seq: 3
+    ga: 310
+    type: vortrag
+    datum: 19.07.1924
+    ort: —
+    titel: "Das menschliche Leben in geisteswissenschaftlicher Beleuchtung (Goethe, Schiller)"
+  - seq: 4
+    ga: 310
+    type: fragenbeantwortung
+    datum: 20.07.1924
+    ort: —
+    titel: Die Differenzierungen in den menschlichen Lebensaltern Fragenbeantwortung 62
+  - seq: 5
+    ga: 310
+    type: vortrag
+    datum: 21.07.1924
+    ort: —
+    titel: Das lebendige Herantreten an die Kindesnatur durch das Begründen eines Verhältnisses zur Welt
+  - seq: 6
+    ga: 310
+    type: vortrag
+    datum: 22.07.1924
+    ort: —
+    titel: Die praktische Verwirklichung der pädagogischen Grundlagen in der Freien Waldorfschule
+  - seq: 7
+    ga: 310
+    type: vortrag
+    datum: 23.07.1924
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 310
+    type: vortrag
+    datum: 24.07.1924
+    ort: —
+    titel: Das Temperamentmäßige in der Menschenorganisation
+  - seq: 9
+    ga: 310
+    type: vortrag
+    datum: 24.07.1924
+    ort: —
+    titel: Das Zusammenschauen des Körperlichen und des Geistig-Seelischen durch die vollkommene Menschenerkenntnis

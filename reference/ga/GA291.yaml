@@ -1,0 +1,88 @@
+# GA 291 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 291.pdf table of contents.
+
+ga: 291
+title: GA 291
+pdf: GA 291.pdf
+period: 1914–1924
+entry_count: 12
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 291
+    type: vortrag
+    datum: 06.05.1921
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 291
+    type: vortrag
+    datum: 07.05.1921
+    ort: Dornach
+    titel: "ZWEITER VORTRAG, Dornach"
+  - seq: 3
+    ga: 291
+    type: vortrag
+    datum: 08.05.1921
+    ort: Dornach
+    titel: "DRITTER VORTRAG, Dornach"
+  - seq: 4
+    ga: 291
+    type: vortrag
+    datum: 26.07.1914
+    ort: Dornach
+    titel: Die schöpferische Welt der Farbe
+  - seq: 5
+    ga: 291
+    type: vortrag
+    datum: 01.01.1915
+    ort: Dornach
+    titel: Das moralische Erleben der Farben- und Tonwelt als Vorbereitung zum künstlerischen Schaffen
+  - seq: 6
+    ga: 291
+    type: vortrag
+    datum: 05.12.1920
+    ort: Dornach
+    titel: "Copyright Rudolf Steinet Nachlass-Veiwaltung Buch: 291 Seite: 8 Licht und Finsternis als zwei Welt-Entitäten"
+  - seq: 7
+    ga: 291
+    type: vortrag
+    datum: 10.12.1920
+    ort: Dornach
+    titel: Das Leben im Licht und in der Schwere
+  - seq: 8
+    ga: 291
+    type: vortrag
+    datum: 21.02.1923
+    ort: Dornach
+    titel: Die zwei Grundgesetze der Farbenlehre in Morgen- und Abendröte und in der Himmelsbläue - Gesundheit und Krankheit im Zusammenhang mit der Farbenlehre
+  - seq: 9
+    ga: 291
+    type: vortrag
+    datum: 02.06.1923
+    ort: Dornach
+    titel: Von der Raumperspektive zur Farbenperspektive
+  - seq: 10
+    ga: 291
+    type: vortrag
+    datum: 09.06.1923
+    ort: Dornach
+    titel: Geist und Ungeist in der Malerei - Tizians «Himmelfahrt Maria»
+  - seq: 11
+    ga: 291
+    type: vortrag
+    datum: 29.07.1923
+    ort: Dornach
+    titel: "Maß, Zahl und Gewicht - Die schwerelose Farbe als Forderung der neuen Malentwickelung"
+  - seq: 12
+    ga: 291
+    type: vortrag
+    datum: 04.01.1924
+    ort: Dornach
+    titel: Die Hierarchien und das Wesen des Regenbogens

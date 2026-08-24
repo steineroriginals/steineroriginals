@@ -1,0 +1,64 @@
+# GA 231 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 231).
+
+ga: 231
+title: GA 231
+pdf: GA 231.pdf
+period: 1923
+entry_count: 7
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 231
+    type: vortrag
+    datum: 13.11.1923
+    ort: Haag
+    reihe: Der übersinnliche Mensch anthroposophisch erfasst
+    titel: Vortrag 1
+    beschreibung: Herbstveranstaltung der anthroposophischen Bewegung in Holland 13.-18. Nov.
+  - seq: 2
+    ga: 231
+    type: vortrag
+    datum: 14.11.1923
+    ort: Haag
+    reihe: Der übersinnliche Mensch anthroposophisch erfasst
+    titel: Vortrag 2
+  - seq: 3
+    ga: 231
+    type: vortrag
+    datum: 15.11.1923
+    ort: Haag
+    titel: Anthroposophie als Zeitforderung
+  - seq: 4
+    ga: 231
+    type: vortrag
+    datum: 16.11.1923
+    ort: Haag
+    titel: Anthroposophie als menschlich-persönlicher Lebensweg
+  - seq: 5
+    ga: 231
+    type: vortrag
+    datum: 17.11.1923
+    ort: Haag
+    reihe: Der übersinnliche Mensch anthroposophisch erfasst
+    titel: Vortrag 3
+  - seq: 6
+    ga: 231
+    type: vortrag
+    datum: 17.11.1923
+    ort: Haag
+    reihe: Der übersinnliche Mensch anthroposophisch erfasst
+    titel: Vortrag 4
+  - seq: 7
+    ga: 231
+    type: vortrag
+    datum: 18.11.1923
+    ort: Haag
+    reihe: Der übersinnliche Mensch anthroposophisch erfasst
+    titel: Vortrag 5

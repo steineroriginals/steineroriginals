@@ -1,0 +1,70 @@
+# GA 223 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 223.pdf table of contents.
+
+ga: 223
+title: "Nachlass-Verwaltung Buch: 223 Seite: 2 RUDOLF STEINER"
+pdf: GA 223.pdf
+period: 1923
+entry_count: 9
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 223
+    type: vortrag
+    datum: 31.03.1923
+    ort: Karsamstag
+    titel: Kein Titel
+  - seq: 2
+    ga: 223
+    type: vortrag
+    datum: 01.04.1923
+    ort: Ostersonntag
+    titel: "ZWEITER VORTRAG, Ostersonntag"
+  - seq: 3
+    ga: 223
+    type: vortrag
+    datum: 02.04.1923
+    ort: Ostermontag
+    titel: "DRITTER VORTRAG, Ostermontag"
+  - seq: 4
+    ga: 223
+    type: vortrag
+    datum: 07.04.1923
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 223
+    type: vortrag
+    datum: 08.04.1923
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 223
+    type: vortrag
+    datum: 27.09.1923
+    ort: Wien
+    titel: "ERSTER VORTRAG, Wien"
+  - seq: 7
+    ga: 223
+    type: vortrag
+    datum: 28.09.1923
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 8
+    ga: 223
+    type: vortrag
+    datum: 30.09.1923
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 9
+    ga: 223
+    type: vortrag
+    datum: 01.10.1923
+    ort: —
+    titel: Vierter Vortrag

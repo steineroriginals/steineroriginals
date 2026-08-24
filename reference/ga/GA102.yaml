@@ -1,0 +1,94 @@
+# GA 102 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 102).
+
+ga: 102
+title: GA 102
+pdf: GA 102.pdf
+period: 1908
+entry_count: 13
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 102
+    type: vortrag
+    datum: 06.01.1908
+    ort: Berlin
+    titel: "ERSTER VORTRAG, Berlin"
+  - seq: 2
+    ga: 102
+    type: vortrag
+    datum: 27.01.1908
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 102
+    type: vortrag
+    datum: 15.02.1908
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 102
+    type: vortrag
+    datum: 29.02.1908
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 102
+    type: vortrag
+    datum: 16.03.1908
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 102
+    type: vortrag
+    datum: 24.03.1908
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 102
+    type: vortrag
+    datum: 13.04.1908
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 102
+    type: vortrag
+    datum: 20.04.1908
+    ort: —
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 102
+    type: vortrag
+    datum: 13.05.1908
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 102
+    type: vortrag
+    datum: 16.05.1908
+    ort: —
+    titel: "Rudolf Steiner: Notizbucheintragungen zum Vortrag"
+  - seq: 11
+    ga: 102
+    type: vortrag
+    datum: 01.06.1908
+    ort: —
+    titel: Elfter Vortrag
+  - seq: 12
+    ga: 102
+    type: vortrag
+    datum: 04.06.1908
+    ort: —
+    titel: Zwölfter Vortrag
+  - seq: 13
+    ga: 102
+    type: vortrag
+    datum: 11.06.1908
+    ort: —
+    titel: Dreizehnter Vortrag

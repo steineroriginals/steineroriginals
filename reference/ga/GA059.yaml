@@ -1,0 +1,70 @@
+# GA 59 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 59).
+
+ga: 59
+title: GA 59
+pdf: GA 059.pdf
+period: 1910
+entry_count: 9
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 59
+    type: vortrag
+    datum: 20.01.1910
+    ort: Berlin
+    titel: Die Geisteswissenschaft Und Die Sprache
+  - seq: 2
+    ga: 59
+    type: vortrag
+    datum: 03.02.1910
+    ort: Berlin
+    titel: XL Lachen und Weinen
+  - seq: 3
+    ga: 59
+    type: vortrag
+    datum: 10.02.1910
+    ort: Berlin
+    titel: "XII. Was ist Mystik?"
+  - seq: 4
+    ga: 59
+    type: vortrag
+    datum: 17.02.1910
+    ort: Berlin
+    titel: XIII. Das Wesen des Gebetes
+  - seq: 5
+    ga: 59
+    type: vortrag
+    datum: 03.03.1910
+    ort: Berlin
+    titel: XIV. Krankheit und Heilung
+  - seq: 6
+    ga: 59
+    type: vortrag
+    datum: 10.03.1910
+    ort: Berlin
+    titel: XV. Der positive und der negative Mensch
+  - seq: 7
+    ga: 59
+    type: vortrag
+    datum: 28.04.1910
+    ort: Berlin
+    titel: XVI. Irrtum und Irresein
+  - seq: 8
+    ga: 59
+    type: vortrag
+    datum: 05.05.1910
+    ort: Berlin
+    titel: XVII. Das menschliche Gewissen
+  - seq: 9
+    ga: 59
+    type: vortrag
+    datum: 12.05.1910
+    ort: Berlin
+    titel: "XVIII. Die Mission der Kunst (Homer, Äschylos, Dante, Shakespeare, Goethe)"

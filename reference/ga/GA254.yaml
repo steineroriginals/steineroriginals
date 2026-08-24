@@ -1,0 +1,99 @@
+# GA 254 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 254).
+
+ga: 254
+title: RUDOLF STEINER DAS LEBENDIGE WESEN DER ANTHROPOSOPHIE UND SEINE PFLEGE
+pdf: GA 254.pdf
+period: 1915
+entry_count: 13
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 254
+    type: vortrag
+    datum: 10.10.1915
+    ort: Dorn ach
+    titel: "ERSTER VORTRAG, Dorn ach"
+  - seq: 2
+    ga: 254
+    type: vortrag
+    datum: 11.10.1915
+    ort: Dornach
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 254
+    type: vortrag
+    datum: 16.10.1915
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 254
+    type: vortrag
+    datum: 17.10.1915
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 254
+    type: vortrag
+    datum: 18.10.1915
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 254
+    type: vortrag
+    datum: 19.10.1915
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 254
+    type: vortrag
+    datum: 22.10.1915
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 254
+    type: vortrag
+    datum: 23.10.1915
+    ort: —
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 254
+    type: vortrag
+    datum: 24.10.1915
+    ort: —
+    reihe: Die Frage der Veröffentlichung bisher geheimgehaltenen Wissens -
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 254
+    type: vortrag
+    datum: 25.10.1915
+    ort: —
+    reihe: Die Frage der Veröffentlichung bisher geheimgehaltenen Wissens -
+    titel: Zehnter Vortrag
+  - seq: 11
+    ga: 254
+    type: vortrag
+    datum: 31.10.1915
+    ort: —
+    reihe: Die Frage der Veröffentlichung bisher geheimgehaltenen Wissens -
+    titel: Elfter Vortrag
+  - seq: 12
+    ga: 254
+    type: vortrag
+    datum: 01.11.1915
+    ort: —
+    reihe: Die Frage der Veröffentlichung bisher geheimgehaltenen Wissens -
+    titel: Zwölfter Vortrag
+  - seq: 13
+    ga: 254
+    type: vortrag
+    datum: 07.11.1915
+    ort: —
+    reihe: Die Frage der Veröffentlichung bisher geheimgehaltenen Wissens -
+    titel: Dreizehnter Vortrag

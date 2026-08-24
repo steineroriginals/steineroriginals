@@ -1,0 +1,82 @@
+# GA 224 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 224.pdf table of contents.
+
+ga: 224
+title: GA 224
+pdf: GA 224.pdf
+period: 1923
+entry_count: 11
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 224
+    type: vortrag
+    datum: 06.04.1923
+    ort: Bern
+    titel: Schicksalsgestaltung in Schlafen und Wachen. Die Geistigkeit der Sprache und die Gewissensstimme
+  - seq: 2
+    ga: 224
+    type: vortrag
+    datum: 02.05.1923
+    ort: Stuttgart
+    titel: "Der individualisierte Logos und die Kunst, aus dem Worte den Geist herauszulösen"
+  - seq: 3
+    ga: 224
+    type: vortrag
+    datum: 21.06.1923
+    ort: Stuttgart
+    titel: Unser Gedankenleben in Schlafen und Wachen und im nachtod- lichen Dasein
+  - seq: 4
+    ga: 224
+    type: vortrag
+    datum: 04.07.1923
+    ort: Stuttgart
+    titel: "Mauthners «Kritik der Sprache» - Die Unzulänglichkeit heutigen Denkens, aufgezeigt an Rubner und Schweitzer"
+  - seq: 5
+    ga: 224
+    type: vortrag
+    datum: 11.07.1923
+    ort: Stuttgart
+    titel: Die vier Wesensglieder des Menschen - Der Spiegelcharakter des intellektuellen Denkens und die Realität des sittlich-religiösen Erlebens
+  - seq: 6
+    ga: 224
+    type: vortrag
+    datum: 28.04.1923
+    ort: Prag
+    titel: Drei Etappen des Erwachens der menschlichen Seele
+  - seq: 7
+    ga: 224
+    type: vortrag
+    datum: 29.04.1923
+    ort: Prag
+    titel: Anthroposophie der Weg zu einem vertieften Verständnis des Ostermysteriums
+  - seq: 8
+    ga: 224
+    type: vortrag
+    datum: 07.05.1923
+    ort: Dornach
+    titel: Die Himmelfahrtsoffenbarung und das Pfingstgeheimnis
+  - seq: 9
+    ga: 224
+    type: vortrag
+    datum: 24.06.1923
+    ort: Dornach
+    titel: Johannistimmung - Der geschärfte Johanniblick
+  - seq: 10
+    ga: 224
+    type: vortrag
+    datum: 13.04.1923
+    ort: Dornach
+    titel: Wiedergewinnung des lebendigen Sprachquells durch den Chri- stus-Impuls - Der Michael-Gedanke als Anruf des menschlichen Willens
+  - seq: 11
+    ga: 224
+    type: vortrag
+    datum: 23.05.1923
+    ort: Berlin
+    titel: Die Schaffung eines Michael-Festes aus dem Geiste heraus - Die Rätsel des inneren Menschen

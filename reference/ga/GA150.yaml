@@ -1,0 +1,76 @@
+# GA 150 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 150).
+
+ga: 150
+title: GA 150
+pdf: GA 150.pdf
+period: 1913
+entry_count: 10
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 150
+    type: auszug_aus_vortrag
+    datum: 12.01.1913
+    ort: Leipzig
+    titel: Notizen  aus dem Vortrag
+  - seq: 2
+    ga: 150
+    type: vortrag
+    datum: 14.03.1913
+    ort: Augsburg
+    titel: "Vom Gebrauch anthroposophischer Wortbestimmungen. Die Ent- wickelung des Kindes. Luziferische Einwirkung in den ersten sieben Jahren. Ich-Bewußtsein, Gedächtnis, Egoität. Ahrimanische Ein- flüsse im zweiten Jahrsiebent. Die Verdichtung des Ich-Gefühls im neunten Jahr. Die Furcht vor der eigenen Gestalt. Das Zusammen- wirken der fortschreitenden Kräfte mit den luziferisch-ahrimani- schen Wirkungen zur inneren Selbständigkeit des Kindes. Gesunde Umgebung, Autorität, Begeisterung für Ideale als Grundprinzipien der Pädagogik. Das Gedächtnis. Über die Zähne. Das Alter. Seelen- sommer und Seelenwinter. Luziferisches und Ahrimanisches im Le- ben des Menschen. Die Unterscheidung von sinnlicher und übersinn- licher Welt als Aufgabe. Einige Worte zur Einweihung des Zweiges."
+  - seq: 3
+    ga: 150
+    type: vortrag
+    datum: 23.03.1913
+    ort: Ostersonntag
+    titel: Kein Titel
+  - seq: 4
+    ga: 150
+    type: vortrag
+    datum: 13.04.1913
+    ort: Erfurt
+    titel: Von der Einwirkung der Toten in die Welt der Lebenden Vom Wesen der Zweiggründung. Vom Namen des neugegründeten Zweiges. Einwirkung der Toten in die Welt der Lebenden. Raffael und die Einwirkung seines Vaters auf ihn. Beispiel aus der Erzieher- tätigkeit Rudolf Steiners. Die spirituelle Hinneigung zu den Toten und die heutige technische Umgebung des Menschen. «Die Schule von Athen» von Raffael. Paulus als die Hauptfigur dieses Bildes und die Fälschungen um diese Tatsache. Anthroposophie als Erdenfrucht. Das Fortwirken der Toten für den Fortschritt der Kultur durch ihr Einwirken in die Welt der Lebenden.
+  - seq: 5
+    ga: 150
+    type: vortrag
+    datum: 13.04.1913
+    ort: Weimar
+    titel: Sinneserleben und Erleben der Welt der Verstorbenen Sinneserleben und Initiationserleben. Das Erleben der Todesvorstel- lung als das Stehen vor dem Nichts. Beschreibung der Sinne des äuße- ren Wahrnehmens und des Selbstwahrnehmens. Die Bedeutung des Gehörsinnes im Traumerleben. Der Sinn für das Musikalisch-Rhyth- misch-Harmonische. Die Bedeutung der Sinne des Selbstwahrneh- mens für das Erleben nach dem Tode. Über die Verbindung der Le- benden mit den Toten. Die Bedeutung der übersinnlichen Vorstel- lungen für das Schlaferleben und als Nahrung für die Verstor- benen. Die Verfassung der Toten bei Mangel an dieser Nahrung. Das Erwecken spiritueller Vorstellungen als Erdenaufgabe.
+  - seq: 6
+    ga: 150
+    type: vortrag
+    datum: 05.05.1913
+    ort: Paris
+    titel: "Die Umwandlung der Kräfte der Seele in der Initiation Der Begriff der Zahl. Mikrokosmos und Makrokosmos. Die Um- wandlung der Kräfte der Seele in der Initiation. Die Loslösung des Denkens, das Erleben außerhalb des Leibes. Die Vorstellung der Liebe. Öie Loslösung der Sprachkraft, die Erkenntnis der spirituellen Kraft des Wortes, des Lebens vor der Geburt und der Entwickelung der Menschheit. Die Loslösung der Blutskräfte in der Willensmeditation. Erdverkörperungen und Leben zwischen Tod und neuer Geburt. Die Verbindung mit den Toten. Das Erleben der Unsterblichkeit im Men- schen."
+  - seq: 7
+    ga: 150
+    type: vortrag
+    datum: 08.06.1913
+    ort: Stockholm
+    titel: "Natur und Geist im Lichte geisteswissenschaftlicher Erkenntnis Goethes Ausspruch über Natur und Geist im «Faust». Die Erde als eine lebendige Ganzheit. Mensch und Erde im Wachen und Schlafen. Die Anschauung der Erde bei Kepler, Giordano Bruno und Goethe. Vom Wesen eines Frühverstorbenen. Natur und Geist im Menschen, in Mann und Weib. Natur und Geist als Wechselzustand, nicht als Gegensatz. Die drei Entitaten Wesen, Natur, Geist."
+  - seq: 8
+    ga: 150
+    type: vortrag
+    datum: 10.06.1913
+    ort: Stockholm
+    titel: Stockholm;
+  - seq: 9
+    ga: 150
+    type: vortrag
+    datum: 21.12.1913
+    ort: Bochum
+    titel: Erdenwinter und Sonnen-Geistessieg Die Unzulässigkeit der Kritik am Wesen unserer Zeit. Vergan- genheit und Gegenwart-Zukunft als Sommerzeit und Winterzeit. Die Verschiedenheit religiösen Erlebens des früheren naturverbundenen Menschen und der modernen Menschheit. Über den nathanischen Jesusknaben. Die dreifache Wesenheit des Christus Jesus. Der Ge- gensatz der Liebeskraft der Sonne (Sommer) und der Egoitat der Erde (Winter). Harmonie des Sonnenganges und wetterwendische Er- denwirksamkeit im Menschen. Der Sieg des Sonnengeistes über die tellurischen Winterkräfte. Die Feier der Weihenacht. Namengebung des «Vidar»-Zweiges. Wahrspruchwort.
+  - seq: 10
+    ga: 150
+    type: vortrag
+    datum: 23.12.1913
+    ort: Berlin
+    titel: Kindeskraft und Ewigkeitskraft. Eine Weihnachtsgabe Das Erleben der Weihnachtsspiele einst und jetzt. Der nathanische Jesusknabe als das «Kind der Menschheit». Das Bild «Purgatorium» («Triumph des Todes») auf dem Camposanto in Pisa. Das «jung» und «alt» sein im Leben. Das Verwachsensein der Kindesnatur mit der göttlich-geistigen Welt in der Anschauung des Mittelalters. Früh- lingshafte und sommerliche Sonnenkräfte und herbstlich-winterliche Erdenkräfte. Das Erleben der Winterweihenacht als der Sieg des Son- nengeistes über die Erdenkräfte. Ausspruch des Angelus Silesius. Das Wesen der Weihnachtsspiele. Wahrspruchwort.

@@ -1,0 +1,493 @@
+# GA 277b — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 277b).
+
+ga: 277b
+title: Die Entstehung und Entwicklung der Eurythmie 1918–1920
+pdf: GA 277b.pdf
+period: 1918–1920
+entry_count: 68
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen
+  - Notizen zur Ansprache (ohne vollständigen Ansprache-Text im Band)
+  - Briefe, Reiseprogramme, Lehrpläne
+  - Zeitungsberichte über Aufführungen
+
+entries:
+  - seq: 1
+    ga: 277b
+    type: vortrag
+    datum: 25.08.1918
+    ort: Dornach
+    titel: "Goethes «Faust»: Prolog im Himmel. Die Erneuerung der alten Tempel-Tanzkunst durch die neue Raumbewegungskunst"
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung. Besuch des holländischen Prinzgemahls
+  - seq: 2
+    ga: 277b
+    type: vortrag
+    datum: 17.10.1918
+    ort: Zürich
+    titel: "Aus dem Vortrag Zürich, 17. Oktober 1918"
+    beschreibung: Auszug (GA 277b)
+  - seq: 3
+    ga: 277b
+    type: vortrag
+    datum: 07.02.1919
+    ort: Winterthur
+    titel: Kein Titel
+    beschreibung: Ansprache zur Eurythmie
+  - seq: 4
+    ga: 277b
+    type: vortrag
+    datum: 24.02.1919
+    ort: Zürich
+    titel: "Was ist und will die neue Bewegungskunst?"
+    beschreibung: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+  - seq: 5
+    ga: 277b
+    type: vortrag
+    datum: 05.04.1919
+    ort: Dornach
+    titel: Über die neue Rezitationskunst
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 6
+    ga: 277b
+    type: vortrag
+    datum: 06.05.1919
+    ort: Stuttgart
+    titel: "Die neue, dem Leben der Zukunft dienende Kunst"
+    beschreibung: Einleitende Worte zur Eurythmie- Aufführung. Eurythmie für die Angestellten und Arbeiter der Waldorf-Astoria Zigarettenfabrik.
+  - seq: 7
+    ga: 277b
+    type: vortrag
+    datum: 25.05.1919
+    ort: Stuttgart
+    titel: Kein Titel
+    beschreibung: Ansprache zur Eurythmie
+  - seq: 8
+    ga: 277b
+    type: vortrag
+    datum: 11.08.1919
+    ort: Dornach
+    titel: Das Sichtbarwerden der Sprache durch den ganzen Menschen
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung für Münchener Ferienkinder
+  - seq: 9
+    ga: 277b
+    type: vortrag
+    datum: 16.08.1919
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+  - seq: 10
+    ga: 277b
+    type: vortrag
+    datum: 17.08.1919
+    ort: Dornach
+    titel: Goethesche Weltanschauung und Goethes Kunstgesinnung
+    beschreibung: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+  - seq: 11
+    ga: 277b
+    type: vortrag
+    datum: 25.08.1919
+    ort: Stuttgart
+    titel: "Aus dem Vortrag Stuttgart, 25. August 1919"
+    beschreibung: Auszug (GA 277b)
+  - seq: 12
+    ga: 277b
+    type: vortrag
+    datum: 29.08.1919
+    ort: Stuttgart
+    titel: "Aus der Seminarbesprechung Stuttgart, 29. August 1919"
+    beschreibung: Auszug (GA 277b)
+  - seq: 13
+    ga: 277b
+    type: vortrag
+    datum: 08.09.1919
+    ort: Stuttgart
+    titel: "Aus der Lehrerkonferenz Stuttgart, 8. September 1919"
+    beschreibung: Auszug (GA 277b)
+  - seq: 14
+    ga: 277b
+    type: vortrag
+    datum: 14.09.1919
+    ort: Berlin
+    titel: Über das Wesen der Eurythmie
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 15
+    ga: 277b
+    type: vortrag
+    datum: 16.09.1919
+    ort: Berlin
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 16
+    ga: 277b
+    type: vortrag
+    datum: 21.09.1919
+    ort: Dresden
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 17
+    ga: 277b
+    type: vortrag
+    datum: 11.10.1919
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+  - seq: 18
+    ga: 277b
+    type: vortrag
+    datum: 12.10.1919
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+  - seq: 19
+    ga: 277b
+    type: vortrag
+    datum: 19.10.1919
+    ort: Dornach
+    titel: Goethes Anschauung von der Idee
+    beschreibung: Einleitende Worte zur öffentlichen Eurythmie- Aufführung
+  - seq: 20
+    ga: 277b
+    type: vortrag
+    datum: 31.10.1919
+    ort: Zürich
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+  - seq: 21
+    ga: 277b
+    type: vortrag
+    datum: 02.11.1919
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+  - seq: 22
+    ga: 277b
+    type: vortrag
+    datum: 05.11.1919
+    ort: Bern
+    titel: Zur Darstellung der Faust-Szenen
+    beschreibung: Einleitende Worte zur öffentlichen Eurythmie- Aufführung
+  - seq: 23
+    ga: 277b
+    type: vortrag
+    datum: 08.11.1919
+    ort: Dornach
+    titel: Der Weg zu einer wirklichen Geisteskultur
+    beschreibung: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+  - seq: 24
+    ga: 277b
+    type: vortrag
+    datum: 15.11.1919
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+  - seq: 25
+    ga: 277b
+    type: vortrag
+    datum: 16.11.1919
+    ort: Dornach
+    titel: Über das Wesen der Rezitationskunst
+    beschreibung: Einleitende Worte zur öffentlichen Eurythmie- Aufführung
+  - seq: 26
+    ga: 277b
+    type: vortrag
+    datum: 22.11.1919
+    ort: Dornach
+    titel: Die Seelenkunde der goetheschen Weltanschauung
+    beschreibung: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+  - seq: 27
+    ga: 277b
+    type: vortrag
+    datum: 23.11.1919
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur öffentlichen Eurythmie Aufführung
+  - seq: 28
+    ga: 277b
+    type: vortrag
+    datum: 29.11.1919
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 29
+    ga: 277b
+    type: vortrag
+    datum: 30.11.1919
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 30
+    ga: 277b
+    type: vortrag
+    datum: 14.12.1919
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 31
+    ga: 277b
+    type: vortrag
+    datum: 17.01.1920
+    ort: Dornach
+    titel: Natur-Impressionen
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 32
+    ga: 277b
+    type: vortrag
+    datum: 18.01.1920
+    ort: Dornach
+    titel: Natur-Impressionen
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 33
+    ga: 277b
+    type: vortrag
+    datum: 24.01.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 34
+    ga: 277b
+    type: vortrag
+    datum: 25.01.1920
+    ort: Dornach
+    titel: "Eurythmie, das Zukunftselement unserer Kultur"
+    beschreibung: Einleitende Worte zur Eurythmie- Aufführung
+  - seq: 35
+    ga: 277b
+    type: vortrag
+    datum: 31.01.1920
+    ort: Dornach
+    titel: Sylphen und Gnomen. Über den Charakter der eurythmischen Kunst
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 36
+    ga: 277b
+    type: vortrag
+    datum: 01.02.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 37
+    ga: 277b
+    type: vortrag
+    datum: 07.02.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 38
+    ga: 277b
+    type: vortrag
+    datum: 08.02.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 39
+    ga: 277b
+    type: vortrag
+    datum: 14.02.1920
+    ort: Dornach
+    titel: Die Suche nach dem neuen Quell des Künstlerischen
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 40
+    ga: 277b
+    type: vortrag
+    datum: 15.02.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 41
+    ga: 277b
+    type: vortrag
+    datum: 21.02.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 42
+    ga: 277b
+    type: vortrag
+    datum: 22.02.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 43
+    ga: 277b
+    type: vortrag
+    datum: 04.04.1920
+    ort: Dornach
+    titel: Das sinnlich-übersinnnliche in der Kunst
+    beschreibung: Einleitende Worte zur Eurythmie- Aufführung
+  - seq: 44
+    ga: 277b
+    type: vortrag
+    datum: 05.04.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 45
+    ga: 277b
+    type: vortrag
+    datum: 10.04.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 46
+    ga: 277b
+    type: vortrag
+    datum: 11.04.1920
+    ort: Dornach
+    titel: Die Quelle des künstlerischen Wirkens in der menschlichen Natur
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 47
+    ga: 277b
+    type: vortrag
+    datum: 17.04.1920
+    ort: Dornach
+    titel: "Über Goethes Prosahymus \"Die Natur\""
+    beschreibung: Einleitende Worte zur Eurythmie- Aufführung
+  - seq: 48
+    ga: 277b
+    type: vortrag
+    datum: 18.04.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Ansprache zur Eurythmie
+  - seq: 49
+    ga: 277b
+    type: vortrag
+    datum: 24.04.1920
+    ort: Dornach
+    titel: "Zur Inszenierung der Arielszene aus Goethes \"Faust\" II"
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 50
+    ga: 277b
+    type: vortrag
+    datum: 27.04.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung für die Besucher der «Schweizer Mustermesse»
+  - seq: 51
+    ga: 277b
+    type: vortrag
+    datum: 01.05.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 52
+    ga: 277b
+    type: vortrag
+    datum: 02.05.1920
+    ort: Dornach
+    titel: "Wie sollte Eurythmie aufgenommen werden?"
+    beschreibung: Einleitende Worte zur Eurythmie- Aufführung
+  - seq: 53
+    ga: 277b
+    type: vortrag
+    datum: 08.05.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 54
+    ga: 277b
+    type: vortrag
+    datum: 09.05.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 55
+    ga: 277b
+    type: vortrag
+    datum: 15.05.1920
+    ort: Dornach
+    titel: Die drei Gesichtspunkte der Eurythmie
+    beschreibung: Einleitende Worte zur Eurythmie- Aufführung
+  - seq: 56
+    ga: 277b
+    type: vortrag
+    datum: 16.05.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 57
+    ga: 277b
+    type: vortrag
+    datum: 23.05.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 58
+    ga: 277b
+    type: vortrag
+    datum: 29.05.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung für den Evangelischen Lehrerverein von Baselland und Baselstadt
+  - seq: 59
+    ga: 277b
+    type: vortrag
+    datum: 11.07.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Ansprache zur Eurythmie
+  - seq: 60
+    ga: 277b
+    type: vortrag
+    datum: 17.07.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 61
+    ga: 277b
+    type: vortrag
+    datum: 18.07.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 62
+    ga: 277b
+    type: vortrag
+    datum: 08.08.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 63
+    ga: 277b
+    type: vortrag
+    datum: 15.08.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 64
+    ga: 277b
+    type: vortrag
+    datum: 22.08.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 65
+    ga: 277b
+    type: vortrag
+    datum: 29.08.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 66
+    ga: 277b
+    type: vortrag
+    datum: 05.09.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Ansprache zur Eurythmie
+  - seq: 67
+    ga: 277b
+    type: vortrag
+    datum: 12.09.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 68
+    ga: 277b
+    type: vortrag
+    datum: 21.09.1920
+    ort: Stuttgart
+    titel: "Stuttgart, aus dem Vortrag vom 21. September 1920"
+    beschreibung: Auszug (GA 277b)

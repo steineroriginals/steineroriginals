@@ -1,0 +1,100 @@
+# GA 330 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 330).
+
+ga: 330
+title: "Nachlass-Verwaltung Buch: 330 Seite: 2 RUDOLF STEINER"
+pdf: GA 330.pdf
+period: 1919
+entry_count: 14
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 330
+    type: vortrag
+    datum: 22.04.1919
+    ort: Stuttgart
+    titel: Aufrufes «An das deutsche Volk und an die Kulturwelt»
+  - seq: 2
+    ga: 330
+    type: vortrag
+    datum: 23.04.1919
+    ort: Stuttgart
+    titel: tenfabrik
+  - seq: 3
+    ga: 330
+    type: vortrag
+    datum: 25.04.1919
+    ort: Stuttgart-Untertürkheim
+    titel: "Vortrag vor Arbeitern der Daimler-Werke,"
+  - seq: 4
+    ga: 330
+    type: vortrag
+    datum: 28.04.1919
+    ort: Stuttgart
+    titel: Gegenwart und Zukunft
+  - seq: 5
+    ga: 330
+    type: vortrag
+    datum: 03.05.1919
+    ort: Stuttgart
+    titel: "Öffentlicher Vortrag, Stuttgart"
+  - seq: 6
+    ga: 330
+    type: vortrag
+    datum: 13.05.1919
+    ort: Stuttgart
+    titel: "Öffentlicher Vortrag, Stuttgart"
+  - seq: 7
+    ga: 330
+    type: vortrag
+    datum: 16.05.1919
+    ort: Stuttgart
+    titel: "Öffentlicher Vortrag, Stuttgart"
+  - seq: 8
+    ga: 330
+    type: vortrag
+    datum: 31.05.1919
+    ort: Stuttgart
+    titel: sozialen Organismus
+  - seq: 9
+    ga: 330
+    type: vortrag
+    datum: 16.06.1919
+    ort: Stuttgart
+    titel: Freiheit des Menschengeistes
+  - seq: 10
+    ga: 330
+    type: vortrag
+    datum: 18.06.1919
+    ort: Stuttgart
+    titel: "Copyright Rudolf Steiner Nachlass - Verwaltung Buch: 330 Seite: 8 Das Wirtschaftsleben"
+  - seq: 11
+    ga: 330
+    type: vortrag
+    datum: 19.06.1919
+    ort: Stuttgart
+    titel: "Vortrag für den Verein jüngerer Lehrer und Lehrerinnen,"
+  - seq: 12
+    ga: 330
+    type: vortrag
+    datum: 09.07.1919
+    ort: Stuttgart
+    titel: Öffentlicher    Vortrag
+  - seq: 13
+    ga: 330
+    type: vortrag
+    datum: 11.07.1919
+    ort: Stuttgart
+    titel: Die übersinnliche Wesenheit des Menschen und die Entwicklung der Menschheit. Geisteswissenschaftliche Beobachtungen und Erkenntnisse
+  - seq: 14
+    ga: 330
+    type: vortrag
+    datum: 30.07.1919
+    ort: Stuttgart
+    titel: "XIV. Geschichte der sozialen Bewegung Studienabend über «Die Kernpunkte der sozialen Frage»,"

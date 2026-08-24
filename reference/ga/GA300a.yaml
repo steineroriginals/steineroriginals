@@ -1,0 +1,190 @@
+# GA 300a — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 300a).
+
+ga: 300a
+title: "Seite: 1 Veröffentlichung aus dem Archiv der Rudolf Steiner-Nachlaßverwaltung, Dornach als Studienmaterial für die Le..."
+pdf: GA 300a.pdf
+period: 1919–1921
+entry_count: 25
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 300a
+    type: vortrag
+    datum: 20.08.1919
+    ort: Stuttgart
+    titel: Begrüssung der Teilnehmer am Pädagogischen Kursus
+  - seq: 2
+    ga: 300a
+    type: vortrag
+    datum: 08.09.1919
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 3
+    ga: 300a
+    type: vortrag
+    datum: 25.09.1919
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 4
+    ga: 300a
+    type: vortrag
+    datum: 26.09.1919
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 5
+    ga: 300a
+    type: vortrag
+    datum: 22.12.1919
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 6
+    ga: 300a
+    type: vortrag
+    datum: 23.12.1919
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 7
+    ga: 300a
+    type: vortrag
+    datum: 01.01.1920
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 8
+    ga: 300a
+    type: vortrag
+    datum: 06.03.1920
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 9
+    ga: 300a
+    type: vortrag
+    datum: 08.03.1920
+    ort: Stuttgart
+    titel: Konferenz mit dem Lehrerkollegium der freien Waldorfschule
+    beschreibung: Konferenz mit dem Lehrerkollegium der freien Waldorfschule
+  - seq: 10
+    ga: 300a
+    type: vortrag
+    datum: 14.03.1920
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 11
+    ga: 300a
+    type: vortrag
+    datum: 09.06.1920
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 12
+    ga: 300a
+    type: vortrag
+    datum: 12.06.1920
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 13
+    ga: 300a
+    type: vortrag
+    datum: 14.06.1920
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 14
+    ga: 300a
+    type: vortrag
+    datum: 23.06.1920
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 15
+    ga: 300a
+    type: vortrag
+    datum: 24.07.1920
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 16
+    ga: 300a
+    type: vortrag
+    datum: 29.07.1920
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 17
+    ga: 300a
+    type: vortrag
+    datum: 30.07.1920
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 18
+    ga: 300a
+    type: vortrag
+    datum: 31.07.1920
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 19
+    ga: 300a
+    type: vortrag
+    datum: 21.09.1920
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 20
+    ga: 300a
+    type: vortrag
+    datum: 22.09.1920
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 21
+    ga: 300a
+    type: vortrag
+    datum: 15.11.1920
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 22
+    ga: 300a
+    type: vortrag
+    datum: 22.11.1920
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 23
+    ga: 300a
+    type: vortrag
+    datum: 16.01.1921
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 24
+    ga: 300a
+    type: vortrag
+    datum: 23.03.1921
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 25
+    ga: 300a
+    type: vortrag
+    datum: 26.05.1921
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule

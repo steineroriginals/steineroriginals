@@ -1,0 +1,58 @@
+# GA 66 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 066.pdf table of contents.
+
+ga: 66
+title: GA 66
+pdf: GA 066.pdf
+period: 1917
+entry_count: 7
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 66
+    type: vortrag
+    datum: 15.02.1917
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 2
+    ga: 66
+    type: vortrag
+    datum: 17.02.1917
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 3
+    ga: 66
+    type: vortrag
+    datum: 01.03.1917
+    ort: Berlin
+    titel: und menschlicher Lebenslauf
+  - seq: 4
+    ga: 66
+    type: vortrag
+    datum: 15.03.1917
+    ort: Berlin
+    titel: in Natur- und Geist-Erkenntnis
+  - seq: 5
+    ga: 66
+    type: vortrag
+    datum: 17.03.1917
+    ort: Berlin
+    titel: und Anschauung im deutschen Geistesleben
+  - seq: 6
+    ga: 66
+    type: vortrag
+    datum: 22.03.1917
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 7
+    ga: 66
+    type: vortrag
+    datum: 31.03.1917
+    ort: Berlin
+    titel: VIL Das Jenseits der Sinne und das Jenseits der Seele

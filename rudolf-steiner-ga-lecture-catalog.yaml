@@ -637,9 +637,9 @@ lectures:
     vortragstitel: Die Einheit der Welt
     anlass: Diskussion im Giordano Bruno-Bund für einheitliche Weltanschauung
     ga: 51
-  - id: 19020404
+  - id: 19020405
     uuid: a6cef09b-4ad9-5b83-a269-cdc57bfd5551
-    datum: 04.04.1902
+    datum: 05.04.1902
     jahr: "1902"
     ort: Berlin
     vortragstitel: Paulinisches Christentum und Johanneisches Christentum
@@ -752,7 +752,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19030328a
     uuid: e28216d2-bb7c-5b29-bead-e8b917477567
     datum: 28.03.1903
@@ -1242,7 +1242,7 @@ lectures:
     ga: 88
   - id: 19040101
     uuid: dd94bb7a-51f5-5f96-9bbd-638b0861961c
-    datum: "1904"
+    datum: 01.01.1904
     jahr: "1904"
     ort: Berlin
     vortragstitel: Über die Wanderungen der Rassen
@@ -1333,7 +1333,7 @@ lectures:
     vortragstitel: Vortrag 1
     reihe: Wie erlangt man Erkenntnis theosophischer Wahrheiten?
     anlass: Mitglieder-Zusammenkunft
-    ga: 266/1
+    ga: 266a
   - id: 19040209
     uuid: 3a8150ff-6566-54fe-b825-1236d05f8424
     datum: 09.02.1904
@@ -1358,7 +1358,7 @@ lectures:
     vortragstitel: Vortrag 2
     reihe: Wie erlangt man Erkenntnis theosophischer Wahrheiten?
     anlass: Mitglieder-Zusammenkunft
-    ga: 266/1
+    ga: 266a
   - id: 19040216
     uuid: 27ad41ef-31d3-593b-bb0a-0bea245f5b6c
     datum: 16.02.1904
@@ -1383,7 +1383,7 @@ lectures:
     vortragstitel: Vortrag 3
     reihe: Wie erlangt man Erkenntnis theosophischer Wahrheiten?
     anlass: Mitglieder-Zusammenkunft
-    ga: 266/1
+    ga: 266a
   - id: 19040222
     uuid: b79da2a5-77cb-51e5-8e69-c10fe2f2d879
     datum: 22.02.1904
@@ -1445,7 +1445,7 @@ lectures:
     vortragstitel: Vortrag 4
     reihe: Wie erlangt man Erkenntnis theosophischer Wahrheiten?
     anlass: Mitglieder-Zusammenkunft
-    ga: 266/1
+    ga: 266a
   - id: 19040316
     uuid: 026e18d3-31cb-5cdf-8d1e-69f21da4d87f
     datum: 16.03.1904
@@ -1824,7 +1824,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esosterische Stunde
-    ga: 264,266/1
+    ga: 264,266a
   - id: 19040710
     uuid: e6e4f0e4-84b2-5aaf-80fc-95dee25b4c55
     datum: 10.07.1904
@@ -1833,20 +1833,12 @@ lectures:
     vortragstitel: Weitere Entwicklung unseres Planeten
     reihe: Keine Reihe /Mitglieder-Vortrag
     ga: 90a
-  - id: 19040711a
+  - id: 19040711
     uuid: 2bed4186-900d-5523-b898-c34ef9407427
     datum: 11.07.1904
     jahr: "1904"
     ort: Berlin
     vortragstitel: Moderne Bibelforschung
-    ga: 90a
-  - id: 19040711b
-    uuid: 422b4714-485a-576e-8ac8-8673671fb6a6
-    datum: 11.07.1904
-    jahr: "1904"
-    ort: Berlin
-    vortragstitel: Moderne Bibelforschung
-    anlass: Mitglieder-Vortrag
     ga: 90a
   - id: 19040714
     uuid: 741742a8-2ebe-54e5-aeee-aa29fa8e3761
@@ -1855,7 +1847,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esosterische Stunde
-    ga: 264,266/1
+    ga: 264,266a
   - id: 19040715
     uuid: 7f030318-1b70-567d-9cf2-b195232ecafe
     datum: 15.07.1904
@@ -2099,6 +2091,7 @@ lectures:
     ort: Berlin
     vortragstitel: Theosophie, Wissenschaft und Religion. Theosophie und Theosophische Gesellschaft
     anlass: Mitglieder-Zusammenkunft mit Diskussion
+    ga: 250
   - id: 19040923
     uuid: 4c928578-37e5-5d14-9934-90b06f27ad8b
     datum: 23.09.1904
@@ -2261,6 +2254,7 @@ lectures:
     jahr: "1904"
     ort: Berlin
     vortragstitel: Jahresversammlung des Berliner Zweiges der DTG
+    ga: 250
   - id: 19041024
     uuid: 801f6059-1003-5455-9ab9-0ae89507e9d8
     datum: 24.10.1904
@@ -2348,7 +2342,7 @@ lectures:
     jahr: "1904"
     ort: Berlin
     vortragstitel: Apokalypse V
-    anlass: Mitglieder-Zusammenkunft mit Diskussion
+    anlass: Mitglieder-Zusammenkunft
     ga: 90a
   - id: 19041101b
     uuid: d05e8b59-9de0-5c30-8611-4a40731f2bea
@@ -2364,8 +2358,8 @@ lectures:
     jahr: "1904"
     ort: Berlin
     vortragstitel: Apokalypse V
-    anlass: Mitglieder-Vortrag und Frage beantwortungersammlung mit Diskussion
-    ga: 90a,324a
+    anlass: Fragenbeantwortung
+    ga: 324a
   - id: 19041101d
     uuid: 98907a86-bf2e-58b0-bc9f-3da6ee9c0c70
     datum: 01.11.1904
@@ -2383,15 +2377,6 @@ lectures:
     reihe: Von der Völkerwanderung bis zu den großen Erfindungen und Entdeckungen des 16. und 17. Jahrhunderts. Geschichte des Mittelalters bis zu den grossen Erfindungen und Entdeckungen
     anlass: Vorträge in der Arbeiterbildungsschule
     ga: 51
-  - id: 19041101f
-    uuid: 8e8f65e6-3315-5387-8759-2f7764375633
-    datum: 01.11.1904
-    jahr: "1904"
-    ort: Berlin
-    vortragstitel: Zusammenfassung der Vorträge 1-13
-    reihe: Die planetarische Entwicklung
-    anlass: Mitglieder-Vortrag
-    ga: 90a
   - id: 19041102
     uuid: de58b987-1272-5c48-a7d4-b890a48a5a68
     datum: 02.11.1904
@@ -2446,7 +2431,7 @@ lectures:
     ort: Hamburg
     vortragstitel: Apokalypse VI
     anlass: Öffentlicher Vortrag
-    ga: 90a
+    ga: 90a,68b
   - id: 19041108
     uuid: 54a40cfb-4e6e-5713-9793-b51f816364ea
     datum: 08.11.1904
@@ -2674,7 +2659,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19041223
     uuid: d7d6f7a7-b39b-5706-94f7-0653a8dbe499
     datum: 23.12.1904
@@ -2729,7 +2714,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19041228d
     uuid: ed307c7d-a2cf-52c7-8e33-0c50a192f5da
     datum: 28.12.1904
@@ -2794,7 +2779,7 @@ lectures:
     jahr: "1905"
     ort: Berlin
     vortragstitel: Das Wesen der theosophischen Bewegung und ihr Verhältnis zur Theosophischen Gesellschaft
-    ga: 264
+    ga: 264,250
   - id: 19050102b
     uuid: 42ff93a9-595f-5f64-8f0d-f74b92135e4a
     datum: 02.01.1905
@@ -2874,6 +2859,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Vorbesprechung zur außerordentlichen Generalversammlung des Berliner Zweiges der Theosophischen Gesellschaft. Besant Zweig
+    ga: 250
   - id: 19050123
     uuid: 274a963c-fc90-5021-9601-5bd119249391
     datum: 23.01.1905
@@ -2927,8 +2913,9 @@ lectures:
     datum: 05.02.1905
     jahr: "1905"
     ort: Berlin
-    vortragstitel: ""
-    anlass: Ausserordentliche Generalversammlung des Berliner Zweiges mit Vortrag von Johanna Mücke
+    vortragstitel: Protokoll zur ausserordentlichen Generalversammlung der Deutschen Theosophischen Gesellschaft (DTG)
+    anlass: Ausserordentliche Generalversammlung der Deutschen Theosophischen Gesellschaft (DTG)
+    ga: 250
   - id: 19050206
     uuid: 171ff539-b931-5c08-bfe5-dc1893fa1b78
     datum: 06.02.1905
@@ -3000,7 +2987,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19050225
     uuid: 6ead5766-5309-59ab-9a9a-9db16db574a6
     datum: 25.02.1905
@@ -3039,7 +3026,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19050304
     uuid: 59ab2710-7d66-59e1-ae9a-a315da74f612
     datum: 04.03.1905
@@ -3243,13 +3230,21 @@ lectures:
     ort: Köln
     vortragstitel: Reinkarnation und Karma (Wiederverkörperung des Geistes und Schicksal)
     ga: 68b
+  - id: 19050427b
+    uuid: 04c1591e-fbdb-54f8-9f6c-4dcfe9abc012
+    datum: 27.04.1905
+    jahr: "1905"
+    ort: Köln
+    vortragstitel: Die Gottheit offenbart sich als All-Seele und All-Leben
+    anlass: Niederschrift für Jan Peelen
+    ga: 89
   - id: 19050429
     uuid: 72cde66d-42aa-5368-b39d-effc51b03708
     datum: 29.04.1905
     jahr: "1905"
     ort: Düsseldorf
     vortragstitel: Die Entstehung der Welt und des Menschen
-    ga: 246
+    ga: 246,68b
   - id: 19050504
     uuid: 752f826a-b210-5db8-ba3d-998e1b4e66fd
     datum: 04.05.1905
@@ -3578,7 +3573,7 @@ lectures:
     datum: 20.08.1905 (?)
     jahr: "1905"
     ort: Berlin
-    vortragstitel: Subjektiv-obkektiv; Dharma in Karma
+    vortragstitel: Subjektiv-objektiv; Dharma in Karma
     reihe: Miglieder-Vortrag
     ga: 90b
   - id: 19050827
@@ -3694,6 +3689,7 @@ lectures:
     jahr: "1905"
     ort: Berlin
     vortragstitel: Theosophie von Helena Petrovna Blavatzky
+    ga: 250
   - id: 19051003
     uuid: c458b672-53b3-5001-9b2f-e0319ec45295
     datum: 03.10.1905
@@ -3715,7 +3711,7 @@ lectures:
     ort: ""
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 264,266/1
+    ga: 264,266a
   - id: 19051005a
     uuid: 4b07c900-aa26-5dbd-8e00-ef73f39b48fd
     datum: 05.10.1905
@@ -3816,7 +3812,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19051016a
     uuid: 707b6e0e-7565-5f08-8faf-80d3d4c12c50
     datum: 16.10.1905
@@ -3867,7 +3863,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19051021
     uuid: 34547bda-0b2d-5bab-b9b2-11c393ef673f
     datum: 21.10.1905
@@ -3938,7 +3934,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19051025
     uuid: ab515c08-5e35-5721-bad0-c09a8ac6ffc8
     datum: 25.10.1905
@@ -4039,7 +4035,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19051107
     uuid: bbfd6704-913c-58e7-a013-7bb12e562d73
     datum: 07.11.1905
@@ -4061,7 +4057,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 264,266/1
+    ga: 264,266a
   - id: 19051113
     uuid: 5914d9e3-1369-55b6-8def-1585c289d2f8
     datum: 13.11.1905
@@ -4178,7 +4174,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 264,266/1
+    ga: 264,266a
   - id: 19051214
     uuid: cff75824-8077-5d7f-b828-709e8a2246c4
     datum: 14.12.1905
@@ -4193,7 +4189,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19051216
     uuid: 0949c771-121e-5d00-a242-d2df95362d6c
     datum: 16.12.1905
@@ -4231,14 +4227,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 264,266/1
-  - id: 19060101
-    uuid: 38c85ef0-b342-5d79-8140-8cc5616c35f8
-    datum: "1906"
-    jahr: "1906"
-    ort: München
-    vortragstitel: ""
-    ga: 265
+    ga: 264,266a
   - id: 19060102
     uuid: be7d615c-e91a-5312-b381-3ee0bbdc72bc
     datum: 02.01.1906
@@ -4246,6 +4235,14 @@ lectures:
     ort: Berlin
     vortragstitel: Über Freimaurerei. Die königliche Kunst in einer neuen Form (vor Herren und Damen)
     ga: 93,265
+  - id: 19060107
+    uuid: 2ee0f821-ed9b-5e71-90e3-33a5c53ee141
+    datum: 07.01.1906
+    jahr: "1906"
+    ort: ""
+    vortragstitel: Die Entwicklung der Erde
+    anlass: Aufzeichnung für Marie von Sivers (Beilage zum Brief vom 6./7. Januar 1906)
+    ga: 89
   - id: 19060110
     uuid: d740ea1e-2326-50a2-8f94-07ae89c03bb0
     datum: 10.01.1906
@@ -4254,12 +4251,35 @@ lectures:
     vortragstitel: Das Vergängliche und das Ewige
     anlass: Mitglieder-Vortrag
     ga: 90b
+  - id: 19060113
+    uuid: 7011799f-b22d-539b-9886-e327180f5473
+    datum: 13.01.1906
+    jahr: "1906"
+    ort: ""
+    vortragstitel: Das Wesen des Christus als der umgekehrte makrokosmische Mensch
+    anlass: Aus einem Brief an Marie von Sivers
+    ga: 89
+  - id: 19060115
+    uuid: c81149eb-74d3-512e-9a50-0eca2e5a8a10
+    datum: 15.01.1906
+    jahr: "1906"
+    ort: Berlin
+    vortragstitel: Auflösung der Deutschen Theosophischen Gesellschaft (DTG)
+    anlass: Generalversammlung des Berliner Zweiges der DTG
+    ga: 250
   - id: 19060116
     uuid: 4ef3e8b9-2d4f-5c17-a8dd-91ae410542ce
     datum: 16.01.1906
     jahr: "1906"
     ort: Stuttgart
     vortragstitel: Die Ideale der Menschheit und die Ideale der Eingeweihten
+    ga: 68b
+  - id: 19060117
+    uuid: afb9c601-4102-598b-97a0-378a16a37114
+    datum: 17.01.1906
+    jahr: "1906"
+    ort: München
+    vortragstitel: Theosophie und bildende Kunst
     ga: 68b
   - id: 19060119
     uuid: 6d37cf8e-ec82-572d-89db-7986f5b11171
@@ -4347,7 +4367,7 @@ lectures:
     ort: Köln
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 264,266/1
+    ga: 264,266a
   - id: 19060212c
     uuid: 84bf21e2-e085-5829-a910-e2721288e396
     datum: 12.02.1906
@@ -4431,7 +4451,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19060301
     uuid: 38bf77de-937f-5094-91c5-f00a3c0ddca4
     datum: 01.03.1906
@@ -4447,7 +4467,7 @@ lectures:
     ort: Hamburg
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19060303b
     uuid: ceb4c224-a903-5c17-b79c-53cf6c95c613
     datum: 03.03.1906
@@ -4491,7 +4511,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19060318
     uuid: 21c33da4-fcba-5762-914a-fc0a8a57fcb3
     datum: 18.03.1906
@@ -4499,7 +4519,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19060319
     uuid: 7270cdd4-1f7f-57ea-9e7f-5693afddcfe4
     datum: 19.03.1906
@@ -4585,7 +4605,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19060416
     uuid: 7f923da5-4dd4-5928-b43b-e176d60054bb
     datum: 16.04.1906
@@ -4600,7 +4620,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19060419
     uuid: 31c3ec66-dba3-5f24-9426-a1dfec0aae98
     datum: 19.04.1906
@@ -4671,7 +4691,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19060507
     uuid: e7cccb96-5534-53ae-af66-6d5e8ef0712d
     datum: 07.05.1906
@@ -4756,6 +4776,7 @@ lectures:
     jahr: "1906"
     ort: Paris
     vortragstitel: Orientierung über Leadbeater für die anwesenden Deutschen
+    ga: 250
   - id: 19060602b
     uuid: a5cce973-196e-548a-8900-a0ed501f9894
     datum: 02.06.1906
@@ -4770,7 +4791,7 @@ lectures:
     jahr: "1906"
     ort: Paris
     vortragstitel: Theosophie in Deutschland vor hundert Jahren
-    ga: 34
+    ga: 34,250
   - id: 19060606
     uuid: 6d76fec6-aed3-584b-b367-4c22aa98c907
     datum: 06.06.1906
@@ -4785,6 +4806,7 @@ lectures:
     jahr: "1906"
     ort: ""
     vortragstitel: Orientierung über Leadbeater für die anwesenden Deutschen
+    ga: 250
   - id: 19060607b
     uuid: faa354b4-8c40-5d28-9d85-93872f40fd97
     datum: 07.06.1906
@@ -4856,7 +4878,7 @@ lectures:
     ort: Berlin
     vortragstitel: Nachruf für Gräfin Brockdorff. Bericht über Pariser Kongress
     anlass: Generalversammlung des Besant-Zweiges.
-    ga: 261
+    ga: 261,250
   - id: 19060626a
     uuid: 8492eb05-e777-53d0-a33b-7c4c81145f0b
     datum: 26.06.1906
@@ -4864,7 +4886,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 264,266/1
+    ga: 264,266a
   - id: 19060626b
     uuid: 4dcd7dea-c8e3-524c-bcc4-a3069d1c738e
     datum: 26.06.1906
@@ -5321,7 +5343,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19061004
     uuid: d15902a0-3e2b-557f-901a-4731b7f34e8e
     datum: 04.10.1906
@@ -5437,7 +5459,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 264,266/1
+    ga: 264,266a
   - id: 19061025
     uuid: 9d92f319-b9cd-5f21-9ad4-5161589655ef
     datum: 25.10.1906
@@ -5468,7 +5490,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19061029b
     uuid: ad0e0f17-8e6b-51e7-a8f3-79629f8eda62
     datum: 29.10.1906
@@ -5505,7 +5527,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19061102
     uuid: 75a8afe0-d53d-594c-84e8-e9e86431bf9a
     datum: 02.11.1906
@@ -5527,7 +5549,7 @@ lectures:
     datum: 04.11.1906
     jahr: "1906"
     ort: München
-    vortragstitel: Vortrag 1
+    vortragstitel: Vortrag 6
     reihe: Die Theosophie an der Hand des Johannes-Evangeliums
     ga: 94
   - id: 19061105
@@ -5535,7 +5557,7 @@ lectures:
     datum: 05.11.1906
     jahr: "1906"
     ort: München
-    vortragstitel: Vortrag 6
+    vortragstitel: Vortrag 7
     reihe: Die Theosophie an der Hand des Johannes-Evangeliums
     ga: 94
   - id: 19061106a
@@ -5543,7 +5565,7 @@ lectures:
     datum: 06.11.1906
     jahr: "1906"
     ort: München
-    vortragstitel: Vortrag 7
+    vortragstitel: Vortrag 8
     reihe: Die Theosophie an der Hand des Johannes-Evangeliums
     ga: 94
   - id: 19061106b
@@ -5553,7 +5575,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19061108
     uuid: 9e06e73a-6784-581b-8843-3241da58fe84
     datum: 08.11.1906
@@ -5590,7 +5612,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19061117
     uuid: e3987bfd-b713-51b1-b34b-4710d3c87456
     datum: 17.11.1906
@@ -5605,7 +5627,7 @@ lectures:
     ort: Hamburg
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19061122
     uuid: 429232a6-0321-5ce4-85f4-fae398d7e9a2
     datum: 22.11.1906
@@ -5664,7 +5686,7 @@ lectures:
     ort: Köln
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a,268
   - id: 19061202
     uuid: ee75d4d6-c3f4-5a6a-bfd4-f5cebb279e27
     datum: 02.12.1906
@@ -5750,7 +5772,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19070110
     uuid: d84e6ce2-687f-5014-89f0-96cdb2024b3c
     datum: 10.01.1907
@@ -5819,7 +5841,7 @@ lectures:
     datum: 19.01.1907
     jahr: "1907"
     ort: Stuttgart
-    vortragstitel: ""
+    vortragstitel: "Fragenbeantwortung"
     ga: 97
   - id: 19070120
     uuid: 5686a089-ac89-5603-84bb-ec31b26e3311
@@ -5828,7 +5850,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19070121
     uuid: de70fd88-a2c5-5ee8-9b49-5e67510f6c91
     datum: 21.01.1907
@@ -5872,7 +5894,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19070131
     uuid: 29649855-0895-52e8-8027-906832a4f3c3
     datum: 31.01.1907
@@ -5908,7 +5930,7 @@ lectures:
     ort: Hamburg
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19070214
     uuid: c6960e95-c439-5484-91b9-ffdc5f12cffb
     datum: 14.02.1907
@@ -6008,6 +6030,14 @@ lectures:
     ort: Berlin
     vortragstitel: Wer sind die Rosenkreuzer?
     ga: 55
+  - id: 19070314b
+    uuid: 66ad6ace-277e-4a9f-b043-75f81a9ec682
+    datum: 14.03.1907
+    jahr: "1907"
+    ort: Berlin
+    vortragstitel: Nachruf auf Henry Steel Olcott
+    anlass: "Vortrag (GA 250). Berlin, zwischen dem 4. und 14. März 1907. Olcott gestorben am 17. Februar 1907."
+    ga: 250
   - id: 19070316
     uuid: 1cbe9173-e0d5-5dd4-8285-6b00a1a35be7
     datum: 16.03.1907
@@ -6022,7 +6052,7 @@ lectures:
     ort: München
     vortragstitel: Die Sünde wider den Heiligen Geist und die Idee der christlichen Gnade. Frühe Einweihung und esoterisches Christentum
     ga: 97
-  - id: 19070325
+  - id: 19070325a
     uuid: 24c05718-2a20-57cb-9e86-5e98f8d981ac
     datum: 25.03.1907
     jahr: "1907"
@@ -6031,6 +6061,14 @@ lectures:
     reihe: Das Mysterium von Golgatha
     anlass: Ostervortrag
     ga: 96
+  - id: 19070325b
+    uuid: bec965a9-bc96-4a8e-aad2-1d1322c80745
+    datum: 25.03.1907
+    jahr: "1907"
+    ort: Berlin
+    vortragstitel: Zur Wahl des neuen Präsidenten der Theosophischen Gesellschaft
+    anlass: Ansprache (GA 250). Thematisierung der mit Olcotts Nachfolgewunsch verbundenen Problematik.
+    ga: 250
   - id: 19070328
     uuid: e41b6229-0c17-5afb-aa1a-04e23fd81659
     datum: 28.03.1907
@@ -6075,7 +6113,7 @@ lectures:
     jahr: "1907"
     ort: Berlin
     vortragstitel: Bibel und Weisheit II
-    ga: 55,85
+    ga: 55,68a,85
   - id: 19070427
     uuid: a6d6b052-b4c8-549a-b6ae-700665743fe9
     datum: 27.04.1907
@@ -6212,7 +6250,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 264,266/1
+    ga: 264,266a
   - id: 19070601b
     uuid: b615c6ce-c2d2-586d-bd92-ff35d26b2509
     datum: 01.06.1907
@@ -6283,7 +6321,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19070608
     uuid: 8178cfb2-e886-5a9e-9f2a-941ccf28f8b0
     datum: 08.06.1907
@@ -6305,7 +6343,7 @@ lectures:
     ort: Berlin
     vortragstitel: Die drei Aspekte des Persönlichen. Persönlich, unpersönlich, überpersönlich
     anlass: Bericht über den Münchener Kongress
-    ga: 96,284
+    ga: 96,284,250
   - id: 19070616
     uuid: 94c0d6c2-80ba-5c87-a3f6-4cac93cb8e26
     datum: 16.06.1907
@@ -6353,7 +6391,7 @@ lectures:
     ort: Kassel
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19070621
     uuid: 2c4791f5-8fc4-5ebb-af83-e65efa715af1
     datum: 21.06.1907
@@ -6417,7 +6455,7 @@ lectures:
     ort: Kassel
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19070628
     uuid: 5428575f-c66d-5106-87cd-4666a99e103a
     datum: 28.06.1907
@@ -6472,7 +6510,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19070916
     uuid: 0e7c493d-cf15-5137-8146-0b05d47f4bcd
     datum: 16.09.1907
@@ -6524,7 +6562,7 @@ lectures:
     ort: Hannover
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19070925a
     uuid: b3932d42-93a8-5245-9c53-cd7d5ade3d9c
     datum: 25.09.1907
@@ -6541,7 +6579,7 @@ lectures:
     ort: Hannover
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19070926
     uuid: 3d91e38a-a6d4-5562-9344-a972c0826db1
     datum: 26.09.1907
@@ -6636,6 +6674,7 @@ lectures:
     jahr: "1907"
     ort: Berlin
     vortragstitel: Zur Präsidentenwahl von Annie Besant
+    ga: 250
   - id: 19071009
     uuid: 2fe0dd33-f532-5bff-ad66-a2c5a65e2df5
     datum: 09.10.1907
@@ -6643,7 +6682,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19071010
     uuid: 2215b46f-9c0a-5e7a-93fa-0e70103a9555
     datum: 10.10.1907
@@ -6686,7 +6725,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19071019
     uuid: 4dd2db08-8ffe-5273-a7fb-d3f9b591a1a1
     datum: 19.10.1907
@@ -6701,7 +6740,7 @@ lectures:
     ort: Berlin
     vortragstitel: Gedenkworte für Verstorbene
     anlass: Fünfte Generalversammlung der Deutschen Sektion der Theosophischen Gesellschaft. Bericht
-    ga: 261,284
+    ga: 261,284,250
   - id: 19071020b
     uuid: 0257a4fe-4e7f-5256-bfe7-e3768d94fa36
     datum: 20.10.1907
@@ -6740,7 +6779,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19071024
     uuid: a013c35b-862f-59a1-b894-e6fe3479afe5
     datum: 24.10.1907
@@ -6755,7 +6794,7 @@ lectures:
     ort: Hamburg
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19071028
     uuid: 0e259d42-594c-54dc-8a29-64407051063e
     datum: 28.10.1907
@@ -6777,7 +6816,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19071103
     uuid: 567f3494-cc93-5231-a127-49d66d9ecaa7
     datum: 03.11.1907
@@ -6889,7 +6928,7 @@ lectures:
     ort: Basel
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 264,266/1
+    ga: 264,266a
   - id: 19071125
     uuid: e1e2b3e9-ef14-5902-9be2-a9aa7ad0c608
     datum: 25.11.1907
@@ -6912,7 +6951,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 264,266/1
+    ga: 264,266a
   - id: 19071201a
     uuid: dc799494-eb5b-550f-96ac-2f8ad9d804c0
     datum: 01.12.1907
@@ -6962,7 +7001,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19071207a
     uuid: 70be4c2e-70a2-5e06-818d-95b8e9d3b647
     datum: 07.12.1907
@@ -7108,7 +7147,7 @@ lectures:
     ort: Berlin
     vortragstitel: Pentagramm-, Hexagrammübung
     anlass: Esoterische Stunde
-    ga: 264,266/1
+    ga: 264,266a
   - id: 19080109
     uuid: 4dc3870f-881d-5fd9-b4f2-3e58c1d5b366
     datum: 09.01.1908
@@ -7151,7 +7190,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080123
     uuid: 30c624ce-ed38-576b-83c8-a0962c88e500
     datum: 23.01.1908
@@ -7166,7 +7205,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080127
     uuid: 8a462578-7e96-5569-988b-9ece27980b18
     datum: 27.01.1908
@@ -7250,7 +7289,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080213
     uuid: 3e27f396-8b01-589a-b2a8-876e5f670920
     datum: 13.02.1908
@@ -7339,7 +7378,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080227
     uuid: 0b2bb0d2-7922-5af6-8cf1-8a7b1ad99fe1
     datum: 27.02.1908
@@ -7487,7 +7526,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080316
     uuid: c75df935-0f31-5406-a0d7-2da65ddd8a65
     datum: 16.03.1908
@@ -7516,7 +7555,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080319
     uuid: 687043a6-91f5-55b2-9c3a-e8503af1fa30
     datum: 19.03.1908
@@ -7559,6 +7598,13 @@ lectures:
     ort: Berlin
     vortragstitel: Sonne, Mond und Sterne
     ga: 56
+  - id: 19080330
+    uuid: 94e54f60-19f0-5a1c-bc87-fd44811cb88f
+    datum: 30.03.1908
+    jahr: "1908"
+    ort: Stockholm
+    vortragstitel: Goethes esoterische Antwort auf die Weltenrätsel
+    ga: 68b
   - id: 19080404
     uuid: 7ef54d8d-a97f-52c5-b255-70e41149f85b
     datum: 04.04.1908
@@ -7566,6 +7612,13 @@ lectures:
     ort: Kristiania
     vortragstitel: Das Johannesevangelium vom theosophischen Gesichtspunkt
     ga: 68a
+  - id: 19080406
+    uuid: 687878c2-e226-58eb-a483-ac9ab9ec7b45
+    datum: 06.04.1908
+    jahr: "1908"
+    ort: Göteborg
+    vortragstitel: Theosophie, Goethe und Hegel
+    ga: 68b
   - id: 19080407
     uuid: 7a822cdf-e764-5044-a882-4cb4fd365a10
     datum: 07.04.1908
@@ -7587,7 +7640,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080413
     uuid: 4e54a793-3f0f-5c23-bbd0-78e72bf36e90
     datum: 13.04.1908
@@ -7645,7 +7698,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080516
     uuid: 54b3b91f-efee-5b7e-a674-48a141062753
     datum: 16.05.1908
@@ -7703,7 +7756,7 @@ lectures:
     ort: Hamburg
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080523
     uuid: 6616033b-f3cb-5b8a-8261-929000ce4b08
     datum: 23.05.1908
@@ -7720,7 +7773,7 @@ lectures:
     ort: Hamburg
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080525
     uuid: 7666381a-479e-51d5-b79f-248506eca111
     datum: 25.05.1908
@@ -7791,7 +7844,7 @@ lectures:
     ort: Hamburg
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080601
     uuid: 5f3d3968-af72-579d-b727-ee9ca2d93a68
     datum: 01.06.1908
@@ -7815,7 +7868,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080607
     uuid: ebcffd14-29ee-50bb-9a95-54b8b5d078ad
     datum: 07.06.1908
@@ -7858,7 +7911,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080615a
     uuid: e368b941-3a0e-571e-b187-7f741325ee37
     datum: 15.06.1908
@@ -7874,7 +7927,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080617
     uuid: ee2bf4b8-e9d1-57c4-a58d-afd7fac3f016
     datum: 17.06.1908
@@ -8006,7 +8059,7 @@ lectures:
     ort: Kassel
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080804
     uuid: 6f04d0a3-44a7-5af3-bf7a-6aeb5026bef3
     datum: 04.08.1908
@@ -8032,7 +8085,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080806
     uuid: 0da70ef4-4e45-51cb-94f5-86e2365ee281
     datum: 06.08.1908
@@ -8067,7 +8120,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080810
     uuid: 171758ce-baa1-52e1-a47e-d4ff39d8ac72
     datum: 10.08.1908
@@ -8111,7 +8164,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080814
     uuid: 7daeacc9-2924-52d3-ad33-4037b1b41f43
     datum: 14.08.1908
@@ -8137,7 +8190,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19080817
     uuid: d01beda1-730d-5ade-9b30-c213ad817dc1
     datum: 17.08.1908
@@ -8349,7 +8402,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19081026a
     uuid: e1fac5e3-5eed-5cec-8342-042af1223a96
     datum: 26.10.1908
@@ -8357,7 +8410,7 @@ lectures:
     ort: Berlin
     vortragstitel: Gedenkworte für Verstorbene
     anlass: Siebte Generalversammlung der Deutschen Sektion der Theosophischen Gesellschaft. Begrüßung und Bericht
-    ga: 261
+    ga: 261,250
   - id: 19081026b
     uuid: 0625a38b-c82a-5bca-87d2-5410a28616e7
     datum: 26.10.1908
@@ -8472,7 +8525,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19081110
     uuid: dfc9989c-aa1d-57d7-aceb-9cbf28f7ab82
     datum: 10.11.1908
@@ -8487,7 +8540,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19081112
     uuid: 10b19ede-4760-5eee-b54a-f969c7879823
     datum: 12.11.1908
@@ -8523,7 +8576,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19081118
     uuid: 46ab3f22-093b-55ed-b6cf-067a803cb362
     datum: 18.11.1908
@@ -8581,7 +8634,7 @@ lectures:
     ort: Hamburg
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19081207
     uuid: ad4232b6-2d83-5df7-a4b4-96df88235ae8
     datum: 07.12.1908
@@ -8660,7 +8713,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19081222
     uuid: f5191b68-2fda-53e0-9435-98595ce0db5d
     datum: 22.12.1908
@@ -8689,7 +8742,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19090101
     uuid: 7ad154ae-5415-568d-87e2-a8b5128ef686
     datum: 01.01.1909
@@ -8704,6 +8757,7 @@ lectures:
     ort: München
     vortragstitel: Weihnachtsfeier
     anlass: Weihnachtsfeier
+    ga: 246
   - id: 19090107
     uuid: 0d9011df-01f0-55f6-b22e-6e7fce501629
     datum: 07.01.1909
@@ -8711,7 +8765,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19090108a
     uuid: 483da665-c77f-5f56-adfc-fe263c076564
     datum: 08.01.1909
@@ -8740,6 +8794,13 @@ lectures:
     ort: München
     vortragstitel: ""
     ga: 244
+  - id: 19090110
+    uuid: 0254ff86-be67-5de9-bf62-5d6dad374bbf
+    datum: 10.01.1909
+    jahr: "1909"
+    ort: München
+    vortragstitel: Über Erdbeben
+    ga: 246
   - id: 19090111
     uuid: 68fae231-a678-5387-a6c3-59b2d01fd37d
     datum: 11.01.1909
@@ -8747,7 +8808,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19090112
     uuid: f2f4ee0e-de90-549f-a0ac-72dd29c1eaf8
     datum: 12.01.1909
@@ -8931,7 +8992,7 @@ lectures:
     ort: Kassel
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19090228
     uuid: 66efbc7d-b9be-5fea-84d3-b69968523322
     datum: 28.02.1909
@@ -8946,7 +9007,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19090304
     uuid: 2029dd03-890d-5e9e-8a24-360dd07d883e
     datum: 04.03.1909
@@ -8982,7 +9043,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19090311
     uuid: c39f386c-982b-53f6-be1b-1c3e62a0510c
     datum: 11.03.1909
@@ -9011,7 +9072,7 @@ lectures:
     ort: Hamburg
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19090320
     uuid: 99486a64-bfe1-5f0c-bcf9-d48a65286956
     datum: 20.03.1909
@@ -9026,7 +9087,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19090322
     uuid: 54ba3837-728d-5a2a-aead-91089ea063cc
     datum: 22.03.1909
@@ -9103,7 +9164,7 @@ lectures:
     jahr: "1909"
     ort: Malsch
     vortragstitel: Grundsteinlegung zum Modellbau eines Rosenkreuzer-Tempels
-    ga: 109,284
+    ga: 284
   - id: 19090406
     uuid: 019babe1-22a2-5989-bab8-3229c4fe75ce
     datum: 06.04.1909
@@ -9194,7 +9255,7 @@ lectures:
     ort: Düsseldorf
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 264,266/1
+    ga: 264,266a
   - id: 19090416
     uuid: 4dad01f7-85be-588c-baa1-e105c1bf0b73
     datum: 16.04.1909
@@ -9238,7 +9299,7 @@ lectures:
     ort: Düsseldorf
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 264,266/1
+    ga: 264,266a
   - id: 19090419b
     uuid: 5b1727a4-b0d5-5e73-a1fd-ae09db5b12f1
     datum: 19.04.1909
@@ -9246,6 +9307,13 @@ lectures:
     ort: Düsseldorf
     vortragstitel: Der Eintritt des Christus in den Okzident
     ga: 85
+  - id: 19090420
+    uuid: b7b0e4a0-f39a-57db-8f82-2b10b3d75583
+    datum: 20.04.1909
+    jahr: "1909"
+    ort: Düsseldorf
+    vortragstitel: Novalis
+    ga: 246
   - id: 19090421
     uuid: 43932b51-fee0-53ed-b769-b0eed7944ff9
     datum: 21.04.1909
@@ -9314,7 +9382,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19090506
     uuid: e0700a7b-e488-53b5-a272-b9b8442df64c
     datum: 06.05.1909
@@ -9440,7 +9508,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19090531
     uuid: 860fe9b4-91ed-560a-8854-7631232d7560
     datum: 31.05.1909
@@ -9575,6 +9643,7 @@ lectures:
     jahr: "1909"
     ort: Berlin
     vortragstitel: Bericht über den Budapester Kongress
+    ga: 250
   - id: 19090622
     uuid: 3a6d7a66-ebe1-563d-93e7-84fe80b547b1
     datum: 22.06.1909
@@ -9625,7 +9694,7 @@ lectures:
     ort: Kassel
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19090628
     uuid: 172d59bf-1da9-5166-a15b-cb5315dbbbc6
     datum: 28.06.1909
@@ -9687,6 +9756,7 @@ lectures:
     ort: Kassel
     vortragstitel: Über Novalis
     anlass: Matinee
+    ga: 246
   - id: 19090704b
     uuid: d431e158-76e1-501f-8921-6922d692fe0f
     datum: 04.07.1909
@@ -9703,7 +9773,7 @@ lectures:
     ort: Kassel
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19090705
     uuid: b27b381e-e79b-5469-a0e3-036d12ed66bb
     datum: 05.07.1909
@@ -9783,7 +9853,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19090828a
     uuid: 39ec25b2-1321-5ec5-9023-c7b7dd9a299d
     datum: 28.08.1909
@@ -9826,7 +9896,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19090831
     uuid: 380a3fd0-fbaf-558e-b003-c22631829268
     datum: 31.08.1909
@@ -10053,7 +10123,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19091027a
     uuid: deae2d4a-9421-5af6-aa49-346807db5436
     datum: 27.10.1909
@@ -10096,8 +10166,8 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
-  - id: 19091102
+    ga: 266a
+  - id: 19091102a
     uuid: c54fb87c-b8ef-56ea-addf-c0b364dd1df0
     datum: 02.11.1909
     jahr: "1909"
@@ -10105,6 +10175,14 @@ lectures:
     vortragstitel: Die vier verschiedenen Aspekte in der Christus-Darstellung der vier Evangelien
     reihe: Die tieferen Geheimnisse des Menschheitswerden im Lichte der Evangelien
     ga: 117
+  - id: 19091102b
+    uuid: 998b0a16-3c24-485e-bcb7-c8a823174350
+    datum: 02.11.1909
+    jahr: "1909"
+    ort: Berlin
+    vortragstitel: Über den siebenjährigen Bestand der Deutschen Sektion der Theosophischen Gesellschaft
+    anlass: Vortrag (GA 250). Vergleich der Sektionsentwicklung mit der Kindesentwicklung; erste sieben Jahre der Sektionsarbeit.
+    ga: 250
   - id: 19091104
     uuid: aae0c1ba-2b18-56c5-b1aa-4d560233a2e6
     datum: 04.11.1909
@@ -10154,6 +10232,7 @@ lectures:
     jahr: "1909"
     ort: Stuttgart
     vortragstitel: Die Mission der Hirten, Ackerbauer, Fischer
+    ga: 246
   - id: 19091115b
     uuid: 4212ab20-a380-5cbd-81e7-f3468ae606ab
     datum: 15.11.1909
@@ -10249,7 +10328,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19091206
     uuid: a558fb8d-8e93-5d72-bd4e-17d86b8a7ba6
     datum: 06.12.1909
@@ -10273,7 +10352,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19091209
     uuid: 24cfa5e6-ae18-5cc9-9cbc-6711d77d750c
     datum: 09.12.1909
@@ -10287,6 +10366,7 @@ lectures:
     jahr: "1909"
     ort: Nürnberg
     vortragstitel: Einiges über den Mondeinfluss
+    ga: 246
   - id: 19091213
     uuid: 6e3d6af9-56aa-5ef3-973f-8445ad15d4f6
     datum: 13.12.1909
@@ -10325,7 +10405,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/1
+    ga: 266a
   - id: 19091226
     uuid: fd4cde3a-aa6a-5329-9885-40eac994e6a3
     datum: 26.12.1909
@@ -10541,7 +10621,7 @@ lectures:
     ort: Kassel
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19100208
     uuid: 861b0f5f-d886-5819-b48b-451a46be5b82
     datum: 08.02.1910
@@ -10572,6 +10652,7 @@ lectures:
     jahr: "1910"
     ort: Wiesbaden
     vortragstitel: Das Wesen der Pflanze und die Beziehung des Menschen zum Pflanzenreich
+    ga: 246
   - id: 19100217
     uuid: 296efe15-8374-5f12-9bc8-d33b0b3e8a46
     datum: 17.02.1910
@@ -10641,13 +10722,14 @@ lectures:
     ort: Köln
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19100228
     uuid: cc875bee-e7d9-57d8-961f-fe4bb3dd3267
     datum: 28.02.1910
     jahr: "1910"
     ort: Essen
     vortragstitel: Einweihung des Zweiges
+    ga: 246
   - id: 19100303
     uuid: d4f3c2b4-9a6e-51ae-a731-c4102136504a
     datum: 03.03.1910
@@ -10713,7 +10795,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19100314
     uuid: d52dd7d8-63eb-518b-8c9f-ca9cafc15853
     datum: 14.03.1910
@@ -10735,7 +10817,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19100319
     uuid: 8615f257-ea02-5dab-9e91-802af6709dba
     datum: 19.03.1910
@@ -10797,6 +10879,7 @@ lectures:
     jahr: "1910"
     ort: Wien
     vortragstitel: Osterfeier und Osterbetrachtung
+    ga: 246
   - id: 19100327b
     uuid: 590567e7-c6bf-5e04-acc4-a3f8a91e11c7
     datum: 27.03.1910
@@ -10864,6 +10947,7 @@ lectures:
     jahr: "1910"
     ort: Rom
     vortragstitel: Die Erdenentwicklung
+    ga: 246
   - id: 19100418
     uuid: 3db5d43f-2fbd-5474-bc87-f68017405a6b
     datum: 18.04.1910
@@ -10923,6 +11007,7 @@ lectures:
     jahr: "1910"
     ort: Bremen
     vortragstitel: Das künftige ätherische Hellsehen
+    ga: 246
   - id: 19100515
     uuid: 1f3241d2-efcd-597f-a394-fc35072ec2af
     datum: 15.05.1910
@@ -10947,7 +11032,7 @@ lectures:
     ort: Hamburg
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19100517
     uuid: b3fb8054-2a60-5241-886a-a8bdc94d7117
     datum: 17.05.1910
@@ -10982,7 +11067,7 @@ lectures:
     ort: Hamburg
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19100520
     uuid: 69be8384-39ea-57f3-a144-f6c33be319f9
     datum: 20.05.1910
@@ -11033,7 +11118,7 @@ lectures:
     ort: Hamburg
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19100526a
     uuid: bc16e7f9-d29f-5a93-9fd0-7972e67831d4
     datum: 26.05.1910
@@ -11068,6 +11153,14 @@ lectures:
     reihe: Die Offenbarungen des Karma
     ga: 120
     zyklus: 12
+  - id: 19100601
+    uuid: 5fe0b137-a66f-5b57-9233-977bc8c50612
+    datum: 01.06.1910
+    jahr: "1910"
+    ort: Kopenhagen
+    vortragstitel: Einweihung der Steiner-Loge
+    anlass: Einweihung der Steiner-Loge
+    ga: 246
   - id: 19100602
     uuid: 8d186bbb-a4af-523e-a09a-2741e94a6dc9
     datum: 02.06.1910
@@ -11193,7 +11286,7 @@ lectures:
     ort: Kristiania (Oslo)
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19100617a
     uuid: 38af2aaa-5315-57d4-b14f-a80d4f5fd6fc
     datum: 17.06.1910
@@ -11217,7 +11310,7 @@ lectures:
     ort: Kristiania (Oslo)
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19100620
     uuid: 03e64e00-921a-540c-92d0-676c39a30af7
     datum: 20.06.1910
@@ -11225,7 +11318,7 @@ lectures:
     ort: Kristiania (Oslo)
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19100816
     uuid: 0981bd9b-3cd1-5413-9ba1-50abc87b0352
     datum: 16.08.1910
@@ -11314,7 +11407,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19100825a
     uuid: a71ea547-c57b-5026-84c4-ddf487fc630b
     datum: 25.08.1910
@@ -11346,7 +11439,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19100826c
     uuid: 0043d26a-12db-55df-ba6b-e2a43fdd9ee2
     datum: 26.08.1910
@@ -11453,7 +11546,7 @@ lectures:
     ort: Bern
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19100911
     uuid: 913f919c-68ea-5957-bf0b-e62b390cc955
     datum: 11.09.1910
@@ -11506,6 +11599,7 @@ lectures:
     jahr: "1910"
     ort: Stuttgart
     vortragstitel: Das Leben nach dem Tode
+    ga: 246
   - id: 19101017
     uuid: 68f1ed57-6bc9-5487-acfa-033c670c9af6
     datum: 17.10.1910
@@ -11606,7 +11700,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19101105
     uuid: 7cbb80e6-15be-5fc8-9910-474b36cda2b3
     datum: 05.11.1910
@@ -11614,7 +11708,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19101107
     uuid: 8a3a84fc-2da1-5155-8f81-a2b270ac3d65
     datum: 07.11.1910
@@ -11637,6 +11731,7 @@ lectures:
     jahr: "1910"
     ort: Nürnberg
     vortragstitel: Moral und Karma
+    ga: 246
   - id: 19101113
     uuid: fafd03bc-1bec-58d4-bedb-ccf9d9b3d8f5
     datum: 13.11.1910
@@ -11713,6 +11808,7 @@ lectures:
     jahr: "1910"
     ort: Kassel
     vortragstitel: Über Lektüre. Neid und Lügenhaftigkeit und ihre karmische Auswirkung
+    ga: 246
   - id: 19101203a
     uuid: 1bebf0c5-443c-5fd2-8e8c-eb9ac267ce84
     datum: 03.12.1910
@@ -11727,7 +11823,7 @@ lectures:
     ort: Kassel
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19101204
     uuid: 65869007-442a-5c8a-aec3-ed1a78ca7752
     datum: 04.12.1910
@@ -11735,7 +11831,7 @@ lectures:
     ort: Kassel
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19101206
     uuid: a0aa5189-0d72-5199-8ea4-a9ef089eca27
     datum: 06.12.1910
@@ -11786,7 +11882,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19101212
     uuid: d512ddd0-01f8-5f2d-aab9-14c9bacd2aa6
     datum: 12.12.1910
@@ -11814,6 +11910,7 @@ lectures:
     jahr: "1910"
     ort: Hannover
     vortragstitel: Neid und Lügenhaftigkeit, karmisch betrachtet
+    ga: 246
   - id: 19101217b
     uuid: 588d9fc2-551a-50c1-acca-10360ead14ed
     datum: 17.12.1910
@@ -11821,7 +11918,7 @@ lectures:
     ort: Hannover
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19101218a
     uuid: 23c865f3-ec20-52fb-a07e-2b43744ac061
     datum: 18.12.1910
@@ -11829,7 +11926,7 @@ lectures:
     ort: Hannover
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19101218b
     uuid: a9ffd2b6-036a-54a6-8cfe-2c734daf0393
     datum: 18.12.1910
@@ -11853,7 +11950,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19101222
     uuid: 3fd57d34-2245-5a98-bed5-1214ceace8df
     datum: 22.12.1910
@@ -11868,7 +11965,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19101227a
     uuid: 321a4d4e-d4ea-5a29-8dd0-0ec1141c16dd
     datum: 27.12.1910
@@ -11929,7 +12026,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19110101a
     uuid: be33033b-f0b9-5b15-81e3-ac5734ca9b60
     datum: 01.01.1911
@@ -11946,7 +12043,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19110102
     uuid: 6f56db5e-6032-5173-810a-2cde413f2fb7
     datum: 02.01.1911
@@ -11954,7 +12051,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19110103
     uuid: 72887276-a95d-5e45-8fb8-f409572e8e05
     datum: 03.01.1911
@@ -12022,7 +12119,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19110119
     uuid: 02227ea5-d567-54df-a221-d0775cc2da00
     datum: 19.01.1911
@@ -12065,13 +12162,14 @@ lectures:
     ort: Köln
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19110201a
     uuid: e2f74596-3703-5c4a-b589-1cb190719f46
     datum: 01.02.1911
     jahr: "1911"
     ort: Bonn
     vortragstitel: Menschheitsentwicklung und Theosophie
+    ga: 246
   - id: 19110201b
     uuid: e89410ec-1a91-55a7-a47c-fec2cdc76c3a
     datum: 01.02.1911
@@ -12092,6 +12190,7 @@ lectures:
     jahr: "1911"
     ort: Elberfeld
     vortragstitel: Der Zusammenhang der physischen Welt mit der astralen und geistigen Welt
+    ga: 246
   - id: 19110205
     uuid: 501abde6-ad4d-521a-ad58-3929b1593ec5
     datum: 05.02.1911
@@ -12105,6 +12204,7 @@ lectures:
     jahr: "1911"
     ort: Düsseldorf
     vortragstitel: Die Glieder des Menschen. Gottessohnschaft und Menschensohnschaft
+    ga: 246
   - id: 19110206b
     uuid: 7c44c3e6-6a76-5a97-b8fb-cf47010c38b9
     datum: 06.02.1911
@@ -12140,7 +12240,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19110213
     uuid: 3975fa1e-004c-51a7-af48-2826210487e9
     datum: 13.02.1911
@@ -12154,6 +12254,7 @@ lectures:
     jahr: "1911"
     ort: München
     vortragstitel: Über Vererbung
+    ga: 246
   - id: 19110216
     uuid: 6cc6a3ae-e34a-5a0c-9ce4-5f51ebf6afd5
     datum: 16.02.1911
@@ -12175,14 +12276,7 @@ lectures:
     ort: Strassburg
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
-  - id: 19110222
-    uuid: 1291fe24-8969-5342-890a-f12502832f48
-    datum: 22.02.1911
-    jahr: "1911"
-    ort: Basel
-    vortragstitel: Geduld, Weisheit, Frömmigkeit, Lebenssicherheit. Weisheit, Frömmigkeit und Lebenssicherheit
-    ga: 127
+    ga: 266b
   - id: 19110223a
     uuid: 9b2f210b-f986-5c87-b835-2b62aca15c08
     datum: 23.02.1911
@@ -12248,6 +12342,7 @@ lectures:
     jahr: "1911"
     ort: Hannover
     vortragstitel: Die menschliche Urschuld. - «Ich bin der Weg, die Wahrheit und das Leben»
+    ga: 246
   - id: 19110305a
     uuid: bd755c27-6a5d-5bf9-a1f6-e6b6e41f1829
     datum: 05.03.1911
@@ -12262,7 +12357,7 @@ lectures:
     ort: Hannover
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19110306
     uuid: 726da9fe-a73b-5ac8-bc2b-7b6dafce0e23
     datum: 06.03.1911
@@ -12302,7 +12397,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19110316
     uuid: 382dac5b-ce1e-54be-b006-445291333477
     datum: 16.03.1911
@@ -12403,7 +12498,7 @@ lectures:
     ort: Prag
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19110408a
     uuid: dc1687ab-4cdd-5f38-9d74-3873d25bc884
     datum: 08.04.1911
@@ -12419,6 +12514,7 @@ lectures:
     ort: Bologna
     vortragstitel: Verwandlung des Bewusstseinshorizontes
     anlass: Einladung der Loge Bologna
+    ga: 246
   - id: 19110411
     uuid: 800447c7-04af-5772-9d80-0518cde2c447
     datum: 11.04.1911
@@ -12496,7 +12592,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19110614
     uuid: 3f4ae62f-cbf8-525c-bc5d-f2c20ddaaa87
     datum: 14.06.1911
@@ -12572,7 +12668,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19110824
     uuid: 2b3f86c7-141d-5e3f-ac50-2d5db52fb46f
     datum: 24.08.1911
@@ -12607,7 +12703,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19110827
     uuid: 4ae89377-b0bb-5ebb-bb3a-e5209381fb47
     datum: 27.08.1911
@@ -12681,6 +12777,7 @@ lectures:
     jahr: "1911"
     ort: Bern
     vortragstitel: Glaube, Liebe, Hoffnung
+    ga: 246
   - id: 19111001
     uuid: b303e92e-058e-5bef-8476-b566c44ef844
     datum: 01.10.1911
@@ -12756,7 +12853,7 @@ lectures:
     ort: Karlsruhe
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19111011
     uuid: 2dc92ac9-22cb-5c78-8eba-fe6f8abba716
     datum: 11.10.1911
@@ -12800,7 +12897,7 @@ lectures:
     ort: Karlsruhe
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19111015a
     uuid: 10a84249-4b5b-5225-92f7-6812e216c1b4
     datum: 15.10.1911
@@ -12855,7 +12952,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19111028
     uuid: 73d06f9e-4287-5fb6-9ebf-3e886ce02820
     datum: 28.10.1911
@@ -12870,7 +12967,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19111031
     uuid: 3f2f5e6b-ea7d-539d-8bbc-fb0de7aac0ee
     datum: 31.10.1911
@@ -12955,7 +13052,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19111120
     uuid: 10596bec-17e0-5341-85da-36b164765dad
     datum: 20.11.1911
@@ -12991,6 +13088,7 @@ lectures:
     jahr: "1911"
     ort: Tübingen
     vortragstitel: Einweihung des Uhland-Zweiges
+    ga: 246
   - id: 19111126
     uuid: 2eb82067-b462-560b-8994-94f3b753f2d4
     datum: 26.11.1911
@@ -13103,7 +13201,7 @@ lectures:
     ort: Berlin
     vortragstitel: Warum wurde bisher das, was unter theosophischer Bewegung zu verstehen ist, innerhalb der Theosophischen Gesellschaft vertreten? Tatsachen aus der Geschichte der Deutschen Sektion
     anlass: Besprechung über die Lage der Theosophischen Gesellschaft.
-    ga: 264
+    ga: 264,250
   - id: 19111214b
     uuid: 13f96adc-c03c-560e-ada6-cf7db4c55b7d
     datum: 14.12.1911
@@ -13142,7 +13240,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 265,266/2
+    ga: 265,266b
   - id: 19111217a
     uuid: 3ab8ac93-f8b8-5539-b7a0-d0db219cc9f8
     datum: 17.12.1911
@@ -13231,7 +13329,7 @@ lectures:
     ort: Hannover
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19111231c
     uuid: c6f9ccaf-85aa-5207-8c33-e9012fa61cd8
     datum: 31.12.1911
@@ -13254,7 +13352,7 @@ lectures:
     ort: Hannover
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120101c
     uuid: 35383e3d-001f-5b30-bfa0-f11170535f59
     datum: 01.01.1912
@@ -13285,7 +13383,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120107
     uuid: 3134708f-92c7-5de4-82e1-36e975dc7bb4
     datum: 07.01.1912
@@ -13293,7 +13391,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120108
     uuid: f179b799-e1e8-5e71-a48f-a7b6a3bae05a
     datum: 08.01.1912
@@ -13322,7 +13420,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120111
     uuid: 908e01ab-4291-595e-9680-4927f1c66946
     datum: 11.01.1912
@@ -13336,6 +13434,7 @@ lectures:
     jahr: "1912"
     ort: St. Gallen
     vortragstitel: ""
+    ga: 246
   - id: 19120113
     uuid: 90708453-4bf1-5bd7-ad4f-ce22a19ebaa6
     datum: 13.01.1912
@@ -13366,7 +13465,7 @@ lectures:
     ort: Zürich
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120118
     uuid: 7b515857-c403-5203-bff7-b03209b53a26
     datum: 18.01.1912
@@ -13395,7 +13494,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120127
     uuid: 89097209-bba6-5c72-82d8-7df2f42e7d5a
     datum: 27.01.1912
@@ -13514,7 +13613,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120221a
     uuid: 53f54d65-bce8-5363-8ff0-3dfbc33c530a
     datum: 21.02.1912
@@ -13542,7 +13641,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120223
     uuid: d0323ce8-1e9d-5102-8af7-2e5ea69edbd4
     datum: 23.02.1912
@@ -13550,7 +13649,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120224
     uuid: 56f8ce21-c368-5b95-86fe-c398be6e4c4c
     datum: 24.02.1912
@@ -13579,7 +13678,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120227
     uuid: 828284b3-96d9-5312-bc8a-90391cf5666c
     datum: 27.02.1912
@@ -13608,7 +13707,7 @@ lectures:
     ort: Mannheim
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120310b
     uuid: c083c539-eada-5d50-8fd8-805c1d9064e7
     datum: 10.03.1912
@@ -13616,7 +13715,7 @@ lectures:
     ort: Mannheim
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120310c
     uuid: d21f2d69-400f-5b2f-9a0f-9f5781cfe8a8
     datum: 10.03.1912
@@ -13630,7 +13729,7 @@ lectures:
     ort: Frankfurt
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120311
     uuid: 6aefdfcd-ba49-522a-90ff-2b8bc4d011b9
     datum: 11.03.1912
@@ -13667,7 +13766,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120326
     uuid: 6622a6a2-7e5b-53cb-be8d-e5c8beb54f87
     datum: 26.03.1912
@@ -13718,7 +13817,7 @@ lectures:
     ort: Helsingfors
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120406
     uuid: 59462822-d406-5a8d-9bae-ad0c269dd7d4
     datum: 06.04.1912
@@ -13811,7 +13910,7 @@ lectures:
     ort: Helsingfors
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120416
     uuid: fb44bcff-abf0-5cb4-83f9-a0ed8ac912b1
     datum: 16.04.1912
@@ -13832,7 +13931,6 @@ lectures:
     jahr: "1912"
     ort: Stockholm
     vortragstitel: Tod und Unsterblichkeit im Lichte der Geisteswissenschaft
-    ga: 69d
   - id: 19120419
     uuid: 8ba66ae3-bc28-5af3-b78a-3c4d5bae7481
     datum: 19.04.1912
@@ -13855,7 +13953,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120502
     uuid: 334c2b7a-886b-5256-8e87-478ef51bbcd9
     datum: 02.05.1912
@@ -13879,6 +13977,7 @@ lectures:
     ort: Köln
     vortragstitel: Vergessen und Gedenken. Raffaels «Schule von Athen»
     anlass: Einweihung des neuen Zweigraumes
+    ga: 246
   - id: 19120506b
     uuid: 13bfc786-d09b-53d8-b4d1-6349e3f1af24
     datum: 06.05.1912
@@ -13915,7 +14014,7 @@ lectures:
     ort: Köln
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120514
     uuid: 2c896928-dedf-5753-bfa3-3fa33d7714fe
     datum: 14.05.1912
@@ -13990,7 +14089,7 @@ lectures:
     ort: Norrköping
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120602
     uuid: d474d098-084e-5d60-8a36-203b645dad2a
     datum: 02.06.1912
@@ -14050,7 +14149,7 @@ lectures:
     ort: Kristiania (Oslo)
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120608
     uuid: 8d1f8373-0626-5977-96e7-6f504e770054
     datum: 08.06.1912
@@ -14076,7 +14175,7 @@ lectures:
     ort: Kristiania (Oslo)
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120610
     uuid: 633bbf6b-aebf-5773-ac8a-ce92cb4e7c4e
     datum: 10.06.1912
@@ -14102,7 +14201,7 @@ lectures:
     ort: Kristiania (Oslo)
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120612a
     uuid: 0ee6ad9f-d55f-561d-855c-9678b8a00adf
     datum: 12.06.1912
@@ -14228,7 +14327,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120905
     uuid: 80cbeb00-e85b-5ecc-8278-9a40926a96c7
     datum: 05.09.1912
@@ -14297,7 +14396,7 @@ lectures:
     ort: Basel
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 264,266/2
+    ga: 264,266b
   - id: 19120921
     uuid: da5cf593-e18d-56eb-81ef-1e047c2d75c0
     datum: 21.09.1912
@@ -14323,7 +14422,7 @@ lectures:
     ort: Basel
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19120923
     uuid: 1e69f441-d83e-5b5e-8ceb-973985c4d4be
     datum: 23.09.1912
@@ -14376,6 +14475,14 @@ lectures:
     jahr: "1912"
     ort: Basel
     vortragstitel: ""
+  - id: 19121015
+    uuid: 36fd7fac-85fb-55d6-8b7e-e881105b16b1
+    datum: 15.10.1912
+    jahr: "1912"
+    ort: Berlin
+    vortragstitel: Brief an Wilhelm Hübbe-Schleiden (Ablehnung der Stiftungsurkunde für die Loge Göttingen)
+    anlass: Brief
+    ga: 250
   - id: 19121026
     uuid: 32c38cc0-6818-563e-9b6f-4cd5250804fa
     datum: 26.10.1912
@@ -14427,7 +14534,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19121112
     uuid: f07515ce-3da1-52b0-9a53-adfa5027e28c
     datum: 12.11.1912
@@ -14455,6 +14562,13 @@ lectures:
     ort: Hamburg
     vortragstitel: Christus im 20. Jahrhundert
     ga: 69c
+  - id: 19121117
+    uuid: 902e411f-e64a-5225-b586-1418f198e195
+    datum: 17.11.1912
+    jahr: "1912"
+    ort: Hamburg
+    vortragstitel: Wille zum Verständnis anderer Seelen
+    ga: 246
   - id: 19121118
     uuid: d524442e-a73f-510a-8b6f-0799b2834a29
     datum: 18.11.1912
@@ -14470,7 +14584,7 @@ lectures:
     ort: Hannover
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19121120
     uuid: 7efd5aaf-ae11-5f30-8d47-2eb9a2e3856b
     datum: 20.11.1912
@@ -14522,7 +14636,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19121201
     uuid: fdf64437-9a1b-5202-8320-eb83c2078494
     datum: 01.12.1912
@@ -14547,13 +14661,21 @@ lectures:
     ort: Berlin
     vortragstitel: Ergebnisse der Geistesforschung für Lebensfragen und das Todesrätsel
     ga: 62
-  - id: 19121208
+  - id: 19121208a
     uuid: a886e6e8-beb1-5588-a67e-caf43ad006b8
     datum: 08.12.1912
     jahr: "1912"
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
+  - id: 19121208b
+    uuid: 80376165-6cb7-4cf7-8153-0934c4689d89
+    datum: 08.12.1912
+    jahr: "1912"
+    ort: Berlin
+    vortragstitel: Faksimile des handschriftlichen Statuten-Entwurfs Rudolf Steiners für die «Anthroposophische Gesellschaft»
+    anlass: "Dokument (GA 251, Anhang). Handschriftlicher Statuten-Entwurf vom 8. Dezember 1912."
+    ga: 251
   - id: 19121210
     uuid: f10d7264-67a1-5330-a680-ec881acac00b
     datum: 10.12.1912
@@ -14591,7 +14713,7 @@ lectures:
     ort: Bern
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19121217a
     uuid: 90ca45b8-e3a3-5dff-bf12-4f0b88b23f22
     datum: 17.12.1912
@@ -14599,7 +14721,7 @@ lectures:
     ort: Zürich
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/2
+    ga: 266b
   - id: 19121217b
     uuid: 87ca25bf-61a8-5308-ac6c-214f5a7f3e2e
     datum: 17.12.1912
@@ -14704,7 +14826,7 @@ lectures:
     ort: Köln
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 264,266/3
+    ga: 264,266c
   - id: 19130103
     uuid: f5832648-5551-5c36-b86c-2ebd9bb3d7c1
     datum: 03.01.1913
@@ -14719,7 +14841,7 @@ lectures:
     ort: Köln
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 264,266/3
+    ga: 264,266c
   - id: 19130106
     uuid: ce015b06-7dde-5238-b0c0-72f5d14ce696
     datum: 06.01.1913
@@ -14727,7 +14849,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19130107a
     uuid: 4cc3b6e1-952a-5a46-98e7-8795ea36985f
     datum: 07.01.1913
@@ -14810,6 +14932,7 @@ lectures:
     ort: Graz
     vortragstitel: Die Wirkung der geisteswissenschaftlichen Wahrheiten auf das Verhalten von Toten und Lebenden
     anlass: Einweihung des neuen Zweigraums
+    ga: 246
   - id: 19130122b
     uuid: 605b011a-73ac-5b83-9816-56f86b4087c5
     datum: 22.01.1913
@@ -14822,6 +14945,7 @@ lectures:
     jahr: "1913"
     ort: Klagenfurt
     vortragstitel: ""
+    ga: 246
   - id: 19130126
     uuid: 83c12545-68fc-5031-afc6-00313b60e18c
     datum: 26.01.1913
@@ -14836,7 +14960,6 @@ lectures:
     jahr: "1913"
     ort: Linz
     vortragstitel: Das Wesen der Menschenseele und die Bedeutung des Todes
-    ga: 69d
   - id: 19130130
     uuid: b7de102e-fedd-5c31-96fd-dc9dd1b679ac
     datum: 30.01.1913
@@ -14859,6 +14982,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Einleitende Worte zur ersten Generalversammlung der Anthroposophischen Gesellschaft
+    ga: 251
   - id: 19130203b
     uuid: dc1877fa-8e06-58c2-8f61-2655c44f1341
     datum: 03.02.1913
@@ -14886,6 +15010,7 @@ lectures:
     jahr: "1913"
     ort: Berlin
     vortragstitel: Skizze eines Lebensabrisses aus Dr. Steiners Jugend
+    ga: 250
   - id: 19130204b
     uuid: 9265fcff-ec40-5dc3-82d7-47f88591143a
     datum: 04.02.1913
@@ -14918,6 +15043,7 @@ lectures:
     jahr: "1913"
     ort: Berlin
     vortragstitel: Über eine zu gründende Handelsgesellschaft «Ceres»
+    ga: 251
   - id: 19130206b
     uuid: 365dfa82-16f1-5330-b217-783463e2f852
     datum: 06.02.1913
@@ -14945,6 +15071,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Erste Abschiedsrede zur ersten Generalversammlung der Anthroposophischen Gesellschaft
+    ga: 251
   - id: 19130207b
     uuid: 4637aa78-3836-547b-b880-094219af3f25
     datum: 07.02.1913
@@ -14994,7 +15121,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19130209
     uuid: ede3c0b1-d995-5ba4-9504-628ba6c5b7d0
     datum: 09.02.1913
@@ -15054,7 +15181,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19130218
     uuid: cfb14934-7a53-580d-8ea2-4671850d9358
     datum: 18.02.1913
@@ -15089,6 +15216,7 @@ lectures:
     jahr: "1913"
     ort: Mannheim
     vortragstitel: Das Leben zwischen Tod und neuer Geburt
+    ga: 246
   - id: 19130226
     uuid: 5d4da76a-dc3c-5a7f-980d-3fde5186f3ab
     datum: 26.02.1913
@@ -15102,6 +15230,14 @@ lectures:
     jahr: "1913"
     ort: Heidelberg
     vortragstitel: Das Leben zwischen dem Tode und einer neuen Geburt
+    ga: 246
+  - id: 19130228
+    uuid: e8f1ce42-61ff-5db9-bda7-5a6d2ab04f55
+    datum: 28.02.1913
+    jahr: "1913"
+    ort: Karlsruhe
+    vortragstitel: Zusammenarbeit mit den Geistern der Gesundheit
+    ga: 246
   - id: 19130301
     uuid: 92085fc6-8075-557e-9f38-3ad9f1179f6d
     datum: 01.03.1913
@@ -15174,7 +15310,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19130313
     uuid: aa8f3d75-615f-5abf-ad63-b336c0825f83
     datum: 13.03.1913
@@ -15197,7 +15333,7 @@ lectures:
     ort: Augsburg
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19130320a
     uuid: 9ef93f30-9110-5a48-8650-7802d10d19a8
     datum: 20.03.1913
@@ -15205,6 +15341,7 @@ lectures:
     ort: Haag
     reihe: Welche Bedeutung hat die okkulte Entwicklung des Menschen Menschen für seine Hüllen (physischen Leib, Ätherleib, Astralleib) und sein Selbst?
     anlass: Einleitung zum Zyklus
+    ga: 250
   - id: 19130320b
     uuid: 65c7d840-aaf0-5427-b74a-e5872c6b6dcf
     datum: 20.03.1913
@@ -15221,7 +15358,7 @@ lectures:
     ort: Haag
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19130321b
     uuid: 8b9aed9f-1731-5816-8d95-66edf6420a38
     datum: 21.03.1913
@@ -15246,7 +15383,7 @@ lectures:
     jahr: "1913"
     ort: Haag
     vortragstitel: "Die besondere Konstellation des Osterfestes 1913: Frühlingsanfang am Karfreitag, Frühlingsvollmond am Karsamstag. Frühlingsanfang, Ostermond und Ostersonntag"
-    ga: 145,150
+    ga: 150
   - id: 19130323b
     uuid: f8dc221f-b2d8-5b81-a420-98ad78febba1
     datum: 23.03.1913
@@ -15287,7 +15424,7 @@ lectures:
     ort: Haag
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19130326
     uuid: 1a1be291-154f-5afe-8339-b3d646cd03f0
     datum: 26.03.1913
@@ -15336,6 +15473,7 @@ lectures:
     jahr: "1913"
     ort: Haag
     vortragstitel: Schlussworte zum Zyklus
+    ga: 250
   - id: 19130401
     uuid: dfaf2828-0d12-5ec9-b5bc-9d9e1c4547f0
     datum: 01.04.1913
@@ -15379,7 +15517,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19130413a
     uuid: c8916fcb-adc7-5bc5-bafb-335da2f36f0b
     datum: 13.04.1913
@@ -15401,6 +15539,7 @@ lectures:
     jahr: "1913"
     ort: Essen
     vortragstitel: Über den Verkehr mit den Toten
+    ga: 246
   - id: 19130425
     uuid: 8207dc2c-5a7e-5fea-824e-31bf9c6e6013
     datum: 25.04.1913
@@ -15408,6 +15547,7 @@ lectures:
     ort: Elberfeld
     vortragstitel: Über den Verkehr mit den Toten
     anlass: Einweihung des Zweigraumes
+    ga: 246
   - id: 19130427
     uuid: 9b3bc56b-2da1-502b-8f9b-d39cd7d308d6
     datum: 27.04.1913
@@ -15471,7 +15611,7 @@ lectures:
     ort: Strassburg
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19130517
     uuid: b24698b0-913f-5f29-a170-4520a82c7feb
     datum: 17.05.1913
@@ -15493,7 +15633,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19130519
     uuid: 114437ae-d60f-5d6a-929e-69fff36b30d7
     datum: 19.05.1913
@@ -15507,6 +15647,7 @@ lectures:
     jahr: "1913"
     ort: Stuttgart
     vortragstitel: Über Angelegenheiten der Anthroposophischen Gesellschaft
+    ga: 251
   - id: 19130520b
     uuid: 34831466-8122-56ec-95b5-4b2a5511c7cb
     datum: 20.05.1913
@@ -15566,7 +15707,7 @@ lectures:
     ort: Helsingfors
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19130602
     uuid: 5463840e-03d4-541c-8966-ef92446b318d
     datum: 02.06.1913
@@ -15624,7 +15765,7 @@ lectures:
     ort: Helsingfors
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19130608a
     uuid: 4af81079-2b63-5cbe-9d2e-f5973e5a3a1a
     datum: 08.06.1913
@@ -15632,7 +15773,7 @@ lectures:
     ort: Stockholm
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19130608b
     uuid: 44ea303a-0cd2-5f56-bc00-ebcd24c4f1a3
     datum: 08.06.1913
@@ -15640,6 +15781,14 @@ lectures:
     ort: Stockholm
     vortragstitel: Natur und Geist im Lichte theosophischer Erkenntnis
     ga: 150
+  - id: 19130609
+    uuid: c97c0888-c401-4236-b1f1-caedb417eb8c
+    datum: 09.06.1913
+    jahr: "1913"
+    ort: Stockholm
+    vortragstitel: Ein theosophischer Ketzer. Doktor Rudolf Steiner über Anthroposophen und Theosophen
+    anlass: "Interview («Aftonbladet», 9. Juni 1913). Textgrundlage: «En teosofisk kättare. Doktor Rudolf Steiner om antroposofer och teosofer.» Kopie, RSA Standort-Nr. 076/1."
+    ga: 244
   - id: 19130610
     uuid: 507eb42b-d72d-55b6-83ba-73c3b43fdade
     datum: 10.06.1913
@@ -15734,7 +15883,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19130904
     uuid: c789ca8f-a817-5bab-b9d5-7192ea70f2b3
     datum: 04.09.1913
@@ -15742,7 +15891,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19130920a
     uuid: b50e8564-81f5-5b5f-86d4-a0c97bb475e9
     datum: 20.09.1913
@@ -15815,7 +15964,7 @@ lectures:
     ort: Kristiania (Oslo)
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19131005b
     uuid: b2ba1a3f-cd92-5178-a926-d08f984f7eb9
     datum: 05.10.1913
@@ -15832,7 +15981,7 @@ lectures:
     ort: Kristiania (Oslo)
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19131006b
     uuid: 836395e8-ae1d-5e02-8889-67ad2f2c3fbc
     datum: 06.10.1913
@@ -15863,7 +16012,7 @@ lectures:
     ort: Bergen
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19131011b
     uuid: 86da50bc-9ac6-5b00-b7c6-360946890a89
     datum: 11.10.1913
@@ -15885,7 +16034,7 @@ lectures:
     ort: Kopenhagen
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19131015b
     uuid: 9088c047-65bb-5708-ab9d-89e2ad1780cc
     datum: 15.10.1913
@@ -15936,7 +16085,7 @@ lectures:
     ort: Nürnberg
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19131110a
     uuid: ab4c5c40-816d-5653-81c7-b3eec3f5cef0
     datum: 10.11.1913
@@ -15951,7 +16100,7 @@ lectures:
     ort: Nürnberg
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19131115
     uuid: 0befec54-f582-5f2a-ad1d-5aa5a433d3e2
     datum: 15.11.1913
@@ -15973,7 +16122,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19131118
     uuid: 0c4c695a-9ede-5979-a47f-9d357f951739
     datum: 18.11.1913
@@ -16010,7 +16159,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19131123b
     uuid: 6d8139c4-edbe-52cf-ba69-ef4defdf0fb2
     datum: 23.11.1913
@@ -16082,7 +16231,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19131210
     uuid: 3892eb21-32ea-5d89-8688-142e1a46c52d
     datum: 10.12.1913
@@ -16111,7 +16260,7 @@ lectures:
     ort: Köln
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19131221
     uuid: 93dc99cd-1477-5b11-90a9-445e429dd72d
     datum: 21.12.1913
@@ -16161,7 +16310,7 @@ lectures:
     ort: Leipzig
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19131231a
     uuid: a619c7d4-057f-559e-b0f2-42355c1c1c62
     datum: 31.12.1913
@@ -16211,7 +16360,7 @@ lectures:
     ort: Leipzig
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19140103
     uuid: 91e48f59-c4ce-5485-b27e-922c6c725727
     datum: 03.01.1914
@@ -16255,7 +16404,7 @@ lectures:
     ort: Bremen
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19140113
     uuid: f37fbe63-c749-5658-a708-cba0841a6608
     datum: 13.01.1914
@@ -16286,6 +16435,7 @@ lectures:
     ort: Berlin
     vortragstitel: Über eine Broschüre von E. Boldt
     anlass: Bemerkungen zur Diskussion (Über eine Broschüre von E. Boldt)
+    ga: 251
   - id: 19140119a
     uuid: 2dfea2d2-d8c8-506f-9899-7ad01c04423e
     datum: 19.01.1914
@@ -16293,6 +16443,7 @@ lectures:
     ort: Berlin
     vortragstitel: Weiteres über die Broschüre von E. Boldt
     anlass: Bemerkungen zur Diskussion (Weiteres über die Broschüre von E. Boldt)
+    ga: 251
   - id: 19140119b
     uuid: 76b0ab68-876b-5410-ac87-52675153e0e9
     datum: 19.01.1914
@@ -16307,6 +16458,7 @@ lectures:
     jahr: "1914"
     ort: Berlin
     vortragstitel: Pseudowissenschaft der Gegenwart
+    ga: 251
   - id: 19140120b
     uuid: 06b3f1e5-d67a-552a-aeb2-b9d1e6220156
     datum: 20.01.1914
@@ -16343,7 +16495,16 @@ lectures:
     jahr: "1914"
     ort: Berlin
     vortragstitel: Einige Ausführungen über Embryologie im Zusammenhang mit einer Gemäldeausstellung von Frau Peterson
-  - id: 19140122
+    ga: 246
+  - id: 19140121d
+    uuid: 3e2213ab-c12f-4b72-9284-a61aefeb5ce7
+    datum: 21.01.1914
+    jahr: "1914"
+    ort: Berlin
+    vortragstitel: Fortsetzung des geschäftlichen Teiles gegen 1 Uhr mittags
+    anlass: 2. Generalversammlung der anthroposophischen Gesellschaft
+    ga: 251
+  - id: 19140122a
     uuid: d6593509-147e-5534-ba88-17d0ca3eb520
     datum: 22.01.1914
     jahr: "1914"
@@ -16354,6 +16515,14 @@ lectures:
     ga: 151
     zyklus: 33
     ragkeep: 19140122_Berlin_Der_menschliche_und_der_kosmische_Gedanke_Zyklus_33_Dritter_Vortrag.html
+  - id: 19140122b
+    uuid: dd8909c0-0612-4de8-97e4-1d7c9ad6e281
+    datum: 22.01.1914
+    jahr: "1914"
+    ort: Berlin
+    vortragstitel: Fortsetzung des geschäftlichen Teiles gegen Do 11 Uhr vormittags
+    anlass: 2. Generalversammlung der anthroposophischen Gesellschaft
+    ga: 251
   - id: 19140123a
     uuid: 42b364a9-882b-5cf4-96e9-9a8e4b8d69e8
     datum: 23.01.1914
@@ -16381,6 +16550,14 @@ lectures:
     ga: 151
     zyklus: 33
     ragkeep: 19140123c_Berlin_Der_menschliche_und_der_kosmische_Gedanke_Zyklus_33_Vierter_Vortrag.html
+  - id: 19140123d
+    uuid: 08c170e5-e4ff-4766-a8ed-066ee109d084
+    datum: 23.01.1914
+    jahr: "1914"
+    ort: Berlin
+    vortragstitel: Fortsetzung des geschäftlichen Teiles gegen Fr 11 Uhr vormittags
+    anlass: 2. Generalversammlung der anthroposophischen Gesellschaft
+    ga: 251
   - id: 19140124a
     uuid: 543cc96b-933f-546f-a901-467323e59fb3
     datum: 24.01.1914
@@ -16388,7 +16565,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19140124b
     uuid: 2b013ff9-b925-5799-9a57-5453e1c74a19
     datum: 24.01.1914
@@ -16396,6 +16573,7 @@ lectures:
     ort: Berlin
     vortragstitel: Schlusswort zur Generalversammlung
     anlass: 2. Generalversammlung der anthropsophischen Gesellschaft
+    ga: 251
   - id: 19140127
     uuid: 9a621736-f610-5c22-8508-6e9bc622a6da
     datum: 27.01.1914
@@ -16409,6 +16587,7 @@ lectures:
     jahr: "1914"
     ort: Hannover
     vortragstitel: Das fünfte Evangelium. Der Dornacher Bau
+    ga: 246
   - id: 19140207b
     uuid: 1d7a89f3-1033-5dd3-9e0e-b84e51f13386
     datum: 07.02.1914
@@ -16416,7 +16595,7 @@ lectures:
     ort: Hannover
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19140208
     uuid: 4056518b-a8b2-5ecf-9915-f9d5ea8329c0
     datum: 08.02.1914
@@ -16467,7 +16646,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19140306
     uuid: fe4fb792-1289-5ec9-9a9e-79f1a0364314
     datum: 06.03.1914
@@ -16524,7 +16703,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19140329
     uuid: 0edfe7d1-c2fb-545e-a960-286b2fc78d5c
     datum: 29.03.1914
@@ -16553,7 +16732,7 @@ lectures:
     ort: München
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19140406
     uuid: 7e1a9419-0d57-52e4-af2f-e3be486ed6d6
     datum: 06.04.1914
@@ -16659,7 +16838,7 @@ lectures:
     ort: Wien
     vortragstitel: "(eventuell 11.4.1914)"
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19140416
     uuid: cac3987b-01e1-5725-96a1-72faf5399914
     datum: 16.04.1914
@@ -16701,7 +16880,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19140426
     uuid: dbf8e4e6-931b-5b3e-9146-f6a77bbb4ff3
     datum: 26.04.1914
@@ -16722,7 +16901,7 @@ lectures:
     jahr: "1914"
     ort: Berlin
     vortragstitel: Wie erwirbt man sich Verständnis für die geistige Welt?
-    ga: 154
+    ga: 246
   - id: 19140428b
     uuid: 854f5d1e-e422-5ad6-a070-ac61e68c1e4c
     datum: 28.04.1914
@@ -16750,7 +16929,7 @@ lectures:
     ort: Kassel
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19140509b
     uuid: 9dd0b15e-198d-5681-9fc2-ebd3f00420b2
     datum: 09.05.1914
@@ -16821,7 +17000,7 @@ lectures:
     ort: Basel
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19140605
     uuid: d40fd85f-17a8-541f-bf48-313f45726182
     datum: 05.06.1914
@@ -16889,7 +17068,7 @@ lectures:
     ort: Norrköping
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19140715
     uuid: 9e40d282-ad1a-5d93-9a3a-d40e3cd7a6af
     datum: 15.07.1914
@@ -16951,6 +17130,7 @@ lectures:
     jahr: "1914"
     ort: Dornach
     vortragstitel: "Über «Die Pforte der Einweihung». - Anschließend: Samariterkurs, 3. Stunde"
+    ga: 246
   - id: 19140816
     uuid: 140f4929-3af5-5b91-9c42-44ef0e5f8495
     datum: 16.08.1914
@@ -17068,13 +17248,6 @@ lectures:
     vortragstitel: Trauerrede am Grabe von Theo Faiss
     ga: 261
   - id: 19141010b
-    uuid: b18cdcc8-d876-5a7e-92e8-8545b629d0b2
-    datum: 10.10.1914
-    jahr: "1914"
-    ort: Dornach
-    vortragstitel: Gedenkworte für Theo Faiss
-    ga: 261
-  - id: 19141010c
     uuid: 740b9b99-8a09-5431-a1ae-e9f00ecd47d2
     datum: 10.10.1914
     jahr: "1914"
@@ -17139,6 +17312,7 @@ lectures:
     jahr: "1914"
     ort: Hamburg
     vortragstitel: Die gegenwärtigen Ereignisse. Das Wirken Michaels. Die Missionen der europäischen Völker. Der Krieg als Zeit der Prüfung
+    ga: 246
   - id: 19141103
     uuid: 97efdf7c-89f8-5238-9a29-4094efb57def
     datum: 03.11.1914
@@ -17245,6 +17419,7 @@ lectures:
     jahr: "1914"
     ort: Stuttgart
     vortragstitel: Richard Wagners "Ring des Nibelungen" und "Parsifal". Erlösung dem Erlöser. Die Mission Richard Wagners im Zusammenhang mit der V. Kulturepoche
+    ga: 246
   - id: 19141212
     uuid: 03076342-6dcb-5efb-b597-96fa2dafbb1b
     datum: 12.12.1914
@@ -18280,6 +18455,30 @@ lectures:
     ort: Dornach
     vortragstitel: Der Mensch nach dem Tode. Sein Hineinwachsen in die Welt der Hierarchien
     ga: 163
+  - id: 19150907
+    uuid: 0ffa05c5-bcea-431c-890f-a9d923513270
+    datum: 07.09.1915
+    jahr: "1915"
+    ort: Dornach
+    vortragstitel: Form für vierzeilige Strophen mit sich wiederholender vierter Zeile
+    reihe: Zweiter Eurythmiekurs
+    ga: 277a
+  - id: 19150908
+    uuid: 0c4815e9-b425-4674-b447-589b87e4d9cc
+    datum: 08.09.1915
+    jahr: "1915"
+    ort: Dornach
+    vortragstitel: Das Fünfeck, für Gedichte mit fünf Zeilen
+    reihe: Zweiter Eurythmiekurs
+    ga: 277a
+  - id: 19150909
+    uuid: bd650ed0-4bd7-4406-91a0-c1682a440542
+    datum: 09.09.1915
+    jahr: "1915"
+    ort: Dornach
+    vortragstitel: Das Sechseck und Achteck für sechs- bzw. achtzeilige Gedichte
+    reihe: Zweiter Eurythmiekurs
+    ga: 277a
   - id: 19150910
     uuid: cda5ab6b-2037-5435-9da5-1b8ca8509f85
     datum: 10.09.1915
@@ -18462,13 +18661,20 @@ lectures:
     ort: Dornach
     vortragstitel: Die achte Sphäre und ihr Zusammenhang mit der Tätigkeit Luzifers und Ahrimans
     ga: 254
-  - id: 19151019
+  - id: 19151019a
     uuid: 4797510e-26df-572c-937c-3faad2835ad9
     datum: 19.10.1915
     jahr: "1915"
     ort: Dornach
     vortragstitel: Die Gefahren des Abirrens beim Eintritt in die geistigen Welten. Altes und neues Hellsehen. Die Anfechtung der Wahrheit durch die gegnerischen Mächte. Frau Tschierschky
     ga: 254
+  - id: 19151019b
+    uuid: 531a559c-23b4-47a1-9d09-2a823c7b6d9d
+    datum: 19.10.1915
+    jahr: "1915"
+    ort: Dornach
+    vortragstitel: Der Fall Tschirschky, Strauss, Wernicke und Blasberg
+    ga: 251
   - id: 19151022
     uuid: e646366a-f7b6-5b92-a6b3-05710af8441d
     datum: 22.10.1915
@@ -18833,7 +19039,7 @@ lectures:
     datum: 15.01.1916
     jahr: "1916"
     ort: Dornach
-    vortragstitel: ""
+    vortragstitel: Über die Humoresken von Christian Morgenstern
     anlass: Einleitende Worte zur Eurythmie-Aufführung
     ga: 277
   - id: 19160116
@@ -18994,6 +19200,7 @@ lectures:
     jahr: "1916"
     ort: Hannover
     vortragstitel: Das Leben zwischen Tod und neuer Geburt. Die Verbindung zwischen Lebenden und Toten. Der gegenwärtige Materialismus und die Aufgabe der Geisteswissenschaft
+    ga: 246
   - id: 19160302
     uuid: e144c306-da41-563a-8d32-7487af8b21a9
     datum: 02.03.1916
@@ -19007,6 +19214,7 @@ lectures:
     jahr: "1916"
     ort: Bremen
     vortragstitel: Das Leben des Menschen zwischen Tod und neuer Geburt. Das materialistische Denken der Gegenwart und seine Überwindung durch die Geisteswissenschaft
+    ga: 246
   - id: 19160307
     uuid: 97005626-e9f3-5627-bbe1-a8717bdf0a24
     datum: 07.03.1916
@@ -19267,13 +19475,20 @@ lectures:
     ort: Dornach
     vortragstitel: Regelmäßige und unregelmäßige Vorgänge in der Natur und im Menschen. Waches Denken und unterbewußtes Träumen. Das althebräische Jubeljahr Gedenkworte für Miss Wilson und Dr. Ernst Kramer
     ga: 170,261
-  - id: 19160731
+  - id: 19160731a
     uuid: 9ef5e91e-52f0-5814-91cb-2ca2f8a70aff
     datum: 31.07.1916
     jahr: "1916"
     ort: Dornach
     vortragstitel: Die Doppelnatur des Menschen und ihr Zusammenhang mit dem Kosmischen und dem Terrestrischen. Kopf und übriger Leib und ihre Entwicklung von Inkarnation zu Inkarnation
     ga: 170
+  - id: 19160731b
+    uuid: fb4500d5-b3a7-4aa1-acd4-b491400aeb38
+    datum: 31.07.1916
+    jahr: "1916"
+    ort: Dornach
+    vortragstitel: Zu zwei Briefen
+    ga: 251
   - id: 19160805
     uuid: 64882aa0-f6c8-51e4-88b5-9ad174bfda12
     datum: 05.08.1916
@@ -19345,13 +19560,20 @@ lectures:
     ort: Dornach
     vortragstitel: Gedächtnis und Gewohnheit und die Aufgabe des physischen Erdendaseins des Menschen. Das Wirken Luzifers und Ahrimans
     ga: 170
-  - id: 19160827
+  - id: 19160827a
     uuid: ac535110-a4af-52f5-bb29-32bdddddb3dd
     datum: 27.08.1916
     jahr: "1916"
     ort: Dornach
     vortragstitel: Die Metamorphosen des Gedächtnisses und der Gewohnheit. - Die Stellung Dr. Steiners innerhalb der anthroposophischen Bewegung
     ga: 170
+  - id: 19160827b
+    uuid: df2484f8-2bee-4a6e-91ce-f541579ed929
+    datum: 27.08.1916
+    jahr: "1916"
+    ort: Dornach
+    vortragstitel: Der Rücktritt Marie Steiners aus dem Zentralvorstand
+    ga: 251
   - id: 19160828
     uuid: 4857fa37-814b-50ea-ac2b-b8aa21247cea
     datum: 28.08.1916
@@ -20238,6 +20460,7 @@ lectures:
     jahr: "1917"
     ort: Berlin
     vortragstitel: Gesellschaftsauseinandersetzung Besprechung über Gesellschaftsfragen
+    ga: 251
   - id: 19170511a
     uuid: c5f50750-f271-5710-b7a9-d64ddc007c46
     datum: 11.05.1917
@@ -20344,6 +20567,7 @@ lectures:
     jahr: "1917"
     ort: Hamburg
     vortragstitel: Gesellschaftsfragen
+    ga: 251
   - id: 19170602b
     uuid: cc60b46a-274a-505d-972b-5e19ae8be231
     datum: 02.06.1917
@@ -20356,6 +20580,7 @@ lectures:
     jahr: "1917"
     ort: Hamburg
     vortragstitel: Die seelische Entwicklung des einzelnen Menschen. Das Erleben des Geistigen in der nachatlantischen Zeit. Das Jüngerwerden der Menschheit
+    ga: 251
   - id: 19170603b
     uuid: b768f6d6-9366-5ed4-8ff4-7fd425cd3d90
     datum: 03.06.1917
@@ -20376,6 +20601,7 @@ lectures:
     ort: Berlin
     vortragstitel: Über Gesellschaftsfragen
     anlass: Nachwort nach dem Mitglieder-Vortrag
+    ga: 251
   - id: 19170605b
     uuid: 83a2fbec-805d-5c6b-b883-d0963ce99bc5
     datum: 05.06.1917
@@ -20391,6 +20617,7 @@ lectures:
     jahr: "1917"
     ort: Leipzig
     vortragstitel: Schwierigkeiten der Selbsterkenntnis. Die Entwicklung des Seelisch-Geistigen des Menschen in der nachatlantischen Zeit. Das Jüngerwerden der Menschheit. Über die Gegnerschaft
+    ga: 251
   - id: 19170611
     uuid: 70db3917-a1e0-55e6-950f-a2d31887b77b
     datum: 11.06.1917
@@ -20404,6 +20631,7 @@ lectures:
     jahr: "1917"
     ort: Hannover
     vortragstitel: Die tieferen Entwicklungsimpulse der Menschheit. Die Entwicklung des Geistig Seelischen im Menschen in der nach atlantischen Zeit
+    ga: 251
   - id: 19170613
     uuid: 1a92bd98-28b1-5761-8896-94e407d1f595
     datum: 13.06.1917
@@ -20424,6 +20652,7 @@ lectures:
     jahr: "1917"
     ort: Bremen
     vortragstitel: Das Wirken Schellings. Das Jüngerwerden der Menschheit in den verschiedenen Epochen der nachatlantischen Zeit. Gegner der Anthroposophie
+    ga: 251
   - id: 19170619
     uuid: 190b32f3-7bd8-5419-b24e-e2f7667ef158
     datum: 19.06.1917
@@ -21126,6 +21355,14 @@ lectures:
     ort: Nürnberg
     vortragstitel: Die Offenbarungen des Unbewußten im Seelenleben vom geisteswissenschaftlichen Standpunkt
     ga: 71b
+  - id: 19180213
+    uuid: f47867be-8283-4c60-a157-e8721b41b9fa
+    datum: 13.02.1918
+    jahr: "1918"
+    ort: Nürnberg
+    vortragstitel: Ansprache zur Eurythmie
+    anlass: "Die Trennung von Wissenschaft, Kunst und Religion. Kehlkopfbewegungen in der Eurythmie."
+    ga: 277a
   - id: 19180214
     uuid: 7bef03c8-7742-5d32-a5ae-944810ba506a
     datum: 14.02.1918
@@ -21453,6 +21690,7 @@ lectures:
     jahr: "1918"
     ort: Leipzig
     vortragstitel: Der Verkehr mit den Toten. Das Hereinwirken der Toten in die physische Welt. Kopf und Herz. Luziferische und ahrimanische Einflüsse in Vergangenheit und Gegenwart
+    ga: 251
   - id: 19180514
     uuid: fd47603f-e8fa-502d-b87f-d581be9b92d5
     datum: 14.05.1918
@@ -21490,6 +21728,7 @@ lectures:
     jahr: "1918"
     ort: Wien
     vortragstitel: Aphoristische Bemerkungen über die Beziehung der Anthroposophie zur Wissenschaft
+    ga: 251
   - id: 19180529
     uuid: d211f58c-9824-5557-9585-13e28c5212fa
     datum: 29.05.1918
@@ -21525,7 +21764,7 @@ lectures:
     ort: Tannbach b.Gutau
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19180612
     uuid: a46bef7a-e073-5d97-8b54-ddebc4898996
     datum: 12.06.1918
@@ -21564,6 +21803,7 @@ lectures:
     ort: Hamburg
     vortragstitel: Mitteleuropa zwischen West und Ost. Spiritueller Goetheanismus
     anlass: Schlußwort zum Vortrag von Frl. M. Scholl
+    ga: 246
   - id: 19180630b
     uuid: 545dfedc-d414-5637-89fa-3d069a293da6
     datum: 30.06.1918
@@ -21681,7 +21921,7 @@ lectures:
     ort: Dornach
     vortragstitel: "Goethes «Faust»: Prolog im Himmel. Die Erneuerung der alten Tempel-Tanzkunst durch die neue Raumbewegungskunst"
     anlass: Einleitende Worte zur Eurythmie-Aufführung. Besuch des holländischen Prinzgemahls
-    ga: 277
+    ga: 277,277b
   - id: 19180825b
     uuid: 600d77ce-ee04-5b98-a757-37e2e4f70035
     datum: 25.08.1918
@@ -21909,6 +22149,14 @@ lectures:
     ort: Zürich
     vortragstitel: Die Geschichte der Neuzeit im Lichte geistes wissenschaftlicher Forschung
     ga: 73
+  - id: 19181017a
+    uuid: b61af4c4-0318-4cbb-bec2-6633389a6481
+    datum: 17.10.1918
+    jahr: "1918"
+    ort: Zürich
+    vortragstitel: "Aus dem Vortrag Zürich, 17. Oktober 1918"
+    anlass: Auszug (GA 277b)
+    ga: 277b
   - id: 19181018
     uuid: 99291f12-e061-523b-9df4-58c499c3eb7b
     datum: 18.10.1918
@@ -22482,6 +22730,14 @@ lectures:
     reihe: Die soziale Frage
     anlass: Öffentlicher Vortrag
     ga: 336
+  - id: 19190207a
+    uuid: 6c2fa58b-9bfa-4404-af0f-c2136d0ca431
+    datum: 07.02.1919
+    jahr: "1919"
+    ort: Winterthur
+    vortragstitel: ""
+    anlass: Ansprache zur Eurythmie
+    ga: 277b
   - id: 19190208
     uuid: 11dd7e02-a961-5de2-8b9c-bbb004465aee
     datum: 08.02.1919
@@ -22575,7 +22831,7 @@ lectures:
     ort: Zürich
     vortragstitel: Was ist und will die neue Bewegungskunst?
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
-    ga: 277,277a
+    ga: 277,277a,277b
   - id: 19190225
     uuid: 7bfb2f42-4765-5dd8-a7c6-931ca7b9eb88
     datum: 25.02.1919
@@ -22801,7 +23057,7 @@ lectures:
     ort: Dornach
     vortragstitel: Über die neue Rezitationskunst
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19190405b
     uuid: 486fd511-44da-578d-beaf-3f1ff0aad0d2
     datum: 05.04.1919
@@ -22984,7 +23240,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: Die neue, dem Leben der Zukunft dienende Kunst
     anlass: Einleitende Worte zur Eurythmie- Aufführung. Eurythmie für die Angestellten und Arbeiter der Waldorf-Astoria Zigarettenfabrik.
-    ga: 277
+    ga: 277,277b
   - id: 19190508
     uuid: a24f052c-0fe4-538f-811b-c696fefcf48f
     datum: 08.05.1919
@@ -23046,6 +23302,14 @@ lectures:
     vortragstitel: Fragen zur Dreigliederung des sozialen Organismus
     anlass: Frageabend des Bundes für Dreigliederung des sozialen Organismus. Versammlung des Industrierates. Versammlung für bürgerliche Gesinnte
     ga: 337a
+  - id: 19190525a
+    uuid: c2c362d0-5d49-4045-8cdd-e276d00fadff
+    datum: 25.05.1919
+    jahr: "1919"
+    ort: Stuttgart
+    vortragstitel: ""
+    anlass: Ansprache zur Eurythmie
+    ga: 277b
   - id: 19190526
     uuid: 4fa31e85-f92b-5cb2-944b-bb6dca4c7fc7
     datum: 26.05.1919
@@ -23401,7 +23665,7 @@ lectures:
     ort: Dornach
     vortragstitel: Das Sichtbarwerden der Sprache durch den ganzen Menschen
     anlass: Einleitende Worte zur Eurythmie-Aufführung für Münchener Ferienkinder
-    ga: 277
+    ga: 277,277b
   - id: 19190811b
     uuid: 5e99c50c-180b-555e-b067-8542fd975af8
     datum: 11.08.1919
@@ -23423,7 +23687,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19190816b
     uuid: 3ac22ffd-4325-5ee8-b67d-000d458edddf
     datum: 16.08.1919
@@ -23438,7 +23702,7 @@ lectures:
     ort: Dornach
     vortragstitel: Goethesche Weltanschauung und Goethes Kunstgesinnung
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19190817b
     uuid: 0a5ecc89-810f-5960-be9e-956aa9019d35
     datum: 17.08.1919
@@ -23568,6 +23832,14 @@ lectures:
     vortragstitel: Pädagogisches Seminar, Besprechung
     anlass: Pädagogisches Seminar
     ga: 295
+  - id: 19190825d
+    uuid: 8d6cf736-4f26-4b0a-afaa-357140879442
+    datum: 25.08.1919
+    jahr: "1919"
+    ort: Stuttgart
+    vortragstitel: "Aus dem Vortrag Stuttgart, 25. August 1919"
+    anlass: Auszug (GA 277b)
+    ga: 277b
   - id: 19190826a
     uuid: 42b0f862-e7a5-5170-a378-8855523f3c19
     datum: 26.08.1919
@@ -23676,6 +23948,14 @@ lectures:
     vortragstitel: ""
     anlass: Pädagogisches Seminar
     ga: 280,295
+  - id: 19190829d
+    uuid: 4f5de43a-9fea-4f70-a15c-8a10d5c9f174
+    datum: 29.08.1919
+    jahr: "1919"
+    ort: Stuttgart
+    vortragstitel: "Aus der Seminarbesprechung Stuttgart, 29. August 1919"
+    anlass: Auszug (GA 277b)
+    ga: 277b
   - id: 19190830a
     uuid: a8e2199c-0104-5e26-8c90-35766b70e01f
     datum: 30.08.1919
@@ -23920,6 +24200,14 @@ lectures:
     vortragstitel: Die Notwendigkeit einer wirklich echten geistigen Vertiefung aus dem freien Erkennen heraus
     reihe: "Die Notwendigkeit neuer geistiger Erkenntnismethoden: eine Forderung der Gegenwart"
     ga: 192
+  - id: 19190908c
+    uuid: e686c41c-950f-4897-aebe-6b8bb3021d28
+    datum: 08.09.1919
+    jahr: "1919"
+    ort: Stuttgart
+    vortragstitel: "Aus der Lehrerkonferenz Stuttgart, 8. September 1919"
+    anlass: Auszug (GA 277b)
+    ga: 277b
   - id: 19190912
     uuid: bf7b56b9-7ad1-53d5-a746-b3b73488975a
     datum: 12.09.1919
@@ -23944,7 +24232,7 @@ lectures:
     ort: Berlin
     vortragstitel: Über das Wesen der Eurythmie
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19190914b
     uuid: 8be889cd-b80c-5a96-806d-7d546535bd29
     datum: 14.09.1919
@@ -23968,6 +24256,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19190918
     uuid: 0b338ad6-caec-5f95-9d06-040934c06250
     datum: 18.09.1919
@@ -24007,6 +24296,7 @@ lectures:
     ort: Dresden
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19190921b
     uuid: 52f5d094-d029-50ab-8ebf-5f19608d4c45
     datum: 21.09.1919
@@ -24125,6 +24415,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+    ga: 277b
   - id: 19191011b
     uuid: e3e3be22-9d9f-5cde-93af-0a454359ac0e
     datum: 11.10.1919
@@ -24146,6 +24437,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+    ga: 277b
   - id: 19191012c
     uuid: f5a36562-704d-51ab-ae59-c3be6a3e4958
     datum: 12.10.1919
@@ -24181,7 +24473,7 @@ lectures:
     ort: Dornach
     vortragstitel: Goethes Anschauung von der Idee
     anlass: Einleitende Worte zur öffentlichen Eurythmie- Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19191019b
     uuid: 5a68f5fe-90fa-5665-af5e-17b12be15ea9
     datum: 19.10.1919
@@ -24271,6 +24563,7 @@ lectures:
     ort: Zürich
     vortragstitel: ""
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+    ga: 277b
   - id: 19191101
     uuid: cc4ae8a3-9cea-574c-86cb-702cce16693e
     datum: 01.11.1919
@@ -24285,6 +24578,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+    ga: 277b
   - id: 19191102b
     uuid: 64d90a44-3a96-5a85-8437-18f24d36bb3e
     datum: 02.11.1919
@@ -24306,7 +24600,7 @@ lectures:
     ort: Bern
     vortragstitel: Zur Darstellung der Faust-Szenen
     anlass: Einleitende Worte zur öffentlichen Eurythmie- Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19191106
     uuid: 76f6f2cb-f2a5-594a-b48c-b689feeda383
     datum: 06.11.1919
@@ -24321,7 +24615,7 @@ lectures:
     ort: Dornach
     vortragstitel: Der Weg zu einer wirklichen Geisteskultur
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19191109
     uuid: 012c3d4f-ac7a-5925-9a06-c569043740a8
     datum: 09.11.1919
@@ -24357,6 +24651,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+    ga: 277b
   - id: 19191115b
     uuid: 9ec40fc4-8bd3-560f-8ccf-adf907271486
     datum: 15.11.1919
@@ -24371,7 +24666,7 @@ lectures:
     ort: Dornach
     vortragstitel: Über das Wesen der Rezitationskunst
     anlass: Einleitende Worte zur öffentlichen Eurythmie- Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19191116b
     uuid: 84677adc-90ae-5ef4-a07d-604f213726c5
     datum: 16.11.1919
@@ -24394,7 +24689,7 @@ lectures:
     ort: Dornach
     vortragstitel: Die Seelenkunde der goetheschen Weltanschauung
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19191122b
     uuid: 0b25f7cc-0af8-5010-b221-0764c6660397
     datum: 22.11.1919
@@ -24410,6 +24705,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur öffentlichen Eurythmie Aufführung
+    ga: 277b
   - id: 19191123b
     uuid: 7e549d8b-aae6-5726-8633-8d518be7b860
     datum: 23.11.1919
@@ -24455,6 +24751,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19191129b
     uuid: 737d7b41-c079-52e9-a1f1-9a42a003a04d
     datum: 29.11.1919
@@ -24470,6 +24767,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19191130b
     uuid: 848c7fe2-f1ba-5600-b848-fef6a1760c82
     datum: 30.11.1919
@@ -24527,7 +24825,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277a
+    ga: 277a,277b
   - id: 19191214b
     uuid: 93e36a46-a4cd-55cf-84da-89c26971472e
     datum: 14.12.1919
@@ -24542,6 +24840,14 @@ lectures:
     ort: Dornach
     vortragstitel: Die alten Mysterien des Lichtes, des Raumes und der Erde in ihrer Beziehung zum heutigen Geistes- , Rechts- und Wirtschaftsleben
     ga: 194
+  - id: 19191217
+    uuid: 722866ff-a167-4489-9cc3-cb5654d564d5
+    datum: 17.12.1919
+    jahr: "1919"
+    ort: Dornach
+    vortragstitel: Mitteilung vor dem Mitgliedervortrag
+    anlass: Mitteilung vor dem Mitgliedervortrag
+    ga: 255b
   - id: 19191219
     uuid: 9139998a-6287-5c7c-b5f2-ab39a97d2404
     datum: 19.12.1919
@@ -24781,13 +25087,21 @@ lectures:
     ort: Basel
     vortragstitel: Wege und Ziele der Geisteswissenschaft (Anthroposophie)
     ga: 334
-  - id: 19200106
+  - id: 19200106a
     uuid: 7deae5c5-f261-535a-ad53-b0d8c394bad9
     datum: 06.01.1920
     jahr: "1920"
     ort: Basel
     vortragstitel: Die geisteswissenschaftlichen Grundlagen der leiblichen und seelischen Gesundheit
     ga: 334
+  - id: 19200106b
+    uuid: 0cb24c20-6afe-4b85-8068-aeff440bf04a
+    datum: 06.01.1920
+    jahr: "1920"
+    ort: Stuttgart
+    vortragstitel: Richtigstellung in der Wochenschrift «Dreigliederung des sozialen Organismus»
+    anlass: Dokument (GA 255b)
+    ga: 255b
   - id: 19200107
     uuid: 8d77818c-c800-5a69-966e-718a2e1a9022
     datum: 07.01.1920
@@ -24845,7 +25159,7 @@ lectures:
     ort: Dornach
     vortragstitel: Natur-Impressionen
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19200117b
     uuid: 33e487bb-7b12-552c-96db-b3d5bf1b0241
     datum: 17.01.1920
@@ -24860,7 +25174,7 @@ lectures:
     ort: Dornach
     vortragstitel: Natur-Impressionen
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19200118b
     uuid: 5d3938bf-b8ce-5d7a-b4cb-e66bafde6e9d
     datum: 18.01.1920
@@ -24883,6 +25197,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200124b
     uuid: 9ba34b6e-0887-5bf9-8ccb-2c6255c83ff5
     datum: 24.01.1920
@@ -24898,7 +25213,7 @@ lectures:
     ort: Dornach
     vortragstitel: Eurythmie, das Zukunftselement unserer Kultur
     anlass: Einleitende Worte zur Eurythmie- Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19200125b
     uuid: ea193317-2237-5049-8970-fef397b65e34
     datum: 25.01.1920
@@ -24921,7 +25236,7 @@ lectures:
     ort: Dornach
     vortragstitel: Sylphen und Gnomen. Über den Charakter der eurythmischen Kunst
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19200131b
     uuid: c92dbd1e-b672-5439-8565-531f48f1de76
     datum: 31.01.1920
@@ -24936,6 +25251,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200201b
     uuid: 428d79c2-d2a2-5bf6-9297-a5245975b4cc
     datum: 01.02.1920
@@ -24957,6 +25273,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200207b
     uuid: 00b2c81c-407c-54d9-a146-fbac773a75f1
     datum: 07.02.1920
@@ -24971,6 +25288,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200208b
     uuid: 999e2741-d1b6-5e0a-be79-be215a100bb7
     datum: 08.02.1920
@@ -24985,7 +25303,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19200213
     uuid: a49a0c6a-8bb8-5e6b-957e-4719c6869f58
     datum: 13.02.1920
@@ -25000,7 +25318,7 @@ lectures:
     ort: Dornach
     vortragstitel: Die Suche nach dem neuen Quell des Künstlerischen
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19200214b
     uuid: 49e0281f-8918-55ad-8ed9-c6bc431f1a9c
     datum: 14.02.1920
@@ -25015,6 +25333,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200215b
     uuid: c327e707-5e23-54ab-9e07-3f8e1c5e15d3
     datum: 15.02.1920
@@ -25029,7 +25348,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19200220
     uuid: f2a766a6-f574-5a18-9927-a492e6589cdc
     datum: 20.02.1920
@@ -25044,6 +25363,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200221b
     uuid: 02bfc2d4-7a85-52c3-b8b2-00859a6944d5
     datum: 21.02.1920
@@ -25058,6 +25378,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200222b
     uuid: ba229130-dbda-50a1-982f-cb6405a08bea
     datum: 22.02.1920
@@ -25615,7 +25936,7 @@ lectures:
     ort: Dornach
     vortragstitel: Das sinnlich-übersinnnliche in der Kunst
     anlass: Einleitende Worte zur Eurythmie- Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19200404c
     uuid: 03bf3b78-df7b-5ea5-87d3-039598eac8e8
     datum: 04.04.1920
@@ -25639,6 +25960,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200405c
     uuid: 4827b0a2-24c3-5f05-b621-ddb5a769c644
     datum: 05.04.1920
@@ -25712,6 +26034,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200410b
     uuid: 5dd960e1-2e35-505c-8c6c-434176a08920
     datum: 10.04.1920
@@ -25727,7 +26050,7 @@ lectures:
     ort: Dornach
     vortragstitel: Die Quelle des künstlerischen Wirkens in der menschlichen Natur
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19200411b
     uuid: 1848664f-fc9a-5abb-8d62-d3ca25ef1c24
     datum: 11.04.1920
@@ -25751,7 +26074,7 @@ lectures:
     ort: Dornach
     vortragstitel: Über Goethes Prosahymus "Die Natur"
     anlass: Einleitende Worte zur Eurythmie- Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19200417b
     uuid: 32753a13-a0a4-5d54-8b71-239fead7d5f2
     datum: 17.04.1920
@@ -25776,6 +26099,14 @@ lectures:
     vortragstitel: Gesamtgestalt, innere Säftebewegung, Organwirkung und eigentlicher Stoffwechsel des Menschen; Tierkreis, Planeten, Elemente und Erde. Erd- und Sonnenbewegung. Kosmische Evolution. Stoffwechsel. Organkräfte. Sonnen-, Erd- und Planetenbewegungen. Platonisches Jahr. Menschliche Freiheit
     reihe: Kosmologische Betrachtungen
     ga: 201
+  - id: 19200418c
+    uuid: 7a58d6c5-2319-4ab3-a752-024e691f41df
+    datum: 18.04.1920
+    jahr: "1920"
+    ort: Dornach
+    vortragstitel: ""
+    anlass: Ansprache zur Eurythmie
+    ga: 277b
   - id: 19200420
     uuid: cf652698-92c5-5cf9-a8be-38819907da30
     datum: 20.04.1920
@@ -25823,7 +26154,7 @@ lectures:
     ort: Dornach
     vortragstitel: Zur Inszenierung der Arielszene aus Goethes "Faust" II
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19200424b
     uuid: 2a5c3b74-5712-5060-b8c1-01f2f50460a4
     datum: 24.04.1920
@@ -25877,6 +26208,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung für die Besucher der «Schweizer Mustermesse»
+    ga: 277b
   - id: 19200428
     uuid: 3beb1144-0c0b-5886-b5d3-39f160bfa6e0
     datum: 28.04.1920
@@ -25900,6 +26232,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200501b
     uuid: 9adeafd2-0b95-59b5-9c31-18d02c23c085
     datum: 01.05.1920
@@ -25915,7 +26248,7 @@ lectures:
     ort: Dornach
     vortragstitel: Wie sollte Eurythmie aufgenommen werden?
     anlass: Einleitende Worte zur Eurythmie- Aufführung
-    ga: 277
+    ga: 277,277b
   - id: 19200502b
     uuid: 645089c5-f8b4-548f-9b80-c6e15e9bc51a
     datum: 02.05.1920
@@ -25992,6 +26325,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200508b
     uuid: 4e60ff5c-8016-5953-b77d-294f62088491
     datum: 08.05.1920
@@ -26007,7 +26341,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277a
+    ga: 277a,277b
   - id: 19200509b
     uuid: c4ad8837-e402-51d1-a3a0-2a1f5efde1c8
     datum: 09.05.1920
@@ -26069,7 +26403,7 @@ lectures:
     ort: Dornach
     vortragstitel: Die drei Gesichtspunkte der Eurythmie
     anlass: Einleitende Worte zur Eurythmie- Aufführung
-    ga: 277,301
+    ga: 277,301,277b
   - id: 19200515b
     uuid: e40afddb-33ae-5dcf-9af2-4319ada4e2a8
     datum: 15.05.1920
@@ -26085,7 +26419,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 301
+    ga: 301,277b
   - id: 19200516b
     uuid: 274a2814-ddc4-5c89-8fd3-419b918f44c3
     datum: 16.05.1920
@@ -26117,6 +26451,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200523b
     uuid: 63b44fe9-c8ef-5c00-a605-9747995225ed
     datum: 23.05.1920
@@ -26148,6 +26483,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung für den Evangelischen Lehrerverein von Baselland und Baselstadt
+    ga: 277b
   - id: 19200530
     uuid: b151e599-58e6-5d54-b938-04a845b10ae4
     datum: 30.05.1920
@@ -26357,6 +26693,14 @@ lectures:
     ort: Dornach
     vortragstitel: Das alte Mysterienwesen und das Mysterium von Golgatha. Anthroposophie als Christologie
     ga: 198
+  - id: 19200711a
+    uuid: ab231fe6-826e-4627-8926-7d9aa41a0c49
+    datum: 11.07.1920
+    jahr: "1920"
+    ort: Dornach
+    vortragstitel: ""
+    anlass: Ansprache zur Eurythmie
+    ga: 277b
   - id: 19200714
     uuid: baef13ca-8e8e-5e5c-bed7-40a30fec6e1b
     datum: 14.07.1920
@@ -26379,6 +26723,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200717b
     uuid: 1d87d339-feea-5974-a6de-1dbe503d0367
     datum: 17.07.1920
@@ -26393,6 +26738,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200718b
     uuid: 183874cf-225d-599e-98f0-6aa40a2552b5
     datum: 18.07.1920
@@ -26501,6 +26847,14 @@ lectures:
     vortragstitel: Ansprache bei der Übergabe der Leitung des Bundes für Dreigliederung des sozialen Organismus an Walther Kühne vor sämtlichen Mitarbeitern des Hauses Champignystrasse
     anlass: Übergabe der Leitung des Bundes für Dreigliederung des sozialen Organismus an Walther Kühne
     ga: 332b
+  - id: 19200803
+    uuid: c7e7568c-0ce8-4cc3-8c82-5826804dd241
+    datum: 03.08.1920
+    jahr: "1920"
+    ort: Stuttgart
+    vortragstitel: Richtigstellung in der Wochenschrift «Dreigliederung des Sozialen Organismus»
+    anlass: Dokument (GA 255b)
+    ga: 255b
   - id: 19200806
     uuid: e500b620-330d-5c18-85ad-615347da8613
     datum: 06.08.1920
@@ -26523,6 +26877,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200808b
     uuid: 6b333fb3-ae08-55e4-9ed7-53aed364ab8f
     datum: 08.08.1920
@@ -26552,6 +26907,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200815b
     uuid: 4da496df-46ef-5349-8417-d7226e039c0d
     datum: 15.08.1920
@@ -26595,6 +26951,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200822b
     uuid: 179920d3-21ee-5d87-8583-84c337236923
     datum: 22.08.1920
@@ -26631,6 +26988,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200829b
     uuid: af7cf811-95da-5e0f-83d5-1cdcc4ab20fb
     datum: 29.08.1920
@@ -26674,6 +27032,14 @@ lectures:
     ort: Dornach
     vortragstitel: Der Zusammenhang der Wesensglieder des Menschen mit den drei Naturreichen und den drei Gebieten des sozialen Organismus. Die Notwendigkeit der Dreigliederung. Die Neugestaltung des sozialen Organismus aus dem Wesen des Menschen.
     ga: 199,255b
+  - id: 19200905a
+    uuid: 9ab12d6d-0d98-42d3-adbf-3bfade31f6ab
+    datum: 05.09.1920
+    jahr: "1920"
+    ort: Dornach
+    vortragstitel: ""
+    anlass: Ansprache zur Eurythmie
+    ga: 277b
   - id: 19200906
     uuid: 68f18cfe-15c7-5589-8a99-2b83a0a8acff
     datum: 06.09.1920
@@ -26711,6 +27077,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277b
   - id: 19200912b
     uuid: 589c5995-7442-5f3f-8443-14ae94442009
     datum: 12.09.1920
@@ -26798,6 +27165,14 @@ lectures:
     ort: Stuttgart
     vortragstitel: Die Trennung von Wissen und Glauben. Die Entwicklung vom alten Götterwissen zur irdisch- menschlichen Wissenschaft. Die übersinnliche Erkenntnis der Geisteswissenschaft
     ga: 197
+  - id: 19200921d
+    uuid: 1e05668b-be8f-4573-9995-86394d37812d
+    datum: 21.09.1920
+    jahr: "1920"
+    ort: Stuttgart
+    vortragstitel: "Stuttgart, aus dem Vortrag vom 21. September 1920"
+    anlass: Auszug (GA 277b)
+    ga: 277b
   - id: 19200922a
     uuid: c1ba4a74-df62-5b84-9b0d-60d954b29070
     datum: 22.09.1920
@@ -26821,6 +27196,7 @@ lectures:
     jahr: "1920"
     ort: Dornach
     vortragstitel: Zusammenkunft zur Vorbereitung der anthroposophischen Hochschulkurse
+    ga: 250
   - id: 19200926a
     uuid: ed38b40f-cce0-5af9-bd70-3644d7d78223
     datum: 26.09.1920
@@ -26967,6 +27343,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19201002d
     uuid: 0d033b27-cab4-52e7-a2d9-eb89f987c9a9
     datum: 02.10.1920
@@ -26981,7 +27358,7 @@ lectures:
     ort: Dornach
     vortragstitel: Das musikalische, bildhafte, plastische in der dichterischen Gestaltung
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19201003b
     uuid: 90e0f881-1683-5bb7-bb39-491700c5b584
     datum: 03.10.1920
@@ -26996,7 +27373,7 @@ lectures:
     ort: Dornach
     vortragstitel: Konversation über Geisteswissenschaft. Sprachstörungen und ihre Heilung. Eurythmie. Die Zukunft des deutschen Volkes. Therapeutische Eurythmie
     anlass: Erster anthroposophischer Hochschulkurs
-    ga: 73a,277,280
+    ga: 73a,277,280,277c
   - id: 19201005
     uuid: 99e94bbd-fbc8-5d36-874d-c7e84ee98d9d
     datum: 05.10.1920
@@ -27086,6 +27463,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19201009d
     uuid: 5293837e-44da-558d-ac01-c151ab2915a3
     datum: 09.10.1920
@@ -27110,6 +27488,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19201010c
     uuid: 4bebdd82-9896-5a75-85c7-d3d4fc9d7c0b
     datum: 10.10.1920
@@ -27208,7 +27587,7 @@ lectures:
     ort: Dornach
     vortragstitel: Zur Aufführung der Satire "Das Lied von der Initiation"
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19201016e
     uuid: 8dd81fe8-6040-564f-8bff-95cb97bba287
     datum: 16.10.1920
@@ -27223,7 +27602,7 @@ lectures:
     ort: Dornach
     vortragstitel: Die Formensprache in der Eurythmie und in den übrigen Künsten
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19201017b
     uuid: 053b50b3-8c04-511c-8d3e-d8f51a0156a1
     datum: 17.10.1920
@@ -27245,6 +27624,14 @@ lectures:
     ort: Dornach
     vortragstitel: Gedenkwort für Karoline Wilhelm / Die Entwicklung der heutigen Zivilisation aus dem niedergehenden Römertum in drei Strömungen. Der Mensch der Mitte zwischen West und Ost
     ga: 200,261
+  - id: 19201023a
+    uuid: 6169f976-d338-4d89-9d5c-03f336115885
+    datum: 23.10.1920
+    jahr: "1920"
+    ort: Dornach
+    vortragstitel: ""
+    anlass: Ansprache zur Eurythmie
+    ga: 277c
   - id: 19201024
     uuid: 2dfb5e98-d6bc-562c-be75-a442456212ad
     datum: 24.10.1920
@@ -27252,6 +27639,14 @@ lectures:
     ort: Dornach
     vortragstitel: Schillers «Ästhetische Briefe» und Goethes «Märchen» in ihrer Beziehung zu Anthroposophie und Dreigliederung
     ga: 200
+  - id: 19201024a
+    uuid: 248c7822-0937-4d9d-8bf1-ee7c3a38be86
+    datum: 24.10.1920
+    jahr: "1920"
+    ort: Dornach
+    vortragstitel: ""
+    anlass: Ansprache zur Eurythmie
+    ga: 277c
   - id: 19201025
     uuid: da21a439-13ee-5995-ade7-870eb58c235e
     datum: 25.10.1920
@@ -27280,7 +27675,7 @@ lectures:
     ort: Dornach
     vortragstitel: Bilderschrift - Schrift - Eurythmie
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19201030b
     uuid: df76f47f-7e2a-5d28-9baa-5825c450e4b8
     datum: 30.10.1920
@@ -27295,6 +27690,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19201031b
     uuid: 303be9f1-17e4-5664-81eb-34a6802f4503
     datum: 31.10.1920
@@ -27381,7 +27777,7 @@ lectures:
     ort: Freiburg i. Br.
     vortragstitel: Eurythmie als beseeltes Turnen
     anlass: Einleitende Worte zur öffentlichen Eurythmie- Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19201121
     uuid: 37b9c6e9-958b-56ef-8625-6761d298cb1e
     datum: 21.11.1920
@@ -27466,6 +27862,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+    ga: 277c
   - id: 19201205b
     uuid: 79ad14d6-e6d6-5237-9987-175c99a36b2e
     datum: 05.12.1920
@@ -27494,7 +27891,7 @@ lectures:
     ort: Dornach
     vortragstitel: Vor- und Nachtakte. Dramatische Eurythmie
     anlass: Einleitende Worte zur Eurythmie- Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19201212b
     uuid: 87924ffe-1757-5d8a-bd6c-7035f23c3a34
     datum: 12.12.1920
@@ -27625,6 +28022,7 @@ lectures:
     jahr: "1920"
     ort: Olten
     vortragstitel: Einleitende Worte zur öffentlichen eurythmischen Vorführung (hauptsächlich Kindereurythmie)
+    ga: 277c
   - id: 19201229b
     uuid: c8da816a-529e-5d60-9c17-64c63956a05b
     datum: 29.12.1920
@@ -27973,6 +28371,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19210130b
     uuid: 6b1337ba-0212-5f53-8949-5d204f984532
     datum: 30.01.1921
@@ -28009,6 +28408,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19210206b
     uuid: cfdeb11c-861b-5762-980f-a473a0bb0441
     datum: 06.02.1921
@@ -28136,7 +28536,7 @@ lectures:
     ort: Hilversum
     vortragstitel: Ansprache
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
-    ga: 80c
+    ga: 80c,277c
   - id: 19210220b
     uuid: fe8bc25e-4ee9-59e9-afeb-694bbae5bcb4
     datum: 20.02.1921
@@ -28194,7 +28594,7 @@ lectures:
     ort: Haag
     vortragstitel: Eurythmie und physiognomischer Ausdruck
     anlass: Einleitende Worte zur Eurythmie- Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19210227c
     uuid: 5c53bad8-9fa7-5802-adb4-43a1f678e33d
     datum: 27.02.1921
@@ -28231,12 +28631,20 @@ lectures:
     ort: Rotterdam
     vortragstitel: Die anthroposophische Geisteswissenschaft und die großen Zivilisationsfragen der Gegenwart (Rotterdam)
     ga: 80c
-  - id: 19210303
+  - id: 19210303a
     uuid: b1878d89-d378-54b4-9242-a39ce55d4a60
     datum: 03.03.1921
     jahr: "1921"
     ort: Hengelo (Holland)
     vortragstitel: Erziehungs-, Unterrichts- und praktische Lebensfragen vom Gesichtspunkte der anthroposophischen Geisteswissenschaft
+  - id: 19210303b
+    uuid: 6844c459-013a-4f8a-bf57-123d40e40bf4
+    datum: 03.03.1921
+    jahr: "1921"
+    ort: Den Haag
+    vortragstitel: Interview
+    anlass: "Interview (GA 244, Anhang). Textgrundlage: Vreede-Archiv, Den Haag (Fragenbeantwortungen, Schrank 1), RSA 1A."
+    ga: 244
   - id: 19210311
     uuid: 4e7aadac-50eb-5c9f-9367-1779d26cab10
     datum: 11.03.1921
@@ -28363,6 +28771,14 @@ lectures:
     reihe: Mathematik, wissenschaftliches Experiment, Beobachtung und Erkenntnisergebnis vom Gesichtspunkt der Anthroposophie
     anlass: Kursus im Rahmen der Freien anthroposophischen Hochschulkurse
     ga: 324
+  - id: 19210323d
+    uuid: 65abb9e5-a939-4f1e-9d4a-08f0940f2876
+    datum: 23.03.1921
+    jahr: "1921"
+    ort: Stuttgart
+    vortragstitel: Fragebeantwortung
+    anlass: Mündliche Fragenbeantwortung (GA 244, Anhang). Im Rahmen der Freien anthroposophischen Hochschulkurse 13.–23. März 1921 in Stuttgart.
+    ga: 244
   - id: 19210327a
     uuid: eb325eb1-0ea3-51b1-84c9-4830cfb3bfbc
     datum: 27.03.1921
@@ -28419,8 +28835,9 @@ lectures:
     datum: 03.04.1921
     jahr: "1921"
     ort: Dornach
-    vortragstitel: ""
+    vortragstitel: Über die Humoresken von Christian Morgenstern
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277,277c
   - id: 19210403c
     uuid: 26b89107-4d51-56a7-8814-5930410ea780
     datum: 03.04.1921
@@ -28542,7 +28959,7 @@ lectures:
     ort: Dornach
     vortragstitel: Urrythmus, Urgesang und Arrhythmus in ihrem Verhältnis zur Eurythmie
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19210409d
     uuid: 6724c569-f10f-571f-933e-dc3b4920900f
     datum: 09.04.1921
@@ -28567,6 +28984,14 @@ lectures:
     vortragstitel: Aphoristisches über Schauspielkunst
     anlass: Beantwortung von Fragen über Schauspielkunst
     ga: 282
+  - id: 19210410c
+    uuid: 2716ea70-3b4d-4008-99b8-7f5350a5a3b9
+    datum: 10.04.1921
+    jahr: "1921"
+    ort: Dornach
+    vortragstitel: Fragenbeantwortung zu Bühnenkunst und Schauspielkunst
+    anlass: "Notizzettel-Fragenbeantwortung im Anschluss an den Zweiten anthroposophischen Hochschulkurs (GA 76). Themen: Bühnenkunst, Aufführung von Dramen. Textgrundlage: RSA NZ 5629."
+    ga: 244
   - id: 19210411
     uuid: 9066c17c-16f9-53e3-a955-6c89e52705e0
     datum: 11.04.1921
@@ -28698,6 +29123,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19210417d
     uuid: 3e4af2e0-4e13-51ae-b926-c29320b352c7
     datum: 17.04.1921
@@ -28749,6 +29175,14 @@ lectures:
     ort: Dornach
     vortragstitel: Das vierte Jahrhundert als Einschnitt in der Menschheitsentwicklung. Hinschwinden des alten Urwissens. Zunehmende Ausbildung des Intellektes
     ga: 204
+  - id: 19210424a
+    uuid: c8c7adf9-b65f-444b-ac84-dee575ac0f50
+    datum: 24.04.1921
+    jahr: "1921"
+    ort: Dornach
+    vortragstitel: ""
+    anlass: Ansprache zur Eurythmie
+    ga: 277c
   - id: 19210429
     uuid: 941b2559-3279-5c5e-9158-fc5979e2ac3c
     datum: 29.04.1921
@@ -28770,6 +29204,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19210501b
     uuid: 59d9e004-9d9a-548a-90cf-e61fa1857cc6
     datum: 01.05.1921
@@ -28784,7 +29219,7 @@ lectures:
     ort: Dornach
     vortragstitel: Philia, Astrid und Luna. Eurythmie als dramatisches Ausdrucksmittel
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19210505b
     uuid: 77043e05-0ee2-5854-b357-6e3d094ec247
     datum: 05.05.1921
@@ -28815,6 +29250,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19210508b
     uuid: 9b93717f-42a6-577e-9aff-a8affec38482
     datum: 08.05.1921
@@ -28852,6 +29288,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19210516b
     uuid: ad088c53-9468-5f9d-bc05-79da42e0c42b
     datum: 16.05.1921
@@ -28979,6 +29416,7 @@ lectures:
     ort: Stuttgart-Cannstatt
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19210612c
     uuid: ab0098f1-66fa-5dfd-b1bd-efa8eea0f8e4
     datum: 12.06.1921
@@ -29032,6 +29470,14 @@ lectures:
     vortragstitel: Vortrag 4
     reihe: Erster Theologen-Kurs
     ga: 265,342
+  - id: 19210614d
+    uuid: e6ce04f2-7799-4138-bbf3-34e6d9d2664d
+    datum: 14.06.1921
+    jahr: "1921"
+    ort: Stuttgart
+    vortragstitel: "Aus dem Vortrag Stuttgart, 14. Juni 1921"
+    anlass: Auszug (GA 277c)
+    ga: 277c
   - id: 19210615a
     uuid: 3b200c73-a541-5809-b1ac-2e147fcc03e5
     datum: 15.06.1921
@@ -29050,6 +29496,14 @@ lectures:
     reihe: Erster Theologen-Kurs
     anlass: Vorträge bei der Begründung der Christengemeinschaft
     ga: 342
+  - id: 19210615c
+    uuid: e6e527cf-98d0-4156-afdd-e11de1db9ad4
+    datum: 15.06.1921
+    jahr: "1921"
+    ort: Stuttgart
+    vortragstitel: "Aus dem Vortrag Stuttgart, 15. Juni 1921"
+    anlass: Auszug (GA 277c)
+    ga: 277c
   - id: 19210616a
     uuid: 6a92ebd9-bb33-5fcc-bd61-274e77fbeb33
     datum: 16.06.1921
@@ -29235,6 +29689,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19210703b
     uuid: 29d45489-14df-5b26-a15b-ce82f9d03b8b
     datum: 03.07.1921
@@ -29261,8 +29716,9 @@ lectures:
     datum: 10.07.1921
     jahr: "1921"
     ort: Dornach
-    vortragstitel: ""
+    vortragstitel: Die Erweiterung des Dichterischen und Musikalischen durch Eurythmie
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277,277c
   - id: 19210710b
     uuid: 67a08c38-1bb7-5c5b-99df-220f6204332f
     datum: 10.07.1921
@@ -29297,6 +29753,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19210717b
     uuid: 2f4ea1f6-5379-5f63-bda1-4b4a71fb349b
     datum: 17.07.1921
@@ -29331,6 +29788,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19210724b
     uuid: 0ea3ccca-d037-5fd7-b42c-84cda0e39fc4
     datum: 24.07.1921
@@ -29438,6 +29896,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+    ga: 277c
   - id: 19210807b
     uuid: 017570ec-9430-5bd2-a269-0392dac2f978
     datum: 07.08.1921
@@ -29474,7 +29933,7 @@ lectures:
     ort: Dornach
     vortragstitel: Tanz, Pantomime und die Eurythmie
     anlass: Einleitende Worte zur öffentlichen Eurythmie- Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19210814b
     uuid: f4001453-44c0-5ee4-97e6-0ea841a4f276
     datum: 14.08.1921
@@ -29523,7 +29982,7 @@ lectures:
     ort: Dornach
     vortragstitel: Eurythmie in Erziehung und Unterricht
     anlass: Einleitende Worte für die Eurythmie, Kinder- Eurythmie. Sommerkurs, Summer Art Course vom 21. bis zum 27. August
-    ga: 77b,277
+    ga: 77b,277,277c
   - id: 19210822b
     uuid: af956e8d-7ea2-5788-8b37-679803b62749
     datum: 22.08.1921
@@ -29554,7 +30013,7 @@ lectures:
     ort: Dornach
     vortragstitel: Eurythmie als freie Kunst
     anlass: Einleitende Worte zur Eurythmie-Aufführung. Sommerkurs, Summer Art Course vom 21. bis zum 27. August
-    ga: 77b,277
+    ga: 77b,277,277c
   - id: 19210825
     uuid: 3f07720c-5790-5df9-8d2c-1880fe471818
     datum: 25.08.1921
@@ -29577,7 +30036,7 @@ lectures:
     datum: 26.08.1921
     jahr: "1921"
     ort: Dornach
-    vortragstitel: ""
+    vortragstitel: "Fragenbeantwortung"
     anlass: Sommerkurs, Summer Art Course vom 21. bis zum 27. August
     ga: 77b,324a
   - id: 19210826c
@@ -29587,7 +30046,7 @@ lectures:
     ort: Dornach
     vortragstitel: Eurythmie in der dramatischen Bühnenkunst
     anlass: Einleitende Worte zur Eurythmie- Aufführung mit Szenen aus den Mysteriendramen. Sommerkurs, Summer Art Course vom 21. bis zum 27. August
-    ga: 77b,277
+    ga: 77b,277,277c
   - id: 19210827
     uuid: 6e5fde8f-9258-5cbd-b072-f25c1caaba47
     datum: 27.08.1921
@@ -29739,14 +30198,12 @@ lectures:
     jahr: "1921"
     ort: Stuttgart
     vortragstitel: Sitzung mit dem Aufsichtsrat der Kommenden Tag AG
-    ga: 255a
   - id: 19210921b
     uuid: 56aee81a-675f-590b-bdc7-244868a0f74e
     datum: 21.09.1921
     jahr: "1921"
     ort: Stuttgart
     vortragstitel: Sitzung mit dem Aufsichtsrat der Kommenden Tag AG
-    ga: 255a
   - id: 19210922
     uuid: d55fae72-49fd-5d0f-8544-55fd76bb3b46
     datum: 22.09.1921
@@ -29783,7 +30240,7 @@ lectures:
     ort: Dornach
     vortragstitel: Die Aufgaben der Anthroposophischen Gesellschaft
     anlass: Bericht über den Stuttgarter Kongreß
-    ga: 255
+    ga: 251
   - id: 19210926a
     uuid: c035e77a-b0b4-5ad8-90fa-dfb88ae33c19
     datum: 26.09.1921
@@ -29982,6 +30439,14 @@ lectures:
     reihe: Zweiter Theologen-Kurs
     anlass: Vorträge bei der Begründung der Christengemeinschaft
     ga: 343
+  - id: 19211005c
+    uuid: 396cfb5c-f2d3-4e71-b4c3-2f88cf002bf2
+    datum: 05.10.1921
+    jahr: "1921"
+    ort: Paris
+    vortragstitel: "Une lueur sur les origines de la guerre. Ein Interview über die unveröffentlichten Memoiren von Moltke"
+    anlass: "Interview Jules Sauerwein («Le Matin» / «Le Marin», 5. Oktober 1921). Textgrundlage: RSA Standort-Nr. 076/2."
+    ga: 244
   - id: 19211006a
     uuid: aa40d1a6-dc08-5553-aeac-0a988f259951
     datum: 06.10.1921
@@ -30101,7 +30566,7 @@ lectures:
     vortragstitel: ""
     anlass: Kursus zur Orientierung über die anthroposophische und Dreigliederungsarbeit in der Schweiz
     ga: 339
-  - id: 19211012
+  - id: 19211012a
     uuid: 82dc684d-fbe4-5ecc-934d-37e615b1a209
     datum: 12.10.1921
     jahr: "1921"
@@ -30109,6 +30574,14 @@ lectures:
     vortragstitel: ""
     anlass: Kursus zur Orientierung über die anthroposophische und Dreigliederungsarbeit in der Schweiz
     ga: 339,280
+  - id: 19211012b
+    uuid: 8a225d4a-76d3-4d49-b4b3-b9965af234eb
+    datum: 12.10.1921
+    jahr: "1921"
+    ort: Stuttgart
+    vortragstitel: Neue Tatsachen über die Vorgeschichte des Weltkrieges
+    anlass: "Deutsche Fassung des Interviews Jules Sauerwein über Moltkes Memoiren («Dreigliederung des sozialen Organismus», 12. Oktober 1921). Siehe auch Paris, 5. Oktober 1921."
+    ga: 244
   - id: 19211013
     uuid: 088ab9e8-c7da-5ecc-9c29-844ac909dc15
     datum: 13.10.1921
@@ -30162,6 +30635,14 @@ lectures:
     ort: Dornach
     vortragstitel: Notwendigkeit und Freiheit im Leben nach dem Tode. Das Mysterium von Golgatha als die Mitte der Erdentwicklung
     ga: 207
+  - id: 19211016c
+    uuid: 18e4bf10-7af9-4c8f-840d-371a0bd88260
+    datum: 16.10.1921
+    jahr: "1921"
+    ort: Dornach
+    vortragstitel: ""
+    anlass: Ansprache zur Eurythmie
+    ga: 277c
   - id: 19211021
     uuid: 237fc0d2-86b3-54b5-af7a-1824580564da
     datum: 21.10.1921
@@ -30183,6 +30664,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+    ga: 277c
   - id: 19211023b
     uuid: 18053e3d-1493-5f83-9ad6-f4a4b17510ee
     datum: 23.10.1921
@@ -30211,7 +30693,7 @@ lectures:
     ort: Dornach
     vortragstitel: Das Entstehen der Eurythmischen Gebärde. Über die dramatischen dramatischen Vorgänge im vierten Bidl von "Der Seele Erwachen"
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19211030b
     uuid: ee9bb44f-91dd-516a-a0b5-a16cabd6fcbd
     datum: 30.10.1921
@@ -30247,6 +30729,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+    ga: 277c
   - id: 19211106b
     uuid: f2d1f746-4bc1-5dac-bc45-a2f304e582cf
     datum: 06.11.1921
@@ -30275,6 +30758,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+    ga: 277c
   - id: 19211113b
     uuid: 94dca3c4-359b-5bbc-970e-84ff1faef5ac
     datum: 13.11.1921
@@ -30298,7 +30782,7 @@ lectures:
     vortragstitel: Anthroposophie und Wissenschaft
     anlass: Konzertagentur Wolff & Sachs
     ga: 80a
-  - id: 19211123
+  - id: 19211123a
     uuid: c06c2cba-8bb6-5a9f-9085-38fc05ba9b06
     datum: 23.11.1921
     jahr: "1921"
@@ -30306,6 +30790,30 @@ lectures:
     vortragstitel: Erziehungs- und Unterrichtsmethoden auf anthroposophischer Grundlage
     anlass: Vortrag für die «Pädagogische Vereinigung»
     ga: 304
+  - id: 19211123b
+    uuid: 5d061360-d44d-4a58-9868-f8304dd4c8ea
+    datum: 23.11.1921
+    jahr: "1921"
+    ort: Kristiania (Oslo)
+    vortragstitel: Als Doktor Steiner kam. Ein paar Worte mit dem berühmten Mann
+    anlass: "Interview («Tidens Tegn», 23. November 1921). Textgrundlage: «Da doktor Steiner kom. Et par ord med den beromte mand». Kopie, RSA Standort-Nr. 140/2."
+    ga: 244
+  - id: 19211123c
+    uuid: 6174501a-69a8-4b0d-b11b-163bc9994747
+    datum: 23.11.1921
+    jahr: "1921"
+    ort: Kristiania (Oslo)
+    vortragstitel: Dr. Rudolf Steiner in Kristiania. Der berühmte Geistesforscher spricht mit «Aftenposten»
+    anlass: "Interview («Aftenposten», 23. November 1921). Themen: Anthroposophie, Eurythmie, v. Moltkes Memoiren. Kopie, RSA Standort-Nr. 176/2."
+    ga: 244
+  - id: 19211123d
+    uuid: 267dc8ff-d4f6-4e93-a64a-64ccc733a3ed
+    datum: 23.11.1921
+    jahr: "1921"
+    ort: Kristiania (Oslo)
+    vortragstitel: Dr. Rudolf Steiner und Frau kamen gestern nach Kristiania. Ein Gespräch über Geisteswissenschaft und Realpolitik
+    anlass: "Interview («Verdens Gang», 23. November 1921). Kopie, RSA Standort-Nr. 176/2."
+    ga: 244
   - id: 19211124a
     uuid: c5e216d1-9093-57fb-9adc-32a881e46378
     datum: 24.11.1921
@@ -30321,6 +30829,14 @@ lectures:
     ort: Kristiania (Oslo)
     vortragstitel: Der Zusammenhang des Menschen mit dem Kosmos. Betrachtung der Form und der Lebensstufen des Menschen
     ga: 209
+  - id: 19211124c
+    uuid: 74611d00-c2ac-4d78-858b-35b4b3dbf3c7
+    datum: 24.11.1921
+    jahr: "1921"
+    ort: Kristiania (Oslo)
+    vortragstitel: "Aus dem Vortrag Kristiania, 24. November 1921"
+    anlass: Auszug (GA 277c)
+    ga: 277c
   - id: 19211125
     uuid: 695e440f-8a49-54a5-8d25-7f83575e724e
     datum: 25.11.1921
@@ -30343,7 +30859,7 @@ lectures:
     ort: Kristiania (Oslo)
     vortragstitel: ""
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19211127b
     uuid: 3cc30cb0-a8f9-5bcf-a069-45540bd600ab
     datum: 27.11.1921
@@ -30402,6 +30918,7 @@ lectures:
     ort: Kristiania (Oslo)
     vortragstitel: ""
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+    ga: 277c
   - id: 19211204
     uuid: 89705fde-8faf-57c7-9a33-f1ca90a8441e
     datum: 04.12.1921
@@ -30416,6 +30933,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19211207b
     uuid: d403031d-b56b-5963-92e3-3cec24487f41
     datum: 07.12.1921
@@ -30423,6 +30941,14 @@ lectures:
     ort: Berlin
     vortragstitel: Intellektualismus, Agnostizismus und Materialismus. Ihre Überwindung durch die Geisteswissenschaft. Zum Materlialismus der religiösen Bekenntnisse der Gegenwart.
     ga: 209
+  - id: 19211209
+    uuid: 0119a9bd-bb02-4dc8-889c-8ec7b5d3b86f
+    datum: 09.12.1921
+    jahr: "1921"
+    ort: Kristiania (Oslo)
+    vortragstitel: Bei Dr. Rudolf Steiner
+    anlass: "Interview («Norges Gymnasiaster», 9. Dezember 1921). Themen: Schulreform, Waldorfschule. Kopie, RSA Standort-Nr. 176/2."
+    ga: 244
   - id: 19211211
     uuid: 28faeb6c-9422-5273-9a22-e25ad3142fe8
     datum: 11.12.1921
@@ -30430,6 +30956,15 @@ lectures:
     ort: Dornach
     vortragstitel: Der Fortgang der anthroposophischen Bewegung und die Tätigkeit der Gegner. Das Mysterium von Golgatha und das menschliche Ich-Erlebnis. Reisebericht
     anlass: Reisebericht
+    ga: 251
+  - id: 19211211a
+    uuid: 7e9ee9f3-cd6f-4a2f-b386-7820bf032b8b
+    datum: 11.12.1921
+    jahr: "1921"
+    ort: Dornach
+    vortragstitel: "Aus dem Vortrag Dornach, 11. Dezember 1921"
+    anlass: Auszug (GA 277c)
+    ga: 277c
   - id: 19211212
     uuid: 3b857ea5-9b0b-53e0-8004-65f11ba28479
     datum: 12.12.1921
@@ -30508,6 +31043,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung mit Beziehung auf Weihnachten
+    ga: 277c
   - id: 19211225c
     uuid: cdba6415-30fc-5a28-9fab-9f88ed97da26
     datum: 25.12.1921
@@ -30557,7 +31093,7 @@ lectures:
     ort: Dornach
     vortragstitel: Eurythmie als Erziehungsmittel
     anlass: Einleitende Worte zur Eurythmie-Aufführung von Kindern
-    ga: 277
+    ga: 277,277c
   - id: 19211228c
     uuid: 245282a1-67a7-513b-9960-efde2dda51ba
     datum: 28.12.1921
@@ -30608,6 +31144,7 @@ lectures:
     jahr: "1921"
     ort: Dornach
     vortragstitel: Einleitende Worte zur eurythmischen Aufführung von Szenen aus den Mysteriendramen
+    ga: 277c
   - id: 19211231c
     uuid: a0a4e392-98ad-5702-871d-523e291d39aa
     datum: 31.12.1921
@@ -30631,7 +31168,7 @@ lectures:
     ort: Dornach
     vortragstitel: Eurythmische-Dramatische Szene aus "Der Seelen Erwachen", zweites Bild
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19220101c
     uuid: af6828c2-533d-5d39-b31f-a095ad90842e
     datum: 01.01.1922
@@ -30639,6 +31176,14 @@ lectures:
     ort: Dornach
     vortragstitel: Das Ahrimanische und Luziferische vom Gesichtspunkte des leiblichen, seelischen und geistigen Wesens des Menschen
     ga: 210
+  - id: 19220101d
+    uuid: 7192f4bb-cdfc-4157-ae25-2d7bd7f73546
+    datum: 01.01.1922
+    jahr: "1922"
+    ort: Dornach
+    vortragstitel: "Aus dem Vortrag Dornach, 1. Januar 1922"
+    anlass: Auszug (GA 277c)
+    ga: 277c
   - id: 19220102
     uuid: d188b071-4a14-522d-8ff5-b508e9cddeb3
     datum: 02.01.1922
@@ -30722,6 +31267,14 @@ lectures:
     ort: Dornach
     vortragstitel: Die Differenzierung der Menschheit in bezug auf West und Ost. Ringen nach einem Begriff des Vatergottes im Westen, des Sohnesgottes im Osten
     ga: 210
+  - id: 19220107c
+    uuid: 21e51cb1-de83-4e5e-92b2-9ef714e54cdc
+    datum: 07.01.1922
+    jahr: "1922"
+    ort: Dornach
+    vortragstitel: "Dornach, aus dem Vortrag vom 7. Januar 1922"
+    anlass: Auszug (GA 277c)
+    ga: 277c
   - id: 19220108a
     uuid: b1663c66-b7a2-5391-b556-d6d2c486d344
     datum: 08.01.1922
@@ -30912,6 +31465,7 @@ lectures:
     jahr: "1922"
     ort: Leipzig
     vortragstitel: Vortrag im Auguste Schmidt-Haus 
+    ga: 246
   - id: 19220305
     uuid: 8329237f-499a-5ca8-8302-57f5e211df36
     datum: 05.03.1922
@@ -30991,7 +31545,6 @@ lectures:
     ort: Berlin
     vortragstitel: Ausführungen bei einer Versammlung der am Kursus teilnehmenden Studenten
     anlass: Ausführungen bei einer Versammlung der am Hochschulkursus teilnehmenden Studenten. (Versammlung der Mitglieder des Bundes für anthroposophische Hochschularbeit)
-    ga: 255a
   - id: 19220310c
     uuid: eeea0a3c-c76f-5811-97a7-8f5242d74dcf
     datum: 10.03.1922
@@ -31030,13 +31583,20 @@ lectures:
     jahr: "1922"
     ort: Stuttgart
     vortragstitel: Aufsichtsratssitzung Kommender Tag AG
-  - id: 19220318
+  - id: 19220318a
     uuid: 509e2b5f-049f-54de-885a-5d9783e02012
     datum: 18.03.1922
     jahr: "1922"
     ort: Dornach
     vortragstitel: Bericht über den Verlauf des Berliner Anthroposophischen Hochschulkurses
     ga: 81
+  - id: 19220318b
+    uuid: e6d866de-9a2b-4fd7-b7d4-2ec7c22c81b4
+    datum: 18.03.1922
+    jahr: "1922"
+    ort: Dornach
+    vortragstitel: Die Beziehung von Lebens- und Wissenschaftszweigen in der Gegenwart zur anthroposophischen Weltanschauung
+    ga: 251
   - id: 19220319
     uuid: 728acd7f-4972-5a5b-9c95-48b351624174
     datum: 19.03.1922
@@ -31129,6 +31689,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19220402b
     uuid: 59f25aa1-af55-5fc3-bd3d-704e395955ed
     datum: 02.04.1922
@@ -31228,7 +31789,7 @@ lectures:
     ort: London
     vortragstitel: ""
     anlass: Esoterische Stunde - Ostervortrag im engeren Kreis
-    ga: 266/3
+    ga: 266c
   - id: 19220419
     uuid: 0903cbf5-3a79-5d12-a124-fe9743a39e3a
     datum: 19.04.1922
@@ -31282,6 +31843,7 @@ lectures:
     jahr: "1922"
     ort: Dornach
     vortragstitel: Bericht über die Vortragsreise nach Holland und England
+    ga: 251
   - id: 19220505
     uuid: 9fee1808-1e39-54f6-86c3-8f2ad02691d4
     datum: 05.05.1922
@@ -31297,6 +31859,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19220506b
     uuid: bbedf028-5953-52c1-9f08-8955ad034f63
     datum: 06.05.1922
@@ -31312,6 +31875,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19220507b
     uuid: 2a494838-2c02-55c2-b59b-59a0e645e76f
     datum: 07.05.1922
@@ -31454,7 +32018,7 @@ lectures:
     ort: Dornach
     vortragstitel: Fercher von Steinwands kosmische Dichtungen
     anlass: Einleitende Worte zur Eurythmie- Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19220528a
     uuid: 56b2b1bc-a8c7-5d16-9457-145905316021
     datum: 28.05.1922
@@ -31469,7 +32033,7 @@ lectures:
     ort: Dornach
     vortragstitel: Intellektualismus und Spiritualismus. Alte und neue Wege der Einweihung. Das Kennenlernen elementarischer Wesenheiten
     ga: 212
-  - id: 19220601
+  - id: 19220601a
     uuid: b4fa18d9-9340-58b0-8a12-2c163d5e6d73
     datum: 01.06.1922
     jahr: "1922"
@@ -31478,6 +32042,14 @@ lectures:
     reihe: Anthroposophie und Wissenschaften
     anlass: West-Ost. Zweiter internationaler Kongress der anthroposophischen Bewegung 1.-12. Juni 1922
     ga: 83
+  - id: 19220601b
+    uuid: f14db121-aa3f-410e-b66d-b929278e3562
+    datum: 01.06.1922
+    jahr: "1922"
+    ort: Wien
+    vortragstitel: Gespräch mit Dr. Rudolf Steiner
+    anlass: "Interview («Neue Freie Presse», 1. Juni 1922, Abendblatt). Im Rahmen des zweiten internationalen Kongresses der anthroposophischen Bewegung, Wien. Kopie, RSA Standort-Nr. 176/3."
+    ga: 244
   - id: 19220602a
     uuid: 15a9e457-67ac-50db-b435-1f8b8557ae9b
     datum: 02.06.1922
@@ -31494,6 +32066,14 @@ lectures:
     reihe: Anthroposophie und Wissenschaften
     anlass: West-Ost. Zweiter internationaler Kongress der anthroposophischen Bewegung 1.-12. Juni 1922
     ga: 83
+  - id: 19220602c
+    uuid: ec626cef-71af-46b5-995d-86d3e94853c3
+    datum: 02.06.1922
+    jahr: "1922"
+    ort: Wien
+    vortragstitel: Der Kongress der Anthroposophie. Ein Gespräch mit Dr. Rudolf Steiner
+    anlass: "Interview («Neues Wiener Tagblatt», 2. Juni 1922). Kontext: Der Herausgeber Wolfgang Vögele der unten angegebenen Textsammlung schreibt zu diesem Interview: «Während des zweiten internationalen Kongresses der anthroposophischen Bewegung (dokumentiert in: Westliche und östliche Weltgegensätzlichkeit, GA 83), der in den Pfingsttagen 1922 [1. bis 12. Juni] in Wien unter dem Motto «Zur Verständigung westlicher und östlicher Weltgegensätzlichkeit» tagte, gab Rudolf Steiner im Hotel «Imperial» am Kärntner Ring (1. Stock, Zimmer 5), nicht nur unzählige Audienzen; er empfing [unter anderem] auch Korrespondenten des «Neuen Wiener Tagblattes».» Siehe auch das vorangehende Interview. Textgrundlage: «Neues Wiener Tagblatt», 2. Juni 1922. Kopie, RSA Standort-Nr. 176/3. Bisherige Veröffentlichungen: «Dreigliederung des sozialen Organismus», 3. Jg., Nr. 49, 8. Juni 1922, S. 6; W. Vögele (Hrsg.): Der andere Rudolf Steiner, 2. Aufl. Basel 2005, S. 314-316."
+    ga: 244
   - id: 19220603
     uuid: 53c25417-ae04-5125-88a5-f4d3b4a73618
     datum: 03.06.1922
@@ -31700,7 +32280,7 @@ lectures:
     ort: Dornach
     vortragstitel: Über "Die sterbende Meduse" von C. F. Meyer
     anlass: Einleitende Worte zur Eurythmie- Aufführung für Kinder aus der Umgebung Dornachs
-    ga: 277
+    ga: 277,277c
   - id: 19220702b
     uuid: 518e0c5f-0810-560b-811b-dc18078d39a5
     datum: 02.07.1922
@@ -31824,7 +32404,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19220723b
     uuid: 745e0654-70ea-5e3c-bed8-b86577163617
     datum: 23.07.1922
@@ -31954,7 +32534,7 @@ lectures:
     ort: Dornach
     vortragstitel: "Eurythmie: Ausdruck des Sprachcharakters"
     anlass: Einleitende Worte zur Eurythmieaufführung
-    ga: 277
+    ga: 277,277c
   - id: 19220730c
     uuid: 3b760f52-0748-5281-8139-2d4ce1879199
     datum: 30.07.1922
@@ -32172,6 +32752,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19220806c
     uuid: 7739ecfd-875e-53c5-9ae3-8f5017144bc9
     datum: 06.08.1922
@@ -32228,7 +32809,7 @@ lectures:
     ort: Oxford
     vortragstitel: Über die künstlerische Formsprache der Eurythmie. Eurythmisch-dramatische Szenen aus den Mysteriendramen" "Der Seelen Erwachen" und "Der Hüter der Schwelle"
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277,305
+    ga: 277,305,277c
   - id: 19220819a
     uuid: 1b6e9b07-b27d-5397-b7ed-370c3425a4f8
     datum: 19.08.1922
@@ -32245,7 +32826,7 @@ lectures:
     ort: Oxford
     vortragstitel: Das Pädagogische Element der Eurythmie
     anlass: Einleitende Worte zur Kindereurythmie. Oxford Holiday Conferences «Spiritual Values in Education and Social Life»
-    ga: 277
+    ga: 277,277c
   - id: 19220820
     uuid: 69b2781b-4a20-5fb7-9dd8-7fb84f81e05f
     datum: 20.08.1922
@@ -32297,6 +32878,14 @@ lectures:
     reihe: Die geistige und seelische Entwicklung des Kindes
     anlass: Oxford Holiday Conferences «Spiritual Values in Education and Social Life» (16.-29. Aug.)
     ga: 305
+  - id: 19220824a
+    uuid: dd34f492-f8f2-4e6f-909c-ec9880c5cc1b
+    datum: 24.08.1922
+    jahr: "1922"
+    ort: Oxford
+    vortragstitel: "Aus dem Vortrag Oxford, 24. August 1922"
+    anlass: Auszug (GA 277c)
+    ga: 277c
   - id: 19220825
     uuid: 91785dff-5f15-5b6a-b931-272212508dab
     datum: 25.08.1922
@@ -32457,6 +33046,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19220910c
     uuid: 42fb63e1-c373-5a7d-9ad3-f23331a1ffa0
     datum: 10.09.1922
@@ -32531,6 +33121,7 @@ lectures:
     ort: Dornach
     vortragstitel: Über das Mysteriendrama «Der Seelen Erwachen»
     anlass: Einleitende Worte zur Eurythmie-Aufführung.
+    ga: 277c
   - id: 19220914b
     uuid: 3e5bf193-c540-571f-acea-e3d54837a8d5
     datum: 14.09.1922
@@ -32596,6 +33187,7 @@ lectures:
     vortragstitel: Vortrag 2
     reihe: Über Pädagogik
     anlass: während des "Französichen Kurses" am Goethenanum
+    ga: 246
   - id: 19220917c
     uuid: 29c201d1-5a9d-59b6-9f40-e0c4696ed1ec
     datum: 17.09.1922
@@ -32603,7 +33195,7 @@ lectures:
     ort: Dornach
     vortragstitel: Die Erweiterung des Dichterischen und Musikalischen durch Eurythmie
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19220917d
     uuid: af3093dc-616d-5fb5-ab89-ad34b10dbd9a
     datum: 17.09.1922
@@ -32736,6 +33328,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19220924b
     uuid: ea055b8c-bef0-5bdc-b75d-3e1bbbd35499
     datum: 24.09.1922
@@ -32743,7 +33336,7 @@ lectures:
     ort: Dornach
     vortragstitel: Die Offenbarungen der geistigen Welt in der urindischen und urpersischen Zeit. Die ägyptische Mumien Kultur. Die Konservierung alter Kulte in den okkulten Orden. Goethe
     ga: 216
-  - id: 19220927
+  - id: 19220927a
     uuid: 4ad7a7b6-04e9-5ba2-8c0c-3b78c126608b
     datum: 27.09.1922
     jahr: "1922"
@@ -32751,6 +33344,14 @@ lectures:
     vortragstitel: Früheste Erdenzeit
     anlass: Vortrag für die Arbeiter am Goetheanum
     ga: 347
+  - id: 19220927b
+    uuid: ec22cd57-6b17-482a-9601-eade8425b63b
+    datum: 27.09.1922
+    jahr: "1922"
+    ort: Dornach
+    vortragstitel: Richtigstellung in der Wochenschrift «Das Goetheanum» vom 27. September 1922
+    anlass: Dokument (GA 255b)
+    ga: 255b
   - id: 19220929
     uuid: b624e900-2f4b-50d3-96ab-d9c44225eeb9
     datum: 29.09.1922
@@ -32773,7 +33374,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19220930c
     uuid: 4ed07e8d-089c-5502-b247-1dbaf10d1174
     datum: 30.09.1922
@@ -33174,7 +33775,7 @@ lectures:
     ort: Haag
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19221103
     uuid: ac46b2f7-38d0-53d4-a5d1-132e39e6100b
     datum: 03.11.1922
@@ -33196,7 +33797,7 @@ lectures:
     ort: Haag
     vortragstitel: Der Übergang des Dichterischen und Musikalischen in Bewegungsform
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19221105b
     uuid: 385d923b-426a-5702-bae7-3e56546f679e
     datum: 05.11.1922
@@ -33225,7 +33826,7 @@ lectures:
     ort: London
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19221116
     uuid: 22207ab2-cf6f-5008-b9d3-71f7ecc4a079
     datum: 16.11.1922
@@ -33475,6 +34076,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277c
   - id: 19221225b
     uuid: abd472a8-d067-54b8-b63c-5b2f786ab7a3
     datum: 25.12.1922
@@ -33559,7 +34161,7 @@ lectures:
     ort: Dornach
     vortragstitel: 'Das Wesen der eurythmischen Kunst (zu einer Darstellung aus "Faust" I von Goethe: "Prolog im Himmel")'
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277c
   - id: 19221231b
     uuid: 2e2d1aec-dd67-5c05-b1c3-04b58a6773e5
     datum: 31.12.1922
@@ -33590,7 +34192,15 @@ lectures:
     vortragstitel: Vortrag 6
     reihe: Der Entstehungsmoment der Naturwissenschaft in der Weltgeschichte und ihre seitherige Entwicklung
     ga: 326
-  - id: 19230102
+  - id: 19230101d
+    uuid: 25312388-9554-4c01-ba17-42bbdbc93746
+    datum: 01.01.1923
+    jahr: "1923"
+    ort: London
+    vortragstitel: Der Waldorf-Plan
+    anlass: "Interview C. S. Bremner («The Educational Times», Januar 1923). Nach der Oxford-Konferenz «Spiritual Values in Education and Social Life» (August 1922). Kopie, RSA Standort-Nr. 176/3."
+    ga: 244
+  - id: 19230102a
     uuid: f173ead2-7fe1-5172-91e8-b23f204d5c00
     datum: 02.01.1923
     jahr: "1923"
@@ -33598,6 +34208,14 @@ lectures:
     vortragstitel: Vortrag 7
     reihe: Der Entstehungsmoment der Naturwissenschaft in der Weltgeschichte und ihre seitherige Entwicklung
     ga: 326
+  - id: 19230102b
+    uuid: 29bb4336-6754-45eb-8a53-c6980856cccb
+    datum: 02.01.1923
+    jahr: "1923"
+    ort: Basel
+    vortragstitel: Ein Interview bei Dr. Steiner
+    anlass: "Interview mit Basler Zeitungskorrespondenten über den Brand des Goetheanums («National-Zeitung», 2. Januar 1923). Gespräch in der Villa Hansi, Dörnach. Kopie, RSA Standort-Nr. 176/3."
+    ga: 244
   - id: 19230103
     uuid: 564819c7-4b5d-5eb8-9363-e1dbe4aa195d
     datum: 03.01.1923
@@ -33630,6 +34248,22 @@ lectures:
     vortragstitel: Die Not nach dem Christus seit dem 4. Jahrhundert und das neue Christus-Erleben
     reihe: Lebendiges Naturerkennen, Intellektueller Sündenfall und spirituelle Sündenerhebung
     ga: 220
+  - id: 19230105c
+    uuid: a51aa834-63f6-44ea-b01e-14d2dd4e2694
+    datum: 05.01.1923
+    jahr: "1923"
+    ort: Basel
+    vortragstitel: Nach dem Brande des Goetheanums. Die Erforschung der Brandursache
+    anlass: "Interview mit Basler Zeitungskorrespondenten («National-Zeitung», 5. Januar 1923). Themen: Brandursache, vermisster Jakob Ott. Kopie, RSA Standort-Nr. 176/3."
+    ga: 244
+  - id: 19230105d
+    uuid: 55f0a5db-a83e-4282-a8c9-7f4bb7b3a4cf
+    datum: 05.01.1923
+    jahr: "1923"
+    ort: Basel
+    vortragstitel: Zum Brand im Goetheanum. Ott im Verdacht als Brandstifter oder Mitwisser
+    anlass: "Interview mit Basler Zeitungskorrespondenten («Basler Nachrichten», 5. Januar 1923). Kopie, RSA Standort-Nr. 176/3."
+    ga: 244
   - id: 19230106a
     uuid: 9c561b6e-a69e-50c7-bff5-af413312a49d
     datum: 06.01.1923
@@ -33660,6 +34294,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277d
   - id: 19230107b
     uuid: 580a7bfb-4315-5186-9a41-269be490fc76
     datum: 07.01.1923
@@ -33715,6 +34350,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277d
   - id: 19230114b
     uuid: bc1dffa8-2101-53f0-95be-a1de8fdd5e8e
     datum: 14.01.1923
@@ -33841,12 +34477,28 @@ lectures:
     vortragstitel: Herman Grimm und Friedrich Nietzsche und das Geistesleben der Gegenwart. Mensch und Natur. Das Wesen der Elektrizität und des Lichtes. Der Geist der Sprache. Eurythmie
     reihe: Lebendiges Naturerkennen, Intellektueller Sündenfall und spirituelle Sündenerhebung
     ga: 220
-  - id: 19230129
+  - id: 19230128a
+    uuid: d9626f70-90ba-4d36-bb15-bfc73b6978cd
+    datum: 28.01.1923
+    jahr: "1923"
+    ort: Dornach
+    vortragstitel: "Auszug aus Mitgliedervortrag"
+    anlass: Auszug (GA 277d)
+    ga: 277d
+  - id: 19230129a
     uuid: c01c69e5-7834-5978-a8f2-ead8bd8005ee
     datum: 29.01.1923
     jahr: "1923"
     ort: Stuttgart
     vortragstitel: Aussprache über eine Reorganisation der Anthroposophischen Gesellschaft
+  - id: 19230129b
+    uuid: a8f3c2e1-4d7b-4a9e-b6c1-8f2e5d9a3b74
+    datum: 29.01.1923
+    jahr: "1923"
+    ort: Dornach
+    vortragstitel: "I. Bericht des Dr. Rudolf Steiner, Schriftsteller, Sohn des Johann, geb. 27. Februar 1861, von Geras Nieder-Österreich, wohnhaft in Dornach."
+    anlass: "Amtliche Untersuchung des Brandes des Goetheanums in der Silvesternacht vom 31. Dezember 1922, Januar 1923. Siehe dazu die Dokumentation: «Zum Brandgeschehen. A. Offizielle Dokumente, B. Zeitungsberichte», in: Das Schicksalsjahr 1923 in der Geschichte der Anthroposophischen Gesellschaft, GA 259, 1. Aufl. Dornach 1991, S. 747-793. — Man beachte, dass es sich bei den nachfolgenden Texten nicht um publizierte Interviews handelt, sondern um amtliche Protokolle von Gesprächen. Textgrundlage: «Branduntersuchung, Goetheanum, Dörnach 1923» (Standort des Originals: Staatsarchiv Solothurn (StASO), Akzession 2014/4, Akten der Kriminaluntersuchung nach dem Brand des Goetheanums in Dörnach (1923)), Sp. 9, S. 15-16 [handschriftlich S. 12-13] und S. 195-199 [handschriftlich S. 36-40]. Kopie: RSA Standort-Nr. 066/2."
+    ga: 244
   - id: 19230130a
     uuid: 4297722f-59fc-5cdf-9a1a-9f54249bd98c
     datum: 30.01.1923
@@ -33921,7 +34573,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277d
   - id: 19230205
     uuid: 03d7cc9d-a0d5-55e1-bd95-3bc308132e53
     datum: 05.02.1923
@@ -34015,7 +34667,7 @@ lectures:
     ort: Dornach
     vortragstitel: Künstlerische Sprachbehandlung
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277d
   - id: 19230211b
     uuid: e0db68c7-f727-547c-9ddd-b48a658e20b8
     datum: 11.02.1923
@@ -34086,7 +34738,7 @@ lectures:
     ort: Dornach
     vortragstitel: Das Seelenleben in seiner Äusserung in Sprache und Gesang oder in Bewegung und Haltung. Konsonant, Vokal - Nerv, Blut
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277d
   - id: 19230218b
     uuid: 05d14a38-9540-5bc2-bb79-2b778c820cf1
     datum: 18.02.1923
@@ -34393,6 +35045,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277d
   - id: 19230401b
     uuid: 793c50db-02aa-540d-b564-45b0d0f99fb3
     datum: 01.04.1923
@@ -34407,7 +35060,7 @@ lectures:
     ort: Dornach
     vortragstitel: Gesten und eurythmische Gebärdensprache
     anlass: Einleitende Worte zur Eurythmie- Aufführung
-    ga: 277
+    ga: 277,277d
   - id: 19230402b
     uuid: 57912209-6f6a-5d04-a696-03f4135054ca
     datum: 02.04.1923
@@ -34430,6 +35083,14 @@ lectures:
     ort: Bern
     vortragstitel: Was wollte das Goetheanum und was soll Anthroposophie?
     ga: 80b
+  - id: 19230405a
+    uuid: 2a26a505-09f8-4ad4-9567-fa02df968651
+    datum: 05.04.1923
+    jahr: "1923"
+    ort: Bern
+    vortragstitel: "Öffentlicher Vortrag (BERN)"
+    anlass: Auszug (GA 277d)
+    ga: 277d
   - id: 19230406
     uuid: e4f6e766-baa0-5b83-b5a2-9c268e814b1e
     datum: 06.04.1923
@@ -34444,6 +35105,14 @@ lectures:
     ort: Dornach
     vortragstitel: Das Miterleben des Kosmos in den Jahresfesten
     ga: 223
+  - id: 19230407b
+    uuid: b40ee4fe-7716-4e83-bff4-d767c4028e91
+    datum: 07.04.1923
+    jahr: "1923"
+    ort: Dornach
+    vortragstitel: Beleuchtungs-Eurythmie
+    anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277,277d
   - id: 19230408
     uuid: a4b6eac2-d139-5e22-a7d0-550c5bdba795
     datum: 08.04.1923
@@ -34451,6 +35120,14 @@ lectures:
     ort: Dornach
     vortragstitel: Das Miterleben des Jahreslaufes in den alten Mysterien. Jahresfeste einst und jetzt. Das Michaelfest als Fest des Mutes
     ga: 223
+  - id: 19230408a
+    uuid: 7dcc89cf-3907-480d-a3b2-1fe6ed429366
+    datum: 08.04.1923
+    jahr: "1923"
+    ort: Dornach
+    vortragstitel: ""
+    anlass: Ansprache zur Eurythmie
+    ga: 277d
   - id: 19230409a
     uuid: 8b9e1d18-50ff-5cfb-9760-c409c7053155
     datum: 09.04.1923
@@ -34466,6 +35143,14 @@ lectures:
     ort: Basel
     vortragstitel: Was wollte das Goetheanum und was soll Anthroposophie?
     ga: 84,259
+  - id: 19230409c
+    uuid: 37b61bd1-d7e2-4614-b7fc-33fa1253afe4
+    datum: 09.04.1923
+    jahr: "1923"
+    ort: Basel
+    vortragstitel: "Öffentlicher Vortrag (Basel)"
+    anlass: Auszug (GA 277d)
+    ga: 277d
   - id: 19230410
     uuid: b358679f-6353-559d-88e0-f83b050a2fac
     datum: 10.04.1923
@@ -34484,6 +35169,7 @@ lectures:
     jahr: "1923"
     ort: St. Gallen
     vortragstitel: Über Schicksalsbildung
+    ga: 246
   - id: 19230412b
     uuid: d4fcb34e-0503-5042-b3d6-6a1b9e1f5990
     datum: 12.04.1923
@@ -34512,7 +35198,7 @@ lectures:
     ort: Dornach
     vortragstitel: Gebärde in Pantomime, im Tanz und in der Raumbewegungskunst, der Eurythmie
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277d
   - id: 19230414c
     uuid: 21319308-34a7-558c-8172-7c86628c6101
     datum: 14.04.1923
@@ -34535,7 +35221,7 @@ lectures:
     ort: Dornach
     vortragstitel: Einleitende Worte zur Aufführung «Eurythmie als Kunst». Über die andeutende Gebärde
     anlass: Pädagogischer Kurs für Schweizer Lehrer
-    ga: 277,306
+    ga: 277,306,277d
   - id: 19230415c
     uuid: 5df47a9a-1154-5696-b362-6928f37711e0
     datum: 15.04.1923
@@ -34581,6 +35267,7 @@ lectures:
     jahr: "1923"
     ort: Dornach
     vortragstitel: Einleitende Worte zur Aufführung «Eurythmie als Erziehungsmittel»
+    ga: 277d
   - id: 19230418d
     uuid: 175df014-7112-5de0-a6f2-302a5266f4b5
     datum: 18.04.1923
@@ -34651,6 +35338,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277d
   - id: 19230421d
     uuid: afd83cf4-7ae9-523c-9d5e-a3b9ca86d4d3
     datum: 21.04.1923
@@ -34879,6 +35567,14 @@ lectures:
     ort: Kristiania (Oslo)
     vortragstitel: ""
     ga: 265
+  - id: 19230518d
+    uuid: 2a93f594-7266-4ad3-9ab6-ab9573b91738
+    datum: 18.05.1923
+    jahr: "1923"
+    ort: Kristiania (Oslo)
+    vortragstitel: "Auszug aus Mitgliedervortrag"
+    anlass: Auszug (GA 277d)
+    ga: 277d
   - id: 19230519
     uuid: 8622d111-7ba8-55fb-b341-5fcf1f2817b4
     datum: 19.05.1923
@@ -34984,6 +35680,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277d
   - id: 19230603b
     uuid: df6ab61f-9c81-526e-b027-651e855e557d
     datum: 03.06.1923
@@ -34997,6 +35694,7 @@ lectures:
     jahr: "1923"
     ort: Dornach
     vortragstitel: Ansprache zur Trauung von Joseph Polzer-Hoditz und Ilona Bögel
+    ga: 246
   - id: 19230606
     uuid: e0b765e6-dce7-5de0-a00b-a284cb1f23f2
     datum: 06.06.1923
@@ -35027,7 +35725,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277d
   - id: 19230609c
     uuid: 60b8e90e-c822-52df-9d3f-9ef013039ee8
     datum: 09.06.1923
@@ -35058,6 +35756,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277d
   - id: 19230611
     uuid: d7f0f4f5-9676-5da2-b969-e61b0d12c827
     datum: 11.06.1923
@@ -35121,7 +35820,7 @@ lectures:
     ort: Dornach
     vortragstitel: Über den Sprachgenius. Der Bildekräfteleib des Menschen
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277d
   - id: 19230616c
     uuid: 5b3974f9-5855-555c-abad-2f3ef3e939da
     datum: 16.06.1923
@@ -35145,6 +35844,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277d
   - id: 19230617c
     uuid: 910970ad-7ffe-5f1f-9dff-40bdce9fac53
     datum: 17.06.1923
@@ -35191,7 +35891,7 @@ lectures:
     ort: Dornach
     vortragstitel: Johannistimmung. Das Miterleben der Jahresfeste
     anlass: Einleitende Worte zur Eurythmie- Aufführung
-    ga: 277
+    ga: 277,277d
   - id: 19230624b
     uuid: eecaa668-5867-5f73-9e0e-bab982583070
     datum: 24.06.1923
@@ -35335,7 +36035,7 @@ lectures:
     ort: Dornach
     vortragstitel: Die Überwindung der Schwerkraft durch die Eurythmie
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277d
   - id: 19230708b
     uuid: 30e35f90-29a4-5dd0-93d8-419520b22a1b
     datum: 08.07.1923
@@ -35349,6 +36049,7 @@ lectures:
     jahr: "1923"
     ort: Dornach
     vortragstitel: Einleitende Worte zur Eurythmieaufführung
+    ga: 277d
   - id: 19230711a
     uuid: 1c1517ec-28c6-52a2-bc5f-2f1996950e37
     datum: 11.07.1923
@@ -35406,7 +36107,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19230714a
     uuid: 90fd6048-e8c9-5b3a-839e-896065fee950
     datum: 14.07.1923
@@ -35431,7 +36132,7 @@ lectures:
     ort: Dornach
     vortragstitel: Über das Wesen der Gebärde
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277d
   - id: 19230715b
     uuid: 5d0421de-cbbc-556b-8a0a-f209d6eb1b83
     datum: 15.07.1923
@@ -35446,6 +36147,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277d
   - id: 19230718
     uuid: 0c3c8c08-63fa-53b7-ae80-6533ee28c0ec
     datum: 18.07.1923
@@ -35538,7 +36240,7 @@ lectures:
     ort: Dornach
     vortragstitel: Die Imaginative Offenbarung der Sprache
     anlass: Einleitende Worte zur Eurythmie- Aufführung
-    ga: 277
+    ga: 277,277d
   - id: 19230722e
     uuid: e49b321d-9d25-5789-b9e2-2d9c308cb844
     datum: 22.07.1923
@@ -35591,6 +36293,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277d
   - id: 19230729b
     uuid: ddfb548e-658f-5111-8e79-2694107eb697
     datum: 29.07.1923
@@ -35712,15 +36415,6 @@ lectures:
     reihe: Gegenwärtiges Geistesleben und Erziehung
     anlass: Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August
     ga: 307
-  - id: 19230811b
-    uuid: d2cfb983-69c4-5ef4-9e20-e4f16db0570a
-    datum: 11.08.1923
-    jahr: "1923"
-    ort: Ilkley (York)
-    vortragstitel: Vortrag 4
-    reihe: Gegenwärtiges Geistesleben und Erziehung
-    anlass: Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August
-    ga: 307
   - id: 19230812
     uuid: 7d36063c-16e8-519b-b764-949537946a44
     datum: 12.08.1923
@@ -35750,23 +36444,6 @@ lectures:
     ga: 307
   - id: 19230814b
     uuid: 8fd2277c-080f-56ff-a789-a04046fa3302
-    datum: 14.08.1923
-    jahr: "1923"
-    ort: Ilkley (York)
-    vortragstitel: ""
-    anlass: Einleitende Worte zur Eurythmie-Aufführung. Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.- 17. August
-    ga: 307
-  - id: 19230814c
-    uuid: 44c2fc03-1329-5542-b800-e4ba1b40f8d6
-    datum: 14.08.1923
-    jahr: "1923"
-    ort: Ilkley (York)
-    vortragstitel: Vortrag 5
-    reihe: Gegenwärtiges Geistesleben und Erziehung
-    anlass: Holiday Conference, veranstaltet von der «Educational Union for the Realisation of Spiritual Values in Education», 4.-17. August
-    ga: 307
-  - id: 19230814d
-    uuid: 5cf525fa-8953-5253-b948-bf9e69a22b2b
     datum: 14.08.1923
     jahr: "1923"
     ort: Ilkley (York)
@@ -35949,7 +36626,7 @@ lectures:
     ort: Penmaenmawr (N.Wales)
     vortragstitel: Eurythmie, was sie ist und wie sie entstanden ist. Die Eurythmie
     anlass: International Summer School 18.-31. August
-    ga: 277a,279
+    ga: 277a,279,307
   - id: 19230827a
     uuid: c7f18219-6cf2-5774-a28e-db56c8def767
     datum: 27.08.1923
@@ -35966,6 +36643,22 @@ lectures:
     ort: Penmaenmawr (N.Wales)
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung. International Summer School 18.-31. August
+    ga: 307
+  - id: 19230904
+    uuid: ddc7350b-0466-4723-84ec-02751893ae4d
+    datum: 04.09.1923
+    jahr: "1923"
+    ort: London
+    vortragstitel: ""
+    anlass: "Einleitende Worte zur Eurythmie-Aufführung (Autoreferat, GA 307)"
+    ga: 307
+  - id: 19230911
+    uuid: b209f5af-6ba9-455c-ac9b-922a339a27b3
+    datum: 11.09.1923
+    jahr: "1923"
+    ort: London
+    vortragstitel: ""
+    anlass: "Einleitende Worte zur Eurythmie-Aufführung (Autoreferat, GA 307)"
     ga: 307
   - id: 19230828a
     uuid: 59c27f7f-b34b-5b92-9074-0b88ed101b6e
@@ -36162,13 +36855,21 @@ lectures:
     reihe: Zwei öffentliche Vorträge
     anlass: Herbstveranstaltung der anthroposophischen Bewegung in Österreich 26. Sept. bis 1. Okt.
     ga: 84
-  - id: 19230927
+  - id: 19230927a
     uuid: 8e2aa18b-6b14-5903-bd8c-43ee954ebbcc
     datum: 27.09.1923
     jahr: "1923"
     ort: Wien
     vortragstitel: Die Anthroposophie und das menschliche Gemüt
     ga: 223
+  - id: 19230927b
+    uuid: a4e13902-d79e-4e6b-aa4b-1f4155c57002
+    datum: 27.09.1923
+    jahr: "1923"
+    ort: Wien
+    vortragstitel: Die praktische Arbeit der Anthroposophen
+    anlass: "Interview («Der Tag», 27. September 1923). Im Rahmen der Herbsttagung der anthroposophischen Bewegung in Österreich. Kopie, RSA Standort-Nr. 176/3."
+    ga: 244
   - id: 19230928
     uuid: 1f7c4155-ff4a-5f30-855d-419943e80539
     datum: 28.09.1923
@@ -36200,7 +36901,7 @@ lectures:
     ort: Wien
     vortragstitel: ""
     anlass: Esoterische Stunde
-    ga: 266/3
+    ga: 266c
   - id: 19231001a
     uuid: d8d3f4b5-4122-5284-94ec-328859d802c0
     datum: 01.10.1923
@@ -36231,6 +36932,14 @@ lectures:
     ort: Dornach
     vortragstitel: "Michael und der Drache: eine der Imaginationen des Jahreslaufes. Bericht über die Wiener Tagung"
     ga: 229,259
+  - id: 19231005a
+    uuid: 5e0cb7fb-fdfd-498a-ab8f-fbd51e6d46d4
+    datum: 05.10.1923
+    jahr: "1923"
+    ort: Dornach
+    vortragstitel: "Auszug aus Mitgliedervortrag"
+    anlass: Auszug (GA 277d)
+    ga: 277d
   - id: 19231006
     uuid: ae8b9cfa-df7c-532f-8f2d-7026a701124c
     datum: 06.10.1923
@@ -36434,6 +37143,13 @@ lectures:
     ort: Dornach
     vortragstitel: Der Zusammenhang der Naturelementarwesen mit der Erde. Das Wirken der Gnomen, Undinen, Sylphen und Feuerwesen im menschlichen Organismus
     ga: 230
+  - id: 19231107
+    uuid: e328c9da-60b3-51b5-9b7d-9e0158b43b54
+    datum: 07.11.1923
+    jahr: "1923"
+    ort: Zürich
+    vortragstitel: Menschenunverständnis und Menschenhass
+    ga: 246
   - id: 19231109
     uuid: 74a0c225-6673-5c4d-af4e-e73bc1fb447f
     datum: 09.11.1923
@@ -36462,6 +37178,14 @@ lectures:
     ort: Dornach
     vortragstitel: Menschenliebe und Menschenhaß in ihrer Beziehung zur Menschengestalt. Die Metamorphosen der Geistgestalt des Menschen nach dem Tode
     ga: 230,277
+  - id: 19231111a
+    uuid: cce5c6bc-9de1-4796-aa81-54051a257b19
+    datum: 11.11.1923
+    jahr: "1923"
+    ort: Dornach
+    vortragstitel: "Aus dem Vortrag Dornach, 11. November 1923"
+    anlass: Auszug (GA 277d)
+    ga: 277d
   - id: 19231113
     uuid: a32da958-ec6d-50f8-8315-faa23afbcf76
     datum: 13.11.1923
@@ -36540,6 +37264,14 @@ lectures:
     vortragstitel: Vortrag 4
     reihe: Der übersinnliche Mensch anthroposophisch erfasst
     ga: 231
+  - id: 19231117d
+    uuid: 957bc5b3-a727-4fe0-b3d2-47bff484804f
+    datum: 17.11.1923
+    jahr: "1923"
+    ort: Den Haag
+    vortragstitel: "Auszug aus Mitgliedervortrag"
+    anlass: Auszug (GA 277d)
+    ga: 277d
   - id: 19231118a
     uuid: f208b005-957d-53d2-9ba0-46c5dcc8ddf8
     datum: 18.11.1923
@@ -36762,7 +37494,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung. Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
-    ga: 260,277a
+    ga: 260,277a,277d
   - id: 19231223b
     uuid: 149ae1a2-0334-54a0-8452-e5423bc557d1
     datum: 23.12.1923
@@ -36812,6 +37544,14 @@ lectures:
     reihe: Die Weltgeschichte in anthroposophischer Beleuchtung und als Grundlage der Erkenntnis des Menschen
     anlass: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
     ga: 233
+  - id: 19231224f
+    uuid: d9a0d592-f4d6-4674-8dd9-cf821120ba7f
+    datum: 24.12.1923
+    jahr: "1923"
+    ort: Dornach
+    vortragstitel: "Auszug aus Mitgliedervortrag"
+    anlass: Auszug (GA 277d)
+    ga: 277d
   - id: 19231225a
     uuid: b8631e70-58ef-5d76-8e6f-be5068ffa164
     datum: 25.12.1923
@@ -36868,7 +37608,7 @@ lectures:
     ort: Dornach
     vortragstitel: Eurythmie als bewegte Plastik
     anlass: Einleitende Worte zur Eurythmie-Aufführung. Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
-    ga: 277
+    ga: 277,277d
   - id: 19231226c
     uuid: 406d3b61-0d13-5875-83c3-c6fcb7257ede
     datum: 26.12.1923
@@ -36942,7 +37682,7 @@ lectures:
     ort: Dornach
     vortragstitel: Die Stellung der Eurythmie innerhalb der Künste
     anlass: Einleitende Worte zur Eurythmie- Aufführung. Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
-    ga: 277
+    ga: 277,277d
   - id: 19231228e
     uuid: ac78f0b5-076c-543e-8fdb-a441afab3e8e
     datum: 28.12.1923
@@ -37000,7 +37740,7 @@ lectures:
     ort: Dornach
     vortragstitel: Esoterische Jugendstunde
     anlass: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
-    ga: 266/3
+    ga: 266c
   - id: 19231230b
     uuid: eeb5364e-106b-5095-82e2-2a3de5f6a748
     datum: 30.12.1923
@@ -37024,7 +37764,7 @@ lectures:
     ort: Dornach
     vortragstitel: Eurythmie, die Sprache des ganzen Menschen
     anlass: Einleitende Worte zur Eurythmie- Aufführung. Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
-    ga: 277
+    ga: 277,277d
   - id: 19231230e
     uuid: 56df2e1d-1f04-5f54-8251-3d9aad92c33e
     datum: 30.12.1923
@@ -37152,6 +37892,14 @@ lectures:
     reihe: Moral des medizinischen Studiums und der Praxis (exoterisch und esoterisch)
     anlass: Kurs für Jungmediziner. Weihnachtskurs für Ärzte und Medizinstudierende 2. bis 9. Januar 1924
     ga: 316
+  - id: 19240102c
+    uuid: e586a553-3bc1-47ad-a652-9088b6defcdf
+    datum: 02.01.1924
+    jahr: "1924"
+    ort: Dornach
+    vortragstitel: ""
+    anlass: Ansprache zur Eurythmie
+    ga: 277d
   - id: 19240103a
     uuid: f7f0464a-c184-518e-afa8-3176720df715
     datum: 03.01.1924
@@ -37395,6 +38143,7 @@ lectures:
     ort: Bern
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277d
   - id: 19240127
     uuid: 22657bc6-cf39-5dee-9ab0-a7a95d10c326
     datum: 27.01.1924
@@ -37441,7 +38190,7 @@ lectures:
     ort: Dornach
     vortragstitel: Die Beziehung zwischen Lautsprachen und Bewegung
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277d
   - id: 19240202c
     uuid: 52f11b4e-ebe3-5544-8850-e238e88ae88b
     datum: 02.02.1924
@@ -37457,6 +38206,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277d
   - id: 19240203b
     uuid: 51685baf-cb01-5623-b46a-33e6382445b3
     datum: 03.02.1924
@@ -37520,6 +38270,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277d
   - id: 19240210b
     uuid: a2190412-99ca-5d54-baf4-f149db42c3bd
     datum: 10.02.1924
@@ -37577,6 +38328,14 @@ lectures:
     vortragstitel: Die Karmafrage und die Hierarchien
     reihe: Karmabetrachtungen
     ga: 235
+  - id: 19240217a
+    uuid: f02aeafc-3873-4239-8aa2-3a6c3fa65c03
+    datum: 17.02.1924
+    jahr: "1924"
+    ort: Dornach
+    vortragstitel: ""
+    anlass: Ansprache zur Eurythmie
+    ga: 277d
   - id: 19240219
     uuid: eacc8838-e5fd-54e8-b9f8-9df942cbb654
     datum: 19.02.1924
@@ -37722,7 +38481,7 @@ lectures:
     ort: Dornach
     vortragstitel: Der dreigliedrige Mensch und die Hierarchien. Die Bildung der karmischen Kräfte
     reihe: Karmabetrachtungen
-    ga: 235,260a
+    ga: 235,260a,278
   - id: 19240305
     uuid: e383ffc9-1556-5aa2-9cec-4e38a6cf878d
     datum: 05.03.1924
@@ -37764,6 +38523,14 @@ lectures:
     vortragstitel: Friedrich Theodor Vischer, Franz Schubert, Eugen Dühring
     reihe: Karmabetrachtungen
     ga: 235
+  - id: 19240311
+    uuid: a26dcc18-e598-49ab-a446-1ad576118c27
+    datum: 11.03.1924
+    jahr: "1924"
+    ort: Dornach
+    vortragstitel: Erster Rundbrief
+    anlass: Rundbrief an die Jungmediziner (GA 316)
+    ga: 316
   - id: 19240312
     uuid: d499f798-cd70-5708-9430-ef16505b9c24
     datum: 12.03.1924
@@ -38203,7 +38970,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung für Mitglieder
-    ga: 260a,277a
+    ga: 260a,277a,277d
   - id: 19240420b
     uuid: dcb0c616-64a7-568f-a03b-69cd0fd22c32
     datum: 20.04.1924
@@ -38211,6 +38978,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+    ga: 277d
   - id: 19240420c
     uuid: f7c3fcc0-27c1-597b-baf1-542fb79386d7
     datum: 20.04.1924
@@ -38242,6 +39010,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277d
   - id: 19240421d
     uuid: d5f21ec4-5e79-55c0-ae10-9301aa8045b8
     datum: 21.04.1924
@@ -38257,7 +39026,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Osterkurs für Ärzte und Medizinstudierende 21. bis 25. April 1924 Kursus für Mediziner der Medizinischen Sektion der Freien Hochschule für Geisteswissenschaft
-    ga: 267,268
+    ga: 267,268,316
   - id: 19240422b
     uuid: aa7cf901-9959-534e-a28a-99145e0b3524
     datum: 22.04.1924
@@ -38282,7 +39051,7 @@ lectures:
     ort: Dornach
     vortragstitel: Die Weisheits-Worte der Grundsteinlegung
     anlass: Einleitende Worte zur Eurythmie- Aufführung für Mitglieder.Wiederholung der anthroposophischen Matinee.
-    ga: 260a,277
+    ga: 260a,277,277d
   - id: 19240422e
     uuid: c69e0953-c1d8-57ac-865c-99954bf2fb68
     datum: 22.04.1924
@@ -38371,7 +39140,7 @@ lectures:
     ort: Dornach
     vortragstitel: Die Bewegung als Sprache der Seele
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277d
   - id: 19240427b
     uuid: 21dc9915-7f5e-5e8f-b175-dab37b71e54d
     datum: 27.04.1924
@@ -38427,6 +39196,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
+    ga: 277d
   - id: 19240503b
     uuid: 5f8e7907-b4b0-5ee5-8af3-41da0d23e368
     datum: 03.05.1924
@@ -38441,7 +39211,7 @@ lectures:
     ort: Dornach
     vortragstitel: Die Erweiterung der Kunstmittel
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277d
   - id: 19240504b
     uuid: 6db53a61-9a70-5397-b11d-a39c2dba2d24
     datum: 04.05.1924
@@ -38513,7 +39283,7 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-    ga: 277
+    ga: 277,277d
   - id: 19240511c
     uuid: f4b0c811-068a-5fd7-846c-f137c3e71818
     datum: 11.05.1924
@@ -38929,6 +39699,14 @@ lectures:
     ort: Dornach
     vortragstitel: Bericht über den Landwirtschaftlichen Kursus und die Breslauer Tagung. Die finanzielle Lage der Waldorfschule. Toter und lebendiger Stickstoff. Kosmische und irdische Substanz in der Ernährung
     ga: 260a,327
+  - id: 19240620a
+    uuid: dd55f0ee-ee5b-4fe7-8cfb-411bf0e48009
+    datum: 20.06.1924
+    jahr: "1924"
+    ort: Dornach
+    vortragstitel: "Auszug aus Mitgliedervortrag"
+    anlass: Auszug (GA 277d)
+    ga: 277d
   - id: 19240621
     uuid: 86766933-b694-5d97-8fcd-55a842340d11
     datum: 21.06.1924
@@ -38945,7 +39723,7 @@ lectures:
     ort: Dornach
     vortragstitel: Vortrag 1
     reihe: Karmabetrachtungen
-    ga: 236,260a
+    ga: 236,260a,279
   - id: 19240624
     uuid: 933be938-3665-590c-891b-09699fe23d67
     datum: 24.06.1924
@@ -39400,7 +40178,7 @@ lectures:
     vortragstitel: Das lebendige Herantreten an die Kindesnatur durch das Begründen eines Verhältnisses zur Welt
     reihe: Der pädagogische Wert der Menschenerkenntnis und der Kulturwert der Pädagogik
     anlass: Anthroposophisch-pädagogische Tagung
-    ga: 310
+    ga: 310,279
   - id: 19240720b
     uuid: 502bc143-5838-5c0d-bcd0-adece670ab31
     datum: 20.07.1924
@@ -39534,6 +40312,13 @@ lectures:
     vortragstitel: Das Karma des einzelnen Anthroposophen. Die Notwendigkeit der inneren Initiative des seelischen Lebens für den Anthroposophen
     reihe: Das Karma der anthroposophischen Bewegung
     ga: 237,260a
+  - id: 19240805
+    uuid: 15a2b1f0-8dac-5be7-abc4-c1e1bb54b57d
+    datum: 05.08.1924
+    jahr: "1924"
+    ort: Dornach
+    vortragstitel: Ansprache zur Trauung von Mieta Waller und Scott Pyle
+    ga: 246
   - id: 19240806
     uuid: 6c35246d-c9a0-5bb8-adc0-ed2f3507e5e1
     datum: 06.08.1924
@@ -40450,3 +41235,19 @@ lectures:
     reihe: Karmabetrachtungen
     anlass: Letzte Ansprache
     ga: 238
+  - id: 19241026
+    uuid: 0a9aa5d9-1334-4306-ac0e-c134e4bce6aa
+    datum: 26.10.1924
+    jahr: "1924"
+    ort: Basel
+    vortragstitel: Der Wiederaufbau des Goetheanums
+    anlass: "Aufsatz für die «Basler Nachrichten» vom 25./26. Oktober 1924"
+    ga: 286
+  - id: 19241101
+    uuid: a0a8b979-5841-48f6-85a7-3d045996b97e
+    datum: 01.11.1924
+    jahr: "1924"
+    ort: Basel
+    vortragstitel: Das zweite Goetheanum
+    anlass: "Aufsatz für die «National-Zeitung», Basel, vom 1. November 1924"
+    ga: 286

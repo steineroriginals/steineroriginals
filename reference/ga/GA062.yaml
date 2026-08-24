@@ -1,0 +1,100 @@
+# GA 62 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 62).
+
+ga: 62
+title: GA 62
+pdf: GA 062.pdf
+period: 1912–1913
+entry_count: 14
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 62
+    type: vortrag
+    datum: 31.10.1912
+    ort: Berlin
+    titel: "Wie widerlegt man Geistesforschung (Theosophie)?"
+  - seq: 2
+    ga: 62
+    type: vortrag
+    datum: 07.11.1912
+    ort: Berlin
+    titel: "Wie begründet man Geistesforschung (Theosophie)?"
+  - seq: 3
+    ga: 62
+    type: vortrag
+    datum: 14.11.1912
+    ort: Berlin
+    titel: Gegenwart und Zukunft
+  - seq: 4
+    ga: 62
+    type: vortrag
+    datum: 21.11.1912
+    ort: Berlin
+    titel: Die Wege der übersinnlichen Erkenntnis
+  - seq: 5
+    ga: 62
+    type: vortrag
+    datum: 05.12.1912
+    ort: Berlin
+    titel: und das Todesrätsel
+  - seq: 6
+    ga: 62
+    type: vortrag
+    datum: 12.12.1912
+    ort: Berlin
+    titel: Naturwissenschaft und Geistesforschung
+  - seq: 7
+    ga: 62
+    type: vortrag
+    datum: 09.01.1913
+    ort: Berlin
+    titel: Jakob Böhme
+  - seq: 8
+    ga: 62
+    type: vortrag
+    datum: 16.01.1913
+    ort: Berlin
+    titel: "VIIL Die Weltanschauung eines Kulturforschers der Ge- genwart, Herman Grimm, und die Geistesforschung"
+  - seq: 9
+    ga: 62
+    type: vortrag
+    datum: 30.01.1913
+    ort: Berlin
+    titel: Raphaels Mission im Lichte der Wissenschaft vom Geiste.
+  - seq: 10
+    ga: 62
+    type: vortrag
+    datum: 06.02.1913
+    ort: Berlin
+    titel: Märchendichtungen im Lichte der Geistesforschung
+  - seq: 11
+    ga: 62
+    type: vortrag
+    datum: 13.02.1913
+    ort: Berlin
+    titel: XL Lionardos geistige Größe am Wendepunkt zur neueren Zeit
+  - seq: 12
+    ga: 62
+    type: vortrag
+    datum: 06.03.1913
+    ort: Berlin
+    titel: XII. Irrtümer der Geistesforschung
+  - seq: 13
+    ga: 62
+    type: vortrag
+    datum: 03.04.1913
+    ort: Berlin
+    titel: XIII. Die Moral im Lichte der Geistesforschung
+  - seq: 14
+    ga: 62
+    type: vortrag
+    datum: 10.04.1913
+    ort: Berlin
+    titel: XIV. Das Erbe des neunzehnten Jahrhunderts

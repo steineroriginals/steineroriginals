@@ -1,0 +1,70 @@
+# GA 329 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 329.pdf table of contents.
+
+ga: 329
+title: GA 329
+pdf: GA 329.pdf
+period: 1919
+entry_count: 9
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 329
+    type: vortrag
+    datum: 11.03.1919
+    ort: Bern
+    titel: "Die wirklichen Grundlagen eines Völkerbundes in den wirt- schaftlichen, rechtlichen und geistigen Kräften der Völker"
+  - seq: 2
+    ga: 329
+    type: vortrag
+    datum: 17.03.1919
+    ort: "Bern:"
+    titel: "Welchen Sinn hat die Arbeit des modernen Proletariers?"
+  - seq: 3
+    ga: 329
+    type: vortrag
+    datum: 19.03.1919
+    ort: Winterthur
+    titel: Proletarische Forderungen und deren künftige praktische Verwirklichung
+  - seq: 4
+    ga: 329
+    type: vortrag
+    datum: 02.04.1919
+    ort: Basel
+    titel: Proletarische Forderungen und deren künftige praktische Verwirklichung
+  - seq: 5
+    ga: 329
+    type: vortrag
+    datum: 09.04.1919
+    ort: Basel
+    titel: Soziales Wollen und proletarische Forderungen
+  - seq: 6
+    ga: 329
+    type: vortrag
+    datum: 14.10.1919
+    ort: Bern
+    titel: Die geisteswissenschaftliche Grundlage der sozialen Frage
+  - seq: 7
+    ga: 329
+    type: vortrag
+    datum: 20.10.1919
+    ort: Basel
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 329
+    type: vortrag
+    datum: 06.11.1919
+    ort: Bern
+    titel: Der Geist als Führer durch die Sinnes- und in die übersinn- liche Welt
+  - seq: 9
+    ga: 329
+    type: vortrag
+    datum: 10.11.1919
+    ort: Basel
+    titel: Der Geist als Führer durch die Sinnes- und in die übersinn- liche Welt

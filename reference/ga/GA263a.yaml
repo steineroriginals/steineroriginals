@@ -1,0 +1,16 @@
+# GA 263a — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 263a.pdf table of contents.
+
+ga: 263a
+title: "Seite: 1 RUDOLF STEINER GESAMTAUSGABE DAS LEBENDIGE WESEN DER ANTHROPOSOPHIE UND SEINE PFLEGE Bis 1990 erschienene Bä..."
+pdf: GA 263a.pdf
+period: —
+entry_count: 0
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:

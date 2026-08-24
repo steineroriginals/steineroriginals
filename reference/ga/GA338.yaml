@@ -1,0 +1,112 @@
+# GA 338 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 338).
+
+ga: 338
+title: GA 338
+pdf: GA 338.pdf
+period: 1921
+entry_count: 12
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 338
+    type: vortrag
+    datum: 01.01.1921
+    ort: Stuttgart
+    reihe: Agitatoren-Kurs
+    titel: Der Dreigliederungsgedanke und die Frage der Abstimmung in Oberschlesien.
+    beschreibung: Vorträge für Oberschlesier über die Dreigliederung des sozialen Organismus
+  - seq: 2
+    ga: 338
+    type: vortrag
+    datum: 02.01.1921
+    ort: Stuttgart
+    reihe: Agitatoren-Kurs
+    titel: Der Dreigliederungsgedanke und die Frage der Abstimmung in Oberschlesien
+    beschreibung: Vorträge für Oberschlesier über die Dreigliederung des sozialen Organismus
+  - seq: 3
+    ga: 338
+    type: vortrag
+    datum: 12.02.1921
+    ort: Stuttgart
+    reihe: Rednerkurs
+    titel: Vortrag 1
+    beschreibung: Schulung für Redner des Bundes für Dreigliederung des sozialen Organismus
+  - seq: 4
+    ga: 338
+    type: vortrag
+    datum: 13.02.1921
+    ort: Stuttgart
+    reihe: Rednerkurs
+    titel: Vortrag 2
+    beschreibung: Schulung für Redner des Bundes für Dreigliederung des sozialen Organismus
+  - seq: 5
+    ga: 338
+    type: vortrag
+    datum: 13.02.1921
+    ort: Stuttgart
+    reihe: Rednerkurs
+    titel: Vortrag 3
+    beschreibung: Schulung für Redner des Bundes für Dreigliederung des sozialen Organismus
+  - seq: 6
+    ga: 338
+    type: vortrag
+    datum: 14.02.1921
+    ort: Stuttgart
+    reihe: Rednerkurs
+    titel: Vortrag 4
+    beschreibung: Schulung für Redner des Bundes für Dreigliederung des sozialen Organismus
+  - seq: 7
+    ga: 338
+    type: vortrag
+    datum: 14.02.1921
+    ort: Stuttgart
+    reihe: Rednerkurs
+    titel: Vortrag 5
+    beschreibung: Schulung für Redner des Bundes für Dreigliederung des sozialen Organismus
+  - seq: 8
+    ga: 338
+    type: vortrag
+    datum: 15.02.1921
+    ort: Stuttgart
+    reihe: Rednerkurs
+    titel: Vortrag 6
+    beschreibung: Schulung für Redner des Bundes für Dreigliederung des sozialen Organismus
+  - seq: 9
+    ga: 338
+    type: vortrag
+    datum: 15.02.1921
+    ort: Stuttgart
+    reihe: Rednerkurs
+    titel: Vortrag 7
+    beschreibung: Schulung für Redner des Bundes für Dreigliederung des sozialen Organismus
+  - seq: 10
+    ga: 338
+    type: vortrag
+    datum: 16.02.1921
+    ort: Stuttgart
+    reihe: Rednerkurs
+    titel: Vortrag 8
+    beschreibung: Schulung für Redner des Bundes für Dreigliederung des sozialen Organismus
+  - seq: 11
+    ga: 338
+    type: vortrag
+    datum: 16.02.1921
+    ort: Stuttgart
+    reihe: Rednerkurs
+    titel: Vortrag 9
+    beschreibung: Schulung für Redner des Bundes für Dreigliederung des sozialen Organismus
+  - seq: 12
+    ga: 338
+    type: vortrag
+    datum: 17.02.1921
+    ort: Stuttgart
+    reihe: Rednerkurs
+    titel: Vortrag 10
+    beschreibung: Schulung für Redner des Bundes für Dreigliederung des sozialen Organismus

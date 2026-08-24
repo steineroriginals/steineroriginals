@@ -1,0 +1,261 @@
+# GA 68c — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 68c).
+
+ga: 68c
+title: Goethe und die Gegenwart
+pdf: GA 068c.pdf
+period: 1889–1912
+entry_count: 35
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 68c
+    type: vortrag
+    datum: 22.11.1889
+    ort: Wien
+    titel: "Was Weimars Goethe-Archiv uns ist, auf Grund persönlicher Erfahrungen"
+    beschreibung: "Öffentlicher Vortrag im \"Goethe-Verein\""
+  - seq: 2
+    ga: 68c
+    type: vortrag
+    datum: 29.12.1889
+    ort: Hermannstadt
+    titel: Die Frau im Lichte der Goetheschen Weltanschauung. Ein Beitrag zur Frauenfrage
+    beschreibung: Öffentlicher Vortrag
+  - seq: 3
+    ga: 68c
+    type: vortrag
+    datum: 27.11.1891
+    ort: Wien
+    titel: Über das Geheimnis in Goethes Rätselmärchen in den «Unterhaltungen deutscher Ausgewanderter»
+    beschreibung: "Öffentlicher Vortrag im im \"Goethe-Verein\""
+  - seq: 4
+    ga: 68c
+    type: vortrag
+    datum: 22.02.1892
+    ort: Weimar
+    titel: Weimar im Mittelpunkt des deutschen Geisteslebens
+    beschreibung: Vortrag in einem Vortragszyklus über «Die Hauptströmungen des deutschen Geisteslebens» mit verschiedenen Rednern (veranstaltet von L. Thelemann) / Öffentlicher Vortrag
+  - seq: 5
+    ga: 68c
+    type: vortrag
+    datum: 28.08.1899
+    ort: Berlin
+    titel: Goethe und die Gegenwart.
+    beschreibung: Goethe-Feier der «Freien Volksbühne» Öffentlicher Vortrag
+  - seq: 6
+    ga: 68c
+    type: vortrag
+    datum: 18.06.1901
+    ort: Berlin
+    titel: Goethes Naturanschauung in der Gegenwart
+    beschreibung: Vortrag in der Abteilung Naturwissenschaft der Berliner Freien Studentenschaft (Finkenschaft) Öffentlicher Vortrag
+  - seq: 7
+    ga: 68c
+    type: vortrag
+    datum: 13.02.1902
+    ort: Hamburg
+    titel: Goethes «Faust» als Offenbarung seiner Weltanschauung
+    beschreibung: Öffentlicher Vortrag
+  - seq: 8
+    ga: 68c
+    type: vortrag
+    datum: 10.10.1903
+    ort: Berlin
+    titel: «Faust» als wissenschaftspädagogisches Problem
+    beschreibung: Vortrag für den Verband für Hochschulpädagogik Öffentlicher Vortrag
+  - seq: 9
+    ga: 68c
+    type: vortrag
+    datum: 29.03.1904
+    ort: Berlin
+    titel: Einleitung in Goethes Märchen von der grünen Schlange und der schönen Lilie
+    beschreibung: Ansprache vor der Lesung von Goethes Märchen und im Anschluß an das Märchen von der grünen Schlange und der schönen Lilie
+  - seq: 10
+    ga: 68c
+    type: vortrag
+    datum: 04.04.1904
+    ort: Berlin
+    titel: Das Märchen von der grünen Schlange und der schönen Lilie
+    beschreibung: nicht öffentlicher Vortrag
+  - seq: 11
+    ga: 68c
+    type: vortrag
+    datum: 22.04.1904
+    ort: München
+    titel: Goethe als Theosoph
+    beschreibung: Öffentlicher Vortrag
+  - seq: 12
+    ga: 68c
+    type: vortrag
+    datum: 27.11.1904
+    ort: Köln
+    titel: Das Märchen von der grünen Schlange und der schönen Lilie
+    beschreibung: Öffentlicher Vortrag
+  - seq: 13
+    ga: 68c
+    type: vortrag
+    datum: 07.12.1904
+    ort: Weimar
+    titel: Goethes Rätselmärchen von der grünen Schlange und der schönen Lilie
+    beschreibung: Öffentlicher Vortrag
+  - seq: 14
+    ga: 68c
+    type: vortrag
+    datum: 08.01.1905
+    ort: München
+    titel: Das Märchen von der grünen Schlange und der schönen Lilie
+    beschreibung: nicht öffentlicher Vortrag
+  - seq: 15
+    ga: 68c
+    type: vortrag
+    datum: 18.01.1905
+    ort: Bonn
+    titel: "Goethes Faust, ein Bild seiner Weltanschauung vom Gesichtspunkt des Theosophen"
+    beschreibung: Öffentlicher Vortrag
+  - seq: 16
+    ga: 68c
+    type: vortrag
+    datum: 26.01.1905
+    ort: Berlin
+    titel: Goethes Evangelium
+  - seq: 17
+    ga: 68c
+    type: vortrag
+    datum: 02.02.1905
+    ort: Berlin
+    titel: Goethes Evangelium II
+    beschreibung: Öffentlicher Vortrag
+  - seq: 18
+    ga: 68c
+    type: vortrag
+    datum: 18.03.1905
+    ort: Köln
+    titel: "Goethes Faust, ein Bild seiner Weltanschauung vom Gesichtspunkte des Theosophen"
+    beschreibung: Öffentlicher Vortrag
+  - seq: 19
+    ga: 68c
+    type: vortrag
+    datum: 31.01.1906
+    ort: Leipzig
+    titel: Goethes Evangelium
+    beschreibung: Öffentlicher Vortrag
+  - seq: 20
+    ga: 68c
+    type: vortrag
+    datum: 28.11.1906
+    ort: Düsseldorf
+    titel: Die Esoterik in Goethes Werken
+    beschreibung: Öffentlicher Vortrag
+  - seq: 21
+    ga: 68c
+    type: vortrag
+    datum: 31.12.1907
+    ort: Berlin
+    titel: «Die Geheimnisse» von Goethe (Berlin)
+    beschreibung: nicht öffentlicher Vortrag
+  - seq: 22
+    ga: 68c
+    type: vortrag
+    datum: 22.02.1908
+    ort: Kassel
+    titel: Über «Die Geheimnisse»
+    beschreibung: nicht öffentlicher Vortrag
+  - seq: 23
+    ga: 68c
+    type: vortrag
+    datum: 06.03.1908
+    ort: Amsterdam
+    reihe: Vortragsreise in den Niederlanden
+    titel: "Theosophie, Goethe und Hegel"
+    beschreibung: Öffentlicher Vortrag
+  - seq: 24
+    ga: 68c
+    type: vortrag
+    datum: 15.06.1908
+    ort: München
+    titel: "Goethe, Hegel und die Theosophie"
+    beschreibung: Öffentlicher Vortrag
+  - seq: 25
+    ga: 68c
+    type: vortrag
+    datum: 21.01.1909
+    ort: Heidelberg
+    titel: Das Märchen von Goethe (Goethes geheime Offenbarung (esoterisch))
+    beschreibung: nicht öffentlicher Vortrag
+  - seq: 26
+    ga: 68c
+    type: vortrag
+    datum: 22.09.1909
+    ort: Basel
+    titel: Die geisteswissenschaftliche Bedeutung des Faust
+    beschreibung: Öffentlicher Vortrag
+  - seq: 27
+    ga: 68c
+    type: vortrag
+    datum: 23.09.1909
+    ort: Basel
+    titel: Die tieferen Geheimnisse in Goethes Faust
+    beschreibung: Öffentlicher Vortrag
+  - seq: 28
+    ga: 68c
+    type: vortrag
+    datum: 25.10.1909
+    ort: Berlin
+    titel: Über Pandora
+    beschreibung: nicht öffentlicher Vortrag
+  - seq: 29
+    ga: 68c
+    type: vortrag
+    datum: 28.11.1909
+    ort: Leipzig
+    titel: Das Wesen des Egoismus. Goethes Wilhelm Meister (Leipzig)
+    beschreibung: nicht öffentlicher Vortrag
+  - seq: 30
+    ga: 68c
+    type: vortrag
+    datum: 29.11.1909
+    ort: Leipzig
+    titel: "Die Mission der Kunst (Homer, Äschylos, Dante, Shakespeare, Goethe)"
+    beschreibung: Öffentlicher Vortrag
+  - seq: 31
+    ga: 68c
+    type: vortrag
+    datum: 06.12.1909
+    ort: München
+    titel: Die Mission der Wahrheit
+    beschreibung: Öffentlicher Vortrag
+  - seq: 32
+    ga: 68c
+    type: vortrag
+    datum: 13.02.1910
+    ort: Frankfurt
+    titel: Goethes Faust (exoterisch)
+    beschreibung: Öffentlicher Vortrag
+  - seq: 33
+    ga: 68c
+    type: vortrag
+    datum: 09.01.1911
+    ort: Frankfurt
+    titel: Goethes geheime Offenbarung (esoterisch)
+    beschreibung: Öffentlicher Vortrag
+  - seq: 34
+    ga: 68c
+    type: vortrag
+    datum: 19.11.1911
+    ort: München
+    titel: Von Paracelsus zu Goethe
+    beschreibung: Öffentlicher Vortrag
+  - seq: 35
+    ga: 68c
+    type: vortrag
+    datum: 13.01.1912
+    ort: Winterthur
+    titel: Von Paracelsus zu Goethe
+    beschreibung: Öffentlicher Vortrag

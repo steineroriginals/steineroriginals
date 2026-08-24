@@ -1,0 +1,107 @@
+# GA 240 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 240).
+
+ga: 240
+title: RUDOLF STEINER Esoterische Betrachtungen karmischer Zusammenhänge aus dem Jahre 1924
+pdf: GA 240.pdf
+period: 1924
+entry_count: 15
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 240
+    type: vortrag
+    datum: 25.01.1924
+    ort: Bern
+    titel: Vortrag
+  - seq: 2
+    ga: 240
+    type: vortrag
+    datum: 28.01.1924
+    ort: Zürich
+    reihe: Karmabetrachtungen
+    titel: "Mond und Sonne, die zwei Tore in die geistige Welt. Vergangenheit und Zukunft, Notwendigkeit und Freiheit. Das Erleben des Karma"
+  - seq: 3
+    ga: 240
+    type: vortrag
+    datum: 06.02.1924
+    ort: Stuttgart
+    titel: Vortrag
+  - seq: 4
+    ga: 240
+    type: vortrag
+    datum: 09.04.1924
+    ort: Stuttgart
+    titel: "ERSTERVORTRAG, Stuttgart"
+  - seq: 5
+    ga: 240
+    type: vortrag
+    datum: 16.04.1924
+    ort: Bern
+    titel: Vortrag
+  - seq: 6
+    ga: 240
+    type: vortrag
+    datum: 01.06.1924
+    ort: Stuttgart
+    titel: "ZWEITER VORTRAG, Stuttgart"
+  - seq: 7
+    ga: 240
+    type: vortrag
+    datum: 18.07.1924
+    ort: Arnheim
+    titel: "ERSTERVORTRAG, Arnheim"
+  - seq: 8
+    ga: 240
+    type: vortrag
+    datum: 19.07.1924
+    ort: Arnheim
+    titel: "ZWEITER VORTRAG, Arnheim"
+  - seq: 9
+    ga: 240
+    type: vortrag
+    datum: 20.07.1924
+    ort: Arnheim
+    titel: Dritter Vortrag
+  - seq: 10
+    ga: 240
+    type: vortrag
+    datum: 12.08.1924
+    ort: Torquay
+    titel: Vortrag
+  - seq: 11
+    ga: 240
+    type: vortrag
+    datum: 14.08.1924
+    ort: Torquay
+    titel: Vortrag
+  - seq: 12
+    ga: 240
+    type: vortrag
+    datum: 21.08.1924
+    ort: Torquay
+    titel: Dritter Vortrag
+  - seq: 13
+    ga: 240
+    type: vortrag
+    datum: 24.08.1924
+    ort: London
+    titel: "ERSTER VORTRAG, London"
+  - seq: 14
+    ga: 240
+    type: vortrag
+    datum: 24.08.1924
+    ort: London
+    titel: "ZWEITERVORTRAG, London"
+  - seq: 15
+    ga: 240
+    type: vortrag
+    datum: 27.08.1924
+    ort: London
+    titel: "DRITTER VORTRAG, London"

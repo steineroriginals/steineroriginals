@@ -1,0 +1,205 @@
+# GA 265 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 265).
+
+ga: 265
+title: "Seite: 1 RUDOLF STEINER GESAMTAUSGABE VERÖFFENTLICHUNGEN ZUR GESCHICHTE UND AUS DEN INHALTEN DER ESOTERISCHEN SCHULE ..."
+pdf: GA 265.pdf
+period: 1905–1924
+entry_count: 31
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 265
+    type: vortrag
+    datum: 16.11.1905
+    ort: Berlin
+    titel: Der Weisheitskern in den Religionen
+  - seq: 2
+    ga: 265
+    type: vortrag
+    datum: 02.01.1906
+    ort: Berlin
+    titel: Über Freimaurerei. Die königliche Kunst in einer neuen Form (vor Herren und Damen)
+  - seq: 3
+    ga: 265
+    type: vortrag
+    datum: 26.06.1906
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 4
+    ga: 265
+    type: vortrag
+    datum: 13.10.1906
+    ort: Leipzig
+    titel: Die Beziehung der Edelsteine zu den menschlichen Sinnen. Edelsteine und Metalle in ihrem Zusammenhang mit der Erden- und Menschheitsevolution
+  - seq: 5
+    ga: 265
+    type: vortrag
+    datum: 12.12.1906
+    ort: München
+    titel: Kein Titel
+  - seq: 6
+    ga: 265
+    type: vortrag
+    datum: 17.12.1906
+    ort: Berlin
+    titel: Über die Bedeutung des Christfestes. Zeichen und Symbole des Weihnachtsfestes
+  - seq: 7
+    ga: 265
+    type: vortrag
+    datum: 21.05.1907
+    ort: München
+    titel: Erläuterungen zur Einrichtung und Ausgestaltung des Kongreß-Saales
+  - seq: 8
+    ga: 265
+    type: vortrag
+    datum: 22.12.1907
+    ort: Köln
+    titel: Kein Titel
+  - seq: 9
+    ga: 265
+    type: vortrag
+    datum: 15.04.1908
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 10
+    ga: 265
+    type: vortrag
+    datum: 02.10.1910
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 11
+    ga: 265
+    type: vortrag
+    datum: 30.08.1911
+    ort: München
+    titel: Kein Titel
+  - seq: 12
+    ga: 265
+    type: vortrag
+    datum: 16.12.1911
+    ort: Berlin
+    titel: Kein Titel
+    beschreibung: Esoterische Stunde
+  - seq: 13
+    ga: 265
+    type: vortrag
+    datum: 17.12.1911
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 14
+    ga: 265
+    type: vortrag
+    datum: 31.12.1911
+    ort: Hannover
+    titel: Kein Titel
+  - seq: 15
+    ga: 265
+    type: vortrag
+    datum: 07.05.1912
+    ort: Köln
+    titel: Kein Titel
+  - seq: 16
+    ga: 265
+    type: vortrag
+    datum: 05.09.1912
+    ort: München
+    titel: Kein Titel
+  - seq: 17
+    ga: 265
+    type: vortrag
+    datum: 24.09.1912
+    ort: Basel
+    titel: Kein Titel
+  - seq: 18
+    ga: 265
+    type: vortrag
+    datum: 25.09.1912
+    ort: Basel
+    titel: Kein Titel
+  - seq: 19
+    ga: 265
+    type: vortrag
+    datum: 06.02.1913
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 20
+    ga: 265
+    type: vortrag
+    datum: 08.02.1913
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 21
+    ga: 265
+    type: vortrag
+    datum: 10.02.1913
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 22
+    ga: 265
+    type: vortrag
+    datum: 12.05.1913
+    ort: Köln
+    titel: Kein Titel
+  - seq: 23
+    ga: 265
+    type: vortrag
+    datum: 10.05.1914
+    ort: Kassel
+    titel: Kein Titel
+  - seq: 24
+    ga: 265
+    type: vortrag
+    datum: 01.06.1914
+    ort: Basel
+    titel: Kein Titel
+  - seq: 25
+    ga: 265
+    type: vortrag
+    datum: 26.11.1916
+    ort: Dornach
+    titel: "Die Schuld der Religionsbekenntnisse am Hang der Seelen zum Materialismus. Der wahre Weg zum Christus. Technischer Fort schritt und Berufskarma. Das Verhältnis des Menschen zu den Hierarchien. Das Heraufbeschören zerstörender Kräfte aus dem Kosmos durch die Verirrungen des Menschen. Die Entgöttlichung des Wortes. Wie kann der heute Mensch den Weg zu dem Christus finden? James Watt. Die moderne Technik als Demonomagie"
+  - seq: 26
+    ga: 265
+    type: vortrag
+    datum: 14.06.1921
+    ort: Stuttgart
+    reihe: Erster Theologen-Kurs
+    titel: Vortrag 4
+  - seq: 27
+    ga: 265
+    type: vortrag
+    datum: 18.05.1923
+    ort: Kristiania (Oslo)
+    titel: Kein Titel
+  - seq: 28
+    ga: 265
+    type: vortrag
+    datum: 27.05.1923
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 29
+    ga: 265
+    type: vortrag
+    datum: 23.10.1923
+    ort: St. Gallen
+    titel: Kein Titel
+  - seq: 30
+    ga: 265
+    type: vortrag
+    datum: 03.01.1924
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 31
+    ga: 265
+    type: vortrag
+    datum: 04.06.1924
+    ort: Dornach
+    titel: "Die Natur der Sonne - Ursprung der Freimaurerei - Von Zeichen, Griff und Wort - Ku-Klux-Klan"
+    beschreibung: Vortrag für die Arbeiter am Goetheanum

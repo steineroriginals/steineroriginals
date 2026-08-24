@@ -1,0 +1,112 @@
+# GA 314 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 314.pdf table of contents.
+
+ga: 314
+title: Physiologisch-Therapeutisches
+pdf: GA 314.pdf
+period: 1920–1924
+entry_count: 16
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 314
+    type: vortrag
+    datum: 07.10.1920
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 314
+    type: vortrag
+    datum: 08.10.1920
+    ort: Dornach
+    titel: "ZWEITER VORTRAG, Dornach"
+  - seq: 3
+    ga: 314
+    type: vortrag
+    datum: 09.10.1920
+    ort: Dornach
+    titel: "DRITTER VORTRAG, Dornach"
+  - seq: 4
+    ga: 314
+    type: vortrag
+    datum: 09.10.1920
+    ort: Dornach
+    titel: "VIERTER VORTRAG, Dornach"
+  - seq: 5
+    ga: 314
+    type: vortrag
+    datum: 26.10.1922
+    ort: Stuttgart
+    titel: "ERSTER VORTRAG, Stuttgart"
+  - seq: 6
+    ga: 314
+    type: vortrag
+    datum: 27.10.1922
+    ort: Stuttgart
+    titel: "ZWEITER VORTRAG, Stuttgart"
+  - seq: 7
+    ga: 314
+    type: vortrag
+    datum: 27.10.1922
+    ort: Stuttgart
+    titel: "DRITTER VORTRAG, Stuttgart"
+  - seq: 8
+    ga: 314
+    type: vortrag
+    datum: 28.10.1922
+    ort: Stuttgart
+    titel: "VIERTER VORTRAG, Stuttgart"
+  - seq: 9
+    ga: 314
+    type: vortrag
+    datum: 31.12.1923
+    ort: Dornach
+    titel: III Zur Therapie
+  - seq: 10
+    ga: 314
+    type: vortrag
+    datum: 01.01.1924
+    ort: Dornach
+    titel: "ZWEITER VORTRAG, Dornach"
+  - seq: 11
+    ga: 314
+    type: vortrag
+    datum: 02.01.1924
+    ort: Dornach
+    titel: "DRITTER VORTRAG, Dornach"
+  - seq: 12
+    ga: 314
+    type: vortrag
+    datum: 07.04.1920
+    ort: Dornach
+    titel: IV Die Hygiene Als Soziale Frage
+  - seq: 13
+    ga: 314
+    type: vortrag
+    datum: 26.03.1920
+    ort: Dornach
+    titel: Votum
+  - seq: 14
+    ga: 314
+    type: ansprache
+    datum: 21.04.1924
+    ort: Dornach
+    titel: Ansprache
+  - seq: 15
+    ga: 314
+    type: besprechung
+    datum: 22.04.1924
+    ort: Dornach
+    titel: Erste Besprechung
+  - seq: 16
+    ga: 314
+    type: besprechung
+    datum: 23.04.1924
+    ort: Dornach
+    titel: Zweite Besprechung

@@ -1,0 +1,112 @@
+# GA 174b — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 174b).
+
+ga: 174b
+title: R U D O L F STEINER KOSMISCHE Band I
+pdf: GA 174b.pdf
+period: 1914–1921
+entry_count: 16
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 174b
+    type: vortrag
+    datum: 30.09.1914
+    ort: Stuttgart
+    titel: "ERSTER VORTRAG, Stuttgart"
+  - seq: 2
+    ga: 174b
+    type: vortrag
+    datum: 13.02.1915
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 174b
+    type: vortrag
+    datum: 14.02.1915
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 174b
+    type: vortrag
+    datum: 22.11.1915
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 174b
+    type: vortrag
+    datum: 23.11.1915
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 174b
+    type: vortrag
+    datum: 24.11.1915
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 174b
+    type: vortrag
+    datum: 12.03.1916
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 174b
+    type: vortrag
+    datum: 15.03.1916
+    ort: —
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 174b
+    type: vortrag
+    datum: 11.05.1917
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 174b
+    type: vortrag
+    datum: 13.05.1917
+    ort: —
+    titel: Zehnter Vortrag
+  - seq: 11
+    ga: 174b
+    type: vortrag
+    datum: 15.05.1917
+    ort: Stuttgart
+    titel: Die Beziehungen des seelischen Wesens des Menschen zum Leiblichen und zum Geistigen im Verlaufe der nachatlantischen Kulturentwicklung
+  - seq: 12
+    ga: 174b
+    type: vortrag
+    datum: 23.02.1918
+    ort: —
+    titel: Zwölfter Vortrag
+  - seq: 13
+    ga: 174b
+    type: vortrag
+    datum: 24.02.1918
+    ort: —
+    titel: Dreizehnter Vortrag
+  - seq: 14
+    ga: 174b
+    type: vortrag
+    datum: 23.04.1918
+    ort: —
+    titel: Vierzehnter Vortrag
+  - seq: 15
+    ga: 174b
+    type: vortrag
+    datum: 26.04.1918
+    ort: —
+    titel: Fünfzehnter Vortrag
+  - seq: 16
+    ga: 174b
+    type: vortrag
+    datum: 21.03.1921
+    ort: —
+    titel: Sechzehnter Vortrag

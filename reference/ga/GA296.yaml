@@ -1,0 +1,52 @@
+# GA 296 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 296).
+
+ga: 296
+title: GA 296
+pdf: GA 296.pdf
+period: 1919
+entry_count: 6
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 296
+    type: vortrag
+    datum: 09.08.1919
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 296
+    type: vortrag
+    datum: 10.08.1919
+    ort: —
+    titel: "Historische Forderungen der Gegenwart. Gegensatz von Ost und West. Maja - Ideologie. Der Unwirklichkeitscharakter der neueren Naturanschauung. Die Dreigliederung als historische Forderung. Die Erziehung des Kindes. Nachahmung, Autorität, Liebe und ihre Bezie- hung zu Geistesleben, Rechts- und Wirtschaftsleben."
+  - seq: 3
+    ga: 296
+    type: vortrag
+    datum: 11.08.1919
+    ort: —
+    titel: Nachklänge griechischer und römischer Seelenverfassung in der Gegenwart. Industrialismus und neues Wollen aus dem Geiste.
+  - seq: 4
+    ga: 296
+    type: vortrag
+    datum: 15.08.1919
+    ort: —
+    titel: "Ware, Arbeit, Kapital. Ihre Beziehungen zu Imagination - Brüderlich- keit; Inspiration - Gleichheit; und Intuition - Freiheit."
+  - seq: 5
+    ga: 296
+    type: vortrag
+    datum: 16.08.1919
+    ort: —
+    titel: Die Erziehung als Lehrerbildungsfrage. Der Materialismus als Prüfung der Menschheit. Das Wiederfinden des Weges zum Geiste. Neuorien- tierung der Lehrerbildung durch Geisteswissenschaft. Der dreiglied- rige Mensch.
+  - seq: 6
+    ga: 296
+    type: vortrag
+    datum: 17.08.1919
+    ort: —
+    titel: "Die Metamorphosen der menschlichen Intelligenz. Der Ägypter erfaßte das Kosmische durch seine Intelligenz; der Grieche das Tote. In der Gegenwart hat die Intelligenz die Neigung, sich mit dem Bösen zu verbinden. Verwandlung der Intelligenzkräfte durch das Christus- Mysterium."

@@ -1,0 +1,115 @@
+# GA 92 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 92).
+
+ga: 92
+title: GA 92
+pdf: GA 092.pdf
+period: 1904–1907
+entry_count: 16
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 92
+    type: vortrag
+    datum: 24.06.1904
+    ort: Berlin
+    titel: "ERSTER VORTRAG, Berlin"
+  - seq: 2
+    ga: 92
+    type: vortrag
+    datum: 01.07.1904
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 92
+    type: vortrag
+    datum: 08.07.1904
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 92
+    type: vortrag
+    datum: 15.07.1904
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 92
+    type: vortrag
+    datum: 22.07.1904
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 92
+    type: vortrag
+    datum: 30.09.1904
+    ort: —
+    titel: Vortrag
+  - seq: 7
+    ga: 92
+    type: vortrag
+    datum: 07.10.1904
+    ort: Berlin
+    reihe: Griechische und Germanische Mythologie
+    titel: Prometheus-Sage
+  - seq: 8
+    ga: 92
+    type: vortrag
+    datum: 14.10.1904
+    ort: Berlin
+    reihe: Griechische und Germanische Mythologie
+    titel: Die Argonauten-Sage und die Odyssee
+  - seq: 9
+    ga: 92
+    type: vortrag
+    datum: 21.10.1904
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 92
+    type: vortrag
+    datum: 28.10.1904
+    ort: Berlin
+    reihe: Griechische und Germanische Mythologie
+    titel: Der Trojanische Krieg
+  - seq: 11
+    ga: 92
+    type: vortrag
+    datum: 28.03.1905
+    ort: Berlin
+    titel: "ERSTER VORTRAG, Berlin"
+  - seq: 12
+    ga: 92
+    type: vortrag
+    datum: 05.05.1905
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 13
+    ga: 92
+    type: vortrag
+    datum: 12.05.1905
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 14
+    ga: 92
+    type: vortrag
+    datum: 19.05.1905
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 15
+    ga: 92
+    type: vortrag
+    datum: 03.12.1905
+    ort: Köln
+    titel: VORTRAG          Köln
+  - seq: 16
+    ga: 92
+    type: vortrag
+    datum: 02.12.1907
+    ort: Nürnberg
+    titel: "ÖFFENTLICHER VORTRAG, Nürnberg"

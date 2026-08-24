@@ -1,0 +1,162 @@
+# GA 87 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 87).
+
+ga: 87
+title: Antike Mysterien und Christentum Vierundzwanzig Vorträge über das
+pdf: GA 087.pdf
+period: 1901–1902
+entry_count: 25
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 87
+    type: vortrag
+    datum: 19.10.1901
+    ort: Berlin
+    titel: "Erster Vortrag: Über Heraklit"
+  - seq: 2
+    ga: 87
+    type: vortrag
+    datum: 26.10.1901
+    ort: —
+    titel: "Zweiter Vortrag: Griechische Mythologie"
+  - seq: 3
+    ga: 87
+    type: vortrag
+    datum: 02.11.1901
+    ort: —
+    titel: "Dritter Vortrag: Heraklit und Pythagoras"
+  - seq: 4
+    ga: 87
+    type: vortrag
+    datum: 09.11.1901
+    ort: —
+    titel: "Vierter Vortrag: Die pythagoreische Lehre"
+  - seq: 5
+    ga: 87
+    type: vortrag
+    datum: 16.11.1901
+    ort: —
+    titel: "Fünfter Vortrag: Die Pythagoreer"
+  - seq: 6
+    ga: 87
+    type: vortrag
+    datum: 23.11.1901
+    ort: —
+    titel: "Sechster Vortrag: Das Verhältnis des Seelischen und Geistigen - Zur Körperwelt bei den Pythagoreern"
+  - seq: 7
+    ga: 87
+    type: vortrag
+    datum: 30.11.1901
+    ort: —
+    titel: "Siebenter Vortrag: Über das Totenbuch"
+  - seq: 8
+    ga: 87
+    type: vortrag
+    datum: 28.12.1901
+    ort: —
+    titel: "Achter Vortrag: Der Herakles-Mythos"
+  - seq: 9
+    ga: 87
+    type: vortrag
+    datum: 04.01.1902
+    ort: —
+    titel: "Neunter Vortrag: Die platonische Philosophie vom Standpunkte der Mystik"
+  - seq: 10
+    ga: 87
+    type: vortrag
+    datum: 11.01.1902
+    ort: —
+    titel: "Zehnter Vortrag: Platons «Phaidon» und «Timaios» - Gespräch über die Unsterblichkeit oder Unendlichkeit der Seele"
+  - seq: 11
+    ga: 87
+    type: vortrag
+    datum: 17.01.1902
+    ort: —
+    titel: "Elfter Vortrag: Die Grundvorstellungen der Platonischen Weltanschauung"
+  - seq: 12
+    ga: 87
+    type: vortrag
+    datum: 24.01.1902
+    ort: —
+    titel: "Zwölfter Vortrag: Platon und das Christentum"
+  - seq: 13
+    ga: 87
+    type: vortrag
+    datum: 01.02.1902
+    ort: —
+    titel: "Dreizehnter Vortrag: Die Mystik des Philon von Alexandrien"
+  - seq: 14
+    ga: 87
+    type: vortrag
+    datum: 08.02.1902
+    ort: —
+    titel: "Vierzehnter Vortrag: Philon und die Geistes­ strömungen seiner Zeit - Therapeuten, Essäertum"
+  - seq: 15
+    ga: 87
+    type: vortrag
+    datum: 15.02.1902
+    ort: —
+    titel: "Fünfzehnter Vortrag: Das Christentum der Evangelien"
+  - seq: 16
+    ga: 87
+    type: vortrag
+    datum: 22.02.1902
+    ort: —
+    titel: "Sechzehnter Vortrag: Der Christusgedanke und seine Beziehung zum ägyptischen und buddhistischen Geistesleben"
+  - seq: 17
+    ga: 87
+    type: vortrag
+    datum: 01.03.1902
+    ort: —
+    titel: "Siebzehnter Vortrag: Der Christusgedanke im ägyptischen Geistesleben"
+  - seq: 18
+    ga: 87
+    type: vortrag
+    datum: 08.03.1902
+    ort: —
+    titel: "Achtzehnter Vortrag: Das Matthäus-Evangelium und seine Beziehung zum ägyptischen und modernen Geistesleben"
+  - seq: 19
+    ga: 87
+    type: vortrag
+    datum: 15.03.1902
+    ort: —
+    titel: "Neunzehnter Vortrag: Darstellung des Initiationsprozesses"
+  - seq: 20
+    ga: 87
+    type: vortrag
+    datum: 22.03.1902
+    ort: —
+    titel: "Zwanzigster Vortrag: Die Apokalypse"
+  - seq: 21
+    ga: 87
+    type: vortrag
+    datum: 29.03.1902
+    ort: —
+    titel: "Einundzwanzigster Vortrag: Gnosis und Apokalypse"
+  - seq: 23
+    ga: 87
+    type: vortrag
+    datum: 05.04.1902
+    ort: —
+    titel: "Zweiundzwanzigster Vortrag: Paulinisches Christentum und Johanneisches Christentum"
+  - seq: 24
+    ga: 87
+    type: vortrag
+    datum: 19.04.1902
+    ort: —
+    titel: "Dreiundzwanzigster Vortrag: Augustinus"
+  - seq: 25
+    ga: 87
+    type: vortrag
+    datum: 26.04.1902
+    ort: Berlin
+    reihe: Das Christentum als mystische Tatsache
+    titel: Über Scotus Erigena
+    beschreibung: Vorträge in der Theosophischen Bibliothek

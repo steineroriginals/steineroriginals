@@ -1,0 +1,94 @@
+# GA 165 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 165).
+
+ga: 165
+title: GA 165
+pdf: GA 165.pdf
+period: 1915–1916
+entry_count: 13
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 165
+    type: vortrag
+    datum: 19.12.1915
+    ort: Berlin
+    titel: "VORTRAG, Berlin"
+  - seq: 2
+    ga: 165
+    type: vortrag
+    datum: 26.12.1915
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 3
+    ga: 165
+    type: vortrag
+    datum: 27.12.1915
+    ort: Dornach
+    titel: "ZWEITER VORTRAG, Dornach"
+  - seq: 4
+    ga: 165
+    type: vortrag
+    datum: 28.12.1915
+    ort: Basel
+    titel: III.
+  - seq: 5
+    ga: 165
+    type: vortrag
+    datum: 28.12.1915
+    ort: Dornach
+    titel: "DRITTER VORTRAG, Dornach"
+  - seq: 6
+    ga: 165
+    type: vortrag
+    datum: 31.12.1915
+    ort: Dornach
+    titel: Vortrag
+  - seq: 7
+    ga: 165
+    type: vortrag
+    datum: 01.01.1916
+    ort: Domach
+    titel: Vortrag
+  - seq: 8
+    ga: 165
+    type: vortrag
+    datum: 02.01.1916
+    ort: Dornach
+    titel: "DRITTER VORTRAG, Dornach"
+  - seq: 9
+    ga: 165
+    type: vortrag
+    datum: 06.01.1916
+    ort: Domach
+    titel: Vortrag
+  - seq: 10
+    ga: 165
+    type: vortrag
+    datum: 07.01.1916
+    ort: Dornach
+    titel: Vortrag
+  - seq: 11
+    ga: 165
+    type: vortrag
+    datum: 09.01.1916
+    ort: Bern
+    titel: "der darwinistischen Weltanschauung und Gefahren beim Praktisch- werden gegenwärtiger materialistischer Theorien, insbesondere für die Erziehung. Die heutige Kluft zwischen Wahrheit und Kunst. Die Empfindung des heutigen Menschen für das Künstlerische in Musik, Poesie, Malerei, Skulptur, Architektur. Notwendigkeit einer Wieder- belebung der Künste. VI. DIE GEISTIGE VEREINIGUNG DER MENSCHHEIT DURCH DEN CHRISTUS-IMPULS"
+  - seq: 12
+    ga: 165
+    type: vortrag
+    datum: 15.01.1916
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 13
+    ga: 165
+    type: vortrag
+    datum: 16.01.1916
+    ort: Dornach
+    titel: "ZWEITER VORTRAG, Dornach"

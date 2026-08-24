@@ -1,0 +1,76 @@
+# GA 72 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 72).
+
+ga: 72
+title: GA 72
+pdf: GA 072.pdf
+period: 1917–1918
+entry_count: 10
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 72
+    type: vortrag
+    datum: 18.10.1917
+    ort: Basel
+    titel: und ihr Verhältnis zum Leib
+  - seq: 2
+    ga: 72
+    type: vortrag
+    datum: 19.10.1917
+    ort: Basel
+    titel: Bekenntnis
+  - seq: 3
+    ga: 72
+    type: vortrag
+    datum: 23.11.1917
+    ort: Basel
+    titel: Forschungsergebnisse über das Ewige in der Menschenseele und über das Wesen der Freiheit
+  - seq: 4
+    ga: 72
+    type: vortrag
+    datum: 24.11.1917
+    ort: Basel
+    titel: sittlich-sozialen Ideen
+  - seq: 5
+    ga: 72
+    type: vortrag
+    datum: 28.11.1917
+    ort: Bern
+    titel: Zusammenhang mit dessen ewiger Wesenheit
+  - seq: 6
+    ga: 72
+    type: vortrag
+    datum: 30.11.1917
+    ort: Bern
+    titel: der Freiheit und des sozial-sittlichen Lebens
+  - seq: 7
+    ga: 72
+    type: vortrag
+    datum: 30.10.1918
+    ort: Basel
+    titel: des Menschenleibes
+  - seq: 8
+    ga: 72
+    type: vortrag
+    datum: 31.10.1918
+    ort: Basel
+    titel: Rechtfertigung der übersinnlichen Erkenntnis durch die Naturwissenschaft
+  - seq: 9
+    ga: 72
+    type: vortrag
+    datum: 09.12.1918
+    ort: Bern
+    titel: der Anthroposophie
+  - seq: 10
+    ga: 72
+    type: vortrag
+    datum: 11.12.1918
+    ort: Bern
+    titel: Gesichtspunkte der Anthroposophie

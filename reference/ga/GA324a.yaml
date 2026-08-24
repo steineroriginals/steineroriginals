@@ -1,0 +1,208 @@
+# GA 324a — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 324a).
+
+ga: 324a
+title: GA 324a
+pdf: GA 324a.pdf
+period: 1904–1922
+entry_count: 29
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 324a
+    type: vortrag
+    datum: 01.11.1904
+    ort: Berlin
+    titel: Apokalypse V
+    beschreibung: Fragenbeantwortung
+  - seq: 2
+    ga: 324a
+    type: vortrag
+    datum: 24.03.1905
+    ort: Berlin
+    titel: Über die vierte Dimension (Über den vierdimensionalen Raum)
+  - seq: 3
+    ga: 324a
+    type: vortrag
+    datum: 31.03.1905
+    ort: Berlin
+    titel: Über die vierte Dimension (Über den vierdimensionalen Raum)
+  - seq: 4
+    ga: 324a
+    type: vortrag
+    datum: 17.05.1905
+    ort: Berlin
+    reihe: Die vierte Dimension
+    titel: Die vierte Dimension
+  - seq: 5
+    ga: 324a
+    type: vortrag
+    datum: 24.05.1905
+    ort: Berlin
+    reihe: Die vierte Dimension
+    titel: Die vierte Dimension
+  - seq: 6
+    ga: 324a
+    type: vortrag
+    datum: 31.05.1905
+    ort: Berlin
+    reihe: Die vierte Dimension
+    titel: Die vierte Dimension
+  - seq: 7
+    ga: 324a
+    type: vortrag
+    datum: 07.06.1905
+    ort: Berlin
+    reihe: Die vierte Dimension
+    titel: Die vierte Dimension
+  - seq: 8
+    ga: 324a
+    type: vortrag
+    datum: 07.11.1905
+    ort: Berlin
+    titel: Der vierdimensionale Raum
+  - seq: 9
+    ga: 324a
+    type: vortrag
+    datum: 02.09.1906
+    ort: Stuttgart
+    titel: Fragenbeantwortung
+  - seq: 10
+    ga: 324a
+    type: vortrag
+    datum: 28.06.1908
+    ort: Nürnberg
+    titel: Kein Titel
+  - seq: 11
+    ga: 324a
+    type: vortrag
+    datum: 22.10.1908
+    ort: Berlin
+    titel: Über die vierte Dimension
+  - seq: 12
+    ga: 324a
+    type: vortrag
+    datum: 21.04.1909
+    ort: Düsseldorf
+    titel: Fragenbeantwortung
+  - seq: 13
+    ga: 324a
+    type: vortrag
+    datum: 22.04.1909
+    ort: Düsseldorf
+    titel: Fragenbeantwortung
+  - seq: 14
+    ga: 324a
+    type: vortrag
+    datum: 02.11.1910
+    ort: Berlin
+    titel: Anthroposophie - Psychosophie - Pneumatosophie
+  - seq: 15
+    ga: 324a
+    type: vortrag
+    datum: 01.10.1911
+    ort: Basel
+    titel: Selbsterkenntnis. Das Einströmen der aufbauenden Christuskräfte in die Menschheitskultur. Die Ätherisation des Blutes. Das Eingreifen des ätherischen Christus in die Erdenentwickelung
+  - seq: 16
+    ga: 324a
+    type: vortrag
+    datum: 25.11.1912
+    ort: München
+    titel: Wahrheiten der Geistesforschung
+  - seq: 17
+    ga: 324a
+    type: vortrag
+    datum: 13.02.1913
+    ort: Berlin
+    titel: Lionardos geistige Grösse am Wendepunkt zur neueren Zeit
+  - seq: 18
+    ga: 324a
+    type: vortrag
+    datum: 27.11.1913
+    ort: Berlin
+    titel: Vom Tode
+  - seq: 19
+    ga: 324a
+    type: vortrag
+    datum: 07.03.1920
+    ort: Stuttgart
+    titel: Kein Titel
+    beschreibung: Besprechung nach dem Vortrag des Herrn Dr. v. Baravalle «Die Relativitätstheorie»
+  - seq: 20
+    ga: 324a
+    type: vortrag
+    datum: 11.03.1920
+    ort: Stuttgart
+    titel: Kein Titel
+    beschreibung: Besprechung nach dem Vortrag des Herrn Dr. Blümel «Das Imaginäre und der Begriff des Unendlichen und Unmöglichen»
+  - seq: 21
+    ga: 324a
+    type: vortrag
+    datum: 11.03.1920
+    ort: Stuttgart
+    titel: Kein Titel
+    beschreibung: Besprechung nach dem Vortrag des Herrn Baurat A. Strakosch «Die mathematischen Gebilde als Zwischenglied zwischen Urbild und Abbild»
+  - seq: 22
+    ga: 324a
+    type: vortrag
+    datum: 30.03.1920
+    ort: Dornach
+    reihe: Anthroposophie und Fachwissenschaften
+    titel: Besprechung nach dem öffentlichen Vortrag von Herrn Dr. Kolisko «Anthroposophie und Chemie»
+    beschreibung: Kursus während des Kurses für Ärzte und Mediziner. (Erster Ärztekurs)
+  - seq: 23
+    ga: 324a
+    type: vortrag
+    datum: 31.03.1920
+    ort: Dornach
+    reihe: Anthroposophie und Fachwissenschaften
+    titel: Besprechung nach dem öffentlichen Vortrag von Herrn Stockmeyer «Anthroposophie und Physik»
+    beschreibung: Kursus während des Kurses für Ärzte und Mediziner. (Erster Ärztekurs)
+  - seq: 24
+    ga: 324a
+    type: vortrag
+    datum: 15.10.1920
+    ort: Dornach
+    titel: Besprechung anknüpfend an Vorträge von Fräulein Dr. E. Vreede
+  - seq: 25
+    ga: 324a
+    type: vortrag
+    datum: 15.01.1921
+    ort: Stuttgart
+    reihe: Proben über die Beziehungen der Geisteswissenschaft zu den einzelnen Fachwissenschaften
+    titel: Vortrag 4
+    beschreibung: Freie anthroposophische Hochschulkurse Stuttgart. Vier Vorträge für Akademiker
+  - seq: 26
+    ga: 324a
+    type: vortrag
+    datum: 07.04.1921
+    ort: Dornach
+    titel: Dritter Disputationsabend
+    beschreibung: Zweiter anthroposophischer Hochschulkurs 3.-10. April
+  - seq: 27
+    ga: 324a
+    type: vortrag
+    datum: 26.08.1921
+    ort: Dornach
+    titel: Fragenbeantwortung
+    beschreibung: "Sommerkurs, Summer Art Course vom 21. bis zum 27. August"
+  - seq: 28
+    ga: 324a
+    type: vortrag
+    datum: 12.04.1922
+    ort: Haag
+    titel: Kein Titel
+    beschreibung: Anthroposophisch-wissenschaftlichen Kurs
+  - seq: 29
+    ga: 324a
+    type: vortrag
+    datum: 29.12.1922
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: "Wahrscheinlich innerhalb des Kursus \"Der Entstehungsmoment der Naturwissenschaft in der Weltgeschichte und ihre seitherige Entwicklung\". Naturwissenschaftliche Diskussion. Ergänzende Bemerkungen zum Vortrag von E. Blümel"

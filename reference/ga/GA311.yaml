@@ -1,0 +1,71 @@
+# GA 311 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 311).
+
+ga: 311
+title: GA 311
+pdf: GA 311.pdf
+period: 1924
+entry_count: 8
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 311
+    type: vortrag
+    datum: 12.08.1924
+    ort: Torquay
+    titel: "ERSTER VORTRAG, Torquay"
+  - seq: 2
+    ga: 311
+    type: vortrag
+    datum: 13.08.1924
+    ort: Torquay
+    reihe: "so bleibt beim kleinen Kind auch alles festgehalten, nicht weil es"
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 311
+    type: vortrag
+    datum: 14.08.1924
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 311
+    type: vortrag
+    datum: 15.08.1924
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 311
+    type: vortrag
+    datum: 16.08.1924
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 311
+    type: vortrag
+    datum: 18.08.1924
+    ort: Torquay
+    reihe: Die Kunst des Erziehens aus dem Erfassen der Menschenwesenheit
+    titel: Vortrag 5
+    beschreibung: Pädagogischer Kursus für die Lehrer der in London neu zu begründenden Schule mit Waldorfschul-Pädagogik
+  - seq: 7
+    ga: 311
+    type: vortrag
+    datum: 19.08.1924
+    ort: Torquay
+    reihe: Die Kunst des Erziehens aus dem Erfassen der Menschenwesenheit
+    titel: Vortrag 6
+    beschreibung: Pädagogischer Kursus für die Lehrer der in London neu zu begründenden Schule mit Waldorfschul-Pädagogik
+  - seq: 8
+    ga: 311
+    type: vortrag
+    datum: 20.08.1924
+    ort: Torquay
+    reihe: Die Kunst des Erziehens aus dem Erfassen der Menschenwesenheit
+    titel: Vortrag 2
+    beschreibung: Diskussion der Teilnehmer am Pädagogischen Kursus

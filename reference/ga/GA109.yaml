@@ -1,0 +1,213 @@
+# GA 109 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 109).
+
+ga: 109
+title: "Nachlass-Verwaltung Buch: 109 Seite: 2 RUDOLF STEINER"
+pdf: GA 109.pdf
+period: 1909–1911
+entry_count: 30
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 109
+    type: vortrag
+    datum: 21.01.1909
+    ort: Heidelberg
+    titel: "Komplizierte Fragen der Wiederverkörperung. Wodurch bleibt das, was die Eingeweihten errungen haben, für die Zukunft erhalten?"
+  - seq: 2
+    ga: 109
+    type: vortrag
+    datum: 03.02.1909
+    ort: Basel
+    titel: Reinkarnation und Karma (Basel)
+  - seq: 3
+    ga: 109
+    type: vortrag
+    datum: 07.02.1909
+    ort: Stuttgart
+    titel: Reinkarnation und Karma (Stuttgart)
+  - seq: 4
+    ga: 109
+    type: vortrag
+    datum: 15.02.1909
+    ort: Berlin
+    titel: Das Christentum im Entwickelungsgang unserer gegenwärtigen Menschheit — Führende Individualitäten und avatarische Wesenheiten
+  - seq: 5
+    ga: 109
+    type: vortrag
+    datum: 19.02.1909
+    ort: Leipzig
+    titel: Reinkarnation und Karma. Intimere Fragen der Wiederverkörperung
+  - seq: 6
+    ga: 109
+    type: vortrag
+    datum: 25.02.1909
+    ort: Kassel
+    titel: Vererbung der Ätherleiber
+  - seq: 7
+    ga: 109
+    type: vortrag
+    datum: 07.03.1909
+    ort: München
+    titel: Intimere Reinkarnationsfragen
+  - seq: 8
+    ga: 109
+    type: vortrag
+    datum: 22.03.1909
+    ort: Berlin
+    titel: "Luziferische, ahrimanische und asurische Einflüsse auf den Menschen. Die Christus-Tat und die widerstrebenden geistigen Mächte Luzifer, Ahriman, Asuras"
+  - seq: 9
+    ga: 109
+    type: vortrag
+    datum: 28.03.1909
+    ort: Rom
+    titel: Geisteswissenschaftliche Ergebnisse über die Menschheits- entwickelung
+  - seq: 10
+    ga: 109
+    type: vortrag
+    datum: 31.03.1909
+    ort: Rom
+    reihe: Einführung in die Theosophie
+    titel: Siebter Vortrag (Geisteswissenschaftliche Ergebnisse über die Menschheitsentwickelung)
+    beschreibung: Geschlossener Kreis
+  - seq: 11
+    ga: 109
+    type: vortrag
+    datum: 06.04.1909
+    ort: Malsch
+    titel: Zur Einweihung des Franz von Assisi-Zweiges
+  - seq: 12
+    ga: 109
+    type: vortrag
+    datum: 10.04.1909
+    ort: Köln
+    titel: Das makrokosmische und das mikrokosmische Feuer - Die Vergeistigung des Atems und des Blutes
+  - seq: 13
+    ga: 109
+    type: vortrag
+    datum: 11.04.1909
+    ort: Köln
+    titel: "Ostersonntagsfeier. Das Ereignis von Golgatha - Die Bruderschaft des heiligen Gral, das vergeistigte Feuer"
+    beschreibung: Ostersonntagsfeier
+  - seq: 14
+    ga: 109
+    type: vortrag
+    datum: 16.05.1909
+    ort: Kristiania (Oslo)
+    titel: Alte Offenbarung und neuzeitliches Fragenlernen
+  - seq: 15
+    ga: 109
+    type: vortrag
+    datum: 25.05.1909
+    ort: Berlin
+    titel: Der Gott des Alpha und der Gott des Omega
+  - seq: 16
+    ga: 109
+    type: vortrag
+    datum: 31.05.1909
+    ort: Budapest
+    titel: Von Buddha zu Christus
+    beschreibung: Internationaler Kongress der Föderation europäischer Sektionen der Theosophischen Gesellschaft
+  - seq: 17
+    ga: 109
+    type: vortrag
+    datum: 03.06.1909
+    ort: Budapest
+    reihe: gehalten in Budapest vom 3- bis 12. Juni 1909
+    titel: Die Theosophie des Rosenkreuzers
+  - seq: 18
+    ga: 109
+    type: vortrag
+    datum: 04.06.1909
+    ort: Budapest
+    reihe: gehalten in Budapest vom 3- bis 12. Juni 1909
+    titel: Die verschiedene Art der Beseelung der uns umgebenden Welt
+  - seq: 19
+    ga: 109
+    type: vortrag
+    datum: 05.06.1909
+    ort: Budapest
+    reihe: gehalten in Budapest vom 3- bis 12. Juni 1909
+    titel: "Das Wesen des Menschen !"
+  - seq: 20
+    ga: 109
+    type: vortrag
+    datum: 06.06.1909
+    ort: Budapest
+    reihe: gehalten in Budapest vom 3- bis 12. Juni 1909
+    titel: "Vierter Vortrag, Budapest"
+  - seq: 21
+    ga: 109
+    type: vortrag
+    datum: 07.06.1909
+    ort: Budapest
+    reihe: gehalten in Budapest vom 3- bis 12. Juni 1909
+    titel: Die physische Welt als Ausdruck geistiger Wirkungen und Wesen
+  - seq: 22
+    ga: 109
+    type: vortrag
+    datum: 08.06.1909
+    ort: Budapest
+    reihe: gehalten in Budapest vom 3- bis 12. Juni 1909
+    titel: Die Gestaltung und die Wandlungen des physischen Menschenleibes
+  - seq: 23
+    ga: 109
+    type: vortrag
+    datum: 09.06.1909
+    ort: Budapest
+    reihe: gehalten in Budapest vom 3- bis 12. Juni 1909
+    titel: Siebenter Vortrag
+  - seq: 24
+    ga: 109
+    type: vortrag
+    datum: 10.06.1909
+    ort: Budapest
+    reihe: gehalten in Budapest vom 3- bis 12. Juni 1909
+    titel: "Die Entwickelungsstadien unserer Erde. Lemurische, atlantische, nachatlantische Epoche"
+  - seq: 25
+    ga: 109
+    type: vortrag
+    datum: 11.06.1909
+    ort: Budapest
+    reihe: gehalten in Budapest vom 3- bis 12. Juni 1909
+    titel: Budapest;
+  - seq: 26
+    ga: 109
+    type: vortrag
+    datum: 12.06.1909
+    ort: Budapest
+    reihe: gehalten in Budapest vom 3- bis 12. Juni 1909
+    titel: "Einiges über Karma, Reinkarnation und über die Einweihung"
+  - seq: 27
+    ga: 109
+    type: vortrag
+    datum: 14.06.1909
+    ort: Wien
+    reihe: gehalten in Budapest vom 3- bis 12. Juni 1909
+    titel: III Buddha und Christus
+  - seq: 28
+    ga: 109
+    type: vortrag
+    datum: 15.06.1909
+    ort: Breslau
+    reihe: gehalten in Budapest vom 3- bis 12. Juni 1909
+    titel: Zur Einweihung des Zweiges Breslau
+  - seq: 29
+    ga: 109
+    type: vortrag
+    datum: 01.01.1911
+    ort: Stuttgart
+    reihe: Okkulte Geschichte. Persönlichkeiten und Ereignisse der Weltgeschichte im Lichte der Geisteswissenschaft
+    titel: Vortrag 6
+  - seq: 30
+    ga: 109
+    type: vortrag
+    datum: 17.12.1911
+    ort: Berlin
+    titel: "Über Faust. Das Verhältnis des Goetheschen \"Faust\" zu Goethe"

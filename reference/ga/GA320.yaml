@@ -1,0 +1,82 @@
+# GA 320 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 320.pdf table of contents.
+
+ga: 320
+title: GA 320
+pdf: GA 320.pdf
+period: 1919–1921
+entry_count: 11
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 320
+    type: vortrag
+    datum: 08.08.1921
+    ort: Dornach
+    titel: Diskussionsvotum
+  - seq: 2
+    ga: 320
+    type: vortrag
+    datum: 23.12.1919
+    ort: Stuttgart
+    titel: "ERSTER VORTRAG, Stuttgart"
+  - seq: 3
+    ga: 320
+    type: vortrag
+    datum: 24.12.1919
+    ort: —
+    titel: "Drei Forschungsrichtungen der gewöhnlichen Naturwissenschaft. Im Gegensatz dazu Goethes Methode. Stellung der Mathematik: Phoronomie und Mechanik. Zentralkräfte mit Potential - peri- pherische Universalkräfte ohne Potential."
+  - seq: 4
+    ga: 320
+    type: vortrag
+    datum: 25.12.1919
+    ort: —
+    titel: Überbrückung der Kluft zwischen Phoronomie und Mechanik. Auftrieb des Gehirns. Gegensatz von Masse und Licht im Ver- hältnis zum Bewußtsein. Entstehung der Farben durch das Prisma. Gegensatz von Muskel und Auge im Verhältnis zum Astralleib.
+  - seq: 5
+    ga: 320
+    type: vortrag
+    datum: 26.12.1919
+    ort: —
+    titel: "Goethes erster Versuch mit dem Prisma. Farben als Rand- erscheinungen. Doppelprisma, Sammellinse, Zerstreuungslinse. Verengung oder Weitung des Lichtkegels anstatt gebrochener Lichtstrahlen. Hebung, Visierkraft des Auges. Organisation des Auges."
+  - seq: 6
+    ga: 320
+    type: vortrag
+    datum: 27.12.1919
+    ort: —
+    titel: Urphänomen der Farbenlehre. Subjektives Spektrum. Newtons Vorstellung der Lichtkorpuskeln. Fresnelscher Versuch. Undula- tionstheorie. Lichtauslöschung durch die Natriumflamme. «Zer- legung » der Dunkelheit.
+  - seq: 7
+    ga: 320
+    type: vortrag
+    datum: 29.12.1919
+    ort: —
+    titel: "Kirchhoff-Bunsenscher Versuch. Phosphoreszenz, Fluoreszenz, Körperfarben. Gegensätzliches Verhältnis des Menschen zu Raum und Zeit einerseits, zur Geschwindigkeit andererseits; zu Licht und Farbe."
+  - seq: 8
+    ga: 320
+    type: vortrag
+    datum: 30.12.1919
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 9
+    ga: 320
+    type: vortrag
+    datum: 31.12.1919
+    ort: —
+    titel: Achter Vortrag
+  - seq: 10
+    ga: 320
+    type: vortrag
+    datum: 02.01.1920
+    ort: —
+    titel: "Ton und Schwingung. Die Geschwindigkeit als das Reale. Ist der Ton subjektiv? Die Sympathie der Erscheinungen. Die Organisation des Gehörsinnes: Leier des Apoll. Erst mit dem Kehlkopf zusammen wird das Ohr ein Ganzes, dem Auge ver- gleichbar. Beziehung des Tones zur Luftschwingung."
+  - seq: 11
+    ga: 320
+    type: vortrag
+    datum: 03.01.1920
+    ort: —
+    titel: "Erscheinungen der Elektrizität. Streben des 19. Jahrhunderts nach einem abstrakten Gleichen in den verschiedenen Naturkräften. Hertzsche Wellen als Krönung davon. Das revolutionierende Phänomen der Kathodenstrahlen. Ihre Modifikation: Röntgen- strahlen, et-, ß-y y-Strahlen. Wachen und Schlafen, Denken und Wille, Licht und Elektrizität. In Elektrizität und Magnetismus studiert man die Materie konkret."

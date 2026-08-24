@@ -1,0 +1,94 @@
+# GA 161 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 161).
+
+ga: 161
+title: GA 161
+pdf: GA 161.pdf
+period: 1915
+entry_count: 13
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 161
+    type: vortrag
+    datum: 09.01.1915
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 161
+    type: vortrag
+    datum: 10.01.1915
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 161
+    type: vortrag
+    datum: 30.01.1915
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 161
+    type: vortrag
+    datum: 02.02.1915
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 161
+    type: vortrag
+    datum: 05.02.1915
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 161
+    type: vortrag
+    datum: 06.02.1915
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 161
+    type: vortrag
+    datum: 07.02.1915
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 161
+    type: vortrag
+    datum: 27.03.1915
+    ort: —
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 161
+    type: vortrag
+    datum: 28.03.1915
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 161
+    type: vortrag
+    datum: 02.04.1915
+    ort: —
+    titel: Zehnter Vortrag
+  - seq: 11
+    ga: 161
+    type: vortrag
+    datum: 03.04.1915
+    ort: —
+    titel: Elfter Vortrag
+  - seq: 12
+    ga: 161
+    type: vortrag
+    datum: 01.05.1915
+    ort: Dornach
+    titel: Die ersten Schritte auf dem Wege der Initiation. Denken und Wollen. Kopfhellsehen und Bauchhellsehen
+  - seq: 13
+    ga: 161
+    type: vortrag
+    datum: 02.05.1915
+    ort: —
+    titel: Dreizehnter Vortrag

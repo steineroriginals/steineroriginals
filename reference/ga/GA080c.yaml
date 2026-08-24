@@ -1,0 +1,91 @@
+# GA 80c — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 80c).
+
+ga: 80c
+title: Die anthroposophische Geisteswissenschaft und die großen Zivilisationsfragen
+pdf: GA 080c.pdf
+period: 1921–1922
+entry_count: 12
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 80c
+    type: vortrag
+    datum: 19.02.1921
+    ort: Amsterdam
+    titel: Die anthroposophische Geisteswissenschaft und die großen Zivilisationsfragen der Gegenwart (Amsterdam)
+  - seq: 2
+    ga: 80c
+    type: vortrag
+    datum: 20.02.1921
+    ort: Hilversum
+    titel: Ansprache
+    beschreibung: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+  - seq: 3
+    ga: 80c
+    type: vortrag
+    datum: 20.02.1921
+    ort: Hilversum
+    titel: Die anthroposophische Geisteswissenschaft und die großen Zivilisationsfragen der Gegenwart (Hilversum)
+  - seq: 4
+    ga: 80c
+    type: vortrag
+    datum: 21.02.1921
+    ort: Utrecht
+    titel: Die anthroposophische Geisteswissenschaft und die großen Zivilisationsfragen der Gegenwart (Utrecht)
+  - seq: 5
+    ga: 80c
+    type: vortrag
+    datum: 23.02.1921
+    ort: Haag
+    titel: Die anthroposophische Geisteswissenschaft und die großen Zivilisationsfragen der Gegenwart (Haag)
+  - seq: 6
+    ga: 80c
+    type: vortrag
+    datum: 25.02.1921
+    ort: Delft
+    titel: Das Wirtschaftsleben in der Dreigliederung des sozialen Organismus
+    beschreibung: Vortrag für den Verein «Vrije Studie» der Studenten der Technischen Hochschule
+  - seq: 7
+    ga: 80c
+    type: vortrag
+    datum: 25.02.1921
+    ort: Amsterdam
+    titel: Die anthroposophische Geisteswissenschaft und die großen Zivilisationsfragen der Gegenwart
+  - seq: 8
+    ga: 80c
+    type: vortrag
+    datum: 01.03.1921
+    ort: Amsterdam
+    titel: Philosophie und Anthroposophie
+    beschreibung: Vortrag für die «Vereenigung voor Wysbegeerte»
+  - seq: 9
+    ga: 80c
+    type: vortrag
+    datum: 02.03.1921
+    ort: Rotterdam
+    titel: Die anthroposophische Geisteswissenschaft und die großen Zivilisationsfragen der Gegenwart (Rotterdam)
+  - seq: 10
+    ga: 80c
+    type: vortrag
+    datum: 31.10.1922
+    ort: Haag
+    titel: Die Erkenntnis des geistigen Wesens des Menschen
+  - seq: 11
+    ga: 80c
+    type: vortrag
+    datum: 03.11.1922
+    ort: Haag
+    titel: Die Erkenntnis des geistigen Wesens der Welt
+  - seq: 12
+    ga: 80c
+    type: vortrag
+    datum: 06.11.1922
+    ort: Delft
+    titel: Die übersinnliche Erkenntnis und die Wissenschaft der Gegenwart

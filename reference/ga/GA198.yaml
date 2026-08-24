@@ -1,0 +1,118 @@
+# GA 198 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 198).
+
+ga: 198
+title: GA 198
+pdf: GA 198.pdf
+period: 1920
+entry_count: 17
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 198
+    type: vortrag
+    datum: 20.03.1920
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 198
+    type: vortrag
+    datum: 21.03.1920
+    ort: Dornach
+    titel: "ZWEITER VORTRAG, Dornach"
+  - seq: 3
+    ga: 198
+    type: vortrag
+    datum: 28.03.1920
+    ort: Dornach
+    titel: "DRITTER VORTRAG, Dornach"
+  - seq: 4
+    ga: 198
+    type: vortrag
+    datum: 02.04.1920
+    ort: D o r n a c h
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 198
+    type: vortrag
+    datum: 03.04.1920
+    ort: Dornach
+    titel: "FÜNFTER VORTRAG, Dornach"
+  - seq: 6
+    ga: 198
+    type: vortrag
+    datum: 30.05.1920
+    ort: Dornach
+    titel: "SECHSTERVORTRAG, Dornach"
+  - seq: 7
+    ga: 198
+    type: vortrag
+    datum: 03.06.1920
+    ort: Dornach
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 198
+    type: vortrag
+    datum: 06.06.1920
+    ort: Dornach
+    titel: "ACHTER VORTRAG, Dornach"
+  - seq: 9
+    ga: 198
+    type: vortrag
+    datum: 02.07.1920
+    ort: Dornach
+    titel: "NEUNTER VORTRAG, Dornach"
+  - seq: 10
+    ga: 198
+    type: vortrag
+    datum: 03.07.1920
+    ort: Dornach
+    titel: "ZEHNTER VORTRAG, Dornach"
+  - seq: 11
+    ga: 198
+    type: vortrag
+    datum: 04.07.1920
+    ort: Dornach
+    titel: "ELFTER VORTRAG, Dornach"
+  - seq: 12
+    ga: 198
+    type: vortrag
+    datum: 09.07.1920
+    ort: Bern
+    titel: "ZWÖLFTER VORTRAG, Bern"
+  - seq: 13
+    ga: 198
+    type: vortrag
+    datum: 10.07.1920
+    ort: Dornach
+    titel: "DREIZEHNTER VORTRAG, Dornach"
+  - seq: 14
+    ga: 198
+    type: vortrag
+    datum: 11.07.1920
+    ort: Dornach
+    titel: "VIERZEHNTERVORTRAG, Dornach"
+  - seq: 15
+    ga: 198
+    type: vortrag
+    datum: 16.07.1920
+    ort: Dornach
+    titel: "FÜNFZEHNTER VORTRAG, Dornach"
+  - seq: 16
+    ga: 198
+    type: vortrag
+    datum: 17.07.1920
+    ort: Dornach
+    titel: "SECHZEHNTER VORTRAG, Dornach"
+  - seq: 17
+    ga: 198
+    type: vortrag
+    datum: 18.07.1920
+    ort: Dornach
+    titel: "SIEBZEHNTER VORTRAG, Dornach"

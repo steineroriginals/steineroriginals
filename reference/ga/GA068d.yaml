@@ -1,0 +1,214 @@
+# GA 68d — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 068d.pdf table of contents.
+
+ga: 68d
+title: Das Wesen des Menschen im Lichte der Geisteswissenschaft
+pdf: GA 068d.pdf
+period: 1893–1909
+entry_count: 33
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 68d
+    type: vortrag
+    datum: 26.10.1905
+    ort: Berlin
+    titel: Die soziale Frage und die Theosophie
+  - seq: 2
+    ga: 68d
+    type: vortrag
+    datum: 02.11.1905
+    ort: Berlin
+    titel: Die Frauenfrage und die Theosophie
+  - seq: 3
+    ga: 68d
+    type: vortrag
+    datum: 04.12.1905
+    ort: Düsseldorf
+    titel: Bruderschaft und Daseinskampf
+  - seq: 4
+    ga: 68d
+    type: vortrag
+    datum: 16.12.1905
+    ort: München
+    titel: Bruderschaft und Daseinskampf
+  - seq: 5
+    ga: 68d
+    type: vortrag
+    datum: 05.02.1906
+    ort: Bremen
+    titel: Bruderschaft und Daseinskampf
+  - seq: 6
+    ga: 68d
+    type: vortrag
+    datum: 03.03.1906
+    ort: Hamburg
+    titel: Erziehungsfragen
+  - seq: 7
+    ga: 68d
+    type: fragenbeantwortung
+    datum: 07.04.1906
+    ort: Hamburg
+    titel: "Ausbildung des Willens. Bedeutung der rechten Gesin­ nung. Die Puppe. Zweite Lebensepoche: Ätherleib. Aus­ bildung von Gedächtnis und Aufmerksamkeit. Dritte Le­ bensepoche: Astralleib. Heranbildung der Urteilskraft durch Ausbildung der Gefühlswelt. Selbstständigkeit des Menschen. Bedeutung der Umgebung für das neu gebo­ rene Kind. Fragenbeantwortung: Vererbungsverhältnisse. Erzieher als Beobachter. Nicht gewaltsam in die Erziehung des Kindes eingreifen. Hypnotismus und Spiritismus im Lichte der Theosophie"
+  - seq: 8
+    ga: 68d
+    type: vortrag
+    datum: 10.01.1907
+    ort: Berlin
+    titel: Die Erziehung des Kindes vom Standpunkte der Geisteswissenschaft
+  - seq: 9
+    ga: 68d
+    type: vortrag
+    datum: 15.02.1907
+    ort: Leipzig
+    titel: Der Lebenslauf des Menschen vom geisteswissenschaftlichen Standpunkt
+  - seq: 10
+    ga: 68d
+    type: vortrag
+    datum: 02.07.1907
+    ort: Eisenach
+    titel: Das Wesen des Menschen
+  - seq: 11
+    ga: 68d
+    type: vortrag
+    datum: 11.10.1907
+    ort: Leipzig
+    titel: Der Krankheitswahn im Lichte der Geisteswissenschaft
+  - seq: 12
+    ga: 68d
+    type: vortrag
+    datum: 12.10.1907
+    ort: Leipzig
+    titel: Das Gesundheitsfieber im Lichte der Geisteswissenschaft
+  - seq: 13
+    ga: 68d
+    type: vortrag
+    datum: 14.11.1907
+    ort: Berlin
+    titel: Mann und Weib im Lichte der Geisteswissenschaft
+  - seq: 14
+    ga: 68d
+    type: vortrag
+    datum: 10.12.1907
+    ort: Stuttgart
+    titel: Mann und Weib im Lichte der Geheimwissenschaft
+  - seq: 15
+    ga: 68d
+    type: vortrag
+    datum: 10.01.1908
+    ort: Leipzig
+    titel: Mann und Weib im Lichte der Geisteswissenschaft
+  - seq: 16
+    ga: 68d
+    type: vortrag
+    datum: 11.01.1908
+    ort: Leipzig
+    titel: "Mann, Weib und Kind im Lichte der Geisteswissenschaft"
+  - seq: 17
+    ga: 68d
+    type: vortrag
+    datum: 29.01.1908
+    ort: Wiesbaden
+    titel: Das Wesen des Menschen im Lichte der Geisteswissenschaft
+  - seq: 18
+    ga: 68d
+    type: vortrag
+    datum: 03.02.1908
+    ort: Mannheim
+    titel: Mann und Weib im Lichte der Geisteswissenschaft
+  - seq: 19
+    ga: 68d
+    type: vortrag
+    datum: 06.02.1908
+    ort: Karlsruhe
+    titel: Der Lebenslauf des Menschen vom GEHEIMWISSENSCHAFTLICHEN STANDPUNKT
+  - seq: 20
+    ga: 68d
+    type: vortrag
+    datum: 13.02.1908
+    ort: Berlin
+    titel: Der Krankheitswahn im Lichte der Geisteswissenschaft
+  - seq: 21
+    ga: 68d
+    type: vortrag
+    datum: 27.02.1908
+    ort: Berlin
+    titel: Das Gesundheitsfieber im Lichte der Geisteswissenschaft
+  - seq: 22
+    ga: 68d
+    type: vortrag
+    datum: 19.03.1908
+    ort: München
+    titel: "Mann, Weib und Kind im Lichte der Geisteswissenschaft"
+  - seq: 23
+    ga: 68d
+    type: vortrag
+    datum: 21.05.1908
+    ort: Hamburg
+    titel: "Mann, Weib und Kind im GEISTESWISSENSCHAFTLICHEN LlCHTE"
+  - seq: 24
+    ga: 68d
+    type: vortrag
+    datum: 05.11.1908
+    ort: Hannover
+    titel: Der Lebenslauf des Menschen vom Standpunkte der Geisteswissenschaft
+  - seq: 25
+    ga: 68d
+    type: vortrag
+    datum: 18.11.1908
+    ort: Prag
+    titel: "Mann, Weib und Kind voM Standpunkte der Geheimwissenschaft"
+  - seq: 26
+    ga: 68d
+    type: vortrag
+    datum: 15.12.1908
+    ort: Nürnberg
+    titel: Das Geheimnis der menschlichen Temperamente
+  - seq: 27
+    ga: 68d
+    type: vortrag
+    datum: 08.01.1909
+    ort: München
+    titel: "Astralleib und Ich. Unterschiede beim Zusammenhang der Wesensglieder beim wachenden und schlafenden Men­ schen. Tod und Wiedergeburt. Vererbung und Individua­ lität. Wesensglieder und Vererbung. Das Temperament als Ergebnis der Anpassung des Ich an die vererbte Leibeshül­ le. Die vier Grundfarben der Temperamente: der melan­ cholische, phlegmatische, sanguinische und cholerische Mensch. Physische Ausprägung der Temperamente: Ge­ stalt und Gang. Zusammenwirken von Wechselndem und Ewigem im Menschen. Ein Wort Goethes. Ernährungsfragen im Lichte der Geisteswissenschaft"
+  - seq: 28
+    ga: 68d
+    type: vortrag
+    datum: 09.01.1909
+    ort: München
+    titel: Die Temperamente im Lichte der Geisteswissenschaft
+  - seq: 29
+    ga: 68d
+    type: vortrag
+    datum: 19.01.1909
+    ort: Karlsruhe
+    titel: Das Geheimnis der menschlichen Temperamente
+  - seq: 30
+    ga: 68d
+    type: vortrag
+    datum: 08.02.1909
+    ort: Stuttgart
+    titel: Gesundheitsfragen im Lichte der Geisteswissenschaft
+  - seq: 31
+    ga: 68d
+    type: vortrag
+    datum: 06.03.1909
+    ort: München
+    titel: Gesundheitsfragen im Lichte der Geisteswissenschaft
+  - seq: 32
+    ga: 68d
+    type: vortrag
+    datum: 23.04.1909
+    ort: Bonn
+    titel: Das Geheimnis der Temperamente in GEISTESWISSENSCHAFTLICHER BELEUCHTUNG
+  - seq: 33
+    ga: 68d
+    type: vortrag
+    datum: 20.03.1893
+    ort: Weimar
+    titel: ANHANG Hypnotismus mit Berücksichtigung des Spiritismus

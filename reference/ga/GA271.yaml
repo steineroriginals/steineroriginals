@@ -1,0 +1,70 @@
+# GA 271 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 271).
+
+ga: 271
+title: "Nachlass-Verwaltung Buch: 271 Seite: 2 RUDOLF STEINER"
+pdf: GA 271.pdf
+period: 1888–1921
+entry_count: 9
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 271
+    type: vortrag
+    datum: 09.11.1888
+    ort: Wien
+    titel: Goethe als Vater einer neuen Ästhetik
+  - seq: 2
+    ga: 271
+    type: vortrag
+    datum: 28.10.1909
+    ort: Berlin
+    titel: II Das Wesen der Künste
+  - seq: 3
+    ga: 271
+    type: vortrag
+    datum: 15.02.1918
+    ort: München
+    titel: Das Sinnlich-Übersinnliche in seiner Verwirklichung durch die Kunst
+  - seq: 4
+    ga: 271
+    type: vortrag
+    datum: 17.02.1918
+    ort: München
+    titel: Das Sinnlich-Übersinnliche in seiner Verwirklichung durch die Kunst
+  - seq: 5
+    ga: 271
+    type: vortrag
+    datum: 05.05.1918
+    ort: München
+    titel: Die Quellen der Künstlerphantasie und die Quellen der übersinnlichen Erkenntnis I. Die Quellen der künstlerischen Phantasie und die Quellen der übersinnlichen Erkenntnis
+  - seq: 6
+    ga: 271
+    type: vortrag
+    datum: 06.05.1918
+    ort: München
+    titel: Die Quellen der Künstlerphantasie und die Quellen der übersinnlichen Erkenntnis II. Die Quellen der künstlerischen Phantasie und die Quellen der übersinnlichen Erkenntnis
+  - seq: 7
+    ga: 271
+    type: vortrag
+    datum: 01.06.1918
+    ort: Wien
+    titel: Das Sinnlich-Übersinnliche. Geistige Erkenntnis und künstlerisches Schaffen
+  - seq: 8
+    ga: 271
+    type: vortrag
+    datum: 12.09.1920
+    ort: Dornach
+    titel: Der übersinnliche Ursprung des Künstlerischen
+  - seq: 9
+    ga: 271
+    type: vortrag
+    datum: 09.04.1921
+    ort: Dornach
+    titel: "ner, wie er einleitend im Vortrag"

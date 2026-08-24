@@ -1,0 +1,65 @@
+# GA 78 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 78).
+
+ga: 78
+title: Xu den Veröffentlichungen aus dem Vortragswerk von Rudolf Steiner Die Grundlage der anthroposophisch orientierten Gei...
+pdf: GA 078.pdf
+period: 1921
+entry_count: 8
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 78
+    type: vortrag
+    datum: 29.08.1921
+    ort: Stuttgart
+    titel: "ERSTER VORTRAG, Stuttgart"
+  - seq: 2
+    ga: 78
+    type: vortrag
+    datum: 30.08.1921
+    ort: Stuttgart
+    reihe: "gehalten habe. Sie werden es unmittelbar bei einer solchen in der neuesten Zeit, in dem Zeitalter des Agnostizismus, ..."
+    titel: Kein Titel
+  - seq: 3
+    ga: 78
+    type: vortrag
+    datum: 31.08.1921
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 78
+    type: vortrag
+    datum: 01.09.1921
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 78
+    type: vortrag
+    datum: 02.09.1921
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 78
+    type: vortrag
+    datum: 03.09.1921
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 78
+    type: vortrag
+    datum: 05.09.1921
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 78
+    type: vortrag
+    datum: 06.09.1921
+    ort: —
+    titel: Achter Vortrag

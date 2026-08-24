@@ -1,0 +1,102 @@
+# GA 283 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 283).
+
+ga: 283
+title: GA 283
+pdf: GA 283.pdf
+period: 1906–1923
+entry_count: 13
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 283
+    type: vortrag
+    datum: 10.11.1906
+    ort: Leipzig
+    titel: "Die Musik, vom okkulten Standpunkt aus betrachtet -"
+  - seq: 2
+    ga: 283
+    type: vortrag
+    datum: 12.11.1906
+    ort: Berlin
+    reihe: Über die Musik I
+    titel: Über die Musik I
+  - seq: 3
+    ga: 283
+    type: vortrag
+    datum: 26.11.1906
+    ort: Berlin
+    reihe: Über die Musik II
+    titel: Über die Musik II. Wie Karma wirkt in bezug auf musikalische Vererbung
+  - seq: 4
+    ga: 283
+    type: vortrag
+    datum: 03.12.1906
+    ort: Köln
+    titel: Die okkulte Bedeutung der Musik
+  - seq: 5
+    ga: 283
+    type: vortrag
+    datum: 29.09.1920
+    ort: Dornach
+    titel: Besprechung nach den Vorträgen von Herrn Paul Baumann «Musik und eurythmische Erziehungskunst»
+    beschreibung: Besprechung nach den Vorträgen von Herrn Paul Baumann «Musik und eurythmische Erziehungskunst»
+  - seq: 6
+    ga: 283
+    type: vortrag
+    datum: 30.09.1920
+    ort: Dornach
+    titel: Über Musik I
+  - seq: 7
+    ga: 283
+    type: vortrag
+    datum: 30.09.1920
+    ort: Dornach
+    titel: Über Musik II
+  - seq: 8
+    ga: 283
+    type: vortrag
+    datum: 20.12.1920
+    ort: Dornach
+    titel: Schlußwort
+    beschreibung: Schlußwort nach dem Vortrag von Herrn Dr. Thomastik über «Akustik und Geigenbau»
+  - seq: 9
+    ga: 283
+    type: vortrag
+    datum: 07.02.1921
+    ort: Dornach
+    titel: Besprechung nach dem Vortrag von Herrn Leopold van der Pals «Geisteswissenschaftliche Gesichtspunkte zur Musik»
+    beschreibung: Besprechung nach dem Vortrag von Herrn Leopold van der Pals «Geisteswissenschaftliche Gesichtspunkte zur Musik»
+  - seq: 10
+    ga: 283
+    type: vortrag
+    datum: 02.12.1922
+    ort: Dornach
+    titel: Des Menschen Äußerung durch Ton und Wort. Das Wesen der Sprache. Ursprache und Urgesang. Die zwölf Urkonsonanten. Die Entwicklung der Sprache und des Gesangs. Das Verhältnis der Konsonanten zu den Vokalen
+  - seq: 11
+    ga: 283
+    type: vortrag
+    datum: 07.03.1923
+    ort: Stuttgart
+    titel: Kein Titel
+    beschreibung: Zwei Vorträge für Waldorfleher und Musiker über Musik
+  - seq: 12
+    ga: 283
+    type: vortrag
+    datum: 08.03.1923
+    ort: Stuttgart
+    titel: Kein Titel
+    beschreibung: Zwei Vorträge für Waldorflehrer und Musiker über Musik
+  - seq: 13
+    ga: 283
+    type: vortrag
+    datum: 16.03.1923
+    ort: Dornach
+    reihe: Die Impulsierung des weltgeschichtlichen Geschehens durch geistige Mächte
+    titel: "Änderungen der Seelenverfassung des Menschen seit dem 4. Jahrhundert im Zusammenhang mit der Ablösung der Geister der Form durch die Archai. Musikalisches Erleben in Vergangenheit, Gegenwart und Zukunft"

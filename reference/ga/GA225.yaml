@@ -1,0 +1,88 @@
+# GA 225 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 225.pdf table of contents.
+
+ga: 225
+title: "GESELLSCHAFT Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 225"
+pdf: GA 225.pdf
+period: 1923
+entry_count: 12
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 225
+    type: vortrag
+    datum: 05.05.1923
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 2
+    ga: 225
+    type: vortrag
+    datum: 06.05.1923
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 3
+    ga: 225
+    type: vortrag
+    datum: 01.07.1923
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 4
+    ga: 225
+    type: vortrag
+    datum: 06.07.1923
+    ort: Dornach
+    titel: Eine Jahrhundertbetrachtung 1823 bis 1923
+  - seq: 5
+    ga: 225
+    type: vortrag
+    datum: 07.07.1923
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 6
+    ga: 225
+    type: vortrag
+    datum: 08.07.1923
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 7
+    ga: 225
+    type: vortrag
+    datum: 15.07.1923
+    ort: Dornach
+    titel: Die gnostischen Grundlagen des Vorchristentums. Imaginationen von Europa
+  - seq: 8
+    ga: 225
+    type: vortrag
+    datum: 20.07.1923
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 9
+    ga: 225
+    type: vortrag
+    datum: 21.07.1923
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 10
+    ga: 225
+    type: vortrag
+    datum: 22.07.1923
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 11
+    ga: 225
+    type: vortrag
+    datum: 22.09.1923
+    ort: Dornach
+    titel: Die Traumeswelt als eine Übergangsströmung zwischen der physisch- natürlichen Welt und der Welt der sittlichen Anschauungen
+  - seq: 12
+    ga: 225
+    type: vortrag
+    datum: 23.09.1923
+    ort: Dornach
+    titel: Kein Titel

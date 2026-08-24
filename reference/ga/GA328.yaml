@@ -1,0 +1,52 @@
+# GA 328 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 328).
+
+ga: 328
+title: GA 328
+pdf: GA 328.pdf
+period: 1919
+entry_count: 6
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 328
+    type: vortrag
+    datum: 03.02.1919
+    ort: Zürich
+    titel: "ERSTER VORTRAG, Zürich"
+  - seq: 2
+    ga: 328
+    type: vortrag
+    datum: 05.02.1919
+    ort: Zürich
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 328
+    type: vortrag
+    datum: 10.02.1919
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 328
+    type: vortrag
+    datum: 12.02.1919
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 328
+    type: vortrag
+    datum: 25.02.1919
+    ort: —
+    titel: Öffentlicher Vortrag
+  - seq: 6
+    ga: 328
+    type: vortrag
+    datum: 08.03.1919
+    ort: —
+    titel: Öffentlicher Vortrag

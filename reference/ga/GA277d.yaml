@@ -1,0 +1,380 @@
+# GA 277d — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 277d).
+
+ga: 277d
+title: Die Entstehung und Entwicklung der Eurythmie 1923–1925
+pdf: GA 277d.pdf
+period: 1923–1924
+entry_count: 52
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen
+  - Notizen zur Ansprache (ohne vollständigen Ansprache-Text im Band)
+  - Briefe, Reiseprogramme, Lehrpläne
+  - Zeitungsberichte über Aufführungen
+  - Aufsätze im «Goetheanum» (Zeitungsartikel)
+
+entries:
+  - seq: 1
+    ga: 277d
+    type: vortrag
+    datum: 07.01.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 2
+    ga: 277d
+    type: vortrag
+    datum: 14.01.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 3
+    ga: 277d
+    type: vortrag
+    datum: 28.01.1923
+    ort: Dornach
+    titel: Auszug aus Mitgliedervortrag
+    beschreibung: Auszug (GA 277d)
+  - seq: 4
+    ga: 277d
+    type: vortrag
+    datum: 04.02.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 5
+    ga: 277d
+    type: vortrag
+    datum: 11.02.1923
+    ort: Dornach
+    titel: Künstlerische Sprachbehandlung
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 6
+    ga: 277d
+    type: vortrag
+    datum: 18.02.1923
+    ort: Dornach
+    titel: "Das Seelenleben in seiner Äusserung in Sprache und Gesang oder in Bewegung und Haltung. Konsonant, Vokal - Nerv, Blut"
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 7
+    ga: 277d
+    type: vortrag
+    datum: 01.04.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 8
+    ga: 277d
+    type: vortrag
+    datum: 02.04.1923
+    ort: Dornach
+    titel: Gesten und eurythmische Gebärdensprache
+    beschreibung: Einleitende Worte zur Eurythmie- Aufführung
+  - seq: 9
+    ga: 277d
+    type: vortrag
+    datum: 05.04.1923
+    ort: Bern
+    titel: Öffentlicher Vortrag (BERN)
+    beschreibung: Auszug (GA 277d)
+  - seq: 10
+    ga: 277d
+    type: vortrag
+    datum: 07.04.1923
+    ort: Dornach
+    titel: Beleuchtungs-Eurythmie
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 11
+    ga: 277d
+    type: vortrag
+    datum: 08.04.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Ansprache zur Eurythmie
+  - seq: 12
+    ga: 277d
+    type: vortrag
+    datum: 09.04.1923
+    ort: Basel
+    titel: Öffentlicher Vortrag (Basel)
+    beschreibung: Auszug (GA 277d)
+  - seq: 13
+    ga: 277d
+    type: vortrag
+    datum: 14.04.1923
+    ort: Dornach
+    titel: "Gebärde in Pantomime, im Tanz und in der Raumbewegungskunst, der Eurythmie"
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 14
+    ga: 277d
+    type: vortrag
+    datum: 15.04.1923
+    ort: Dornach
+    titel: Einleitende Worte zur Aufführung «Eurythmie als Kunst». Über die andeutende Gebärde
+    beschreibung: Pädagogischer Kurs für Schweizer Lehrer
+  - seq: 15
+    ga: 277d
+    type: vortrag
+    datum: 18.04.1923
+    ort: Dornach
+    titel: Einleitende Worte zur Aufführung «Eurythmie als Erziehungsmittel»
+  - seq: 16
+    ga: 277d
+    type: vortrag
+    datum: 21.04.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 17
+    ga: 277d
+    type: vortrag
+    datum: 18.05.1923
+    ort: Kristiania (Oslo)
+    titel: Auszug aus Mitgliedervortrag
+    beschreibung: Auszug (GA 277d)
+  - seq: 18
+    ga: 277d
+    type: vortrag
+    datum: 03.06.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 19
+    ga: 277d
+    type: vortrag
+    datum: 09.06.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 20
+    ga: 277d
+    type: vortrag
+    datum: 10.06.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 21
+    ga: 277d
+    type: vortrag
+    datum: 16.06.1923
+    ort: Dornach
+    titel: Über den Sprachgenius. Der Bildekräfteleib des Menschen
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 22
+    ga: 277d
+    type: vortrag
+    datum: 17.06.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 23
+    ga: 277d
+    type: vortrag
+    datum: 24.06.1923
+    ort: Dornach
+    titel: Johannistimmung. Das Miterleben der Jahresfeste
+    beschreibung: Einleitende Worte zur Eurythmie- Aufführung
+  - seq: 24
+    ga: 277d
+    type: vortrag
+    datum: 08.07.1923
+    ort: Dornach
+    titel: Die Überwindung der Schwerkraft durch die Eurythmie
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 25
+    ga: 277d
+    type: vortrag
+    datum: 09.07.1923
+    ort: Dornach
+    titel: Einleitende Worte zur Eurythmieaufführung
+  - seq: 26
+    ga: 277d
+    type: vortrag
+    datum: 15.07.1923
+    ort: Dornach
+    titel: Über das Wesen der Gebärde
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 27
+    ga: 277d
+    type: vortrag
+    datum: 17.07.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 28
+    ga: 277d
+    type: vortrag
+    datum: 22.07.1923
+    ort: Dornach
+    titel: Die Imaginative Offenbarung der Sprache
+    beschreibung: Einleitende Worte zur Eurythmie- Aufführung
+  - seq: 29
+    ga: 277d
+    type: vortrag
+    datum: 29.07.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 30
+    ga: 277d
+    type: vortrag
+    datum: 05.10.1923
+    ort: Dornach
+    titel: Auszug aus Mitgliedervortrag
+    beschreibung: Auszug (GA 277d)
+  - seq: 31
+    ga: 277d
+    type: vortrag
+    datum: 11.11.1923
+    ort: Dornach
+    titel: "Aus dem Vortrag Dornach, 11. November 1923"
+    beschreibung: Auszug (GA 277d)
+  - seq: 32
+    ga: 277d
+    type: vortrag
+    datum: 17.11.1923
+    ort: Den Haag
+    titel: Auszug aus Mitgliedervortrag
+    beschreibung: Auszug (GA 277d)
+  - seq: 33
+    ga: 277d
+    type: vortrag
+    datum: 23.12.1923
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung. Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 34
+    ga: 277d
+    type: vortrag
+    datum: 24.12.1923
+    ort: Dornach
+    titel: Auszug aus Mitgliedervortrag
+    beschreibung: Auszug (GA 277d)
+  - seq: 35
+    ga: 277d
+    type: vortrag
+    datum: 26.12.1923
+    ort: Dornach
+    titel: Eurythmie als bewegte Plastik
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung. Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 36
+    ga: 277d
+    type: vortrag
+    datum: 28.12.1923
+    ort: Dornach
+    titel: Die Stellung der Eurythmie innerhalb der Künste
+    beschreibung: Einleitende Worte zur Eurythmie- Aufführung. Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 37
+    ga: 277d
+    type: vortrag
+    datum: 30.12.1923
+    ort: Dornach
+    titel: "Eurythmie, die Sprache des ganzen Menschen"
+    beschreibung: Einleitende Worte zur Eurythmie- Aufführung. Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
+  - seq: 38
+    ga: 277d
+    type: vortrag
+    datum: 02.01.1924
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Ansprache zur Eurythmie
+  - seq: 39
+    ga: 277d
+    type: vortrag
+    datum: 26.01.1924
+    ort: Bern
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 40
+    ga: 277d
+    type: vortrag
+    datum: 02.02.1924
+    ort: Dornach
+    titel: Die Beziehung zwischen Lautsprachen und Bewegung
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 41
+    ga: 277d
+    type: vortrag
+    datum: 03.02.1924
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 42
+    ga: 277d
+    type: vortrag
+    datum: 10.02.1924
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 43
+    ga: 277d
+    type: vortrag
+    datum: 17.02.1924
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Ansprache zur Eurythmie
+  - seq: 44
+    ga: 277d
+    type: vortrag
+    datum: 20.04.1924
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung für Mitglieder
+  - seq: 45
+    ga: 277d
+    type: vortrag
+    datum: 20.04.1924
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur öffentlichen Eurythmie-Aufführung
+  - seq: 46
+    ga: 277d
+    type: vortrag
+    datum: 21.04.1924
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 47
+    ga: 277d
+    type: vortrag
+    datum: 22.04.1924
+    ort: Dornach
+    titel: Die Weisheits-Worte der Grundsteinlegung
+    beschreibung: Einleitende Worte zur Eurythmie- Aufführung für Mitglieder.Wiederholung der anthroposophischen Matinee.
+  - seq: 48
+    ga: 277d
+    type: vortrag
+    datum: 27.04.1924
+    ort: Dornach
+    titel: Die Bewegung als Sprache der Seele
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 49
+    ga: 277d
+    type: vortrag
+    datum: 03.05.1924
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 50
+    ga: 277d
+    type: vortrag
+    datum: 04.05.1924
+    ort: Dornach
+    titel: Die Erweiterung der Kunstmittel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 51
+    ga: 277d
+    type: vortrag
+    datum: 11.05.1924
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Einleitende Worte zur Eurythmie-Aufführung
+  - seq: 52
+    ga: 277d
+    type: vortrag
+    datum: 20.06.1924
+    ort: Dornach
+    titel: Auszug aus Mitgliedervortrag
+    beschreibung: Auszug (GA 277d)

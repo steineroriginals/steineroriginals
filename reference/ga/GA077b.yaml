@@ -1,0 +1,95 @@
+# GA 77b — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 77b).
+
+ga: 77b
+title: GA 77b
+pdf: GA 077b.pdf
+period: 1921
+entry_count: 11
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 77b
+    type: vortrag
+    datum: 21.08.1921
+    ort: Dornach
+    titel: Eröffnungsvortrag zum Sommerkurs. Begrüßung und allgemein orientierender Vortrag
+    beschreibung: "Sommerkurs, Summer Art Course vom 21. bis zum 27. August"
+  - seq: 2
+    ga: 77b
+    type: vortrag
+    datum: 22.08.1921
+    ort: Dornach
+    titel: Eurythmie in Erziehung und Unterricht
+    beschreibung: "Einleitende Worte für die Eurythmie, Kinder- Eurythmie. Sommerkurs, Summer Art Course vom 21. bis zum 27. August"
+  - seq: 3
+    ga: 77b
+    type: vortrag
+    datum: 23.08.1921
+    ort: Dornach
+    titel: Anthroposophie und Kunst
+    beschreibung: "Sommerkurs, Summer Art Course vom 21. bis zum 27. August"
+  - seq: 4
+    ga: 77b
+    type: vortrag
+    datum: 24.08.1921
+    ort: Dornach
+    reihe: Summer Art Course
+    titel: Anthroposophie als Wissenschaft vom menschlichen Wesen
+    beschreibung: "Sommerkurs, Summer Art Course vom 21. bis zum 27. August"
+  - seq: 5
+    ga: 77b
+    type: vortrag
+    datum: 24.08.1921
+    ort: Dornach
+    titel: Eurythmie als freie Kunst
+    beschreibung: "Einleitende Worte zur Eurythmie-Aufführung. Sommerkurs, Summer Art Course vom 21. bis zum 27. August"
+  - seq: 6
+    ga: 77b
+    type: vortrag
+    datum: 25.08.1921
+    ort: Dornach
+    titel: Führung durch das Goetheanum für Kursteilnehmer
+    beschreibung: "Sommerkurs, Summer Art Course vom 21. bis zum 27. August"
+  - seq: 7
+    ga: 77b
+    type: vortrag
+    datum: 26.08.1921
+    ort: Dornach
+    reihe: Summer Art Course
+    titel: Anthroposophie als Moralimpuls und soziale Gestaltungskraft
+    beschreibung: "Sommerkurs, Summer Art Course vom 21. bis zum 27. August"
+  - seq: 8
+    ga: 77b
+    type: vortrag
+    datum: 26.08.1921
+    ort: Dornach
+    titel: Fragenbeantwortung
+    beschreibung: "Sommerkurs, Summer Art Course vom 21. bis zum 27. August"
+  - seq: 9
+    ga: 77b
+    type: vortrag
+    datum: 26.08.1921
+    ort: Dornach
+    titel: Eurythmie in der dramatischen Bühnenkunst
+    beschreibung: "Einleitende Worte zur Eurythmie- Aufführung mit Szenen aus den Mysteriendramen. Sommerkurs, Summer Art Course vom 21. bis zum 27. August"
+  - seq: 10
+    ga: 77b
+    type: vortrag
+    datum: 27.08.1921
+    ort: Dornach
+    titel: Über das Goetheanum. Einleitende Worte zu einem Lichtbildervortrag über den Goetheanum-Bau
+    beschreibung: "Abschlussvortrag des Sommerkurses, Summer Art Course vom 21. bis zum 27. August"
+  - seq: 11
+    ga: 77b
+    type: vortrag
+    datum: 04.09.1921
+    ort: Stuttgart
+    titel: Ausführungen zur Mitglieder-Versammlung der Anthroposophischen Gesellschaft
+    beschreibung: Ausführungen zur Mitglieder-Versammlung der Anthroposophischen Gesellschaft

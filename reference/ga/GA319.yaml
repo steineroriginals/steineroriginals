@@ -1,0 +1,87 @@
+# GA 319 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 319).
+
+ga: 319
+title: GA 319
+pdf: GA 319.pdf
+period: 1923–1924
+entry_count: 11
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 319
+    type: vortrag
+    datum: 28.08.1923
+    ort: Penmaenmawr (England)
+    titel: "ERSTER VORTRAG,         Penmaenmawr (England)"
+  - seq: 2
+    ga: 319
+    type: vortrag
+    datum: 02.09.1923
+    ort: London
+    titel: "ZWEITER VORTRAG, London"
+  - seq: 3
+    ga: 319
+    type: vortrag
+    datum: 03.09.1923
+    ort: London
+    titel: "DRITTER VORTRAG, London"
+  - seq: 4
+    ga: 319
+    type: vortrag
+    datum: 02.10.1923
+    ort: Wien
+    titel: "VIERTER VORTRAG, Wien"
+  - seq: 5
+    ga: 319
+    type: vortrag
+    datum: 15.11.1923
+    ort: Den Haag
+    titel: Anthroposophische Menschenerkenntnis Und Medizin
+  - seq: 6
+    ga: 319
+    type: vortrag
+    datum: 16.11.1923
+    ort: Den Haag
+    titel: "Prinzipielles zur medizinischen Arbeit. Studien über Milzfunktion und zur Wirksamkeit kleinster Entitäten. Neue Erkenntnismethoden durch Entwickelung von Seelenfähigkeiten. Erkenntnis von phy- sischem, ätherischem, astralischem Leib und Ich. Zusammenwirken der vier Glieder. Diagnose und Heilung. Außermenschliche und in- nermenschliche Prozesse. Catarrhus aestivus. Einswerden von Patho- logie und Therapie. Cichorium intybus. Anlsum."
+  - seq: 7
+    ga: 319
+    type: fragenbeantwortung
+    datum: 17.07.1924
+    ort: Arnheim
+    reihe: Fragenbeantwortung zum Vortrag vom 16. November 1923 .              . 134
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 319
+    type: fragenbeantwortung
+    datum: 21.07.1924
+    ort: Arnheim
+    reihe: Fragenbeantwortung zum Vortrag vom 16. November 1923 .              . 134
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 319
+    type: fragenbeantwortung
+    datum: 24.07.1924
+    ort: Arnheim
+    reihe: Fragenbeantwortung zum Vortrag vom 16. November 1923 .              . 134
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 319
+    type: fragenbeantwortung
+    datum: 28.08.1924
+    ort: London
+    reihe: Fragenbeantwortung zum Vortrag vom 16. November 1923 .              . 134
+    titel: Die Kunst Des Heilens Vom Gesichtspunkte Der Geisteswissenschaft
+  - seq: 11
+    ga: 319
+    type: fragenbeantwortung
+    datum: 29.08.1924
+    ort: London
+    reihe: Fragenbeantwortung zum Vortrag vom 16. November 1923 .              . 134
+    titel: "ELFTER VORTRAG, London"

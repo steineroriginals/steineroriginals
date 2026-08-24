@@ -1,0 +1,71 @@
+# GA 270a — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 270a).
+
+ga: 270a
+title: GA 270a
+pdf: GA 270a.pdf
+period: 1924
+entry_count: 9
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 270a
+    type: vortrag
+    datum: 15.02.1924
+    ort: Dornach
+    reihe: "Indem interne Vortragskurse im Sinne dieser Forderung gehalten wurden, kam dazu noch In diesem öffentlich angekündigt..."
+    titel: Stunde
+  - seq: 2
+    ga: 270a
+    type: vortrag
+    datum: 22.02.1924
+    ort: Dornach
+    titel: Zweite Stunde
+  - seq: 3
+    ga: 270a
+    type: vortrag
+    datum: 29.02.1924
+    ort: Dornach
+    titel: Dritte Stunde
+  - seq: 4
+    ga: 270a
+    type: vortrag
+    datum: 07.03.1924
+    ort: Dornach
+    titel: Vierte Stunde
+  - seq: 5
+    ga: 270a
+    type: vortrag
+    datum: 14.03.1924
+    ort: Dornach
+    titel: Fünfte Stunde
+  - seq: 6
+    ga: 270a
+    type: vortrag
+    datum: 21.03.1924
+    ort: Dornach
+    titel: Sechste Stunde
+  - seq: 7
+    ga: 270a
+    type: vortrag
+    datum: 11.04.1924
+    ort: Dornach
+    titel: Siebente Stunde
+  - seq: 8
+    ga: 270a
+    type: vortrag
+    datum: 18.04.1924
+    ort: Karfreitag
+    titel: "ACHTE STUNDE, Dornach"
+  - seq: 9
+    ga: 270a
+    type: vortrag
+    datum: 22.04.1924
+    ort: Dornach
+    titel: Neunte Stunde

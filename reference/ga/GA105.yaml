@@ -1,0 +1,82 @@
+# GA 105 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 105).
+
+ga: 105
+title: "Nachlass-Verwaltung Buch: 105 Seite: 2 RUDOLF STEINER"
+pdf: GA 105.pdf
+period: 1908
+entry_count: 11
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 105
+    type: vortrag
+    datum: 04.08.1908
+    ort: Stuttgart
+    titel: "ERSTER VORTRAG, Stuttgart"
+  - seq: 2
+    ga: 105
+    type: vortrag
+    datum: 05.08.1908
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 105
+    type: vortrag
+    datum: 06.08.1908
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 105
+    type: vortrag
+    datum: 07.08.1908
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 105
+    type: vortrag
+    datum: 08.08.1908
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 105
+    type: vortrag
+    datum: 10.08.1908
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 105
+    type: vortrag
+    datum: 11.08.1908
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 105
+    type: vortrag
+    datum: 12.08.1908
+    ort: —
+    titel: Die Entwickelung der Menschen mit ihrer bildsamen Leiblichkeit während der lemurischen Epoche. Das allmähliche Abstoßen der höheren Tierformen in der menschlichen Entwickelung. Die gei- stige Wiederholung dieser Lebenstatsache im Ägyptertum. Die Fischform der Menschengestalt als Nachklang der Wirkung der mit der Erde noch verbundenen Sonnenkräfte. Das Fischsymbolum als Erinnerungszeichen in den Mysterien. Die Schlangenform der Men- schengestalt als Erinnerung an den Tiefstand in der Menschheitsent- wickelung vor dem Mondenaustritt. Venus- und Merkurwesenheiten als Menschheitslehrer in der Atlantis. Die Gestalten der germani- schen und der griechischen Mythologie als Erinnerungen an die Atlantis.
+  - seq: 9
+    ga: 105
+    type: vortrag
+    datum: 13.08.1908
+    ort: —
+    titel: "Weltkörpern Die Abhängigkeit der Planetengestaltung von den auf ihm sich ent- wickelnden Wesenheiten. Der Aufstieg der Sonne zum Fixstern und die materiellen Lebensbedingungen auf der Erde als Grundlage für die individuelle Entwickelung der Menschen. Das ausgleichende Wirken des Christus als geistige Sonnenkraft auf der Erde. Die Einverleibung der Weisheit als Harmonisierung auf dem alten Mond. Die Überwindung der Gruppenseelenhaftigkeit und Entwickelung der Liebe in immer höherer Art als Mission des Erdendaseins. Das Christus-Prinzip als Anstoß zur Wiedervereinigung der Erde mit der Sonne. Die esoterische Bedeutung des Kreuzes. Der Mensch als Erden-, Sonnen- und Weltallwesen. Die höheren Bewußtseinsstufen."
+  - seq: 10
+    ga: 105
+    type: vortrag
+    datum: 14.08.1908
+    ort: —
+    titel: Zehnter Vortrag
+  - seq: 11
+    ga: 105
+    type: vortrag
+    datum: 16.08.1908
+    ort: —
+    titel: Elfter Vortrag

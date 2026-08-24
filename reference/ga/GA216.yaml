@@ -1,0 +1,64 @@
+# GA 216 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 216).
+
+ga: 216
+title: GA 216
+pdf: GA 216.pdf
+period: 1922
+entry_count: 8
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 216
+    type: vortrag
+    datum: 16.09.1922
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 216
+    type: vortrag
+    datum: 17.09.1922
+    ort: Dornach
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 216
+    type: vortrag
+    datum: 22.09.1922
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 216
+    type: vortrag
+    datum: 23.09.1922
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 216
+    type: vortrag
+    datum: 24.09.1922
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 216
+    type: vortrag
+    datum: 29.09.1922
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 216
+    type: vortrag
+    datum: 30.09.1922
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 216
+    type: vortrag
+    datum: 01.10.1922
+    ort: —
+    titel: Achter Vortrag

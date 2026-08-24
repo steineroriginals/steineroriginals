@@ -1,0 +1,97 @@
+# GA 174 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 174).
+
+ga: 174
+title: RUDOLF S T E I N E R KOSMISCHE UND MENSCHLICHE GESCHICHTE Band I
+pdf: GA 174.pdf
+period: 1917
+entry_count: 12
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 174
+    type: vortrag
+    datum: 01.01.1917
+    ort: Dornach
+    reihe: Zeitgemäße Betrachtungen
+    titel: "Giftwirkungen im sozialen Leben. Das Buch \"j'accuse\". Der Roman \"Jean Christophe\" von Romain Rolland"
+  - seq: 2
+    ga: 174
+    type: vortrag
+    datum: 06.01.1917
+    ort: —
+    titel: Fünfzehnter Vortrag
+  - seq: 3
+    ga: 174
+    type: vortrag
+    datum: 07.01.1917
+    ort: —
+    titel: Sechzehnter Vortrag
+  - seq: 4
+    ga: 174
+    type: vortrag
+    datum: 08.01.1917
+    ort: —
+    titel: Siebzehnter Vortrag
+  - seq: 5
+    ga: 174
+    type: vortrag
+    datum: 13.01.1917
+    ort: Dornach
+    reihe: Zeitgemäße Betrachtungen
+    titel: Heutige Geschichtsdarstellung. Persönlichkeit und Wirken Dreitschkes. Dreitschkes Staatsauffassung im Gegensatz zum westlichen Staatsbegriff
+  - seq: 6
+    ga: 174
+    type: vortrag
+    datum: 14.01.1917
+    ort: Dornach
+    reihe: Zeitgemäße Betrachtungen
+    titel: Luciferische und Ahrimanische Impulse. Drei Formen der Seelenerkrankungen. Die Ziele gewisser Bruderschaften im Bezug auf die zukünftige Gestaltung Europas
+  - seq: 7
+    ga: 174
+    type: vortrag
+    datum: 15.01.1917
+    ort: Schach
+    reihe: Unterleibs in Schach gehalten werden. Die Entfesselung des Ich und
+    titel: Zwanzigster Vortrag
+  - seq: 8
+    ga: 174
+    type: vortrag
+    datum: 20.01.1917
+    ort: Schach
+    reihe: Unterleibs in Schach gehalten werden. Die Entfesselung des Ich und
+    titel: Einundzwanzigster Vortrag
+  - seq: 9
+    ga: 174
+    type: vortrag
+    datum: 21.01.1917
+    ort: Schach
+    reihe: Unterleibs in Schach gehalten werden. Die Entfesselung des Ich und
+    titel: Zweiundzwanzigster Vortrag
+  - seq: 10
+    ga: 174
+    type: vortrag
+    datum: 22.01.1917
+    ort: Schach
+    reihe: Unterleibs in Schach gehalten werden. Die Entfesselung des Ich und
+    titel: Dreiundzwanzigster Vortrag
+  - seq: 11
+    ga: 174
+    type: vortrag
+    datum: 28.01.1917
+    ort: Dornach
+    reihe: Zeitgemäße Betrachtungen
+    titel: Die Stellung des Menschen im Weltenall früher und jetzt. Das platonische Weltenjahr. Die Sprache der Geistwesen. Volksseelen als konkrete Wesen
+  - seq: 12
+    ga: 174
+    type: vortrag
+    datum: 30.01.1917
+    ort: Dornach
+    reihe: Zeitgemäße Betrachtungen
+    titel: Die Entwicklung der anthroposophischen Bewegung. Das neue ätherische Hellsehen der nächsten Zukunft. Anthroposophie und materialistische Wissenschaft

@@ -1,0 +1,64 @@
+# GA 276 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 276).
+
+ga: 276
+title: "Seite: 1 Die Wiedergaben der Original-Wandtafelzeichnungen Rudolf Steiners zu den Vorträgen in diesem Band (vgl. die ..."
+pdf: GA 276.pdf
+period: 1923
+entry_count: 8
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 276
+    type: vortrag
+    datum: 18.05.1923
+    ort: Kristiania (Oslo)
+    titel: Anthroposophie und Kunst
+  - seq: 2
+    ga: 276
+    type: vortrag
+    datum: 20.05.1923
+    ort: Kristiania (Oslo)
+    titel: Anthroposophie und Kunst. Anthroposophie und Dichtung
+  - seq: 3
+    ga: 276
+    type: vortrag
+    datum: 27.05.1923
+    ort: Dornach
+    titel: Bericht über die nordische Reise. Die Umwandlungen der menschlichen Seelenverfassung in der nachatlantischen Zeit von der urindischen bis zur gegenwärtigen Epoche
+  - seq: 4
+    ga: 276
+    type: vortrag
+    datum: 01.06.1923
+    ort: Dornach
+    titel: Die Bedeutung der Kunst in alten Zeiten und heute. Die Entstehung der Architektur aus der Grabstättenkunst. Der Ursprung der Bekleidungskunst. Die plastische Bildung des menschlichen Hauptes
+  - seq: 5
+    ga: 276
+    type: vortrag
+    datum: 02.06.1923
+    ort: Dornach
+    titel: "Das Wesen des Künstlerischen. Die Malerei. Farbenperspektive. Das Wesen der Farbe. Das Erleben des Musikalischen. Die Dichtkunst: Epik, Dramatik, Lyrik"
+  - seq: 6
+    ga: 276
+    type: vortrag
+    datum: 03.06.1923
+    ort: Dornach
+    titel: "Der erkennende, der religiöse und der künstlerisch schaffende Mensch. Goethes Kunstschaffen. Ludwig Tieck und seine Werke. Johann Joachim Winckelmann"
+  - seq: 7
+    ga: 276
+    type: vortrag
+    datum: 08.06.1923
+    ort: Dornach
+    titel: "Das Wesen der Dichtung. Die Dichtkunst zur Zeit der alten Mysterien. Die Sprache als Urkunst der Menschheit. Die ursprüngliche Einheit von Kunst, Wissenschaft und Religion"
+  - seq: 8
+    ga: 276
+    type: vortrag
+    datum: 09.06.1923
+    ort: Dornach
+    titel: "Das Wesen der Sprache. Das Schöne in der Malerei. Tizians «Himmelfahrt Mariä». Weisheit, Schein, Gewalt - Erkenntnis, Schönheit, Tugend. Über das Tragische"

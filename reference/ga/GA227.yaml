@@ -1,0 +1,158 @@
+# GA 227 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 227).
+
+ga: 227
+title: GA 227
+pdf: GA 227.pdf
+period: 1923
+entry_count: 18
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 227
+    type: vortrag
+    datum: 18.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: "Die geistige und physische Welt- und Menschheitsentwicklung der Vergangenheit, Gegenwart und Zukunft im Lichte der Anthroposophie"
+    titel: Begrüssungsansprache
+    beschreibung: International Summer School 18.-31. August
+  - seq: 2
+    ga: 227
+    type: vortrag
+    datum: 19.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: "Die geistige und physische Welt- und Menschheitsentwicklung der Vergangenheit, Gegenwart und Zukunft im Lichte der Anthroposophie"
+    titel: Die ersten Schritte in die übersinnlichen Welten. Erste Schritte zur imaginativen Erkenntnis
+    beschreibung: International Summer School 18.-31. August
+  - seq: 3
+    ga: 227
+    type: vortrag
+    datum: 20.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: "Die geistige und physische Welt- und Menschheitsentwicklung der Vergangenheit, Gegenwart und Zukunft im Lichte der Anthroposophie"
+    titel: Der Initiationsweg. Inspiration und Intuition
+    beschreibung: International Summer School 18.-31. August
+  - seq: 4
+    ga: 227
+    type: vortrag
+    datum: 20.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: "Die geistige und physische Welt- und Menschheitsentwicklung der Vergangenheit, Gegenwart und Zukunft im Lichte der Anthroposophie"
+    titel: Vortrag 1
+    beschreibung: International Summer School 18.-31. August
+  - seq: 5
+    ga: 227
+    type: vortrag
+    datum: 21.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: "Die geistige und physische Welt- und Menschheitsentwicklung der Vergangenheit, Gegenwart und Zukunft im Lichte der Anthroposophie"
+    titel: Wach- und Schlafleben. Neue und alte Initiationswissenschaft
+    beschreibung: International Summer School 18.-31. August
+  - seq: 6
+    ga: 227
+    type: vortrag
+    datum: 21.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: "Die geistige und physische Welt- und Menschheitsentwicklung der Vergangenheit, Gegenwart und Zukunft im Lichte der Anthroposophie"
+    titel: Vortrag 2
+    beschreibung: International Summer School 18.-31. August
+  - seq: 7
+    ga: 227
+    type: vortrag
+    datum: 22.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: Initiations-Erkenntnis
+    titel: Das Traumleben
+    beschreibung: International Summer School 18.-31. August
+  - seq: 8
+    ga: 227
+    type: vortrag
+    datum: 23.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: "Die geistige und physische Welt- und Menschheitsentwicklung der Vergangenheit, Gegenwart und Zukunft im Lichte der Anthroposophie"
+    titel: Die Dreigeteiltheit des Menschen und der Welt. Das Traumleben. Des Menschen Beziehungen zu den drei Welten
+    beschreibung: International Summer School 18.-31. August
+  - seq: 9
+    ga: 227
+    type: vortrag
+    datum: 24.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: "Die geistige und physische Welt- und Menschheitsentwicklung der Vergangenheit, Gegenwart und Zukunft im Lichte der Anthroposophie"
+    titel: "Traum, Vision, Ahnung, «second sight». Das Geistwalten in der Natur"
+    beschreibung: International Summer School 18.-31. August
+  - seq: 10
+    ga: 227
+    type: vortrag
+    datum: 25.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: "Die geistige und physische Welt- und Menschheitsentwicklung der Vergangenheit, Gegenwart und Zukunft im Lichte der Anthroposophie"
+    titel: "Nachtwandler. J. Böhme, Paracelsus, Swedenborg. Das Ineinanderspielen der verschiedenen Welten"
+    beschreibung: International Summer School 18.-31. August
+  - seq: 11
+    ga: 227
+    type: vortrag
+    datum: 26.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: "Die geistige und physische Welt- und Menschheitsentwicklung der Vergangenheit, Gegenwart und Zukunft im Lichte der Anthroposophie"
+    titel: Schlaf und Tod. Druidensteine. Die Schlaferlebnisse des Menschen als Vorverkünder der Erlebnisse nach dem Tode
+    beschreibung: International Summer School 18.-31. August
+  - seq: 12
+    ga: 227
+    type: vortrag
+    datum: 27.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: "Die geistige und physische Welt- und Menschheitsentwicklung der Vergangenheit, Gegenwart und Zukunft im Lichte der Anthroposophie"
+    titel: Die Erlebnisse zwischen Tod und neuer Geburt
+    beschreibung: International Summer School 18.-31. August
+  - seq: 13
+    ga: 227
+    type: vortrag
+    datum: 28.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: "Die geistige und physische Welt- und Menschheitsentwicklung der Vergangenheit, Gegenwart und Zukunft im Lichte der Anthroposophie"
+    titel: Das Leben zwischen Tod und neuer Geburt. Das geistig-kosmische Dasein des Menschen nach dem Tode
+    beschreibung: International Summer School 18.-31. August
+  - seq: 14
+    ga: 227
+    type: vortrag
+    datum: 29.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: "Die geistige und physische Welt- und Menschheitsentwicklung der Vergangenheit, Gegenwart und Zukunft im Lichte der Anthroposophie"
+    titel: Die höheren Hierarchien. Das Erleben der Weltvergangenheit
+    beschreibung: International Summer School 18.-31. August
+  - seq: 15
+    ga: 227
+    type: vortrag
+    datum: 30.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: "Die geistige und physische Welt- und Menschheitsentwicklung der Vergangenheit, Gegenwart und Zukunft im Lichte der Anthroposophie"
+    titel: "Gehen, Sprechen, Denken. Vergangenheit und Zukunft. Die Evolution der Welt im Zusammenhang mit der Evolution des Menschen"
+    beschreibung: International Summer School 18.-31. August
+  - seq: 16
+    ga: 227
+    type: vortrag
+    datum: 31.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: "Die geistige und physische Welt- und Menschheitsentwicklung der Vergangenheit, Gegenwart und Zukunft im Lichte der Anthroposophie"
+    titel: Das christliche Mysterium. Das Einziehen des Menschen in die Epoche der Freiheit
+    beschreibung: International Summer School 18.-31. August
+  - seq: 17
+    ga: 227
+    type: vortrag
+    datum: 31.08.1923
+    ort: Penmaenmawr (N.Wales)
+    reihe: "Die geistige und physische Welt- und Menschheitsentwicklung der Vergangenheit, Gegenwart und Zukunft im Lichte der Anthroposophie"
+    titel: Abschiedsrede
+    beschreibung: International Summer School 18.-31. August
+  - seq: 18
+    ga: 227
+    type: vortrag
+    datum: 09.09.1923
+    ort: Dornach
+    titel: Bericht über die englische Reise

@@ -1,0 +1,100 @@
+# GA 281 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 281).
+
+ga: 281
+title: "Seite: 1 SPRACHGESTALTUNG UND DRAMATISCHE KUNST"
+pdf: GA 281.pdf
+period: 1912–1923
+entry_count: 14
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 281
+    type: vortrag
+    datum: 01.12.1912
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 2
+    ga: 281
+    type: vortrag
+    datum: 09.02.1913
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 3
+    ga: 281
+    type: vortrag
+    datum: 24.11.1913
+    ort: Stuttgart
+    titel: Kein Titel
+  - seq: 4
+    ga: 281
+    type: vortrag
+    datum: 31.12.1913
+    ort: Leipzig
+    titel: Kein Titel
+  - seq: 5
+    ga: 281
+    type: vortrag
+    datum: 16.02.1915
+    ort: Stuttgart
+    titel: Kein Titel
+  - seq: 6
+    ga: 281
+    type: vortrag
+    datum: 03.10.1915
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 7
+    ga: 281
+    type: vortrag
+    datum: 26.11.1915
+    ort: Stuttgart
+    titel: Kein Titel
+  - seq: 8
+    ga: 281
+    type: vortrag
+    datum: 29.09.1920
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 9
+    ga: 281
+    type: vortrag
+    datum: 06.10.1920
+    ort: Dornach
+    titel: "ZWEITER VORTRAG, Dornach"
+  - seq: 10
+    ga: 281
+    type: vortrag
+    datum: 13.10.1920
+    ort: Dornach
+    titel: "DRITTER VORTRAG, Dornach"
+  - seq: 11
+    ga: 281
+    type: vortrag
+    datum: 06.04.1921
+    ort: Dornach
+    titel: "VORTRAG, Dornach"
+  - seq: 12
+    ga: 281
+    type: vortrag
+    datum: 30.07.1921
+    ort: Darmstadt
+    titel: "VORTRAG, Darmstadt"
+  - seq: 13
+    ga: 281
+    type: vortrag
+    datum: 07.06.1922
+    ort: Wien
+    titel: "VORTRAG, Wien"
+  - seq: 14
+    ga: 281
+    type: vortrag
+    datum: 29.03.1923
+    ort: Stuttgart
+    titel: "VORTRAG, Stuttgart"

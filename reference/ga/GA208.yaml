@@ -1,0 +1,82 @@
+# GA 208 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 208.pdf table of contents.
+
+ga: 208
+title: DER MENSCH IN SEINEM ZUSAMMENHANG MIT DEM KOSMOS Band I
+pdf: GA 208.pdf
+period: 1921
+entry_count: 11
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 208
+    type: vortrag
+    datum: 21.10.1921
+    ort: Dornach
+    titel: "ZWÖLFTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 208
+    type: vortrag
+    datum: 22.10.1921
+    ort: —
+    titel: Dreizehnter Vortrag
+  - seq: 3
+    ga: 208
+    type: vortrag
+    datum: 23.10.1921
+    ort: —
+    titel: Vierzehnter Vortrag
+  - seq: 4
+    ga: 208
+    type: vortrag
+    datum: 28.10.1921
+    ort: —
+    titel: Fünfzehnter Vortrag
+  - seq: 5
+    ga: 208
+    type: vortrag
+    datum: 29.10.1921
+    ort: —
+    titel: Sechzehnter Vortrag
+  - seq: 6
+    ga: 208
+    type: vortrag
+    datum: 30.10.1921
+    ort: —
+    titel: Siebzehnter Vortrag
+  - seq: 7
+    ga: 208
+    type: vortrag
+    datum: 04.11.1921
+    ort: —
+    titel: Achtzehnter Vortrag
+  - seq: 8
+    ga: 208
+    type: vortrag
+    datum: 05.11.1921
+    ort: —
+    titel: Neunzehnter Vortrag
+  - seq: 9
+    ga: 208
+    type: vortrag
+    datum: 06.11.1921
+    ort: —
+    titel: Zwanzigster Vortrag
+  - seq: 10
+    ga: 208
+    type: vortrag
+    datum: 12.11.1921
+    ort: —
+    titel: Einundzwanzigster Vortrag
+  - seq: 11
+    ga: 208
+    type: vortrag
+    datum: 13.11.1921
+    ort: —
+    titel: Zweiundzwanzigster Vortrag

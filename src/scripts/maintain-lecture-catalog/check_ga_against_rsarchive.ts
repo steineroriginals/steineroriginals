@@ -107,19 +107,25 @@ function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-/** Normalize user/list GA token for catalog matching: 266I → 266/1, 68A → 68a */
+/** Normalize user/list GA token for catalog matching: 266I/266/1 → 266a, 68A → 68a */
 function normalizeGaForCatalog(ga: string): string {
   const trimmed = ga.trim();
+  const slash = trimmed.match(/^(\d+)\/([1-5])$/);
+  if (slash) {
+    const letters = ["a", "b", "c", "d", "e"] as const;
+    const idx = Number(slash[2]) - 1;
+    return `${slash[1]}${letters[idx]!}`;
+  }
   const roman = trimmed.match(/^(\d+)(I{1,3}|IV|V)$/i);
   if (roman) {
     const map: Record<string, string> = {
-      i: "1",
-      ii: "2",
-      iii: "3",
-      iv: "4",
-      v: "5",
+      i: "a",
+      ii: "b",
+      iii: "c",
+      iv: "d",
+      v: "e",
     };
-    return `${roman[1]}/${map[roman[2]!.toLowerCase()] ?? roman[2]}`;
+    return `${roman[1]}${map[roman[2]!.toLowerCase()] ?? roman[2]!.toLowerCase()}`;
   }
   return trimmed.toLowerCase();
 }

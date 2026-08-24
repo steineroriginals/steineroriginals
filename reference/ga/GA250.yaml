@@ -1,0 +1,235 @@
+# GA 250 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 250).
+
+ga: 250
+title: VERLAG GA 250 - Zur Geschichte der Deutschen Sektion der Theosophischen rSöCöllcrhaft 1009.1019
+pdf: GA 250.pdf
+period: 1902–1920
+entry_count: 33
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 250
+    type: vortrag
+    datum: 18.10.1902
+    ort: Berlin
+    titel: Die Bildung der deutschen Sektion der Theosophischen Gesellschaft
+    beschreibung: Bericht von Richard Bresch
+  - seq: 2
+    ga: 250
+    type: vortrag
+    datum: 18.10.1902
+    ort: Berlin
+    titel: Die Bildung der deutschen Sektion der Theosophischen Gesellschaft
+    beschreibung: Bericht von Richard Bresch
+  - seq: 3
+    ga: 250
+    type: vortrag
+    datum: 04.07.1903
+    ort: London
+    titel: Der Zusammenhang des allgemeinen Geisteslebens mit der Theosophie und die Aussichten derselben in der Zukunft der deutschen Kultur
+    beschreibung: Erste Versammlung der Föderation der Europäischen Sektionen der Theosophischen Gesellschaft
+  - seq: 4
+    ga: 250
+    type: vortrag
+    datum: 18.10.1903
+    ort: Berlin
+    titel: Kein Titel
+    beschreibung: Vorstandssitzung
+  - seq: 5
+    ga: 250
+    type: vortrag
+    datum: 19.10.1903
+    ort: Berlin-Wilmersdorf
+    titel: Protokoll der Generalversammlung der Deutschen Sektion der Theosophischen Gesellschaft
+  - seq: 6
+    ga: 250
+    type: vortrag
+    datum: 04.07.1904
+    ort: Berlin
+    titel: Bericht über den Amsterdamer Kongress
+  - seq: 7
+    ga: 250
+    type: vortrag
+    datum: 12.09.1904
+    ort: Berlin
+    titel: "Theosophie, Wissenschaft und Religion. Theosophie und Theosophische Gesellschaft"
+    beschreibung: Mitglieder-Zusammenkunft mit Diskussion
+  - seq: 8
+    ga: 250
+    type: vortrag
+    datum: 25.09.1904
+    ort: Dresden
+    titel: Theosophie und moderne Wissenschaft
+    beschreibung: Öffentlicher Vortrag im Rahmen der Jahresversammlung der Deutschen Theosophischen Gesellschaft
+  - seq: 9
+    ga: 250
+    type: vortrag
+    datum: 23.10.1904
+    ort: Berlin
+    titel: Jahresversammlung des Berliner Zweiges der DTG
+  - seq: 10
+    ga: 250
+    type: vortrag
+    datum: 30.10.1904
+    ort: Berlin
+    titel: Kein Titel
+    beschreibung: Zweite Generalversammlung der Deutschen Sektion der Theosophischen Gesellschaft. Begrüßung und Bericht
+  - seq: 11
+    ga: 250
+    type: vortrag
+    datum: 02.01.1905
+    ort: Berlin
+    titel: Das Wesen der theosophischen Bewegung und ihr Verhältnis zur Theosophischen Gesellschaft
+  - seq: 12
+    ga: 250
+    type: vortrag
+    datum: 22.01.1905
+    ort: Berlin
+    titel: Kein Titel
+    beschreibung: Vorbesprechung zur außerordentlichen Generalversammlung des Berliner Zweiges der Theosophischen Gesellschaft. Besant Zweig
+  - seq: 13
+    ga: 250
+    type: vortrag
+    datum: 05.02.1905
+    ort: Berlin
+    titel: Protokoll zur ausserordentlichen Generalversammlung der Deutschen Theosophischen Gesellschaft (DTG)
+    beschreibung: Ausserordentliche Generalversammlung der Deutschen Theosophischen Gesellschaft (DTG)
+  - seq: 14
+    ga: 250
+    type: vortrag
+    datum: 02.10.1905
+    ort: Berlin
+    titel: Theosophie von Helena Petrovna Blavatzky
+  - seq: 15
+    ga: 250
+    type: vortrag
+    datum: 15.01.1906
+    ort: Berlin
+    titel: Auflösung der Deutschen Theosophischen Gesellschaft (DTG)
+    beschreibung: Generalversammlung des Berliner Zweiges der DTG
+  - seq: 16
+    ga: 250
+    type: vortrag
+    datum: 02.06.1906
+    ort: Paris
+    titel: Orientierung über Leadbeater für die anwesenden Deutschen
+  - seq: 17
+    ga: 250
+    type: vortrag
+    datum: 04.06.1906
+    ort: Paris
+    titel: Theosophie in Deutschland vor hundert Jahren
+  - seq: 18
+    ga: 250
+    type: vortrag
+    datum: 07.06.1906
+    ort: —
+    titel: Orientierung über Leadbeater für die anwesenden Deutschen
+  - seq: 19
+    ga: 250
+    type: vortrag
+    datum: 25.06.1906
+    ort: Berlin
+    titel: Nachruf für Gräfin Brockdorff. Bericht über Pariser Kongress
+    beschreibung: Generalversammlung des Besant-Zweiges.
+  - seq: 20
+    ga: 250
+    type: vortrag
+    datum: 14.03.1907
+    ort: Berlin
+    titel: Nachruf auf Henry Steel Olcott
+    beschreibung: "Vortrag (GA 250). Berlin, zwischen dem 4. und 14. März 1907. Olcott gestorben am 17. Februar 1907."
+  - seq: 21
+    ga: 250
+    type: vortrag
+    datum: 25.03.1907
+    ort: Berlin
+    titel: Zur Wahl des neuen Präsidenten der Theosophischen Gesellschaft
+    beschreibung: Ansprache (GA 250). Thematisierung der mit Olcotts Nachfolgewunsch verbundenen Problematik.
+  - seq: 22
+    ga: 250
+    type: vortrag
+    datum: 12.06.1907
+    ort: Berlin
+    titel: "Die drei Aspekte des Persönlichen. Persönlich, unpersönlich, überpersönlich"
+    beschreibung: Bericht über den Münchener Kongress
+  - seq: 23
+    ga: 250
+    type: vortrag
+    datum: 07.10.1907
+    ort: Berlin
+    titel: Zur Präsidentenwahl von Annie Besant
+  - seq: 24
+    ga: 250
+    type: vortrag
+    datum: 20.10.1907
+    ort: Berlin
+    titel: Gedenkworte für Verstorbene
+    beschreibung: Fünfte Generalversammlung der Deutschen Sektion der Theosophischen Gesellschaft. Bericht
+  - seq: 25
+    ga: 250
+    type: vortrag
+    datum: 26.10.1908
+    ort: Berlin
+    titel: Gedenkworte für Verstorbene
+    beschreibung: Siebte Generalversammlung der Deutschen Sektion der Theosophischen Gesellschaft. Begrüßung und Bericht
+  - seq: 26
+    ga: 250
+    type: vortrag
+    datum: 18.06.1909
+    ort: Berlin
+    titel: Bericht über den Budapester Kongress
+  - seq: 27
+    ga: 250
+    type: vortrag
+    datum: 02.11.1909
+    ort: Berlin
+    titel: Über den siebenjährigen Bestand der Deutschen Sektion der Theosophischen Gesellschaft
+    beschreibung: Vortrag (GA 250). Vergleich der Sektionsentwicklung mit der Kindesentwicklung; erste sieben Jahre der Sektionsarbeit.
+  - seq: 28
+    ga: 250
+    type: vortrag
+    datum: 14.12.1911
+    ort: Berlin
+    titel: "Warum wurde bisher das, was unter theosophischer Bewegung zu verstehen ist, innerhalb der Theosophischen Gesellschaft vertreten? Tatsachen aus der Geschichte der Deutschen Sektion"
+    beschreibung: Besprechung über die Lage der Theosophischen Gesellschaft.
+  - seq: 29
+    ga: 250
+    type: vortrag
+    datum: 15.10.1912
+    ort: Berlin
+    titel: Brief an Wilhelm Hübbe-Schleiden (Ablehnung der Stiftungsurkunde für die Loge Göttingen)
+    beschreibung: Brief
+  - seq: 30
+    ga: 250
+    type: vortrag
+    datum: 04.02.1913
+    ort: Berlin
+    titel: Skizze eines Lebensabrisses aus Dr. Steiners Jugend
+  - seq: 31
+    ga: 250
+    type: vortrag
+    datum: 20.03.1913
+    ort: Haag
+    reihe: "Welche Bedeutung hat die okkulte Entwicklung des Menschen Menschen für seine Hüllen (physischen Leib, Ätherleib, Astralleib) und sein Selbst?"
+    titel: Kein Titel
+    beschreibung: Einleitung zum Zyklus
+  - seq: 32
+    ga: 250
+    type: vortrag
+    datum: 29.03.1913
+    ort: Haag
+    titel: Schlussworte zum Zyklus
+  - seq: 33
+    ga: 250
+    type: vortrag
+    datum: 25.09.1920
+    ort: Dornach
+    titel: Zusammenkunft zur Vorbereitung der anthroposophischen Hochschulkurse

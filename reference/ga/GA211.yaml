@@ -1,0 +1,88 @@
+# GA 211 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 211.pdf table of contents.
+
+ga: 211
+title: GA 211
+pdf: GA 211.pdf
+period: 1922
+entry_count: 12
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 211
+    type: vortrag
+    datum: 21.03.1922
+    ort: Bern
+    titel: Kein Titel
+  - seq: 2
+    ga: 211
+    type: vortrag
+    datum: 24.03.1922
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 3
+    ga: 211
+    type: vortrag
+    datum: 25.03.1922
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 4
+    ga: 211
+    type: vortrag
+    datum: 26.03.1922
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 5
+    ga: 211
+    type: vortrag
+    datum: 31.03.1922
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 6
+    ga: 211
+    type: vortrag
+    datum: 01.04.1922
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 7
+    ga: 211
+    type: vortrag
+    datum: 02.04.1922
+    ort: Dornach
+    titel: Kein Titel
+  - seq: 8
+    ga: 211
+    type: vortrag
+    datum: 13.04.1922
+    ort: Den Haag
+    titel: Kein Titel
+  - seq: 9
+    ga: 211
+    type: vortrag
+    datum: 14.04.1922
+    ort: London
+    titel: Kein Titel
+  - seq: 10
+    ga: 211
+    type: vortrag
+    datum: 15.04.1922
+    ort: London
+    titel: Kein Titel
+  - seq: 11
+    ga: 211
+    type: vortrag
+    datum: 24.04.1922
+    ort: London
+    titel: Kein Titel
+  - seq: 12
+    ga: 211
+    type: vortrag
+    datum: 11.06.1922
+    ort: Wien
+    titel: Kein Titel

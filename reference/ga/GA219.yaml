@@ -1,0 +1,89 @@
+# GA 219 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 219).
+
+ga: 219
+title: GA 219
+pdf: GA 219.pdf
+period: 1922
+entry_count: 12
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 219
+    type: vortrag
+    datum: 26.11.1922
+    ort: Dornach
+    titel: Erster Vortrag
+  - seq: 2
+    ga: 219
+    type: vortrag
+    datum: 01.12.1922
+    ort: —
+    reihe: Schluß des Vortrags vom 1. Dezember 1922                    198
+    titel: Schluß des Vortrags vom
+  - seq: 3
+    ga: 219
+    type: vortrag
+    datum: 03.12.1922
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 219
+    type: vortrag
+    datum: 15.12.1922
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 219
+    type: vortrag
+    datum: 16.12.1922
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 219
+    type: vortrag
+    datum: 17.12.1922
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 219
+    type: vortrag
+    datum: 22.12.1922
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 219
+    type: vortrag
+    datum: 23.12.1922
+    ort: —
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 219
+    type: vortrag
+    datum: 24.12.1922
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 219
+    type: vortrag
+    datum: 29.12.1922
+    ort: —
+    titel: Zehnter Vortrag
+  - seq: 11
+    ga: 219
+    type: vortrag
+    datum: 30.12.1922
+    ort: —
+    titel: Elfter Vortrag
+  - seq: 12
+    ga: 219
+    type: vortrag
+    datum: 31.12.1922
+    ort: —
+    titel: vom 30. und

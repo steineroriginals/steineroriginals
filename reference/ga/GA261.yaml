@@ -1,0 +1,351 @@
+# GA 261 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 261).
+
+ga: 261
+title: "Nachlass-Verwaltung Buch: 261 Seite: 2 RUDOLF STEINER"
+pdf: GA 261.pdf
+period: 1906–1924
+entry_count: 55
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 261
+    type: vortrag
+    datum: 25.06.1906
+    ort: Berlin
+    titel: "ZWEITER VORTRAG, Kassel, 10. Mai 1914 Gedenkworte für Maria Strauch-Spettini 28 Gedenkworte für Gräfin von Brockdorff"
+  - seq: 2
+    ga: 261
+    type: vortrag
+    datum: 21.10.1906
+    ort: Berlin
+    titel: Gedenkworte für Verstorbene
+    beschreibung: "Vierte Generalversammlung der Deutschen Sektion der Theosophischen Gesellschaft, Begrüßung und Bericht"
+  - seq: 3
+    ga: 261
+    type: vortrag
+    datum: 20.10.1907
+    ort: Berlin
+    titel: Gedenkworte für Verstorbene
+    beschreibung: Fünfte Generalversammlung der Deutschen Sektion der Theosophischen Gesellschaft. Bericht
+  - seq: 4
+    ga: 261
+    type: vortrag
+    datum: 26.10.1908
+    ort: —
+    titel: "Berlin, 21. Oktober 1906, 20. Oktober 1907"
+  - seq: 5
+    ga: 261
+    type: vortrag
+    datum: 24.10.1909
+    ort: Berlin
+    titel: Gedenkworte für Verstorbene
+    beschreibung: Achte Generalversammlung der Deutschen Sektion der Theosophischen Gesellschaft
+  - seq: 6
+    ga: 261
+    type: vortrag
+    datum: 30.10.1910
+    ort: Berlin
+    titel: Gedenkworte für Verstorbene
+    beschreibung: Neunte Generalversammlung der Deutschen Sektion der Theosophischen Gesellschaft Begrüßung und Bericht
+  - seq: 7
+    ga: 261
+    type: vortrag
+    datum: 10.12.1911
+    ort: —
+    titel: "24. Oktober 1909, 30. Oktober 1910"
+  - seq: 8
+    ga: 261
+    type: vortrag
+    datum: 07.05.1912
+    ort: Köln
+    titel: Gedenkworte für Herrn Terwiel und Baron Oskar von Hoffmann
+  - seq: 9
+    ga: 261
+    type: vortrag
+    datum: 23.07.1912
+    ort: München
+    titel: Gedenkworte für Caroline von Sivers-Baum
+  - seq: 10
+    ga: 261
+    type: vortrag
+    datum: 02.02.1913
+    ort: Berlin
+    titel: Gedenkworte für Verstorbene
+    beschreibung: Zusammenkunft an Stelle der elften Generalversammlung der Deutschen Sektion der Theosophischen Gesellschaft
+  - seq: 11
+    ga: 261
+    type: vortrag
+    datum: 18.01.1914
+    ort: —
+    titel: 2. Februar 1913
+  - seq: 12
+    ga: 261
+    type: vortrag
+    datum: 10.04.1914
+    ort: Wien
+    titel: Gedächtnisworte für Christian Morgenstern
+  - seq: 13
+    ga: 261
+    type: vortrag
+    datum: 09.05.1914
+    ort: Kassel
+    titel: Das Hereinragen der geistigen Welt in die physische
+  - seq: 14
+    ga: 261
+    type: vortrag
+    datum: 10.05.1914
+    ort: Kassel
+    titel: "ERSTER VORTRAG, Kassel, 9. Mai 1914 Gedenkworte für Oda Waller und Christian Morgenstern . . . . 11"
+  - seq: 15
+    ga: 261
+    type: ansprache
+    datum: 01.09.1914
+    ort: Berlin
+    titel: Ansprache
+  - seq: 16
+    ga: 261
+    type: vortrag
+    datum: 10.10.1914
+    ort: Dornach
+    titel: Gedenkworte für Theo Faiss
+  - seq: 17
+    ga: 261
+    type: ansprache
+    datum: 27.12.1914
+    ort: Dornach
+    titel: Ansprache am Grabe von Albert Faiss
+  - seq: 18
+    ga: 261
+    type: ansprache
+    datum: 10.01.1915
+    ort: Basel
+    titel: Ansprache bei der Kremation von Lina Grosheintz-Rohrer
+  - seq: 19
+    ga: 261
+    type: vortrag
+    datum: 01.02.1915
+    ort: Zürich
+    titel: Trauerrede anläßlich des Todes von Frau Colazza
+  - seq: 20
+    ga: 261
+    type: ansprache
+    datum: 05.02.1915
+    ort: Basel
+    titel: Ansprache bei der Kremation von Fritz Mitscher
+  - seq: 21
+    ga: 261
+    type: vortrag
+    datum: 15.08.1915
+    ort: Dornach
+    titel: "Gedenkworte für Richard Kramer, den Jüngeren"
+  - seq: 22
+    ga: 261
+    type: vortrag
+    datum: 25.09.1915
+    ort: Dornach
+    titel: "Gedenkworte für Gertrud Noß,"
+  - seq: 23
+    ga: 261
+    type: ansprache
+    datum: 18.11.1915
+    ort: Berlin
+    titel: "Ansprache beim Tode von Sophie Stinde,"
+  - seq: 24
+    ga: 261
+    type: ansprache
+    datum: 22.11.1915
+    ort: Ulm
+    titel: Ansprache bei der Kremation von Sophie Stinde
+  - seq: 25
+    ga: 261
+    type: vortrag
+    datum: 29.11.1915
+    ort: München
+    titel: Gedenkworte für Sophie Stinde
+  - seq: 26
+    ga: 261
+    type: vortrag
+    datum: 14.12.1915
+    ort: Berlin
+    titel: Gedenkworte für Anna Riebensahm
+  - seq: 27
+    ga: 261
+    type: vortrag
+    datum: 20.06.1916
+    ort: Berlin
+    titel: Gedenkworte für Helmuth Graf von Moltke
+  - seq: 28
+    ga: 261
+    type: vortrag
+    datum: 30.07.1916
+    ort: Dornach
+    titel: In memoriam Anna Riebensahm 182 Gedenkworte für Miß Wilson und Dr. Ernst Kramer
+  - seq: 29
+    ga: 261
+    type: vortrag
+    datum: 29.10.1916
+    ort: Dornach
+    titel: Gedenkworte für Joseph Ludwig und Jacques de Jaager
+  - seq: 30
+    ga: 261
+    type: vortrag
+    datum: 31.10.1916
+    ort: Basel
+    titel: In memoriam Jacques de Jaager
+  - seq: 31
+    ga: 261
+    type: vortrag
+    datum: 17.11.1916
+    ort: Dornach
+    titel: Zum Jahrestag des Todes von Sophie Stinde
+  - seq: 32
+    ga: 261
+    type: vortrag
+    datum: 06.02.1917
+    ort: Berlin
+    titel: Gedenkworte für Gertrud Motzkus
+  - seq: 33
+    ga: 261
+    type: ansprache
+    datum: 11.05.1917
+    ort: Stuttgart
+    titel: Ansprache bei der Kremation von Pauline Dieterle
+  - seq: 34
+    ga: 261
+    type: vortrag
+    datum: 11.05.1917
+    ort: Stuttgart
+    titel: Gedenkworte
+  - seq: 35
+    ga: 261
+    type: vortrag
+    datum: 21.08.1917
+    ort: Berlin
+    titel: "Gedenkworte für Herman Joachim, Olga von Sivers und Johanna Arnold"
+  - seq: 36
+    ga: 261
+    type: vortrag
+    datum: 07.10.1917
+    ort: Dornach
+    titel: Gedenkworte für Heinrich Mitscher und Olga von Sivers
+  - seq: 37
+    ga: 261
+    type: vortrag
+    datum: 20.09.1918
+    ort: Dornach
+    titel: Gedenkworte für Marie Hahn
+  - seq: 38
+    ga: 261
+    type: ansprache
+    datum: 22.09.1918
+    ort: Reinach
+    titel: Ansprache am Grabe von Marie Hahn
+  - seq: 39
+    ga: 261
+    type: vortrag
+    datum: 14.01.1919
+    ort: memoriam Jacques de Jaager
+    titel: Ariesheim
+  - seq: 40
+    ga: 261
+    type: vortrag
+    datum: 03.10.1919
+    ort: Dornach
+    titel: Gedenkworte für Anna Ziegler
+  - seq: 41
+    ga: 261
+    type: vortrag
+    datum: 12.05.1920
+    ort: memoriam Jacques de Jaager
+    titel: Ariesheim
+  - seq: 42
+    ga: 261
+    type: vortrag
+    datum: 22.10.1920
+    ort: Dornach
+    titel: Gedenkworte für Harald Lille
+  - seq: 43
+    ga: 261
+    type: vortrag
+    datum: 23.10.1920
+    ort: Dornach
+    titel: Gedenkworte für Caroline Wilhelm
+  - seq: 44
+    ga: 261
+    type: ansprache
+    datum: 25.10.1920
+    ort: Basel
+    titel: Ansprache bei der Kremation von Harald Lille
+  - seq: 45
+    ga: 261
+    type: ansprache
+    datum: 27.10.1920
+    ort: Basel
+    titel: Ansprache bei der Kremation von Caroline Wilhelm
+  - seq: 46
+    ga: 261
+    type: vortrag
+    datum: 01.07.1921
+    ort: Dornach
+    titel: Gedenkworte für Frau Schleutermann
+  - seq: 47
+    ga: 261
+    type: vortrag
+    datum: 21.05.1922
+    ort: Berlin
+    titel: "Gedenkworte für Lina Schieutermann Dornach, l.Juli 1921 256 Gedenkworte für Nelly Lichtenberg"
+  - seq: 48
+    ga: 261
+    type: ansprache
+    datum: 29.03.1923
+    ort: Stuttgart
+    titel: Ansprache bei der Kremation von Elisabeth Maier
+  - seq: 49
+    ga: 261
+    type: ansprache
+    datum: 29.06.1923
+    ort: Basel
+    titel: Ansprache bei der Kremation von Hermann Linde
+  - seq: 50
+    ga: 261
+    type: vortrag
+    datum: 29.06.1923
+    ort: Dornach
+    titel: Gedenkworte für Hermann Linde
+  - seq: 51
+    ga: 261
+    type: vortrag
+    datum: 06.01.1924
+    ort: Dornach
+    titel: Gedächtnisworte für Georga Wiese
+  - seq: 52
+    ga: 261
+    type: ansprache
+    datum: 11.01.1924
+    ort: Basel
+    titel: Ansprache bei der Kremation von Georga Wiese
+  - seq: 53
+    ga: 261
+    type: ansprache
+    datum: 03.05.1924
+    ort: Dornach
+    titel: Ansprache für Charlotte Ferreri und Edith Maryon
+  - seq: 54
+    ga: 261
+    type: ansprache
+    datum: 06.05.1924
+    ort: Basel
+    titel: Ansprache bei der Kremation von Edith Maryon
+  - seq: 55
+    ga: 261
+    type: vortrag
+    datum: 14.09.1924
+    ort: Dornach
+    titel: Gedenkworte für Admiral Grafton

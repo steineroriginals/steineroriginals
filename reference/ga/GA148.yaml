@@ -1,0 +1,124 @@
+# GA 148 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 148.pdf table of contents.
+
+ga: 148
+title: GA 148
+pdf: GA 148.pdf
+period: 1913–1914
+entry_count: 18
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 148
+    type: vortrag
+    datum: 01.10.1913
+    ort: Erster Vortrag
+    titel: Kein Titel
+  - seq: 2
+    ga: 148
+    type: vortrag
+    datum: 02.10.1913
+    ort: Zweiter Vortrag
+    titel: Kein Titel
+  - seq: 3
+    ga: 148
+    type: vortrag
+    datum: 03.10.1913
+    ort: Dritter Vortrag
+    titel: Kein Titel
+  - seq: 4
+    ga: 148
+    type: vortrag
+    datum: 05.10.1913
+    ort: Vierter Vortrag
+    titel: Kein Titel
+  - seq: 5
+    ga: 148
+    type: vortrag
+    datum: 06.10.1913
+    ort: Fünfter Vortrag
+    titel: Kein Titel
+  - seq: 6
+    ga: 148
+    type: vortrag
+    datum: 21.10.1913
+    ort: Erster Vortrag
+    titel: Kein Titel
+  - seq: 7
+    ga: 148
+    type: vortrag
+    datum: 04.11.1913
+    ort: Zweiter Vortrag
+    titel: Kein Titel
+  - seq: 8
+    ga: 148
+    type: vortrag
+    datum: 18.11.1913
+    ort: Dritter Vortrag
+    titel: Kein Titel
+  - seq: 9
+    ga: 148
+    type: vortrag
+    datum: 06.01.1914
+    ort: Vierter Vortrag
+    titel: Kein Titel
+  - seq: 10
+    ga: 148
+    type: vortrag
+    datum: 13.01.1914
+    ort: Fünfter Vortrag
+    titel: Kein Titel
+  - seq: 11
+    ga: 148
+    type: vortrag
+    datum: 10.02.1914
+    ort: Sechster Vortrag
+    titel: Kein Titel
+  - seq: 12
+    ga: 148
+    type: vortrag
+    datum: 16.11.1913
+    ort: Hamburg
+    titel: Kein Titel
+  - seq: 13
+    ga: 148
+    type: vortrag
+    datum: 22.11.1913
+    ort: Erster Vortrag
+    titel: Kein Titel
+  - seq: 14
+    ga: 148
+    type: vortrag
+    datum: 23.11.1913
+    ort: Zweiter Vortrag
+    titel: Kein Titel
+  - seq: 15
+    ga: 148
+    type: vortrag
+    datum: 08.12.1913
+    ort: Erster Vortrag
+    titel: Kein Titel
+  - seq: 16
+    ga: 148
+    type: vortrag
+    datum: 10.12.1913
+    ort: Zweiter Vortrag
+    titel: Kein Titel
+  - seq: 17
+    ga: 148
+    type: vortrag
+    datum: 17.12.1913
+    ort: Erster Vortrag
+    titel: Kein Titel
+  - seq: 18
+    ga: 148
+    type: vortrag
+    datum: 18.12.1913
+    ort: Zweiter Vortrag
+    titel: Kein Titel

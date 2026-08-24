@@ -1,0 +1,71 @@
+# GA 337a — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 337a).
+
+ga: 337a
+title: "Die Herausgabe besorgten Alexander Lüscher und Ulla Trapp 1. Auflage, Gesamtausgabe Dornach 1999 Bibliographie-Nr. 33..."
+pdf: GA 337a.pdf
+period: 1919–1920
+entry_count: 9
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 337a
+    type: vortrag
+    datum: 25.05.1919
+    ort: Stuttgart
+    titel: Erster Frageabend
+  - seq: 2
+    ga: 337a
+    type: vortrag
+    datum: 30.05.1919
+    ort: Stuttgart
+    titel: Fragen zur Dreigliederung des sozialen Organismus
+    beschreibung: Frageabend des Bundes für Dreigliederung des sozialen Organismus
+  - seq: 3
+    ga: 337a
+    type: vortrag
+    datum: 30.07.1919
+    ort: Stuttgart
+    titel: Erster Studienabend
+  - seq: 4
+    ga: 337a
+    type: vortrag
+    datum: 03.03.1920
+    ort: Stuttgart
+    titel: Studienabend
+  - seq: 5
+    ga: 337a
+    type: vortrag
+    datum: 09.06.1920
+    ort: Stuttgart
+    titel: Studienabend
+  - seq: 6
+    ga: 337a
+    type: vortrag
+    datum: 16.06.1920
+    ort: Stuttgart
+    titel: Vierter Studienabend
+  - seq: 7
+    ga: 337a
+    type: vortrag
+    datum: 23.06.1920
+    ort: Stuttgart
+    titel: Studienabend
+  - seq: 8
+    ga: 337a
+    type: vortrag
+    datum: 28.07.1920
+    ort: Stuttgart
+    titel: Studienabend
+  - seq: 9
+    ga: 337a
+    type: vortrag
+    datum: 15.09.1920
+    ort: Stuttgart
+    titel: Siebenter Studienabend

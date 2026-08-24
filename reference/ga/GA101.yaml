@@ -1,0 +1,112 @@
+# GA 101 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 101.pdf table of contents.
+
+ga: 101
+title: GA 101
+pdf: GA 101.pdf
+period: 1907
+entry_count: 16
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 101
+    type: vortrag
+    datum: 07.10.1907
+    ort: Berlin
+    titel: "ERSTER VORTRAG, Berlin"
+  - seq: 2
+    ga: 101
+    type: vortrag
+    datum: 14.10.1907
+    ort: Berlin
+    titel: "ZWEITER VORTRAG, Berlin"
+  - seq: 3
+    ga: 101
+    type: vortrag
+    datum: 21.10.1907
+    ort: Berlin
+    titel: "DRITTER VORTRAG, Berlin"
+  - seq: 4
+    ga: 101
+    type: vortrag
+    datum: 21.10.1907
+    ort: Berlin
+    titel: "VIERTER VORTRAG, Berlin"
+  - seq: 5
+    ga: 101
+    type: vortrag
+    datum: 28.10.1907
+    ort: Berlin
+    titel: "FÜNFTER VORTRAG, Berlin"
+  - seq: 6
+    ga: 101
+    type: vortrag
+    datum: 13.11.1907
+    ort: Berlin
+    titel: "SECHSTER VORTRAG, Berlin"
+  - seq: 7
+    ga: 101
+    type: vortrag
+    datum: 21.10.1907
+    ort: Berlin
+    titel: Kein Titel
+  - seq: 8
+    ga: 101
+    type: vortrag
+    datum: 13.09.1907
+    ort: Stuttgart
+    titel: "ERSTER VORTRAG, Stuttgart"
+  - seq: 9
+    ga: 101
+    type: vortrag
+    datum: 14.09.1907
+    ort: Stuttgart
+    titel: "ZWEITER VORTRAG, Stuttgart"
+  - seq: 10
+    ga: 101
+    type: vortrag
+    datum: 15.09.1907
+    ort: Stuttgart
+    titel: "DRITTER VORTRAG, Stuttgart"
+  - seq: 11
+    ga: 101
+    type: vortrag
+    datum: 16.09.1907
+    ort: Stuttgart
+    titel: "VIERTER VORTRAG, Stuttgart"
+  - seq: 12
+    ga: 101
+    type: vortrag
+    datum: 26.12.1907
+    ort: Köln
+    titel: "FÜNFTER VORTRAG, Köln"
+  - seq: 13
+    ga: 101
+    type: vortrag
+    datum: 27.12.1907
+    ort: Köln
+    titel: "SECHSTER VORTRAG, Köln"
+  - seq: 14
+    ga: 101
+    type: vortrag
+    datum: 28.12.1907
+    ort: Köln
+    titel: Siebenter Vortrag
+  - seq: 15
+    ga: 101
+    type: vortrag
+    datum: 29.12.1907
+    ort: Köln
+    titel: "ACHTER VORTRAG, Köln"
+  - seq: 16
+    ga: 101
+    type: vortrag
+    datum: 13.12.1907
+    ort: Berlin
+    titel: Kein Titel

@@ -1,0 +1,41 @@
+# GA 144 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 144).
+
+ga: 144
+title: GA 144
+pdf: GA 144.pdf
+period: 1913
+entry_count: 4
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 144
+    type: vortrag
+    datum: 03.02.1913
+    ort: Berlin
+    titel: Vortrag
+  - seq: 2
+    ga: 144
+    type: vortrag
+    datum: 04.02.1913
+    ort: Berlin
+    reihe: "Denn das muß durchaus vor Augen gehalten werden, daß die Er- in dem Augenblick, wo man sich anschickt, in die höheren..."
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 144
+    type: vortrag
+    datum: 05.02.1913
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 144
+    type: vortrag
+    datum: 07.02.1913
+    ort: —
+    titel: Vortrag

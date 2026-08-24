@@ -1,0 +1,317 @@
+# GA 51 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 051.pdf table of contents; supplemented from SSOT catalog.
+
+ga: 51
+title: GA 51
+pdf: GA 051.pdf
+period: 1901–1905
+entry_count: 39
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 51
+    type: vortrag
+    datum: 07.01.1901
+    ort: Berlin
+    reihe: Die Weltanschauungen des Mittelalters und der Neuzeit/ Die neuen Weltanschauungen
+    titel: Die griechischen Weltanschauungen
+    beschreibung: Welt- und Lebensanschauungen von den ältesten Zeiten bis zur Gegenwart / Vorträge in der Arbeiterbildungsschule
+  - seq: 2
+    ga: 51
+    type: vortrag
+    datum: 14.01.1901
+    ort: Berlin
+    reihe: Die Weltanschauungen des Mittelalters und der Neuzeit/ Die neuen Weltanschauungen
+    titel: Die griechischen Weltanschauungen
+    beschreibung: Welt- und Lebensanschauungen von den ältesten Zeiten bis zur Gegenwart / Vorträge in der Arbeiterbildungsschule
+  - seq: 3
+    ga: 51
+    type: vortrag
+    datum: 21.01.1901
+    ort: Berlin
+    reihe: Die Weltanschauungen des Mittelalters und der Neuzeit/ Die neuen Weltanschauungen
+    titel: Die griechischen Weltanschauungen
+    beschreibung: Welt- und Lebensanschauungen von den ältesten Zeiten bis zur Gegenwart / Vorträge in der Arbeiterbildungsschule
+  - seq: 4
+    ga: 51
+    type: vortrag
+    datum: 28.01.1901
+    ort: Berlin
+    reihe: Die Weltanschauungen des Mittelalters und der Neuzeit/ Die neuen Weltanschauungen
+    titel: Die griechischen Weltanschauungen
+    beschreibung: Welt- und Lebensanschauungen von den ältesten Zeiten bis zur Gegenwart / Vorträge in der Arbeiterbildungsschule
+  - seq: 5
+    ga: 51
+    type: vortrag
+    datum: 04.02.1901
+    ort: Berlin
+    reihe: Die Weltanschauungen des Mittelalters und der Neuzeit/ Die neuen Weltanschauungen
+    titel: Die griechischen Weltanschauungen
+    beschreibung: Welt- und Lebensanschauungen von den ältesten Zeiten bis zur Gegenwart / Vorträge in der Arbeiterbildungsschule
+  - seq: 6
+    ga: 51
+    type: vortrag
+    datum: 11.02.1901
+    ort: Berlin
+    reihe: Die Weltanschauungen des Mittelalters und der Neuzeit/ Die neuen Weltanschauungen
+    titel: Die griechischen Weltanschauungen
+    beschreibung: Welt- und Lebensanschauungen von den ältesten Zeiten bis zur Gegenwart / Vorträge in der Arbeiterbildungsschule
+  - seq: 7
+    ga: 51
+    type: vortrag
+    datum: 13.02.1901
+    ort: Berlin
+    titel: Über Haeckels Welträtsel
+    beschreibung: Vortrag vor Studenten
+  - seq: 8
+    ga: 51
+    type: vortrag
+    datum: 18.02.1901
+    ort: Berlin
+    reihe: Die Weltanschauungen des Mittelalters und der Neuzeit/ Die neuen Weltanschauungen
+    titel: Die griechischen Weltanschauungen
+    beschreibung: Welt- und Lebensanschauungen von den ältesten Zeiten bis zur Gegenwart / Vorträge in der Arbeiterbildungsschule
+  - seq: 9
+    ga: 51
+    type: vortrag
+    datum: 25.02.1901
+    ort: Berlin
+    reihe: Die Weltanschauungen des Mittelalters und der Neuzeit/ Die neuen Weltanschauungen
+    titel: Die griechischen Weltanschauungen
+    beschreibung: Welt- und Lebensanschauungen von den ältesten Zeiten bis zur Gegenwart / Vorträge in der Arbeiterbildungsschule
+  - seq: 10
+    ga: 51
+    type: vortrag
+    datum: 04.03.1901
+    ort: Berlin
+    reihe: Die Weltanschauungen des Mittelalters und der Neuzeit/ Die neuen Weltanschauungen
+    titel: Die griechischen Weltanschauungen
+    beschreibung: Welt- und Lebensanschauungen von den ältesten Zeiten bis zur Gegenwart / Vorträge in der Arbeiterbildungsschule
+  - seq: 11
+    ga: 51
+    type: vortrag
+    datum: 11.03.1901
+    ort: Berlin
+    reihe: "gehalten in Berlin am 7., 14., 21., 28. Januar, 4., 11.,"
+    titel: Die griechischen Weltanschauungen
+    beschreibung: Welt- und Lebensanschauungen von den ältesten Zeiten bis zur Gegenwart / Vorträge in der Arbeiterbildungsschule
+  - seq: 12
+    ga: 51
+    type: vortrag
+    datum: 31.03.1902
+    ort: Berlin
+    titel: Die Einheit der Welt
+    beschreibung: Diskussion im Giordano Bruno-Bund für einheitliche Weltanschauung
+  - seq: 13
+    ga: 51
+    type: vortrag
+    datum: 06.05.1902
+    ort: Berlin
+    reihe: "gehalten in Berlin am 7., 14., 21., 28. Januar, 4., 11.,"
+    titel: William Shakespeare
+  - seq: 14
+    ga: 51
+    type: vortrag
+    datum: 07.05.1902
+    ort: Berlin
+    titel: Wahrheit und Wissenschaft
+  - seq: 15
+    ga: 51
+    type: vortrag
+    datum: 08.10.1902
+    ort: Berlin
+    titel: Monismus und Theosophie
+  - seq: 16
+    ga: 51
+    type: vortrag
+    datum: 15.10.1902
+    ort: Berlin
+    titel: Diskussionsabend
+  - seq: 17
+    ga: 51
+    type: vortrag
+    datum: 19.07.1904
+    ort: Berlin
+    reihe: "gehalten in Berlin am 7., 14., 21., 28. Januar, 4., 11.,"
+    titel: Über römische Geschichte
+  - seq: 18
+    ga: 51
+    type: vortrag
+    datum: 18.10.1904
+    ort: Berlin
+    reihe: "gehalten in Berlin am 7., 14., 21., 28. Januar, 4., 11.,"
+    titel: Geschichte des Mittelalters bis zu den großen Erfindungen und Entdeckungen Vorwort von Marie Steiner zur 1. Auflage 1936 94
+  - seq: 19
+    ga: 51
+    type: vortrag
+    datum: 25.10.1904
+    ort: Berlin
+    reihe: "gehalten in Berlin am 7., 14., 21., 28. Januar, 4., 11.,"
+    titel: Zweiter Vortrag
+    beschreibung: Vorträge in der Arbeiterbildungsschule
+  - seq: 20
+    ga: 51
+    type: vortrag
+    datum: 29.10.1904
+    ort: Berlin
+    reihe: Die deutsche Mystik und ihre Voraussetzungen. Platonische Mystik und Docta ignorantia
+    titel: Erster Vortrag
+    beschreibung: Vorträge in der Freien Hochschule
+  - seq: 21
+    ga: 51
+    type: vortrag
+    datum: 01.11.1904
+    ort: Berlin
+    reihe: Von der Völkerwanderung bis zu den großen Erfindungen und Entdeckungen des 16. und 17. Jahrhunderts. Geschichte des Mittelalters bis zu den grossen Erfindungen und Entdeckungen
+    titel: Dritter Vortrag
+    beschreibung: Vorträge in der Arbeiterbildungsschule
+  - seq: 22
+    ga: 51
+    type: vortrag
+    datum: 05.11.1904
+    ort: Berlin
+    reihe: Die deutsche Mystik und ihre Voraussetzungen. Platonische Mystik und Docta ignorantia
+    titel: Zweiter Vortrag
+    beschreibung: Vorträge in der Freien Hochschule
+  - seq: 23
+    ga: 51
+    type: vortrag
+    datum: 08.11.1904
+    ort: Berlin
+    reihe: Von der Völkerwanderung bis zu den großen Erfindungen und Entdeckungen des 16. und 17. Jahrhunderts. Geschichte des Mittelalters bis zu den grossen Erfindungen und Entdeckungen
+    titel: Vierter Vortrag
+    beschreibung: Vorträge in der Arbeiterbildungsschule
+  - seq: 24
+    ga: 51
+    type: vortrag
+    datum: 12.11.1904
+    ort: Berlin
+    reihe: Die deutsche Mystik und ihre Voraussetzungen. Platonische Mystik und Docta ignorantia
+    titel: Dritter Vortrag
+    beschreibung: Vorträge in der Freien Hochschule
+  - seq: 25
+    ga: 51
+    type: vortrag
+    datum: 15.11.1904
+    ort: Berlin
+    reihe: Von der Völkerwanderung bis zu den großen Erfindungen und Entdeckungen des 16. und 17. Jahrhunderts. Geschichte des Mittelalters bis zu den grossen Erfindungen und Entdeckungen
+    titel: Fünfter Vortrag
+    beschreibung: Vorträge in der Arbeiterbildungsschule
+  - seq: 26
+    ga: 51
+    type: vortrag
+    datum: 06.12.1904
+    ort: Berlin
+    reihe: Von der Völkerwanderung bis zu den großen Erfindungen und Entdeckungen des 16. und 17. Jahrhunderts. Geschichte des Mittelalters bis zu den grossen Erfindungen und Entdeckungen
+    titel: Sechster Vortrag
+    beschreibung: Vorträge in der Arbeiterbildungsschule
+  - seq: 27
+    ga: 51
+    type: vortrag
+    datum: 13.12.1904
+    ort: Berlin
+    reihe: Von der Völkerwanderung bis zu den großen Erfindungen und Entdeckungen des 16. und 17. Jahrhunderts. Geschichte des Mittelalters bis zu den grossen Erfindungen und Entdeckungen
+    titel: Siebenter Vortrag
+    beschreibung: Vorträge in der Arbeiterbildungsschule
+  - seq: 28
+    ga: 51
+    type: vortrag
+    datum: 20.12.1904
+    ort: Berlin
+    reihe: Von der Völkerwanderung bis zu den großen Erfindungen und Entdeckungen des 16. und 17. Jahrhunderts. Geschichte des Mittelalters bis zu den grossen Erfindungen und Entdeckungen
+    titel: Achter Vortrag
+    beschreibung: Vorträge in der Arbeiterbildungsschule
+  - seq: 29
+    ga: 51
+    type: vortrag
+    datum: 28.12.1904
+    ort: Berlin
+    reihe: Von der Völkerwanderung bis zu den großen Erfindungen und Entdeckungen des 16. und 17. Jahrhunderts. Geschichte des Mittelalters bis zu den grossen Erfindungen und Entdeckungen
+    titel: Neunter Vortrag
+    beschreibung: Vorträge in der Arbeiterbildungsschule
+  - seq: 30
+    ga: 51
+    type: vortrag
+    datum: 29.12.1904
+    ort: Berlin
+    reihe: Von der Völkerwanderung bis zu den großen Erfindungen und Entdeckungen des 16. und 17. Jahrhunderts. Geschichte des Mittelalters bis zu den grossen Erfindungen und Entdeckungen
+    titel: Zehnter Vortrag
+    beschreibung: Vorträge in der Arbeiterbildungsschule
+  - seq: 31
+    ga: 51
+    type: vortrag
+    datum: 21.01.1905
+    ort: Berlin
+    reihe: Schiller und unser Zeitalter
+    titel: Erster Vortrag
+    beschreibung: Vorträge in der Freien Hochschule
+  - seq: 32
+    ga: 51
+    type: vortrag
+    datum: 28.01.1905
+    ort: Berlin
+    reihe: Schiller und unser Zeitalter
+    titel: Zweiter Vortrag
+    beschreibung: Vorträge in der Freien Hochschule
+  - seq: 33
+    ga: 51
+    type: vortrag
+    datum: 04.02.1905
+    ort: Berlin
+    reihe: Schiller und unser Zeitalter
+    titel: Dritter Vortrag
+    beschreibung: Vorträge in der Freien Hochschule. Darstellungen an der Arbeiterbildungsschule und der Freien Hochschule in Berlin
+  - seq: 34
+    ga: 51
+    type: vortrag
+    datum: 11.02.1905
+    ort: Berlin
+    reihe: Schiller und unser Zeitalter
+    titel: Vierter Vortrag
+    beschreibung: Vorträge in der Freien Hochschule
+  - seq: 35
+    ga: 51
+    type: vortrag
+    datum: 18.02.1905
+    ort: Berlin
+    reihe: Schiller und unser Zeitalter
+    titel: Fünfter Vortrag
+    beschreibung: Vorträge in der Freien Hochschule
+  - seq: 36
+    ga: 51
+    type: vortrag
+    datum: 25.02.1905
+    ort: Berlin
+    reihe: Schiller und unser Zeitalter
+    titel: Sechster Vortrag
+    beschreibung: Vorträge in der Freien Hochschule
+  - seq: 37
+    ga: 51
+    type: vortrag
+    datum: 04.03.1905
+    ort: Berlin
+    reihe: Schiller und unser Zeitalter
+    titel: Schillers Wirkungen im 19. Jahrhundert
+    beschreibung: Vorträge in der Freien Hochschule
+  - seq: 38
+    ga: 51
+    type: vortrag
+    datum: 05.03.1905
+    ort: Berlin
+    reihe: Schiller und unser Zeitalter
+    titel: "Was kann die Gegenwart von Schiller lernen?"
+    beschreibung: Vorträge in der Freien Hochschule
+  - seq: 39
+    ga: 51
+    type: vortrag
+    datum: 25.03.1905
+    ort: Berlin
+    reihe: Schiller und unser Zeitalter
+    titel: Neunter Vortrag
+    beschreibung: Vorträge in der Freien Hochschule

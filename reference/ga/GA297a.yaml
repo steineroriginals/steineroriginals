@@ -1,0 +1,53 @@
+# GA 297a — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 297a).
+
+ga: 297a
+title: "Nachlass-Verwaltung Buch: 297a Seite: 2 RUDOLF STEINER"
+pdf: GA 297a.pdf
+period: 1921–1924
+entry_count: 6
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 297a
+    type: vortrag
+    datum: 24.02.1921
+    ort: Utrecht
+    titel: "Erziehungs-, Unterrichts- und praktische Lebensfragen vom Gesichtspunkte anthroposophischer Geisteswissenschaft"
+  - seq: 2
+    ga: 297a
+    type: vortrag
+    datum: 28.02.1921
+    ort: Amsterdam
+    titel: "Erziehungs-, Unterrichts- und praktische Lebensfragen vom Gesichtspunkte anthroposophischer Geisteswissenschaft"
+  - seq: 3
+    ga: 297a
+    type: vortrag
+    datum: 28.07.1921
+    ort: Darmstadt
+    titel: Pädagogischer Abend
+    beschreibung: Hochschulveranstaltung. Anthroposophie und Wissenschaft. 25.-30. Juli 1921
+  - seq: 4
+    ga: 297a
+    type: vortrag
+    datum: 01.11.1922
+    ort: Rotterdam
+    titel: Das Übersinnliche in Mensch und Welt
+  - seq: 5
+    ga: 297a
+    type: vortrag
+    datum: 04.11.1922
+    ort: Den Haag
+    titel: Die religiöse und sittliche Erziehung im Lichte der Anthroposophie
+  - seq: 6
+    ga: 297a
+    type: vortrag
+    datum: 04.04.1924
+    ort: Prag
+    titel: Erziehung und Unterricht auf Grundlage wirklicher Menschenerkenntnis

@@ -1,0 +1,70 @@
+# GA 183 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 183.pdf table of contents.
+
+ga: 183
+title: "GESELLSCHAFT Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 183"
+pdf: GA 183.pdf
+period: 1918
+entry_count: 9
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 183
+    type: vortrag
+    datum: 17.08.1918
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 183
+    type: vortrag
+    datum: 18.08.1918
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 183
+    type: vortrag
+    datum: 19.08.1918
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 183
+    type: vortrag
+    datum: 24.08.1918
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 183
+    type: vortrag
+    datum: 25.08.1918
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 183
+    type: vortrag
+    datum: 26.08.1918
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 183
+    type: vortrag
+    datum: 31.08.1918
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 183
+    type: vortrag
+    datum: 01.09.1918
+    ort: —
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 183
+    type: vortrag
+    datum: 02.09.1918
+    ort: —
+    titel: Neunter Vortrag

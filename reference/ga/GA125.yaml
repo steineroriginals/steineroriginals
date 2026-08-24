@@ -1,0 +1,100 @@
+# GA 125 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 125.pdf table of contents.
+
+ga: 125
+title: "Seite: 1 GESELLSCHAFT Copyright Rudolf Steiner Nachlass-Verwaltung Buch: 125 Seite: 2"
+pdf: GA 125.pdf
+period: 1910
+entry_count: 14
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 125
+    type: vortrag
+    datum: 23.01.1910
+    ort: —
+    titel: Straßburg
+  - seq: 2
+    ga: 125
+    type: vortrag
+    datum: 26.05.1910
+    ort: Hamburg
+    titel: "Die Philosophie Hegels und ihr Zusammenhang mit der Gegenwart Hegels Jugendfreundschaft mit Schelling und Hölderlin. Erfassung der absoluten Idee in der «Phänomenologie des Geistes» und ihre weitere Darstellung in der «Enzyklopädie der Philosophischen Wis- senschaften». Hegels Monismus im Gegensatz zur Leibnizschen Mo- nadologie. Die Theosophie Schellings. Sieg der materialistischen Denkweise um die Mitte des 19. Jahrhunderts. Neue methodologische Ansätze bei Solowjow und Boutroux, Strenge Denkdisziplin bahnt den Weg zum Übersinnlichen"
+  - seq: 3
+    ga: 125
+    type: vortrag
+    datum: 02.06.1910
+    ort: Kopenhagen
+    titel: Wege und Ziele des geistigen Menschen Der Abgrund zwischen der modernen Seele und der entgötterten Natur. Die Eroberung der äußeren Welt wurde mit seelischer Ver- ödung bezahlt. Mystik und Okkultismus als zwei verschiedenartige Wege zum Geistigen im Menschen und in der Welt
+  - seq: 4
+    ga: 125
+    type: vortrag
+    datum: 04.06.1910
+    ort: Kopenhagen
+    titel: "Das äußere Leben bestätigt die Mitteilungen des Geistesforschers. Karmische Wirkungen innerhalb des gleichen Erdenlebens. Die Über- windung der Egoität durch den Mystiker. Die Gesetzmäßigkeit der Zahl, ein Leitfaden für den Okkultisten. Welterkenntnis von zwölf verschiedenen Standpunkten aus"
+  - seq: 5
+    ga: 125
+    type: vortrag
+    datum: 05.06.1910
+    ort: Kopenhagen
+    titel: Leitsätze zum Vortragsthema
+  - seq: 6
+    ga: 125
+    type: vortrag
+    datum: 26.08.1910
+    ort: München
+    titel: Der heutige Stand der Philosophie und Wissenschaft Notwendigkeit eines erkenntnistheoretischen Fundamentes geistes- wissenschaftlicher Erkenntnisse. Größe und Schwäche der Hegeischen Philosophie. Der Weg vom reinen Denken zur übersinnlichen Er- fahrung. Die Bedeutung der spirituell-philosophischen Wirksamkeit von Carl Unger. Die Nichteuklidische Geometrie als Versuch zur Überwindung der sinnlichen Welt. Das XIII. Kapitel der «Philoso- phie der Freiheit» und seine Entsprechung in einer arithmetischen Formel. Die mechanische Wärmetheorie und das Energieprinzip als Beispiele irreführender Interpretation naturwissenschaftlicher Be- obachtungen. Befruchtung der physiologischen Forschung durch Geist-Erkenntnis
+  - seq: 7
+    ga: 125
+    type: vortrag
+    datum: 17.09.1910
+    ort: Basel
+    titel: "Über Selbsterkenntnis, anknüpfend an das Rosenkreuzer- mysterium «Die Pforte der Einweihung» Die Seelenerlebnisse des Johannes Thomasius, eine individuelle Aus- prägung innerer Entwicklungsgesetze. Wahre Selbsterkenntnis durch Untertauchen in andere Wesen. Kamaloka-Erlebnisse des Einge- weihten, Eigene Begierden und Leidenschaften werden wesenhaft er- lebt. Der Unterschied zwischen dem ästhetischen Prinzip der Dra- men Shakespeares und dem spirituellen Realismus des Rosenkreuzer- dramas. Darstellung der menschlichen Totalität durch Träger ein- zelner Wesensglieder"
+  - seq: 8
+    ga: 125
+    type: vortrag
+    datum: 31.10.1910
+    ort: Berlin
+    titel: Einiges über das Rosenkreuzermysterium «Die Pforte der Einweihung» Der Gestaltungsprozeß des Rosenkreuzermysteriums durch dreimal sieben Jahre. Karmische Fäden hinter dem physischen Geschehen. Das individuelle Karma des Johannes Thomasius wird vom Welten- karma durchkreuzt. Inbesitznahme einer verlassenen physischen Hülle durch Versuchermächte. Realität und Maja der astralischen Welt. Sprachliche Mittel in der Schilderung der Wesen und Vorgänge der geistigen Welt
+  - seq: 9
+    ga: 125
+    type: vortrag
+    datum: 13.11.1910
+    ort: Nürnberg
+    titel: "im Alten Testament. Unvermögen des heutigen wissenschaftlichen Denkens, die überlieferten Zeugnisse einer Uroffenbarung zu begrei- fen. Die Voraussetzung für ein solches Begreifen ist das Eindringen in die den Evangelien zugrunde liegenden Ereignisse von Palästina. Die Erkenntnistragik des Empedokles und seine Wiedergeburt zu Be- ginn der Neuzeit. Cicero, der Apologet der vollkommenen Vernunft. Das Damaskuserlebnis des Paulus. Jeshu ben Pandira, der große Vor- verkündiger des Christus"
+  - seq: 10
+    ga: 125
+    type: vortrag
+    datum: 21.11.1910
+    ort: Leipzig
+    titel: Die Phantasie als Vorstufe höherer Seelenfähigkeiten Schiller und Goethe über den Wahrheitswert der Phantasie. Der Un- terschied zwischen niederem Hellsehen und geisteswissenschaftlicher Erkenntnis. Die Entsprechung zwischen der Ideenwelt und der der Sinnenwelt zugrunde liegenden Gesetzmäßigkeit. Entwicklung see- lischer Kräfte durch Konzentration. Die Rosenkreuzermeditation. Durch innere Bilder erfährt der geschulte Hellseher objektive geistige Tatsachen. Die reale Grundlage der Phantasie im Geistigen
+  - seq: 11
+    ga: 125
+    type: vortrag
+    datum: 26.11.1910
+    ort: Bremen
+    titel: "Lebensfragen im Lichte von Reinkarnation und Karma Herabminderung des menschlichen Wertes durch Neid und Lüge. Neid ist eine Folge des luziferischen Einflusses auf den Astralleib, Lüge eine Folge des ahrimanischen Einflusses auf den Ätherleib. Mas- kierter Neid wird zur Tadelsucht, unterdrückte Lügenhaftigkeit zur Oberflächlichkeit gegenüber der Wahrheit. Karmische Folgen von Neid und Lüge in der gleichen und in der nächsten Inkarnation. Hilfe aus Mitgefühl trägt zur Überwindung der luziferischen und ahrimanischen Impulse in der Menschheitsentwicklung bei. Das Ge- meinsamkeitsgefühl vor Christus durch das Zurückblicken auf den gemeinsamen geistigen Menschheitsursprung, nach Christus durch das Hinblicken auf das geistige Menschheitsziel"
+  - seq: 12
+    ga: 125
+    type: vortrag
+    datum: 11.12.1910
+    ort: München
+    titel: viduaütät des Empedokles. Anthroposophie muß Lebenspraxis wer- den
+  - seq: 13
+    ga: 125
+    type: vortrag
+    datum: 22.12.1910
+    ort: Berlin
+    titel: Das Weihnachtsfest im Wandel der Zeiten Die Disharmonie zwischen der Weihnachtsstimmung und der zivili- satorischen Umwelt. Letzte Nachklänge einer tieferen Empfindung von der Bedeutung des Weihnachtsfestes. Alte Weihnachtspiele in den deutschen Sprachinseln Ungarns. Der Herabstieg des Menschen durch den Sündenfall und sein Wiederaufstieg durch Christus. Aus der Geisteswissenschaft kann eine neue Weihnachtsstimmung er- wachsen
+  - seq: 14
+    ga: 125
+    type: vortrag
+    datum: 27.12.1910
+    ort: Stuttgart
+    titel: "Die Julfestzeit, die Christfest-Symbole und die welthistorische Stimmung anthroposophischer Vorstellungsart Das Ewige prägt sich in immer neuen Formen im Vergänglichen aus. Das Miterleben des Jahreslaufes durch die vorchristliche Bevölke- rung Nord- und Mitteleuropas. Das Jesus-Geburtsfest als neuer Emp- findungsgehalt. Paradeisspiele, Christgeburtspiele und Dreikönigs- spiele in ihrem inneren Zusammenhang. Der geistigen Erfassung des Weihnachtsfestes wird das große Osterfest der Menschheit folgen"

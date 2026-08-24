@@ -1,0 +1,64 @@
+# GA 189 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 189).
+
+ga: 189
+title: GA 189
+pdf: GA 189.pdf
+period: 1919
+entry_count: 8
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 189
+    type: vortrag
+    datum: 15.02.1919
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 189
+    type: vortrag
+    datum: 16.02.1919
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 189
+    type: vortrag
+    datum: 21.02.1919
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 189
+    type: vortrag
+    datum: 01.03.1919
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 189
+    type: vortrag
+    datum: 02.03.1919
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 189
+    type: vortrag
+    datum: 07.03.1919
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 189
+    type: vortrag
+    datum: 15.03.1919
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 189
+    type: vortrag
+    datum: 16.03.1919
+    ort: —
+    titel: Achter Vortrag

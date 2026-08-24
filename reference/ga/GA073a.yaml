@@ -1,0 +1,157 @@
+# GA 73a — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 73a).
+
+ga: 73a
+title: "Fachwissenschaften und Anthroposophie Acht Vorträge, elf Fragenbeantwortungen,"
+pdf: GA 073a.pdf
+period: 1920–1921
+entry_count: 21
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 73a
+    type: fragenbeantwortung
+    datum: 13.03.1920
+    ort: Stuttgart
+    titel: FRAGENBEANTWORTUNG.
+  - seq: 2
+    ga: 73a
+    type: vortrag
+    datum: 24.03.1920
+    ort: Dornach
+    reihe: Anthroposophie und Fachwissenschaften
+    titel: Anthroposophie und gegenwärtige Wissenschaften als Einleitung zu neun öffentlichen Vorträgen über «Anthroposophie und Fachwissenschaften»
+    beschreibung: Kursus während des Kurses für Ärzte und Mediziner. (Erster Ärztekurs)
+  - seq: 3
+    ga: 73a
+    type: fragenbeantwortung
+    datum: 25.03.1920
+    ort: —
+    titel: Fragenbeantwortung
+  - seq: 4
+    ga: 73a
+    type: fragenbeantwortung
+    datum: 26.03.1920
+    ort: —
+    titel: "nach dem Vortrag von Carl Unger über «Anthroposophie und die erkenntnistheoretische Grundlage der Naturwis- senschaften» Gibt es eine Beziehung der übersinnlichen Erkenntnis zum Willen? FRAGENBEANTWORTUNG «Zur Psychiatrie», . . 70"
+  - seq: 5
+    ga: 73a
+    type: vortrag
+    datum: 27.03.1920
+    ort: —
+    titel: "im Anschluß an den Vortrag von Friedrich Husemann über «Nervosität, Weltanschauung und Anthroposophie» Notwendigkeit einer umfassenderen Betrachtung psy- chischer Erkrankungen. Beziehung zwischen dem psychisch Erkrankten und der sozialen Umgebung."
+  - seq: 6
+    ga: 73a
+    type: vortrag
+    datum: 29.03.1920
+    ort: —
+    titel: Gestellter Fragen
+  - seq: 7
+    ga: 73a
+    type: vortrag
+    datum: 30.03.1920
+    ort: Dornach
+    reihe: Anthroposophie und Fachwissenschaften
+    titel: Besprechung nach dem öffentlichen Vortrag von Herrn Dr. Kolisko «Anthroposophie und Chemie»
+    beschreibung: Kursus während des Kurses für Ärzte und Mediziner. (Erster Ärztekurs)
+  - seq: 8
+    ga: 73a
+    type: vortrag
+    datum: 31.03.1920
+    ort: Dornach
+    reihe: Anthroposophie und Fachwissenschaften
+    titel: Besprechung nach dem öffentlichen Vortrag von Herrn Stockmeyer «Anthroposophie und Physik»
+    beschreibung: Kursus während des Kurses für Ärzte und Mediziner. (Erster Ärztekurs)
+  - seq: 9
+    ga: 73a
+    type: vortrag
+    datum: 01.04.1920
+    ort: Dornach
+    reihe: Anthroposophie und Fachwissenschaften
+    titel: Besprechung nach dem öffentlichen Vortrag von Herrn Dr. Schmiedel «Anthroposophie und Farbenlehre»
+    beschreibung: Kursus während des Kurses für Ärzte und Mediziner. (Erster Ärztekurs)
+  - seq: 10
+    ga: 73a
+    type: vortrag
+    datum: 06.04.1920
+    ort: Dornach
+    reihe: Anthroposophie und Fachwissenschaften
+    titel: Besprechung nach dem öffentlichen Vortrag von Herrn Dr. Boos «Anthroposophie und Rechtswissenschaft»
+    beschreibung: Kursus während des Kurses für Ärzte und Mediziner. (Erster Ärztekurs)
+  - seq: 11
+    ga: 73a
+    type: vortrag
+    datum: 07.04.1920
+    ort: Dornach
+    reihe: Anthroposophie und Fachwissenschaften
+    titel: Anthroposophie und Hygiene als soziales Problem. Die Hygiene als soziale Frage
+    beschreibung: Kursus während des Kurses für Ärzte und Mediziner. (Erster Ärztekurs)
+  - seq: 12
+    ga: 73a
+    type: vortrag
+    datum: 11.05.1920
+    ort: Dornach
+    titel: Schlusswort
+  - seq: 13
+    ga: 73a
+    type: vortrag
+    datum: 17.06.1920
+    ort: Stuttgart
+    titel: Mit Aussprache
+  - seq: 14
+    ga: 73a
+    type: vortrag
+    datum: 04.10.1920
+    ort: Dornach
+    titel: Konversation über Geisteswissenschaft. Sprachstörungen und ihre Heilung. Eurythmie. Die Zukunft des deutschen Volkes. Therapeutische Eurythmie
+    beschreibung: Erster anthroposophischer Hochschulkurs
+  - seq: 15
+    ga: 73a
+    type: vortrag
+    datum: 06.10.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Erster anthroposophischer Hochschulkurs. Gesprächsabend II im Goetheanum
+  - seq: 16
+    ga: 73a
+    type: vortrag
+    datum: 15.10.1920
+    ort: Dornach
+    titel: Kein Titel
+    beschreibung: Erster anthroposophischer Hochschulkurs. Gesprächsabend III im Goetheanum
+  - seq: 17
+    ga: 73a
+    type: vortrag
+    datum: 11.01.1921
+    ort: Stuttgart
+    titel: "ERSTER VORTRAG,       Stuttgart"
+  - seq: 18
+    ga: 73a
+    type: vortrag
+    datum: 12.01.1921
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 19
+    ga: 73a
+    type: vortrag
+    datum: 14.01.1921
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 20
+    ga: 73a
+    type: fragenbeantwortung
+    datum: 15.01.1921
+    ort: —
+    titel: Fragenbeantwortung
+  - seq: 21
+    ga: 73a
+    type: vortrag
+    datum: 02.09.1921
+    ort: Stuttgart
+    titel: "DISKUSSIONSBEITRAG,"

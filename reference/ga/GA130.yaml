@@ -1,0 +1,154 @@
+# GA 130 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 130.pdf table of contents.
+
+ga: 130
+title: "Nachlass-Verwaltung Buch: 130 Seite: 2 RUDOLF STEINER"
+pdf: GA 130.pdf
+period: 1911–1912
+entry_count: 23
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 130
+    type: vortrag
+    datum: 17.09.1911
+    ort: Erster Vortrag
+    titel: Kein Titel
+  - seq: 2
+    ga: 130
+    type: vortrag
+    datum: 19.09.1911
+    ort: Zweiter Vortrag
+    titel: Kein Titel
+  - seq: 3
+    ga: 130
+    type: vortrag
+    datum: 21.09.1911
+    ort: Mailand
+    titel: Buddha und Christus. Die Sphäre der Bodhisattvas
+  - seq: 4
+    ga: 130
+    type: vortrag
+    datum: 27.09.1911
+    ort: Erster Vortrag
+    titel: Neuchätel
+  - seq: 5
+    ga: 130
+    type: vortrag
+    datum: 28.09.1911
+    ort: Zweiter Vortrag
+    titel: Neuchatel
+  - seq: 6
+    ga: 130
+    type: vortrag
+    datum: 01.10.1911
+    ort: Basel
+    titel: Die Ätherisation des Blutes. Das Eingreifen des ätherischen Christus in die Erdenentwickelung
+  - seq: 7
+    ga: 130
+    type: vortrag
+    datum: 04.11.1911
+    ort: Erster Vortrag
+    titel: Kein Titel
+  - seq: 8
+    ga: 130
+    type: vortrag
+    datum: 05.11.1911
+    ort: Zweiter Vortrag
+    titel: Kein Titel
+  - seq: 9
+    ga: 130
+    type: vortrag
+    datum: 18.11.1911
+    ort: Erster Vortrag
+    titel: Kein Titel
+  - seq: 10
+    ga: 130
+    type: vortrag
+    datum: 20.11.1911
+    ort: Zweiter Vortrag
+    titel: Kein Titel
+  - seq: 11
+    ga: 130
+    type: vortrag
+    datum: 02.12.1911
+    ort: Erster Vortrag
+    titel: Kein Titel
+  - seq: 12
+    ga: 130
+    type: vortrag
+    datum: 03.12.1911
+    ort: Zweiter Vortrag
+    titel: Kein Titel
+  - seq: 13
+    ga: 130
+    type: vortrag
+    datum: 09.01.1912
+    ort: München
+    titel: Welten-Ich und Menschen-Ich. Mikrokosmisch-übersinnliche Wesenheiten. Die Natur des Christus
+  - seq: 14
+    ga: 130
+    type: vortrag
+    datum: 27.01.1912
+    ort: Erster Vortrag
+    titel: Kein Titel
+  - seq: 15
+    ga: 130
+    type: vortrag
+    datum: 29.01.1912
+    ort: Zweiter Vortrag
+    titel: Kein Titel
+  - seq: 16
+    ga: 130
+    type: vortrag
+    datum: 08.02.1912
+    ort: Wien
+    titel: Grundstimmung dem menschlichen Karma gegenüber
+  - seq: 17
+    ga: 130
+    type: vortrag
+    datum: 09.02.1912
+    ort: Wien
+    titel: Intimitaten des Karma
+  - seq: 18
+    ga: 130
+    type: vortrag
+    datum: 05.05.1912
+    ort: Düsseldorf
+    titel: Die Tatsache des durch den Tod gegangenen Gottes-Impulses «Fünf Ostern» von Anastasius Grün
+  - seq: 19
+    ga: 130
+    type: vortrag
+    datum: 17.06.1912
+    ort: Hamburg
+    titel: Zur Einweihung des Christian Rosenkreutz-Zweiges
+  - seq: 20
+    ga: 130
+    type: vortrag
+    datum: 18.12.1912
+    ort: —
+    titel: Neuchätel
+  - seq: 21
+    ga: 130
+    type: auszug_aus_vortrag
+    datum: 29.01.1911
+    ort: Köln
+    titel: Notizen aus dem Vortrag
+  - seq: 22
+    ga: 130
+    type: auszug_aus_vortrag
+    datum: 28.11.1911
+    ort: Stuttgart
+    titel: Notizen aus dem Vortrag
+  - seq: 23
+    ga: 130
+    type: vortrag
+    datum: 19.12.1912
+    ort: St. Gallen
+    titel: Notizenaus Dem Vortrag

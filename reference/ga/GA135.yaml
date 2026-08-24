@@ -1,0 +1,46 @@
+# GA 135 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 135).
+
+ga: 135
+title: "Nachlass-Verwaltung Buch: 135 Seite: 2 RUDOLF STEINER"
+pdf: GA 135.pdf
+period: 1912
+entry_count: 5
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 135
+    type: vortrag
+    datum: 23.01.1912
+    ort: Berlin
+    titel: "ERSTER VORTRAG, Berlin"
+  - seq: 2
+    ga: 135
+    type: vortrag
+    datum: 30.01.1912
+    ort: Berlin
+    titel: "ZWEITER VORTRAG, Berlin"
+  - seq: 3
+    ga: 135
+    type: vortrag
+    datum: 20.02.1912
+    ort: Stuttgart
+    titel: "ERSTER VORTRAG, Stuttgart"
+  - seq: 4
+    ga: 135
+    type: vortrag
+    datum: 21.02.1912
+    ort: Stuttgart
+    titel: "ZWEITER VORTRAG, Stuttgart"
+  - seq: 5
+    ga: 135
+    type: vortrag
+    datum: 05.03.1912
+    ort: Berlin
+    titel: "DRITTER VORTRAG, Berlin"

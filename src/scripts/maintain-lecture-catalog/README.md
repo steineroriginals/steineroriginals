@@ -37,6 +37,30 @@ Adds missing GA bands to `reference/ga-catalog.yaml` by extracting book titles f
 
 **Options:** `--write`, `--range`
 
+### `extract_ga_reference_yaml.ts`
+
+Builds `reference/ga/GAXX.yaml` lecture indexes from GA PDF tables of contents (same schema as GA277).
+
+**Options:** `--write`, `--range`, `--missing` (all local PDFs without YAML, excludes `*o.pdf` and `*t.pdf`), `--list-missing`
+
+### `sync_ga_reference_from_catalog.ts`
+
+Compares / syncs `reference/ga/GAXX.yaml` with SSOT entries (both directions).
+
+**Catalog → YAML**
+- Lectures with `ga: X` missing from the reference file
+- Entry-count mismatch (catalog vs YAML must be equal; reports per-date imbalances)
+- YAML duplicates on the same date (more rows than the catalog) are trimmed and written immediately (not reported as problems)
+- `--write`: add / enrich / remove artifacts
+- `--rebuild --write`: replace YAML entries from catalog
+
+**YAML → Catalog**
+- YAML dates in catalog but without `ga: X` (or only other GA)
+- YAML dates absent from the catalog entirely
+- `--write-catalog`: set or append `ga: X` on matching SSOT entries
+
+**Options:** `--ga`, `--range`, `--write`, `--write-catalog`, `--rebuild`, `--keep-artifacts`
+
 ## Usage
 
 ```bash
@@ -45,6 +69,11 @@ npm run maintain:ga-toc
 npm run maintain:ga-toc -- --write --range 68a-68c
 npm run maintain:ga-catalog
 npm run maintain:ga-catalog -- --write
+npm run maintain:ga-reference -- --write --range 68a-68d
+npm run maintain:ga-sync -- --ga 52
+npm run maintain:ga-sync -- --ga 52 --write
+npm run maintain:ga-sync -- --ga 52 --write-catalog
+npm run maintain:ga-sync -- --range 51-55 --write --write-catalog
 ```
 
 ## Environment

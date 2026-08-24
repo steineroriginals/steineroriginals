@@ -1,0 +1,52 @@
+# GA 341 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 341).
+
+ga: 341
+title: AUFGABEN EINER NEUEN WIRTSCHAFTSWISSENSCHAFT
+pdf: GA 341.pdf
+period: 1922
+entry_count: 6
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 341
+    type: besprechung
+    datum: 31.07.1922
+    ort: Dornach
+    titel: Erste Seminarbesprechung
+  - seq: 2
+    ga: 341
+    type: besprechung
+    datum: 01.08.1922
+    ort: —
+    titel: Zweite Seminarbesprechung
+  - seq: 3
+    ga: 341
+    type: besprechung
+    datum: 02.08.1922
+    ort: —
+    titel: Dritte Seminarbesprechung
+  - seq: 4
+    ga: 341
+    type: besprechung
+    datum: 03.08.1922
+    ort: —
+    titel: Vierte Seminarbesprechung
+  - seq: 5
+    ga: 341
+    type: besprechung
+    datum: 04.08.1922
+    ort: —
+    titel: Fünfte Seminarbesprechung
+  - seq: 6
+    ga: 341
+    type: besprechung
+    datum: 05.08.1922
+    ort: —
+    titel: Sechste Seminarbesprechung

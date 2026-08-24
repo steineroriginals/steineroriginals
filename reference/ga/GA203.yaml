@@ -1,0 +1,126 @@
+# GA 203 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 203).
+
+ga: 203
+title: DER MENSCH IN SEINEM ZUSAMMENHANG MIT DEM KOSMOS Band I
+pdf: GA 203.pdf
+period: 1921
+entry_count: 18
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 203
+    type: vortrag
+    datum: 01.01.1921
+    ort: Stuttgart
+    titel: "ERSTER VORTRAG, Stuttgart"
+  - seq: 2
+    ga: 203
+    type: vortrag
+    datum: 06.01.1921
+    ort: Stuttgart
+    titel: "ZWEITER VORTRAG, Stuttgart"
+  - seq: 3
+    ga: 203
+    type: vortrag
+    datum: 09.01.1921
+    ort: Stuttgart
+    titel: "DRITTER VORTRAG, Stuttgart"
+  - seq: 4
+    ga: 203
+    type: vortrag
+    datum: 16.01.1921
+    ort: Stuttgart
+    titel: "VIERTER VORTRAG, Stuttgart"
+  - seq: 5
+    ga: 203
+    type: vortrag
+    datum: 21.01.1921
+    ort: Dornach
+    titel: "FÜNFTER VORTRAG, Dornach"
+  - seq: 6
+    ga: 203
+    type: vortrag
+    datum: 22.01.1921
+    ort: Dornach
+    titel: "SECHSTER VORTRAG, Dornach"
+  - seq: 7
+    ga: 203
+    type: vortrag
+    datum: 23.01.1921
+    ort: Dornach
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 203
+    type: vortrag
+    datum: 29.01.1921
+    ort: Dornach
+    titel: "ACHTER VORTRAG, Dornach"
+  - seq: 9
+    ga: 203
+    type: vortrag
+    datum: 30.01.1921
+    ort: Dornach
+    titel: "NEUNTER VORTRAG, Dornach"
+  - seq: 10
+    ga: 203
+    type: vortrag
+    datum: 05.02.1921
+    ort: Dornach
+    titel: "ZEHNTER VORTRAG, Dornach"
+  - seq: 11
+    ga: 203
+    type: vortrag
+    datum: 06.02.1921
+    ort: Dornach
+    titel: "ELFTER VORTRAG, Dornach"
+  - seq: 12
+    ga: 203
+    type: vortrag
+    datum: 08.02.1921
+    ort: Dornach
+    reihe: "Zeiten jenseits der Schwelle der Erkenntnis gehalten wurden, weil"
+    titel: "ZWÖLFTER VORTRAG, Dornach"
+  - seq: 13
+    ga: 203
+    type: vortrag
+    datum: 27.02.1921
+    ort: Den Haag
+    reihe: "Zeiten jenseits der Schwelle der Erkenntnis gehalten wurden, weil"
+    titel: "DREIZEHNTER VORTRAG, Den Haag"
+  - seq: 14
+    ga: 203
+    type: vortrag
+    datum: 11.03.1921
+    ort: Dornach
+    titel: "VIERZEHNTER VORTRAG, Dornach"
+  - seq: 15
+    ga: 203
+    type: vortrag
+    datum: 13.03.1921
+    ort: Dornach
+    titel: "FÜNFZEHNTER VORTRAG, Dornach"
+  - seq: 16
+    ga: 203
+    type: vortrag
+    datum: 27.03.1921
+    ort: Dornach
+    titel: "SECHZEHNTER VORTRAG, Dornach"
+  - seq: 17
+    ga: 203
+    type: vortrag
+    datum: 28.03.1921
+    ort: Dornach
+    titel: "SIEBZEHNTER VORTRAG, Dornach"
+  - seq: 18
+    ga: 203
+    type: vortrag
+    datum: 01.04.1921
+    ort: Dornach
+    titel: "ACHTZEHNTER VORTRAG, Dornach"

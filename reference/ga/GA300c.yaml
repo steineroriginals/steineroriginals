@@ -1,0 +1,168 @@
+# GA 300c — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 300c).
+
+ga: 300c
+title: Veröffentlichung aus dem Archiv der Rudolf Steiner-Nachlaß Verwaltung als Studienmaterial für die Lehrer an Waldorfsc...
+pdf: GA 300c.pdf
+period: 1923–1924
+entry_count: 22
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 300c
+    type: besprechung
+    datum: 30.03.1923
+    ort: —
+    titel: "Rudolf Steiner: Die pädagogische Zielsetzung der Waldorf schule in Stuttgart 9 Konferenzen vom:"
+  - seq: 2
+    ga: 300c
+    type: vortrag
+    datum: 24.04.1923
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 3
+    ga: 300c
+    type: vortrag
+    datum: 25.04.1923
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 4
+    ga: 300c
+    type: vortrag
+    datum: 03.05.1923
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Walddorfschule
+  - seq: 5
+    ga: 300c
+    type: vortrag
+    datum: 25.05.1923
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 6
+    ga: 300c
+    type: vortrag
+    datum: 21.06.1923
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 7
+    ga: 300c
+    type: vortrag
+    datum: 03.07.1923
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 8
+    ga: 300c
+    type: vortrag
+    datum: 05.07.1923
+    ort: Stuttgart
+    titel: Besprechung mit dem Verwaltungsrat
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 9
+    ga: 300c
+    type: besprechung
+    datum: 12.07.1923
+    ort: —
+    titel: "Konferenzen vom:"
+  - seq: 10
+    ga: 300c
+    type: vortrag
+    datum: 31.07.1923
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 11
+    ga: 300c
+    type: vortrag
+    datum: 18.09.1923
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 12
+    ga: 300c
+    type: vortrag
+    datum: 16.10.1923
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 13
+    ga: 300c
+    type: vortrag
+    datum: 18.12.1923
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 14
+    ga: 300c
+    type: vortrag
+    datum: 05.02.1924
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 15
+    ga: 300c
+    type: vortrag
+    datum: 27.03.1924
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 16
+    ga: 300c
+    type: vortrag
+    datum: 09.04.1924
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 17
+    ga: 300c
+    type: vortrag
+    datum: 29.04.1924
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 18
+    ga: 300c
+    type: vortrag
+    datum: 30.04.1924
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 19
+    ga: 300c
+    type: vortrag
+    datum: 02.06.1924
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 20
+    ga: 300c
+    type: vortrag
+    datum: 19.06.1924
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 21
+    ga: 300c
+    type: vortrag
+    datum: 15.07.1924
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 22
+    ga: 300c
+    type: vortrag
+    datum: 03.09.1924
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule

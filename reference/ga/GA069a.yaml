@@ -1,0 +1,76 @@
+# GA 69a — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 069a.pdf table of contents.
+
+ga: 69a
+title: Wahrheiten und Irrtümer der Geistesforschung Geisteswissenschaft und Menschenzukunft
+pdf: GA 069a.pdf
+period: 1911–1913
+entry_count: 10
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 69a
+    type: vortrag
+    datum: 24.02.1911
+    ort: Zürich
+    titel: Geisteswissenschaft Undmenschenzukunft 11
+  - seq: 2
+    ga: 69a
+    type: vortrag
+    datum: 19.03.1911
+    ort: Prag
+    titel: "Wie Widerlegt Man Theosophie ? 36"
+  - seq: 3
+    ga: 69a
+    type: vortrag
+    datum: 25.03.1911
+    ort: Prag
+    titel: "W I E WIDERLEGT MAN T H E O S O P H I E ? 36 Prag, 19. März 1911 Gefährlichkeit von Fanatismus. Was ist ernstzuneh- mende Theosophie? Möglichkeit der Entwicklung geistiger Sinne zur Überwindung der Erkenntnisgren- zen; die Wesensglieder des Menschen; wiederholte Erdenleben und Karmagesetz. Beispiele für mögliche Einwände gegen die Theosophie (Geisteswissenschaft) von Gesichtspunkten des modernen Zeitbewußtseins. Üben echter Toleranz. W I E VERTEIDIGT MAN T H E O S O P H I E ? 72"
+  - seq: 4
+    ga: 69a
+    type: vortrag
+    datum: 25.11.1912
+    ort: München
+    titel: "W I E VERTEIDIGT MAN T H E O S O P H I E ? 72 Prag, 25. März 1911 Wecken von Erkenntniskräften durch Seelenübungen; Beispiel für eine Empfindungsmeditation. Anschau- endes Erleben des eigenen Ich. Objektive Erkennt- nis durch Überwindung subjektiver Überzeugungen; Beispiel: Mathematik. Ausprägung des menschlichen Gehirns in den frühen Kindheitsjahren. Übung der Gelassenheit. Karmalehre und Ethik. Beeinträchtigt die Theosophie religiöse Empfindungen? Spruch: <Es sprechen zu den Menschensinnen...> W A H R H E I T E N DER GEISTESFORSCHUNG . . . . 100"
+  - seq: 5
+    ga: 69a
+    type: fragenbeantwortung
+    datum: 27.11.1912
+    ort: München
+    titel: "Gesundes Seelenleben als Voraussetzung für die Geis- tesforschung. Übungen des Vorstellens und Empfin- dens. Unterscheidung zwischen Imaginationen und Halluzinationen oder Visionen. Mediumismus. Inspi- rierte Erkenntnis und Wahrheitsgefühl; Erkennen von Wesenheiten, die Naturerscheinungen bewirken. Intu- ition; Miterleben der schöpferischen Mächte. Unter- schied von Wirklichkeit und Wahrheit. Notwendigkeit von Wahrheitssinn und logischem Denken. Von den Schwierigkeiten, das geistig Geschaute in logischen Be- griffen zu formulieren. Fragenbeantwortungen. I R R T Ü M E R DER GEISTESFORSCHUNG 135"
+  - seq: 6
+    ga: 69a
+    type: vortrag
+    datum: 19.02.1913
+    ort: Stuttgart
+    titel: Irrtümer Der Geistesforschung 172
+  - seq: 7
+    ga: 69a
+    type: vortrag
+    datum: 16.02.1913
+    ort: Tübingen
+    titel: "Stuttgart, 19. Februar 1913 Voraussetzungen für eine gesunde Entwicklung geisti- ger Organe: Gesunder Menschenverstand und gesunde Urteilskraft. Warum werden Menschen Materialisten? Irrtümer in der physischen Welt und Irrtümer auf geistigem Gebiet. Unterbewufkes Seelenleben. Ver- wandtschaft von Furcht, Haß und Bequemlichkeit. Ursachen falscher Mystik. Die zerstörende Kraft des Irrtums. Wahre Erkenntnis des Menschenwesens und der Welt. ERGEBNISSE DER GEISTESFORSCHUNG FÜR LEBENSFRAGEN U N D DAS TODESRÄTSEL . . . . 200"
+  - seq: 8
+    ga: 69a
+    type: vortrag
+    datum: 17.05.1913
+    ort: Stuttgart
+    titel: "ERGEBNISSE DER GEISTESFORSCHUNG FÜR LEBENSFRAGEN U N D DAS TODESRÄTSEL . . . . 200 Tübingen, 16. Februar 1913 Zwei große Daseinsrätsel: Menschliches Schicksal und menschliche Unsterblichkeit. Erkenntnismöglichkeiten der Geistesforschung. Schlafzustand und Bewufksein. Gefahr der Verwechslung von Imaginationen mit Hal- luzinationen. Notwendige Besiegung der Selbstliebe. Was bedeuten Tod und Unsterblichkeit? Vorurteile gegenüber der Geisteswissenschaft. ERGEBNISSE DER GEISTESFORSCHUNG FÜR LEBENSFRAGEN U N D DAS TODESRÄTSEL . . . . 220"
+  - seq: 9
+    ga: 69a
+    type: vortrag
+    datum: 01.03.1913
+    ort: Karlsruhe
+    titel: "Stuttgart, 17. Mai 1913 Über zwei Broschüren, die Unrichtiges über die Geisteswissenschaft verbreiten. Schicksal und Tod, die großen Lebensfragen. Fruchtbarkeit und Grenzen der naturwissenschaftlichen Denkweise. Methoden zur Er- forschung des Geistigen. Umwandlung der Denkkraft. Meditation <Im strahlenden Licht lebt strömende Weis- heit>. Umwandlung der Sprachkraft und Umwandlung der Kraft, die in der Bewegung zum Ausdruck kommt. Erleben des geistigen Wesenskerns des Menschen. GEISTESWISSENSCHAFT U N D NATURWISSENSCHAFT IN I H R E M V E R H Ä L T N I S ZU DEN LEBENSRÄTSELN 246"
+  - seq: 10
+    ga: 69a
+    type: vortrag
+    datum: 03.03.1913
+    ort: Frankfurt
+    titel: "Geisteswissenschaft Und Naturwissenschaft In Ihremverhältnis Zu Den Lebensrätseln 246 Karlsruhe, 1. März 1913 Äußere Und Innere Betrachtung Der Natur. Selbster- Kenntnis Und Selbsterziehung Der Seele. Sommer- Und Winterzeit In Der Natur; Seelenwinter- Und Seelcn- Sommerzeit Beim Menschen. Meditationsübung. Die Folgen Von Krankem Seelenleben. Besiegen Der Selbst- Sucht. Forschen In Der Natur Und Forschen Auf Geis- Tigem Gebiet. Geisteswissenschaft Und Naturwissenschaft In Ihremverhältnis Zu Den Lebensrätseln 278"

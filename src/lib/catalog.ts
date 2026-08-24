@@ -13,7 +13,11 @@ export function loadLectureCatalog(): LectureEntry[] {
   if (!parsed?.lectures || !Array.isArray(parsed.lectures)) {
     throw new Error(`Invalid lecture catalog format in ${LECTURE_CATALOG_PATH}`);
   }
-  return parsed.lectures;
+  // YAML parses bare numeric ids (e.g. 19030928) as numbers — keep them as strings
+  return parsed.lectures.map((e) => ({
+    ...e,
+    id: e.id != null ? String(e.id) : e.id,
+  }));
 }
 
 export function loadLectureCatalogRaw(): string {

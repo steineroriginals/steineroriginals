@@ -1,0 +1,124 @@
+# GA 98 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 098.pdf table of contents.
+
+ga: 98
+title: GA 98
+pdf: GA 098.pdf
+period: 1907–1908
+entry_count: 18
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 98
+    type: vortrag
+    datum: 05.11.1907
+    ort: Wien
+    titel: I Über die sogenannten Gefahren der okkulten Entwickelung
+  - seq: 2
+    ga: 98
+    type: vortrag
+    datum: 07.11.1907
+    ort: Wien
+    titel: Esoterische Entwickelung und übersinnliche Erkenntnis
+  - seq: 3
+    ga: 98
+    type: vortrag
+    datum: 15.12.1907
+    ort: Düsseldorf
+    titel: Das Rosenkreuzertum
+  - seq: 4
+    ga: 98
+    type: vortrag
+    datum: 25.12.1907
+    ort: Köln
+    titel: «Die Geheimnisse» - ein Weihnachts- und Ostergedicht von Goethe
+  - seq: 5
+    ga: 98
+    type: vortrag
+    datum: 07.06.1908
+    ort: Köln
+    titel: Das Pfingstfest des seelischen Zusammenstrebens und des Arbeitens an der Vergeistigung der Welt
+  - seq: 6
+    ga: 98
+    type: vortrag
+    datum: 09.06.1908
+    ort: Köln
+    titel: Das Pfingstfest des seelischen Zusammenstrebens und des Arbeitens an der Vergeistigung der Welt
+  - seq: 7
+    ga: 98
+    type: vortrag
+    datum: 01.12.1907
+    ort: Nürnberg
+    titel: II Über die Beziehung des Menschen zu der ihn umgebenden Welt
+  - seq: 8
+    ga: 98
+    type: vortrag
+    datum: 04.12.1907
+    ort: München
+    titel: "Die Elementarreiche, ihre Wesensarten und ihre Wirkungen"
+  - seq: 9
+    ga: 98
+    type: vortrag
+    datum: 07.12.1907
+    ort: Stuttgart
+    titel: Des Menschen Verhältnis Zur Natur
+  - seq: 10
+    ga: 98
+    type: vortrag
+    datum: 15.01.1908
+    ort: München
+    titel: Von den Wirkungen einiger übersinnlicher Wesenheiten auf den Menschen
+  - seq: 11
+    ga: 98
+    type: vortrag
+    datum: 02.02.1908
+    ort: —
+    titel: Frankfurt am Main
+  - seq: 12
+    ga: 98
+    type: vortrag
+    datum: 02.02.1908
+    ort: Heidelberg
+    titel: "Über die Gruppen-Iche von Tieren, Pflanzen und Mineralien"
+  - seq: 13
+    ga: 98
+    type: vortrag
+    datum: 08.02.1908
+    ort: Stuttgart
+    titel: Über einige übersinnliche Tatsachen und Wesenheiten
+  - seq: 14
+    ga: 98
+    type: vortrag
+    datum: 11.02.1908
+    ort: Stuttgart
+    titel: Einflüsse aus anderen Welten auf die Erde
+  - seq: 15
+    ga: 98
+    type: vortrag
+    datum: 17.03.1908
+    ort: München
+    titel: Erden- und Menschenentwickelung
+  - seq: 16
+    ga: 98
+    type: vortrag
+    datum: 29.04.1908
+    ort: München
+    titel: Die Zusammenhänge der Welten und Wesen
+  - seq: 17
+    ga: 98
+    type: vortrag
+    datum: 14.06.1908
+    ort: München
+    titel: Elementarwesenheiten und andere höhere geistige Wesenheiten. Geistige Wesen der Naturreiche.
+  - seq: 18
+    ga: 98
+    type: vortrag
+    datum: 24.02.1908
+    ort: Hannover
+    titel: "Über Wesenheiten, die den Menschen beeinflussen"

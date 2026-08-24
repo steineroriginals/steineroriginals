@@ -1,0 +1,94 @@
+# GA 273 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 273).
+
+ga: 273
+title: "Nachlass-Verwaltung Buch: 273 Seite: 2 RUDOLF STEINER"
+pdf: GA 273.pdf
+period: 1916–1919
+entry_count: 13
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 273
+    type: vortrag
+    datum: 30.09.1916
+    ort: Dornach
+    titel: Das Faust-Problem 9
+  - seq: 2
+    ga: 273
+    type: vortrag
+    datum: 10.12.1916
+    ort: Dornach
+    titel: Die «Romantische Walpurgisnacht» 38
+  - seq: 3
+    ga: 273
+    type: vortrag
+    datum: 27.01.1917
+    ort: Dornach
+    titel: Goethes Ahnungen Nach Demkonkreten Hin. Schattenhafte Be- Griffe Undwirklichkeitsdurchtränktevorstellungen . . . . 59
+  - seq: 4
+    ga: 273
+    type: vortrag
+    datum: 02.11.1917
+    ort: Dornach
+    titel: Faust und die Mütter 81
+  - seq: 5
+    ga: 273
+    type: vortrag
+    datum: 03.11.1917
+    ort: Dornach
+    titel: Faust und das Problem des Bösen 94
+  - seq: 6
+    ga: 273
+    type: vortrag
+    datum: 04.11.1917
+    ort: Dornach
+    titel: Die Helena-Sage und das Freiheitsrätsel 108
+  - seq: 7
+    ga: 273
+    type: vortrag
+    datum: 12.06.1918
+    ort: Prag
+    titel: Goethes persönliches Verhältnis zu seinem «Faust»
+  - seq: 8
+    ga: 273
+    type: vortrag
+    datum: 27.09.1918
+    ort: Dornach
+    titel: Geisteswissenschaftliche Ausführungen in Anknüpfung an die «Klassische Walpurgisnacht» 123
+  - seq: 9
+    ga: 273
+    type: vortrag
+    datum: 28.09.1918
+    ort: Dornach
+    titel: Geisteswissenschaftliche Ausführungen in Anknüpfung an die «Klassische Walpurgisnacht» (Fortsetzung) 147
+  - seq: 10
+    ga: 273
+    type: vortrag
+    datum: 29.09.1918
+    ort: Dornach
+    titel: D a s Seelenleben Goethes v o m geisteswissenschaftlichen S t a n d - punkte . . . . . . . . . . . . . . . . . .
+  - seq: 11
+    ga: 273
+    type: vortrag
+    datum: 17.01.1919
+    ort: Dornach
+    titel: Die samothrakischen Kabiren-Mysterien. Das Geheimnis der Menschwerdung 196
+  - seq: 12
+    ga: 273
+    type: vortrag
+    datum: 18.01.1919
+    ort: Dornach
+    titel: Das Wirklichkeitsschauen in den griechischen Mythen . . . . 216
+  - seq: 13
+    ga: 273
+    type: vortrag
+    datum: 19.01.1919
+    ort: Dornach
+    titel: "Statt Homunkulismus und Mephistophelismus: Goetheanismus 232"

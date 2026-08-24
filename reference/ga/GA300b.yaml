@@ -1,0 +1,210 @@
+# GA 300b — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 300b).
+
+ga: 300b
+title: Veröffentlichung aus dem Archiv der Rudolf Steiner-Nachlaß Verwaltung als Studienmaterial für die Lehrer an Waldorfsc...
+pdf: GA 300b.pdf
+period: 1921–1923
+entry_count: 28
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 300b
+    type: vortrag
+    datum: 16.06.1921
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 2
+    ga: 300b
+    type: vortrag
+    datum: 17.06.1921
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 3
+    ga: 300b
+    type: vortrag
+    datum: 11.09.1921
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 4
+    ga: 300b
+    type: vortrag
+    datum: 16.11.1921
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 5
+    ga: 300b
+    type: vortrag
+    datum: 14.01.1922
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 6
+    ga: 300b
+    type: vortrag
+    datum: 15.03.1922
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 7
+    ga: 300b
+    type: vortrag
+    datum: 28.04.1922
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 8
+    ga: 300b
+    type: vortrag
+    datum: 10.05.1922
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 9
+    ga: 300b
+    type: vortrag
+    datum: 20.06.1922
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 10
+    ga: 300b
+    type: vortrag
+    datum: 21.06.1922
+    ort: Stuttgart
+    titel: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 11
+    ga: 300b
+    type: vortrag
+    datum: 22.06.1922
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 12
+    ga: 300b
+    type: vortrag
+    datum: 04.10.1922
+    ort: Stuttgart
+    titel: Lehrerkonfernz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 13
+    ga: 300b
+    type: vortrag
+    datum: 04.10.1922
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+  - seq: 14
+    ga: 300b
+    type: vortrag
+    datum: 06.10.1922
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 15
+    ga: 300b
+    type: vortrag
+    datum: 06.10.1922
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+  - seq: 16
+    ga: 300b
+    type: vortrag
+    datum: 15.10.1922
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 17
+    ga: 300b
+    type: vortrag
+    datum: 28.10.1922
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 18
+    ga: 300b
+    type: vortrag
+    datum: 24.11.1922
+    ort: Stuttgart
+    titel: "Sitzung Aufsichrat \" Der Kommender Tag\" GA"
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 19
+    ga: 300b
+    type: vortrag
+    datum: 24.11.1922
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 20
+    ga: 300b
+    type: vortrag
+    datum: 05.12.1922
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 21
+    ga: 300b
+    type: vortrag
+    datum: 09.12.1922
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 22
+    ga: 300b
+    type: vortrag
+    datum: 17.01.1923
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenzen mit den Lehrern der Freien Waldorfschule
+  - seq: 23
+    ga: 300b
+    type: vortrag
+    datum: 23.01.1923
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 24
+    ga: 300b
+    type: vortrag
+    datum: 31.01.1923
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 25
+    ga: 300b
+    type: vortrag
+    datum: 06.02.1923
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 26
+    ga: 300b
+    type: vortrag
+    datum: 14.02.1923
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 27
+    ga: 300b
+    type: vortrag
+    datum: 01.03.1923
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
+  - seq: 28
+    ga: 300b
+    type: vortrag
+    datum: 08.03.1923
+    ort: Stuttgart
+    titel: Lehrerkonferenz
+    beschreibung: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule

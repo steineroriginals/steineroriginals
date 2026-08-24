@@ -1,0 +1,94 @@
+# GA 117a — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 117a.pdf table of contents.
+
+ga: 117a
+title: Das Johannes-Evangelium und die drei anderen Evangelien
+pdf: GA 117a.pdf
+period: 1910
+entry_count: 13
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 117a
+    type: vortrag
+    datum: 03.01.1910
+    ort: —
+    titel: Erster Vortrag
+  - seq: 2
+    ga: 117a
+    type: vortrag
+    datum: 04.01.1910
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 117a
+    type: vortrag
+    datum: 05.01.1910
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 117a
+    type: vortrag
+    datum: 07.01.1910
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 117a
+    type: vortrag
+    datum: 08.01.1910
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 117a
+    type: vortrag
+    datum: 09.01.1910
+    ort: —
+    titel: Die europäischen Mysterien und ihre Eingeweihten - Druiden- und Drotten-Mysterien
+  - seq: 7
+    ga: 117a
+    type: vortrag
+    datum: 10.01.1910
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 8
+    ga: 117a
+    type: vortrag
+    datum: 11.01.1910
+    ort: —
+    titel: "Die Beschreibungen des Johannes-Evangeliums als solche geistigen Schauens. Beispiele hierfür: das Gespräch des Nikodemus mit Chris­ tus in der Nacht und die Schilderung des Geschehens bei der Jordan- Taufe. Das Aufschwingen des Jesus-Selbstbewusstseins zum Gottes- Bewusstsein als Inhalt des Johannes-Evangeliums. Die okkulte Bedeu­ tung von der «wahre Israelit* Nathanael und von Jesus als «König Israels*. Christus als der Bringer der Geistes-Liebe. Die I Hochzeit zu Kana als Beispiel der Kraft des Christus, auf die Sinncs-Empfindungen anderer Menschen zu wirken. Verwandlung der Maria zur Sophia durch Erhalt der Jungfrauschaft* vermittels des Einzuges der nathanischen Mutter in die salomonische Mutter."
+  - seq: 9
+    ga: 117a
+    type: vortrag
+    datum: 12.01.1910
+    ort: —
+    titel: Eingeschobener Vortrag
+  - seq: 10
+    ga: 117a
+    type: vortrag
+    datum: 12.01.1910
+    ort: —
+    titel: Achter Vortrag
+  - seq: 11
+    ga: 117a
+    type: vortrag
+    datum: 13.01.1910
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 12
+    ga: 117a
+    type: vortrag
+    datum: 14.01.1910
+    ort: —
+    titel: "Die vorchristlichen Mysterien als Quellen zum Verständnis der Evan­ gelien. Nach Vorbereitung durch äußere Maßnahmen Einweihung in den Stufen der Imagination, Inspiration und Intuition, begleitet von Prüfungen zur Katharsis. Der katalcptischc Schlaf als letzter Schritt der eher südlichen Einweihung; in eher nördlichen Einweihungen das Hinausführen in den Tierkreis. Johannes der Evangelist als Lazarus in die südlichen Mysterien cingcwciht. Die Zeitangabe «zehnte Stunde* als Hinweis auf dessen Einweihung auch in die nördlichen Mysterien. Mit der Erweckung des Lazarus Auftreten des Einweihungsgesche­ hens vor die öffentliche Welt als Indiz für die Inkarnation des Welten­ wortes in Christus."
+  - seq: 13
+    ga: 117a
+    type: vortrag
+    datum: 15.01.1910
+    ort: —
+    titel: Elfter Vortrag

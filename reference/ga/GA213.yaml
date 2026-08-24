@@ -1,0 +1,94 @@
+# GA 213 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 213).
+
+ga: 213
+title: GA 213
+pdf: GA 213.pdf
+period: 1922
+entry_count: 13
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 213
+    type: vortrag
+    datum: 24.06.1922
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 213
+    type: vortrag
+    datum: 25.06.1922
+    ort: Dornach
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 213
+    type: vortrag
+    datum: 30.06.1922
+    ort: der modernen Initiation.
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 213
+    type: vortrag
+    datum: 01.07.1922
+    ort: der modernen Initiation.
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 213
+    type: vortrag
+    datum: 02.07.1922
+    ort: der modernen Initiation.
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 213
+    type: vortrag
+    datum: 07.07.1922
+    ort: der modernen Initiation.
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 213
+    type: vortrag
+    datum: 08.07.1922
+    ort: der modernen Initiation.
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 213
+    type: vortrag
+    datum: 09.07.1922
+    ort: der modernen Initiation.
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 213
+    type: vortrag
+    datum: 14.07.1922
+    ort: der modernen Initiation.
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 213
+    type: vortrag
+    datum: 15.07.1922
+    ort: der modernen Initiation.
+    titel: Zehnter Vortrag
+  - seq: 11
+    ga: 213
+    type: vortrag
+    datum: 16.07.1922
+    ort: der modernen Initiation.
+    titel: Elfter Vortrag
+  - seq: 12
+    ga: 213
+    type: vortrag
+    datum: 21.07.1922
+    ort: der modernen Initiation.
+    titel: Zwölfter Vortrag
+  - seq: 13
+    ga: 213
+    type: vortrag
+    datum: 22.07.1922
+    ort: der modernen Initiation.
+    titel: Dreizehnter Vortrag

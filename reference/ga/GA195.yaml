@@ -1,0 +1,46 @@
+# GA 195 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 195).
+
+ga: 195
+title: GA 195
+pdf: GA 195.pdf
+period: 1919–1920
+entry_count: 5
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 195
+    type: vortrag
+    datum: 21.12.1919
+    ort: Stuttgart
+    titel: "ERSTER VORTRAG, Stuttgart"
+  - seq: 2
+    ga: 195
+    type: vortrag
+    datum: 25.12.1919
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 195
+    type: vortrag
+    datum: 28.12.1919
+    ort: Stuttgart
+    titel: Die Notwendigkeit der Initiationswissenschaft. Das Mysterium des menschlichen Willens. Die Inkarnation Luzifers und Ahrimans
+  - seq: 4
+    ga: 195
+    type: vortrag
+    datum: 31.12.1919
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 195
+    type: vortrag
+    datum: 01.01.1920
+    ort: Stuttgart
+    titel: Die geistige Signatur der Gegenwart. Das Wirken Luzifers und Ahrimans in den Fähigkeiten und Bedürfnissen des Menschen

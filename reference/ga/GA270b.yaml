@@ -1,0 +1,76 @@
+# GA 270b — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 270b).
+
+ga: 270b
+title: "Übersicht über die Klassenstunden in vier Bänden ERSTER U N D ZWEITER BAND Neunzehn Stunden,"
+pdf: GA 270b.pdf
+period: 1924
+entry_count: 10
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 270b
+    type: vortrag
+    datum: 25.04.1924
+    ort: Dornach
+    titel: Zehnte Stunde
+  - seq: 2
+    ga: 270b
+    type: vortrag
+    datum: 02.05.1924
+    ort: Dornach
+    titel: Elfte Stunde
+  - seq: 3
+    ga: 270b
+    type: vortrag
+    datum: 11.05.1924
+    ort: Dornach
+    titel: Zwölfte Stunde
+  - seq: 4
+    ga: 270b
+    type: vortrag
+    datum: 17.05.1924
+    ort: Dornach
+    titel: Dreizehnte Stunde
+  - seq: 5
+    ga: 270b
+    type: vortrag
+    datum: 31.05.1924
+    ort: Dornach
+    titel: Vierzehnte Stunde
+  - seq: 6
+    ga: 270b
+    type: vortrag
+    datum: 21.06.1924
+    ort: Dornach
+    titel: Fünfzehnte Stunde
+  - seq: 7
+    ga: 270b
+    type: vortrag
+    datum: 28.06.1924
+    ort: Dornach
+    titel: Sechzehnte Stunde
+  - seq: 8
+    ga: 270b
+    type: vortrag
+    datum: 05.07.1924
+    ort: Dornach
+    titel: Siebzehnte Stunde
+  - seq: 9
+    ga: 270b
+    type: vortrag
+    datum: 12.07.1924
+    ort: Dornach
+    titel: Achtzehnte Stunde
+  - seq: 10
+    ga: 270b
+    type: vortrag
+    datum: 02.08.1924
+    ort: Dornach
+    titel: Neunzehnte Stunde

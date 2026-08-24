@@ -1,0 +1,88 @@
+# GA 220 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 220).
+
+ga: 220
+title: GA 220
+pdf: GA 220.pdf
+period: 1923
+entry_count: 12
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 220
+    type: vortrag
+    datum: 05.01.1923
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 220
+    type: vortrag
+    datum: 06.01.1923
+    ort: Dornach
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 220
+    type: vortrag
+    datum: 07.01.1923
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 220
+    type: vortrag
+    datum: 12.01.1923
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 220
+    type: vortrag
+    datum: 13.01.1923
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 220
+    type: vortrag
+    datum: 14.01.1923
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 220
+    type: vortrag
+    datum: 19.01.1923
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 220
+    type: vortrag
+    datum: 20.01.1923
+    ort: —
+    titel: "Copyright Rudolf Steinet Nachlass-Veiwaltung Buch: 22 0 Seite: 8"
+  - seq: 9
+    ga: 220
+    type: vortrag
+    datum: 21.01.1923
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 220
+    type: vortrag
+    datum: 26.01.1923
+    ort: —
+    titel: Zehnter Vortrag
+  - seq: 11
+    ga: 220
+    type: vortrag
+    datum: 27.01.1923
+    ort: —
+    titel: Elfter Vortrag
+  - seq: 12
+    ga: 220
+    type: vortrag
+    datum: 28.01.1923
+    ort: —
+    titel: Zwölfter Vortrag

@@ -1,0 +1,119 @@
+# GA 175 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 175.pdf table of contents.
+
+ga: 175
+title: GA 175
+pdf: GA 175.pdf
+period: 1917
+entry_count: 18
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 175
+    type: vortrag
+    datum: 06.02.1917
+    ort: Berlin
+    titel: Vortrag
+  - seq: 2
+    ga: 175
+    type: vortrag
+    datum: 13.02.1917
+    ort: —
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 175
+    type: vortrag
+    datum: 20.02.1917
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 175
+    type: vortrag
+    datum: 27.02.1917
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 175
+    type: vortrag
+    datum: 06.03.1917
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 175
+    type: vortrag
+    datum: 13.03.1917
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 175
+    type: vortrag
+    datum: 20.03.1917
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 175
+    type: vortrag
+    datum: 27.03.1917
+    ort: Berlin
+    titel: "ACHTER VORTRAG, Berlin"
+  - seq: 9
+    ga: 175
+    type: vortrag
+    datum: 03.04.1917
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 175
+    type: vortrag
+    datum: 10.04.1917
+    ort: —
+    titel: Zehnter Vortrag
+  - seq: 11
+    ga: 175
+    type: vortrag
+    datum: 12.04.1917
+    ort: —
+    titel: Elfter Vortrag
+  - seq: 12
+    ga: 175
+    type: vortrag
+    datum: 14.04.1917
+    ort: —
+    titel: Zwölfter Vortrag
+  - seq: 13
+    ga: 175
+    type: vortrag
+    datum: 17.04.1917
+    ort: —
+    titel: Dreizehnter Vortrag
+  - seq: 14
+    ga: 175
+    type: vortrag
+    datum: 19.04.1917
+    ort: —
+    titel: Vierzehnter Vortrag
+  - seq: 15
+    ga: 175
+    type: vortrag
+    datum: 24.04.1917
+    ort: —
+    titel: Fünfzehnter Vortrag
+  - seq: 16
+    ga: 175
+    type: vortrag
+    datum: 01.05.1917
+    ort: —
+    titel: Sechzehnter Vortrag
+  - seq: 17
+    ga: 175
+    type: vortrag
+    datum: 08.05.1917
+    ort: —
+    titel: Siebzehnter Vortrag
+  

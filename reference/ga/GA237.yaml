@@ -1,0 +1,84 @@
+# GA 237 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 237).
+
+ga: 237
+title: RUDOLF STEINER Esoterische Betrachtungen karmischer Zusammenhänge aus dem Jahre 1924
+pdf: GA 237.pdf
+period: 1924
+entry_count: 11
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 237
+    type: vortrag
+    datum: 01.07.1924
+    ort: Dornach
+    titel: Zur Einführung. Aus «Erinnerungsworte» von Marie Steiner zur ersten Auflage 1926 13
+  - seq: 2
+    ga: 237
+    type: vortrag
+    datum: 04.07.1924
+    ort: Dornach
+    reihe: Das Karma der anthroposophischen Bewegung
+    titel: Das Leben nach dem Tode und die Wesen der höheren Hierarchie
+  - seq: 3
+    ga: 237
+    type: vortrag
+    datum: 06.07.1924
+    ort: —
+    titel: Dritter Vortrag
+  - seq: 4
+    ga: 237
+    type: vortrag
+    datum: 08.07.1924
+    ort: der Sternenschrift aus. Was
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 237
+    type: vortrag
+    datum: 11.07.1924
+    ort: —
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 237
+    type: vortrag
+    datum: 13.07.1924
+    ort: —
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 237
+    type: vortrag
+    datum: 28.07.1924
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 237
+    type: vortrag
+    datum: 01.08.1924
+    ort: —
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 237
+    type: vortrag
+    datum: 03.08.1924
+    ort: Dornach
+    reihe: Das Karma der anthroposophischen Bewegung
+    titel: Das Karma des einzelnen Anthroposophen. Das Wirken der Michaelimpulse. Karmische Zusammenhänge zwischen Anthroposophen und Nichtanthroposophen. Der Kampf Ahrimans
+  - seq: 10
+    ga: 237
+    type: vortrag
+    datum: 04.08.1924
+    ort: —
+    titel: Zehnter Vortrag
+  - seq: 11
+    ga: 237
+    type: vortrag
+    datum: 08.08.1924
+    ort: —
+    titel: Elfter Vortrag

@@ -1,0 +1,76 @@
+# GA 215 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Synced from SSOT catalog (ga: 215).
+
+ga: 215
+title: GA 215
+pdf: GA 215.pdf
+period: 1922
+entry_count: 10
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 215
+    type: vortrag
+    datum: 06.09.1922
+    ort: Dornach
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 215
+    type: vortrag
+    datum: 07.09.1922
+    ort: Dornach
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 215
+    type: vortrag
+    datum: 08.09.1922
+    ort: —
+    titel: "Seelenübungen des Denkens, Fühlens und Wollens"
+  - seq: 4
+    ga: 215
+    type: vortrag
+    datum: 09.09.1922
+    ort: —
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 215
+    type: vortrag
+    datum: 10.09.1922
+    ort: —
+    titel: Erkenntnis- und Willensübungen
+  - seq: 6
+    ga: 215
+    type: vortrag
+    datum: 11.09.1922
+    ort: —
+    titel: Schlaferlebnisse der Seele
+  - seq: 7
+    ga: 215
+    type: vortrag
+    datum: 12.09.1922
+    ort: —
+    titel: Siebenter Vortrag
+  - seq: 8
+    ga: 215
+    type: vortrag
+    datum: 13.09.1922
+    ort: —
+    titel: Achter Vortrag
+  - seq: 9
+    ga: 215
+    type: vortrag
+    datum: 14.09.1922
+    ort: —
+    titel: Neunter Vortrag
+  - seq: 10
+    ga: 215
+    type: vortrag
+    datum: 15.09.1922
+    ort: —
+    titel: Das Schicksal des Ich-Bewußtseins im Zusammenhang mit dem Christus-Problem

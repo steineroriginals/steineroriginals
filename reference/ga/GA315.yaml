@@ -1,0 +1,72 @@
+# GA 315 — lectures spoken by Rudolf Steiner (excludes newspaper articles,
+# programmes, participant notes, and editorial material where noted).
+# Extracted from GA 315.pdf table of contents.
+
+ga: 315
+title: R U D O L F STEINER GESAMTAUSGABE
+pdf: GA 315.pdf
+period: 1921–1922
+entry_count: 8
+
+excluded:
+  - Programme, Plakate, Postkarten, Zeitungsartikel und -annoncen (unless the volume consists of lecture reports)
+  - Notizen, Briefe, Reiseprogramme, Lehrpläne ohne Vortragstext
+  - Teilnehmer-Aufzeichnungen und undatierte Fragmente
+
+entries:
+  - seq: 1
+    ga: 315
+    type: vortrag
+    datum: 12.04.1921
+    ort: Dornach
+    reihe: gehalten in Dornach für Eurythmisten und Ärzte
+    titel: "ERSTER VORTRAG, Dornach"
+  - seq: 2
+    ga: 315
+    type: vortrag
+    datum: 13.04.1921
+    ort: —
+    reihe: gehalten in Dornach für Eurythmisten und Ärzte
+    titel: Zweiter Vortrag
+  - seq: 3
+    ga: 315
+    type: vortrag
+    datum: 14.04.1921
+    ort: —
+    reihe: gehalten in Dornach für Eurythmisten und Ärzte
+    titel: "Charakter des Vokalischen und Konsonantischen. Sprache und Bewegung in inniger Verbindung in früheren Zeiten und gelockert heute. Das Wieder-in-Bewegung-Bringen des Körpers in der Eurythmie. Das Überführen der einzelnen Vokale aus der Euryth- mie in das Therapeutische: I, U, O, E, A - Armbewegungen und Indikationen für die einzelnen Vokale und das Vokalisieren im Allgemeinen. Beinbewegungen zu den Vokalübungen. Das Sich- innerlich-Abphotographieren als das Wirksame für das therapeuti- sche Konsonantieren. M, S, H im Verhältnis zu Luzifer und Ahriman."
+  - seq: 4
+    ga: 315
+    type: vortrag
+    datum: 15.04.1921
+    ort: —
+    reihe: gehalten in Dornach für Eurythmisten und Ärzte
+    titel: Vierter Vortrag
+  - seq: 5
+    ga: 315
+    type: vortrag
+    datum: 16.04.1921
+    ort: —
+    reihe: gehalten in Dornach für Eurythmisten und Ärzte
+    titel: Fünfter Vortrag
+  - seq: 6
+    ga: 315
+    type: vortrag
+    datum: 17.04.1921
+    ort: —
+    reihe: gehalten in Dornach für Eurythmisten und Ärzte
+    titel: Sechster Vortrag
+  - seq: 7
+    ga: 315
+    type: vortrag
+    datum: 18.04.1921
+    ort: Dornach
+    reihe: gehalten für Ärzte und Medizinstudenten
+    titel: Zweiter Ärztekurs
+  - seq: 8
+    ga: 315
+    type: vortrag
+    datum: 28.10.1922
+    ort: Stuttgart
+    reihe: gehalten für Ärzte und Medizinstudenten
+    titel: Medizinische Woche
