@@ -3470,6 +3470,7 @@ lectures:
     jahr: "1905"
     ort: London
     vortragstitel: ""
+    ga: 35
   - id: 19050806
     uuid: 32d3ee76-c2a8-597c-82ce-7e05bac40a2a
     datum: 06.08.1905
@@ -3878,6 +3879,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Dritte Generalversammlung der Deutschen Sektion der Theosophischen Gesellschaft
+    ga: 90b,93
   - id: 19051022b
     uuid: 3b7fe081-0280-5a34-b09a-55e015479299
     datum: 22.10.1905
@@ -3927,6 +3929,7 @@ lectures:
     jahr: "1905"
     ort: Berlin
     vortragstitel: Theosophie, Esoterik, Okkultismus und das tägliche Leben
+    ga: 93a
   - id: 19051024c
     uuid: 9e5cbbb9-2a73-5eee-94c9-8259a2f0c4fb
     datum: 24.10.1905
@@ -8677,6 +8680,7 @@ lectures:
     jahr: "1908"
     ort: Stuttgart
     vortragstitel: Fragenbenantwortung im Anschluss zum Zweigvortrag "Die zehn Gebote"
+    ga: 108
   - id: 19081215
     uuid: 431ae392-57f3-584e-b138-d4b09bc491aa
     datum: 15.12.1908
@@ -11647,6 +11651,7 @@ lectures:
     ort: Berlin
     vortragstitel: Über Astrologie
     anlass: Bemerkungen nach dem Vortrag von Herrn Seiler
+    ga: 125
   - id: 19101031b
     uuid: f36d736f-8bf7-5905-905f-108e237b54a2
     datum: 31.10.1910
@@ -11861,6 +11866,7 @@ lectures:
     jahr: "1910"
     ort: München
     vortragstitel: Zarathustra, seine Lehre und seine Mission
+    ga: 69b
   - id: 19101211a
     uuid: dac3c002-852b-5401-a984-161f7d1abc1a
     datum: 11.12.1910
@@ -15050,6 +15056,7 @@ lectures:
     jahr: "1913"
     ort: Berlin
     vortragstitel: «Kampf ums Dasein» und «Gegenseitige Hilfe im Tierreich»
+    ga: 265
   - id: 19130206c
     uuid: 66c1c2f1-e21b-5c76-865c-018a91c7fc7f
     datum: 06.02.1913
@@ -15107,6 +15114,7 @@ lectures:
     ort: Berlin
     vortragstitel: ""
     anlass: Zweite Abschiedsrede zur ersten Generalversammlung der Anthroposophischen Gesellschaft
+    ga: 265
   - id: 19130208c
     uuid: f1f00e33-5eca-5c8a-abd1-6a0d1a311987
     datum: 08.02.1913
@@ -15408,6 +15416,7 @@ lectures:
     jahr: "1913"
     ort: Haag
     vortragstitel: ""
+    ga: 145
   - id: 19130325a
     uuid: 130d1e38-276e-5390-8063-989abe604b82
     datum: 25.03.1913
@@ -15907,6 +15916,7 @@ lectures:
     ort: Dornach
     vortragstitel: Zur Grundsteinlegung des Dornacher Baues
     anlass: Grundsteinlegung des Dornacher Baues
+    ga: 268
   - id: 19130922a
     uuid: c546de10-074a-53f9-ba79-139ceba08ebc
     datum: 22.09.1913
@@ -17763,6 +17773,7 @@ lectures:
     jahr: "1915"
     ort: Berlin
     vortragstitel: Was ist am Menschenwesen unsterblich? (Berlin)
+    ga: 64
   - id: 19150306
     uuid: 7d712901-0734-51c6-b7c5-7d0bea16b4a8
     datum: 06.03.1915
@@ -17842,6 +17853,7 @@ lectures:
     jahr: "1915"
     ort: München
     vortragstitel: Was ist am Menschenwesen unsterblich?
+    ga: 70a
   - id: 19150323
     uuid: 3566ea63-d0b4-5955-9372-c14e095073cd
     datum: 23.03.1915
@@ -20561,6 +20573,7 @@ lectures:
     ort: Berlin
     vortragstitel: Über Gesellschaftsfragen
     anlass: Nachwort nach dem Mitglieder-Vortrag
+    ga: 176
   - id: 19170602a
     uuid: 14c491bb-bfce-5484-8e13-160f672293c0
     datum: 02.06.1917
@@ -22100,6 +22113,7 @@ lectures:
     jahr: "1918"
     ort: Zürich
     vortragstitel: Was tut der Engel in unserem Astralleib?
+    ga: 182
   - id: 19181010
     uuid: 88dacfc9-b1a9-55e6-bfef-93e3881396e5
     datum: 10.10.1918
@@ -24310,6 +24324,7 @@ lectures:
     jahr: "1919"
     ort: Dresden
     vortragstitel: Das Jüngerwerden der Menschheit. Das Verhältnis zu den Toten. Westen, Mitte und Osten. Die Dreigliederung des sozialen Organismus
+    ga: 85
   - id: 19190924
     uuid: a2866d18-d525-5e44-9044-4e1763a1d1bf
     datum: 24.09.1919
@@ -25588,6 +25603,7 @@ lectures:
     jahr: "1920"
     ort: Stuttgart
     vortragstitel: Versammlung vor der Gründung der Aktiengesellschaft «Der Kommende Tag»
+    ga: 332b
   - id: 19200311e
     uuid: b7b1b372-571e-59d0-9ff4-06f35b47f20d
     datum: 11.03.1920
@@ -25634,6 +25650,7 @@ lectures:
     ort: Stuttgart
     vortragstitel: ""
     anlass: Beantwortung dreier von Dr. Herberg gestellter Fragen
+    ga: 73a
   - id: 19200313d
     uuid: 6e98209b-bfd7-5ca1-9fd0-436aec4e2173
     datum: 13.03.1920
@@ -27595,6 +27612,7 @@ lectures:
     ort: Dornach
     vortragstitel: Abschiedsworte Hochschulkurs
     anlass: Erster anthroposophischerHochschulkursus 26.Sept.-16.Okt., Rückblick auf die Kursvorträge
+    ga: 217a
   - id: 19201017a
     uuid: d097749c-93d3-57ce-bd4d-68badc2d19cc
     datum: 17.10.1920
@@ -32026,6 +32044,7 @@ lectures:
     ort: Dornach
     vortragstitel: Vortrag 3
     reihe: Menschliches Geistesstreben im Zusammenhang mit der Erdentwickelung
+    ga: 212
   - id: 19220528b
     uuid: 2fc53bc2-1b8d-5b8c-9dc0-d0f5412bbe40
     datum: 28.05.1922
@@ -34544,6 +34563,7 @@ lectures:
     jahr: "1923"
     ort: Dornach
     vortragstitel: Erkenne dich selbst. Das Erleben des Christus im Menschen als Licht, Leben und Liebe
+    ga: 221
   - id: 19230203a
     uuid: 547044ee-700b-5257-b43f-37d630c0556f
     datum: 03.02.1923
