@@ -745,7 +745,7 @@ lectures:
     vortragstitel: Die höhere Entwicklung des Menschen. All-Einheit und Sonderheit. Bewusstes Üben, Konzentration und Meditation. Vier Eigenschaften, die der Chela in sich ausbilden muss. Nebenübungen.
     anlass: In der Wohnung von Marie von Sivers in Berlin-Schlachtensee gab Rudolf Steiner im Sommer 1903 eine Reihe von privaten Leerstunden.
     ga: 88
-  - id: 19030101d
+  - id: 19030101e
     uuid: c57ef4c3-ab63-54cd-8f5d-aa0e6deb1f58
     datum: 1903, 1904
     jahr: "1903"
@@ -2032,7 +2032,7 @@ lectures:
     reihe: Innere und äußere Evolution
     anlass: Privatstunde
     ga: 91
-  - id: 19040905
+  - id: 19040905a
     uuid: 66af5363-b899-5018-8b37-f65a48c842d2
     datum: 05.09.1904(?)
     jahr: "1904"
@@ -2040,7 +2040,7 @@ lectures:
     vortragstitel: Die Reiche
     anlass: Mitglieder-Vortrag
     ga: 90a
-  - id: 19040905a
+  - id: 19040905b
     uuid: 2141544b-16b0-5b97-a7d3-51ad42819def
     datum: 05.09.1904
     jahr: "1904"
@@ -2707,7 +2707,7 @@ lectures:
     vortragstitel: Vorgänge in der zweiten Hälfte der lemurischen Rassensentwicklung
     anlass: Mitglieder-Vortrag
     ga: 90a
-  - id: 19041228c
+  - id: 19041228b
     uuid: 6f2cbb73-99c2-532f-bba6-d0b8e40ca9e3
     datum: 28.12.1904
     jahr: "1904"
@@ -2715,7 +2715,7 @@ lectures:
     vortragstitel: ""
     anlass: Esoterische Stunde
     ga: 266c
-  - id: 19041228d
+  - id: 19041228c
     uuid: ed307c7d-a2cf-52c7-8e33-0c50a192f5da
     datum: 28.12.1904
     jahr: "1904"
@@ -3215,7 +3215,7 @@ lectures:
     vortragstitel: Novalis Dichtung. Heinrich von Ofterdingen
     anlass: Mitglieder-Vortrag im engeren Kreis
     ga: 90b
-  - id: 19050427
+  - id: 19050427a
     uuid: 7e08ae90-13c9-5614-9c08-033dbf90a4af
     datum: 27.04.1905
     jahr: "1905"
@@ -3223,14 +3223,14 @@ lectures:
     vortragstitel: Yoga und Unio mystica
     anlass: Mitglieder-Vortrag
     ga: 90b
-  - id: 19050427a
+  - id: 19050427b
     uuid: 7b24dcf5-61c3-5c4e-967c-29eb3e2c7030
     datum: 27.04.1905
     jahr: "1905"
     ort: Köln
     vortragstitel: Reinkarnation und Karma (Wiederverkörperung des Geistes und Schicksal)
     ga: 68b
-  - id: 19050427b
+  - id: 19050427c
     uuid: 04c1591e-fbdb-54f8-9f6c-4dcfe9abc012
     datum: 27.04.1905
     jahr: "1905"
@@ -4096,7 +4096,7 @@ lectures:
     ort: Köln
     vortragstitel: Die Entstehung der Welt
     ga: 68b
-  - id: 19051202
+  - id: 19051202a
     uuid: 84863e2c-d498-5b43-873d-48f417fa9e3b
     datum: 02.12.1905
     jahr: "1905"
@@ -4104,7 +4104,7 @@ lectures:
     vortragstitel: Die Bergpredigt
     anlass: Zweig-Vortrag
     ga: 90b
-  - id: 19051202a
+  - id: 19051202b
     uuid: 781525d4-de7c-58d8-b20d-6f188cc40f1b
     datum: 02.12.1905
     jahr: "1905"
@@ -6026,7 +6026,7 @@ lectures:
     ort: Köln
     vortragstitel: Die Verheißung des Geistes der Wahrheit
     ga: 97
-  - id: 19070314
+  - id: 19070314a
     uuid: c03dc6a0-1f7f-5c02-b9af-7c5a03275c25
     datum: 14.03.1907
     jahr: "1907"
@@ -6610,7 +6610,7 @@ lectures:
     reihe: Weltenanfang und Weltenende
     anlass: Mitglieder-Vortrag
     ga: 111
-  - id: 19070929
+  - id: 19070929a
     uuid: bbe01d67-39fa-5a17-bde6-0531887f45d6
     datum: 29.09.1907
     jahr: "1907"
@@ -6619,6 +6619,13 @@ lectures:
     reihe: Weltenanfang und Weltenende
     anlass: Mitglieder-Vortrag
     ga: 111
+  - id: 19070929b
+    uuid: 8c4e2f91-3a7b-4d6e-9f12-0b5c8d3e7a41
+    datum: 29.09.1907
+    jahr: "1907"
+    ort: Hannover
+    vortragstitel: ""
+    reihe: Weltenanfang und Weltenende
   - id: 19070930
     uuid: 6f31ecf0-ad73-5909-91ae-a58d56544b2b
     datum: 30.09.1907
@@ -22156,14 +22163,14 @@ lectures:
     ort: Zürich
     vortragstitel: Die Menschheitssituation zur Zeit des Mysteriums von Golgatha. Tertullian. Das Jahr 666. Die Impulse von Gondischapur. Das Wiederfinden des Christus. Wie finde ich den Christus?
     ga: 182
-  - id: 19181017
+  - id: 19181017a
     uuid: ee316892-785c-5003-87de-3a3e920822ca
     datum: 17.10.1918
     jahr: "1918"
     ort: Zürich
     vortragstitel: Die Geschichte der Neuzeit im Lichte geistes wissenschaftlicher Forschung
     ga: 73
-  - id: 19181017a
+  - id: 19181017b
     uuid: b61af4c4-0318-4cbb-bec2-6633389a6481
     datum: 17.10.1918
     jahr: "1918"
@@ -22229,7 +22236,7 @@ lectures:
     ga: 72
   - id: 19181101a
     uuid: 7b6451b2-d9ce-5374-9547-a65874b1c6e9
-    datum: 01.11.1918 evtl. 3.11.1918
+    datum: 01.11.1918
     jahr: "1918"
     ort: Dornach
     vortragstitel: ""
@@ -22735,7 +22742,7 @@ lectures:
     reihe: Die soziale Frage
     anlass: Öffentlicher Vortrag
     ga: 336
-  - id: 19190207
+  - id: 19190207a
     uuid: 7bf14d9e-8620-5dbf-b705-f69243b6e48a
     datum: 07.02.1919
     jahr: "1919"
@@ -22744,7 +22751,7 @@ lectures:
     reihe: Die soziale Frage
     anlass: Öffentlicher Vortrag
     ga: 336
-  - id: 19190207a
+  - id: 19190207b
     uuid: 6c2fa58b-9bfa-4404-af0f-c2136d0ca431
     datum: 07.02.1919
     jahr: "1919"
@@ -23308,7 +23315,7 @@ lectures:
     vortragstitel: ""
     anlass: Erster Diskussionsabend mit den Arbeiterausschüssen der großen Betriebe Stuttgarts
     ga: 331
-  - id: 19190525
+  - id: 19190525a
     uuid: 5250e6b7-cbf4-5ee5-91cc-e4cdae8307d9
     datum: 25.05.1919
     jahr: "1919"
@@ -23316,7 +23323,7 @@ lectures:
     vortragstitel: Fragen zur Dreigliederung des sozialen Organismus
     anlass: Frageabend des Bundes für Dreigliederung des sozialen Organismus. Versammlung des Industrierates. Versammlung für bürgerliche Gesinnte
     ga: 337a
-  - id: 19190525a
+  - id: 19190525b
     uuid: c2c362d0-5d49-4045-8cdd-e276d00fadff
     datum: 25.05.1919
     jahr: "1919"
@@ -26703,14 +26710,14 @@ lectures:
     ort: Dornach
     vortragstitel: Der Mensch zwischen der Ideenwelt und der Welt der Erinnerungs- und Phantasievorstellungen. Altes und gegenwärtiges Wissen
     ga: 198
-  - id: 19200711
+  - id: 19200711a
     uuid: 5e777251-1f09-54c8-be6d-9e0257c77291
     datum: 11.07.1920
     jahr: "1920"
     ort: Dornach
     vortragstitel: Das alte Mysterienwesen und das Mysterium von Golgatha. Anthroposophie als Christologie
     ga: 198
-  - id: 19200711a
+  - id: 19200711b
     uuid: ab231fe6-826e-4627-8926-7d9aa41a0c49
     datum: 11.07.1920
     jahr: "1920"
@@ -27042,14 +27049,14 @@ lectures:
     ort: Dornach
     vortragstitel: ""
     anlass: Einleitende Worte zur Eurythmie-Aufführung
-  - id: 19200905
+  - id: 19200905a
     uuid: 6f2fb16d-0018-5d08-b4f7-19f760ddde6b
     datum: 05.09.1920
     jahr: "1920"
     ort: Dornach
     vortragstitel: Der Zusammenhang der Wesensglieder des Menschen mit den drei Naturreichen und den drei Gebieten des sozialen Organismus. Die Notwendigkeit der Dreigliederung. Die Neugestaltung des sozialen Organismus aus dem Wesen des Menschen.
     ga: 199,255b
-  - id: 19200905a
+  - id: 19200905b
     uuid: 9ab12d6d-0d98-42d3-adbf-3bfade31f6ab
     datum: 05.09.1920
     jahr: "1920"
@@ -27635,14 +27642,14 @@ lectures:
     ort: Dornach
     vortragstitel: Nachruf Harald Lille / Die geschichtliche Entwicklung seit dem 15. Jahrhundert. Die historische Dreigliederung. Der Dreigliederung entgegenarbeitende Elementarwesen. Ihre Verkörperung im Westen und im Osten
     ga: 200,261
-  - id: 19201023
+  - id: 19201023a
     uuid: 1803f81b-3594-561f-8c8d-39277c72b91e
     datum: 23.10.1920
     jahr: "1920"
     ort: Dornach
     vortragstitel: Gedenkwort für Karoline Wilhelm / Die Entwicklung der heutigen Zivilisation aus dem niedergehenden Römertum in drei Strömungen. Der Mensch der Mitte zwischen West und Ost
     ga: 200,261
-  - id: 19201023a
+  - id: 19201023b
     uuid: 6169f976-d338-4d89-9d5c-03f336115885
     datum: 23.10.1920
     jahr: "1920"
@@ -27650,14 +27657,14 @@ lectures:
     vortragstitel: ""
     anlass: Ansprache zur Eurythmie
     ga: 277c
-  - id: 19201024
+  - id: 19201024a
     uuid: 2dfb5e98-d6bc-562c-be75-a442456212ad
     datum: 24.10.1920
     jahr: "1920"
     ort: Dornach
     vortragstitel: Schillers «Ästhetische Briefe» und Goethes «Märchen» in ihrer Beziehung zu Anthroposophie und Dreigliederung
     ga: 200
-  - id: 19201024a
+  - id: 19201024b
     uuid: 248c7822-0937-4d9d-8bf1-ee7c3a38be86
     datum: 24.10.1920
     jahr: "1920"
@@ -29186,14 +29193,14 @@ lectures:
     ort: Dornach
     vortragstitel: Die Metamorphose der menschlichen Seelenentwicklung im Verlaufe der Geschichte. Messen, Zählen und Wägen in früheren Zeiten und in der Gegenwart
     ga: 204
-  - id: 19210424
+  - id: 19210424a
     uuid: 481a6c46-6189-5b20-a586-0b401092907b
     datum: 24.04.1921
     jahr: "1921"
     ort: Dornach
     vortragstitel: Das vierte Jahrhundert als Einschnitt in der Menschheitsentwicklung. Hinschwinden des alten Urwissens. Zunehmende Ausbildung des Intellektes
     ga: 204
-  - id: 19210424a
+  - id: 19210424b
     uuid: c8c7adf9-b65f-444b-ac84-dee575ac0f50
     datum: 24.04.1921
     jahr: "1921"
@@ -30967,7 +30974,7 @@ lectures:
     vortragstitel: Bei Dr. Rudolf Steiner
     anlass: "Interview («Norges Gymnasiaster», 9. Dezember 1921). Themen: Schulreform, Waldorfschule. Kopie, RSA Standort-Nr. 176/2."
     ga: 244
-  - id: 19211211
+  - id: 19211211a
     uuid: 28faeb6c-9422-5273-9a22-e25ad3142fe8
     datum: 11.12.1921
     jahr: "1921"
@@ -30975,7 +30982,7 @@ lectures:
     vortragstitel: Der Fortgang der anthroposophischen Bewegung und die Tätigkeit der Gegner. Das Mysterium von Golgatha und das menschliche Ich-Erlebnis. Reisebericht
     anlass: Reisebericht
     ga: 251
-  - id: 19211211a
+  - id: 19211211b
     uuid: 7e9ee9f3-cd6f-4a2f-b386-7820bf032b8b
     datum: 11.12.1921
     jahr: "1921"
@@ -32888,7 +32895,7 @@ lectures:
     reihe: Die geistige und seelische Entwicklung des Kindes
     anlass: Oxford Holiday Conferences «Spiritual Values in Education and Social Life» (16.-29. Aug.)
     ga: 305
-  - id: 19220824
+  - id: 19220824a
     uuid: 01276ab1-436b-5c75-9aa1-f14657f0237d
     datum: 24.08.1922
     jahr: "1922"
@@ -32897,7 +32904,7 @@ lectures:
     reihe: Die geistige und seelische Entwicklung des Kindes
     anlass: Oxford Holiday Conferences «Spiritual Values in Education and Social Life» (16.-29. Aug.)
     ga: 305
-  - id: 19220824a
+  - id: 19220824b
     uuid: dd34f492-f8f2-4e6f-909c-ec9880c5cc1b
     datum: 24.08.1922
     jahr: "1922"
@@ -34488,7 +34495,7 @@ lectures:
     vortragstitel: Die Scholastik. Realismus und Nominalismus. Vater-Prinzip und Sohnes-Prinzip
     reihe: Lebendiges Naturerkennen, Intellektueller Sündenfall und spirituelle Sündenerhebung
     ga: 220
-  - id: 19230128
+  - id: 19230128a
     uuid: 4716576b-f4eb-594d-baf8-e94c840bc06e
     datum: 28.01.1923
     jahr: "1923"
@@ -34496,7 +34503,7 @@ lectures:
     vortragstitel: Herman Grimm und Friedrich Nietzsche und das Geistesleben der Gegenwart. Mensch und Natur. Das Wesen der Elektrizität und des Lichtes. Der Geist der Sprache. Eurythmie
     reihe: Lebendiges Naturerkennen, Intellektueller Sündenfall und spirituelle Sündenerhebung
     ga: 220
-  - id: 19230128a
+  - id: 19230128b
     uuid: d9626f70-90ba-4d36-bb15-bfc73b6978cd
     datum: 28.01.1923
     jahr: "1923"
@@ -35096,14 +35103,14 @@ lectures:
     vortragstitel: Die Gliederung der menschlichen Wesenheit in physischen Leib, Ätherleib, Astralleib und Ich
     anlass: Vortrag für die Arbeiter am Goetheanum
     ga: 349
-  - id: 19230405
+  - id: 19230405a
     uuid: 8a916b1c-9422-5981-80ce-efa4eaa074b8
     datum: 05.04.1923
     jahr: "1923"
     ort: Bern
     vortragstitel: Was wollte das Goetheanum und was soll Anthroposophie?
     ga: 80b
-  - id: 19230405a
+  - id: 19230405b
     uuid: 2a26a505-09f8-4ad4-9567-fa02df968651
     datum: 05.04.1923
     jahr: "1923"
@@ -35118,7 +35125,7 @@ lectures:
     ort: Bern
     vortragstitel: Das Karma des Menschen, Astralleib und Ich im Zusammenhang mit den höheren Hierarchien
     ga: 224
-  - id: 19230407
+  - id: 19230407a
     uuid: 5b89cc34-cb3e-521f-8184-b6d389e505fe
     datum: 07.04.1923
     jahr: "1923"
@@ -35133,14 +35140,14 @@ lectures:
     vortragstitel: Beleuchtungs-Eurythmie
     anlass: Einleitende Worte zur Eurythmie-Aufführung
     ga: 277,277d
-  - id: 19230408
+  - id: 19230408a
     uuid: a4b6eac2-d139-5e22-a7d0-550c5bdba795
     datum: 08.04.1923
     jahr: "1923"
     ort: Dornach
     vortragstitel: Das Miterleben des Jahreslaufes in den alten Mysterien. Jahresfeste einst und jetzt. Das Michaelfest als Fest des Mutes
     ga: 223
-  - id: 19230408a
+  - id: 19230408b
     uuid: 7dcc89cf-3907-480d-a3b2-1fe6ed429366
     datum: 08.04.1923
     jahr: "1923"
@@ -36945,14 +36952,14 @@ lectures:
     vortragstitel: ""
     anlass: Für Ärzte und Wissenschaftler
     ga: 319
-  - id: 19231005
+  - id: 19231005a
     uuid: b3c2e311-01b8-50b2-a9d3-f9e7003937f1
     datum: 05.10.1923
     jahr: "1923"
     ort: Dornach
     vortragstitel: "Michael und der Drache: eine der Imaginationen des Jahreslaufes. Bericht über die Wiener Tagung"
     ga: 229,259
-  - id: 19231005a
+  - id: 19231005b
     uuid: 5e0cb7fb-fdfd-498a-ab8f-fbd51e6d46d4
     datum: 05.10.1923
     jahr: "1923"
@@ -37191,14 +37198,14 @@ lectures:
     ort: Dornach
     vortragstitel: Die Ernährung des Menschen. Die Verarbeitung des Mineralischen, Pflanzlichen und Tierischen im menschlichen Organismus. Die Verdauung des Tieres. Die Bienen
     ga: 230
-  - id: 19231111
+  - id: 19231111a
     uuid: a610cd83-a6dc-55df-9c68-ffb0ff34610b
     datum: 11.11.1923
     jahr: "1923"
     ort: Dornach
     vortragstitel: Menschenliebe und Menschenhaß in ihrer Beziehung zur Menschengestalt. Die Metamorphosen der Geistgestalt des Menschen nach dem Tode
     ga: 230,277
-  - id: 19231111a
+  - id: 19231111b
     uuid: cce5c6bc-9de1-4796-aa81-54051a257b19
     datum: 11.11.1923
     jahr: "1923"
@@ -37844,10 +37851,10 @@ lectures:
     reihe: Die Weltgeschichte in anthroposophischer Beleuchtung und als Grundlage der Erkenntnis des Menschen
     anlass: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
     ga: 233,260
-  - id: 19231231g
+  - id: 19240101f
     uuid: 67335f53-90ff-59e1-9052-846b89789e93
-    datum: 31.12.1923
-    jahr: "1923"
+    datum: 01.01.1924
+    jahr: "1924"
     ort: Dornach
     vortragstitel: Schlussvotum Rudolf Steiners zu «Futurum» und «Kommender Tag»
     anlass: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft
@@ -38340,7 +38347,7 @@ lectures:
     vortragstitel: Die verschiedenen Gesetzmäßigkeiten in den Naturreichen. Der Karmabegriff.
     reihe: Karmabetrachtungen
     ga: 235
-  - id: 19240217
+  - id: 19240217a
     uuid: 46c568e5-b459-53e2-93a6-d30529907746
     datum: 17.02.1924
     jahr: "1924"
@@ -38348,7 +38355,7 @@ lectures:
     vortragstitel: Die Karmafrage und die Hierarchien
     reihe: Karmabetrachtungen
     ga: 235
-  - id: 19240217a
+  - id: 19240217b
     uuid: f02aeafc-3873-4239-8aa2-3a6c3fa65c03
     datum: 17.02.1924
     jahr: "1924"
@@ -39712,14 +39719,14 @@ lectures:
     vortragstitel: Lehrerkonferenz
     anlass: Konferenz mit dem Lehrerkollegium der Freien Waldorfschule
     ga: 300c
-  - id: 19240620
+  - id: 19240620a
     uuid: 826b515e-d4c5-5328-b01d-0638f548374c
     datum: 20.06.1924
     jahr: "1924"
     ort: Dornach
     vortragstitel: Bericht über den Landwirtschaftlichen Kursus und die Breslauer Tagung. Die finanzielle Lage der Waldorfschule. Toter und lebendiger Stickstoff. Kosmische und irdische Substanz in der Ernährung
     ga: 260a,327
-  - id: 19240620a
+  - id: 19240620b
     uuid: dd55f0ee-ee5b-4fe7-8cfb-411bf0e48009
     datum: 20.06.1924
     jahr: "1924"

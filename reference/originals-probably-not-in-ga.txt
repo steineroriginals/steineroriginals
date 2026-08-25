@@ -1,0 +1,84 @@
+# Originals probably or possibly not published in GA
+# Tab-separated: filename<TAB>title
+# Excludes IDs with Tag 00 (YYYYMMDD day=00)
+# Generated 2026-08-24
+
+# Wahrscheinlich nicht in GA (67 files, 33 lecture IDs)
+19030821a_13pp_Warberg_wb_.pdf	Öffentlicher Vortrags- und Diskussionsabend
+19030904a_13pp_Warberg_wb_.pdf	Öffentlicher Vortrags- und Diskussionsabend
+19040322_8pp_wb_datum_fraglich.pdf	Vortrag 5
+19041126b_6pp_DSC03772_.pdf	Über die Meister
+19060213c_1pp_Scholl_ScanWarberg_wb_.pdf	Esoterische Stunde
+19060905_1pp_DSC01314_.pdf	Esoterische Stunde
+19060906b_1pp_DSC01315_.pdf	Esoterische Stunde
+19061009_3pp_Scan_wb_.pdf	Esoterische Stunde
+19061017_1pp_DSC05596_.pdf	Esoterische Stunde
+19061017_1pp_DSC05597_.pdf	Esoterische Stunde
+19071208_11pp_L1140399_.pdf	Das mineralische und das pflanzliche Ich
+19071208_12pp_L1210214_.pdf	Das mineralische und das pflanzliche Ich
+19071208_18pp_L1010205_.pdf	Das mineralische und das pflanzliche Ich
+19080216a_8pp_P1500982_.pdf	Über Gruppenseelen
+19080325_5pp_P1340089_.pdf	Esoterische Stunde
+19080325_7pp_P1340095_.pdf	Esoterische Stunde
+19090220_5pp_P1550534_.pdf	(no title)
+19090220_8pp,Scan_fh_.pdf	(no title)
+19091026b_10pp_fr_DSC01143_wb_.pdf	Das Problem des Luzifer
+19091026b_10pp_fr_L1080122_.pdf	Das Problem des Luzifer
+19091026b_11pp_fr_P1480771_.pdf	Das Problem des Luzifer
+19091026b_3pp~fr~ScanWarberg_wb_.pdf	Das Problem des Luzifer
+19091026b_9pp_DSC00478_.pdf	Das Problem des Luzifer
+19091027b_3pp_DSC00487_.pdf	Das Problem des Luzifer (Fortsetzung)
+19091027b_4pp_fr_DSC08872_.pdf	Das Problem des Luzifer (Fortsetzung)
+19091027b_4pp_fr_L1080134_.pdf	Das Problem des Luzifer (Fortsetzung)
+19101216_1pp_Scan_wb_.pdf	Esoterische Stunde
+19101216_2pp_P1380629_.pdf	Esoterische Stunde
+19110803_2pp_DSC07050_.pdf	Esoterische Stunde
+19110803_3pp_DSCN5010_.pdf	Esoterische Stunde
+19111028_2pp_DSC01748_.pdf	Esoterische Stunde
+19111028_2pp_P1340515_.pdf	Esoterische Stunde
+19111028_2pp_Scan_wb_.pdf	Esoterische Stunde
+19111028_3pp_DSC07932_.pdf	Esoterische Stunde
+19111028_3pp_P1340430_.pdf	Esoterische Stunde
+19111028_3pp_Scan_wb_.pdf	Esoterische Stunde
+19111028_7pp_P1380633_.pdf	Esoterische Stunde
+19111122_12pp_P1340543_.pdf	Allgemeine Anforderungen (Die 6 Nebenübungen)
+19111122_5pp_P1340556_.pdf	Allgemeine Anforderungen (Die 6 Nebenübungen)
+19111122_5pp_Scholl_P1340571_.pdf	Allgemeine Anforderungen (Die 6 Nebenübungen)
+19111122_9pp_P1340561_.pdf	Allgemeine Anforderungen (Die 6 Nebenübungen)
+19111122_9pp_Scholl_P1340580_.pdf	Allgemeine Anforderungen (Die 6 Nebenübungen)
+19111126_4pp_P1470433_.pdf	Zweig-Vortrag
+19120209b_7pp_P1380248_.pdf	Esoterische Stunde
+19120212_18pp_L1030184_.pdf	Was bedeuten Hamerling und die übrigen heimatlichen Dichter für die österreichischen Lande?
+19120928_2pp_P1380342_.pdf	(no title)
+19120928_3pp_Scan_wb_.pdf	(no title)
+19120928_7pp_P1380728_.pdf	(no title)
+19121113_3pp_Wagner_P1380343_.pdf	Esoterische Stunde
+19121208a_2pp_Scan_b_wb_.pdf	Esoterische Stunde
+19121208a_2pp_Scan_wb_.pdf	Esoterische Stunde
+19130511_2pp_P1420654_.pdf	Esoterische Stunde
+19130511_3pp_Scan_wb_.pdf	Esoterische Stunde
+19130511_7pp_P1380742_.pdf	Esoterische Stunde
+19131119_9pp_P1380772_.pdf	Esoterische Stunde
+19131208b_1pp_P1380781_.pdf	Esoterische Stunde
+19140101b_4pp_DSC02543_.pdf	Esoterische Stunde
+19140411c_4pp_DSC02937_.pdf	Esoterische Stunde
+19140411c_4pp_Scan_wb_.pdf	Esoterische Stunde
+19140411c_5pp_DSCN5221_.pdf	Esoterische Stunde
+19140411c_9pp_P1400382_.pdf	Esoterische Stunde
+19140427_4pp_P1380448_.pdf	Marcello Hagen
+19140427_5pp_P1380442_.pdf	Marcello Hagen
+19140919b_27pp_P1400862_.pdf	Vortrag am Vorabend des ersten Jahrestages der Grundsteinlegung des Johannesbaus
+19140919b_30pp_Scholl_P1410443_.pdf	Vortrag am Vorabend des ersten Jahrestages der Grundsteinlegung des Johannesbaus
+19220618_28pp_Kolisko_P1070001_.pdf	Der Wiener Kongreß als Wendepunkt der anthroposophischen Bewegung
+19220618_37pp_Finckh_DSC09783_.pdf	Der Wiener Kongreß als Wendepunkt der anthroposophischen Bewegung
+
+# Möglicherweise nicht in GA — kein ga: im Katalog, evtl. Lücke (9 files, 6 IDs)
+19070929b_1pp_Scan_wb_.pdf	(no title)
+19071009b_3pp_DSC03848_.pdf	Esoterische Stunde
+19071012fr_1pp_DSC08533_.pdf	(no title)
+19080216b_2pp_fr_P1500992_.pdf	Fragenbeantwortung
+19130329b_11pp_Scan_.pdf	Fragenbeantwortung
+19130329b_7pp_fr_DSC05374_.pdf	Fragenbeantwortung
+19130329b_8pp_Scan_.pdf	Fragenbeantwortung
+19130329b_9pp_fr_DSC05382_.pdf	Fragenbeantwortung
+19210815_19pp_fr_DSC07217_.pdf	Diskussion nach dem Vortrag von Herrn Dr. W. J. Stein «Aphoristische Ausführungen über Goethe»
