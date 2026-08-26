@@ -1,3 +1,8 @@
+/** R2 object key for an original scan PDF (no leading slash). */
+export interface ManuscriptRef {
+  key: string;
+}
+
 /** Single lecture entry in the SSOT (German field names preserved). */
 export interface LectureEntry {
   id: string;
@@ -11,6 +16,8 @@ export interface LectureEntry {
   reihe?: string;
   zyklus?: number | string;
   ragkeep?: string;
+  /** Original scan PDFs in Cloudflare R2 (`originals/<filename>.pdf`). */
+  manuscripts?: ManuscriptRef[];
 }
 
 export interface LectureCatalogFile {
@@ -37,6 +44,9 @@ export interface CatalogStats {
   withZyklus: number;
   withReihe: number;
   withAnlass: number;
+  withManuscripts: number;
+  withoutManuscripts: number;
+  manuscriptKeyCount: number;
   uniqueLocations: number;
   uniqueGaValues: number;
   yearRange: { min: number; max: number } | null;

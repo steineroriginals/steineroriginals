@@ -55,7 +55,7 @@ src/lib/                                 # shared TypeScript
 src/scripts/                             # maintenance CLI
 src/restapi/                             # REST API (planned)
 src/website/                             # static site (planned)
-originals/                               # scan PDFs (local only → B2, not in git)
+originals/                               # scan PDFs (local only → R2, not in git)
 ```
 
 ## Storage
@@ -63,8 +63,11 @@ originals/                               # scan PDFs (local only → B2, not in 
 | Content | Where |
 |---------|--------|
 | YAML + code | GitHub |
-| Original scans | Backblaze B2 + Cloudflare |
+| Original scans | Cloudflare R2 (upload: `yarn upload:originals`; see `plans/002-…`) |
+| Website | Cloudflare Pages (planned) |
 | GA PDFs | Local only (`GA_PDF_DIR`) |
+
+Copy `.env.example` → `.env` and fill R2 credentials before uploading.
 
 ## Conventions
 

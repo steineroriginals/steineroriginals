@@ -1,5 +1,5 @@
 import fs from "node:fs";
-import yaml from "js-yaml";
+import { load } from "js-yaml";
 import { LECTURE_CATALOG_PATH } from "./paths.js";
 import type { CatalogStats, LectureCatalogFile, LectureEntry } from "./types.js";
 
@@ -7,7 +7,7 @@ export function loadLectureCatalog(): LectureEntry[] {
   if (!fs.existsSync(LECTURE_CATALOG_PATH)) {
     throw new Error(`Lecture catalog not found: ${LECTURE_CATALOG_PATH}`);
   }
-  const parsed = yaml.load(fs.readFileSync(LECTURE_CATALOG_PATH, "utf-8")) as
+  const parsed = load(fs.readFileSync(LECTURE_CATALOG_PATH, "utf-8")) as
     | LectureCatalogFile
     | undefined;
   if (!parsed?.lectures || !Array.isArray(parsed.lectures)) {
@@ -36,6 +36,8 @@ export function computeCatalogStats(lectures: LectureEntry[]): CatalogStats {
   let withZyklus = 0;
   let withReihe = 0;
   let withAnlass = 0;
+  let withManuscripts = 0;
+  let manuscriptKeyCount = 0;
   let minYear = Infinity;
   let maxYear = -Infinity;
 
@@ -58,6 +60,10 @@ export function computeCatalogStats(lectures: LectureEntry[]): CatalogStats {
     if (entry.zyklus != null && String(entry.zyklus).trim() !== "") withZyklus++;
     if (entry.reihe?.trim()) withReihe++;
     if (entry.anlass?.trim()) withAnlass++;
+    if (Array.isArray(entry.manuscripts) && entry.manuscripts.length > 0) {
+      withManuscripts++;
+      manuscriptKeyCount += entry.manuscripts.length;
+    }
     const year = parseInt(String(entry.jahr ?? ""), 10);
     if (Number.isFinite(year)) {
       minYear = Math.min(minYear, year);
@@ -74,6 +80,9 @@ export function computeCatalogStats(lectures: LectureEntry[]): CatalogStats {
     withZyklus,
     withReihe,
     withAnlass,
+    withManuscripts,
+    withoutManuscripts: lectures.length - withManuscripts,
+    manuscriptKeyCount,
     uniqueLocations: locations.size,
     uniqueGaValues: gaValues.size,
     yearRange:

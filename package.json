@@ -14,15 +14,18 @@
     "maintain:ga-catalog": "tsx src/scripts/maintain-lecture-catalog/add_missing_ga_to_catalog.ts",
     "maintain:ga-reference": "tsx src/scripts/maintain-lecture-catalog/extract_ga_reference_yaml.ts",
     "maintain:ga-sync": "tsx src/scripts/maintain-lecture-catalog/sync_ga_reference_from_catalog.ts",
-    "maintain:ga-rsarchive": "tsx src/scripts/maintain-lecture-catalog/check_ga_against_rsarchive.ts"
+    "maintain:ga-rsarchive": "tsx src/scripts/maintain-lecture-catalog/check_ga_against_rsarchive.ts",
+    "upload:originals": "tsx src/scripts/upload_originals_to_r2.ts",
+    "link:manuscripts": "tsx src/scripts/link_manuscripts_to_catalog.ts"
   },
   "devDependencies": {
     "@types/js-yaml": "latest",
-    "@types/node": "latest",
+    "@types/node": "^26.3.0",
     "tsx": "latest",
     "typescript": "latest"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.1117.0",
     "js-yaml": "latest"
   }
 }

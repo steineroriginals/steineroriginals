@@ -31,7 +31,8 @@ Everything else (API, website, ragkeep sync, manifests) reads from or derives fr
 | Content | Location |
 |---------|----------|
 | SSOT + reference YAML + code | GitHub (no LFS) |
-| Original scan PDFs | Backblaze B2 + Cloudflare |
+| Original scan PDFs | Cloudflare R2 (`manuscripts[].key` in SSOT; see plan 002) |
+| Website | Cloudflare Pages (planned) |
 | GA PDFs | Local only (`GA_PDF_DIR`) — never in git or cloud |
 
 ## Key paths
@@ -41,9 +42,9 @@ rudolf-steiner-ga-lecture-catalog.yaml       # SSOT
 reference/lecture-catalog-locations.yaml     # location whitelist
 reference/lecture-catalog-cycles.yaml        # cycle reference (read-only)
 reference/ga-catalog.yaml                    # GA volume titles (derived)
-reference/original-manifest.yaml             # id → B2 files (generated)
+reference/original-manifest.yaml             # id → R2 keys (generated audit twin)
 src/lib/                                     # shared TypeScript (paths, catalog, types)
 src/scripts/                                 # maintenance CLI (.ts, via tsx)
 src/restapi/                                 # REST API (Railway)
-src/website/                                 # static site (GitHub Pages)
+src/website/                                 # static site (Cloudflare Pages)
 ```

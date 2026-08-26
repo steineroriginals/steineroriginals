@@ -24,7 +24,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import yaml from "js-yaml";
+import { load } from "js-yaml";
 import {
   loadLectureCatalogRaw,
   writeLectureCatalogRaw,
@@ -233,7 +233,7 @@ function catalogToRefEntry(c: CatalogLecture, ga: string, type = "vortrag"): Ref
 }
 
 function loadCatalog(): CatalogLecture[] {
-  const raw = yaml.load(fs.readFileSync(LECTURE_CATALOG_PATH, "utf-8")) as {
+  const raw = load(fs.readFileSync(LECTURE_CATALOG_PATH, "utf-8")) as {
     lectures: CatalogLecture[];
   };
   // YAML parses bare numeric ids (e.g. 19030928) as numbers — keep them as strings
@@ -246,7 +246,7 @@ function loadCatalog(): CatalogLecture[] {
 function loadRefFile(ga: string): RefFile | null {
   const p = path.join(REF_GA_DIR, yamlBasename(ga));
   if (!fs.existsSync(p)) return null;
-  return yaml.load(fs.readFileSync(p, "utf-8")) as RefFile;
+  return load(fs.readFileSync(p, "utf-8")) as RefFile;
 }
 
 function computePeriod(entries: RefEntry[]): string {

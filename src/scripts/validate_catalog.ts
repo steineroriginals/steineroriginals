@@ -35,6 +35,33 @@ function validateCatalog(lectures: LectureEntry[]): {
     if (entry.datum && !/^\d{2}\.\d{2}\.\d{4}$/.test(entry.datum.trim())) {
       warnings.push(`${label} id=${id}: non-standard datum "${entry.datum}"`);
     }
+
+    if (entry.manuscripts != null) {
+      if (!Array.isArray(entry.manuscripts)) {
+        errors.push(`${label} id=${id}: manuscripts must be an array`);
+      } else {
+        const seenKeys = new Set<string>();
+        for (let j = 0; j < entry.manuscripts.length; j++) {
+          const ms = entry.manuscripts[j];
+          const key = ms?.key != null ? String(ms.key).trim() : "";
+          if (!key) {
+            errors.push(
+              `${label} id=${id}: manuscripts[${j}] missing or empty key`
+            );
+            continue;
+          }
+          if (seenKeys.has(key)) {
+            errors.push(`${label} id=${id}: duplicate manuscripts key "${key}"`);
+          }
+          seenKeys.add(key);
+          if (!key.startsWith("originals/") || !key.toLowerCase().endsWith(".pdf")) {
+            warnings.push(
+              `${label} id=${id}: manuscripts[${j}] key should be originals/….pdf (got "${key}")`
+            );
+          }
+        }
+      }
+    }
   }
 
   for (const [id, count] of ids) {
@@ -90,13 +117,17 @@ function main(): void {
 
   const stats = computeCatalogStats(lectures);
   console.log("\nCoverage:");
-  console.log(`  With GA:     ${stats.withGa} / ${stats.totalLectures}`);
-  console.log(`  Without GA:  ${stats.withoutGa}`);
-  console.log(`  With title:  ${stats.withTitle}`);
-  console.log(`  With zyklus: ${stats.withZyklus}`);
-  console.log(`  Locations:   ${stats.uniqueLocations}`);
+  console.log(`  With GA:          ${stats.withGa} / ${stats.totalLectures}`);
+  console.log(`  Without GA:       ${stats.withoutGa}`);
+  console.log(`  With title:       ${stats.withTitle}`);
+  console.log(`  With zyklus:      ${stats.withZyklus}`);
+  console.log(
+    `  With manuscripts: ${stats.withManuscripts} (${stats.manuscriptKeyCount} keys)`
+  );
+  console.log(`  Without manuscripts: ${stats.withoutManuscripts}`);
+  console.log(`  Locations:        ${stats.uniqueLocations}`);
   if (stats.yearRange) {
-    console.log(`  Years:       ${stats.yearRange.min}–${stats.yearRange.max}`);
+    console.log(`  Years:            ${stats.yearRange.min}–${stats.yearRange.max}`);
   }
 
   if (errors.length > 0) process.exit(1);
