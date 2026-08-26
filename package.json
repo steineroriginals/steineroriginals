@@ -16,13 +16,18 @@
     "maintain:ga-sync": "tsx src/scripts/maintain-lecture-catalog/sync_ga_reference_from_catalog.ts",
     "maintain:ga-rsarchive": "tsx src/scripts/maintain-lecture-catalog/check_ga_against_rsarchive.ts",
     "upload:originals": "tsx src/scripts/upload_originals_to_r2.ts",
-    "link:manuscripts": "tsx src/scripts/link_manuscripts_to_catalog.ts"
+    "link:manuscripts": "tsx src/scripts/link_manuscripts_to_catalog.ts",
+    "build:website-data": "tsx src/website/scripts/build-catalog-index.ts",
+    "dev:website": "yarn build:website-data && vite --config src/website/vite.config.ts",
+    "build:website": "yarn build:website-data && vite build --config src/website/vite.config.ts",
+    "preview:website": "vite preview --config src/website/vite.config.ts"
   },
   "devDependencies": {
     "@types/js-yaml": "latest",
     "@types/node": "^26.3.0",
     "tsx": "latest",
-    "typescript": "latest"
+    "typescript": "latest",
+    "vite": "^8.2.2"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.1117.0",

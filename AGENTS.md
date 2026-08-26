@@ -32,7 +32,7 @@ Everything else (API, website, ragkeep sync, manifests) reads from or derives fr
 |---------|----------|
 | SSOT + reference YAML + code | GitHub (no LFS) |
 | Original scan PDFs | Cloudflare R2 (`manuscripts[].key` in SSOT; see plan 002) |
-| Website | Cloudflare Pages (planned) |
+| Website | Cloudflare Pages (`src/website/`; see plan 003) |
 | GA PDFs | Local only (`GA_PDF_DIR`) — never in git or cloud |
 
 ## Key paths
@@ -46,5 +46,11 @@ reference/original-manifest.yaml             # id → R2 keys (generated audit t
 src/lib/                                     # shared TypeScript (paths, catalog, types)
 src/scripts/                                 # maintenance CLI (.ts, via tsx)
 src/restapi/                                 # REST API (Railway)
-src/website/                                 # static site (Cloudflare Pages)
+src/website/                                 # Vite SPA → Cloudflare Pages (plan 003)
 ```
+
+## Website
+
+- `yarn build:website-data` — emit `src/website/public/data/*.json` from SSOT (gitignored)
+- `yarn dev:website` / `yarn build:website` — needs `PUBLIC_R2_BASE_URL` in `.env`
+- UI chrome: DE / EN / ES / FR; lecture metadata stays German

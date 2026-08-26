@@ -280,7 +280,6 @@ lectures:
     ort: Berlin
     vortragstitel: Die Persönlichkeit Friedrich Nietzsches
     anlass: Gedächnisrede im Kreise der «Kommenden»
-    ga: 5
     manuscripts:
       - key: 19000913_10pp_L1220648_.pdf
   - id: 19000915
@@ -298,7 +297,6 @@ lectures:
     ort: Berlin
     vortragstitel: Nietzsche einsame Geisteswanderung
     anlass: "Moderner Vortrags-Abend: Nietzsche-Feier, veranstaltet von Dr. R. Steiner und Kurt Holm. Rezitationen von Kurt Holm. Einleitende Ausführungen von Dr. Rud. Steiner"
-    ga: 5
   - id: 19001125
     uuid: fb0277ae-e5aa-5704-a27c-36936c5ae87b
     datum: 25.11.1900
@@ -306,7 +304,6 @@ lectures:
     ort: Berlin
     vortragstitel: Friedrich Nietzsche als Dichter der modernen Weltanschauung
     anlass: Vorträge in der «Freien Literarischen Gesellschaft»
-    ga: 5
   - id: 19010107
     uuid: efb13752-6849-5fc1-a54a-cc743dcc83c1
     datum: 07.01.1901
@@ -5635,7 +5632,6 @@ lectures:
     ort: Bonn
     vortragstitel: Esoterische Stunde
     reihe:
-    ga: ??
     manuscripts:
       - key: 19060213c_1pp_Scholl_ScanWarberg_wb_.pdf
   - id: 19060214
@@ -30299,7 +30295,7 @@ lectures:
     uuid: 68f6146c-335b-5f96-8938-98cde3c0c2ef
     datum: 07.12.1918
     jahr: "1918"
-    ort: Darnach
+    ort: Dornach
     vortragstitel: Gespenster des Alten Testaments im Nationalismus der Gegenwart
     reihe: In geänderter Zeitlage
     ga: 186
@@ -49517,7 +49513,7 @@ lectures:
     uuid: e886abd7-e8ce-5ec9-9be7-2495773ab0f1
     datum: 29.12.1923
     jahr: "1923"
-    ort: Darnach
+    ort: Dornach
     vortragstitel: Fortsetzung der Gründungsversammlung.
     anlass: Gründungsversammlung der Allgemeinen Anthroposophischen Gesellschaft 24. Dezember bis 1. Januar 1923/1924
     ga: 260

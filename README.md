@@ -46,6 +46,18 @@ npm run maintain:ga-toc -- --write
 
 See [`src/scripts/maintain-lecture-catalog/README.md`](src/scripts/maintain-lecture-catalog/README.md) for details.
 
+## Website
+
+Interactive catalog browser (`src/website/`) — search / cycles / years / locations, manuscript PDF viewer (PDF.js via R2). See `plans/003-website-catalog-browser.md`.
+
+```bash
+# Requires PUBLIC_R2_BASE_URL in .env (and R2 CORS for localhost / Pages)
+yarn dev:website          # http://localhost:5173
+yarn build:website        # → src/website/dist (Cloudflare Pages output)
+```
+
+Cloudflare Pages: build command `yarn build:website`, output directory `src/website/dist`, env `PUBLIC_R2_BASE_URL`.
+
 ## Layout
 
 ```
@@ -54,7 +66,7 @@ reference/                               # derived data (GA catalog, locations, 
 src/lib/                                 # shared TypeScript
 src/scripts/                             # maintenance CLI
 src/restapi/                             # REST API (planned)
-src/website/                             # static site (planned)
+src/website/                             # Vite SPA → Cloudflare Pages
 originals/                               # scan PDFs (local only → R2, not in git)
 ```
 
@@ -64,7 +76,7 @@ originals/                               # scan PDFs (local only → R2, not in 
 |---------|--------|
 | YAML + code | GitHub |
 | Original scans | Cloudflare R2 (upload: `yarn upload:originals`; see `plans/002-…`) |
-| Website | Cloudflare Pages (planned) |
+| Website | Cloudflare Pages (`yarn build:website`) |
 | GA PDFs | Local only (`GA_PDF_DIR`) |
 
 Copy `.env.example` → `.env` and fill R2 credentials before uploading.
