@@ -4,6 +4,10 @@
   "private": true,
   "type": "module",
   "description": "Rudolf Steiner lecture catalog (SSOT), originals, and reference tooling",
+  "packageManager": "yarn@1.22.22",
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "validate": "tsx src/scripts/validate_catalog.ts",
     "stats": "tsx src/scripts/stats_catalog.ts",
