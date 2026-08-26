@@ -58,10 +58,10 @@ Cloudflare Pages settings:
 | Build output directory | `src/website/dist` |
 | Root directory | *(empty)* |
 | `NODE_VERSION` | `22` |
-| `YARN_VERSION` | `1.22.22` |
+| `YARN_VERSION` | `4.9.1` |
 | `PUBLIC_R2_BASE_URL` | your R2 public base URL (no trailing slash) |
 
-`YARN_VERSION=1.22.22` is required so Pages does not activate Yarn 4 against the classic `yarn.lock`.
+The repo uses Yarn 4 (`packageManager` + `.yarn/releases`). Do **not** set `YARN_VERSION=1.x`.
 
 ## Layout
 

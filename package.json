@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "description": "Rudolf Steiner lecture catalog (SSOT), originals, and reference tooling",
-  "packageManager": "yarn@1.22.22",
+  "packageManager": "yarn@4.9.1",
   "engines": {
     "node": ">=22"
   },
@@ -24,14 +24,14 @@
     "preview:website": "vite preview --config src/website/vite.config.ts"
   },
   "devDependencies": {
-    "@types/js-yaml": "latest",
-    "@types/node": "^26.3.0",
-    "tsx": "latest",
-    "typescript": "latest",
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^22.15.0",
+    "tsx": "^4.19.0",
+    "typescript": "~5.9.2",
     "vite": "^8.2.2"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.1117.0",
-    "js-yaml": "latest"
+    "js-yaml": "^4.1.0"
   }
 }
