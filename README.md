@@ -50,7 +50,18 @@ yarn dev:website          # http://localhost:5173
 yarn build:website        # → src/website/dist (Cloudflare Pages output)
 ```
 
-Cloudflare Pages: build command `yarn build:website`, output directory `src/website/dist`, env `PUBLIC_R2_BASE_URL`.
+Cloudflare Pages settings:
+
+| Setting | Value |
+|---------|--------|
+| Build command | `yarn build:website` |
+| Build output directory | `src/website/dist` |
+| Root directory | *(empty)* |
+| `NODE_VERSION` | `22` |
+| `YARN_VERSION` | `1.22.22` |
+| `PUBLIC_R2_BASE_URL` | your R2 public base URL (no trailing slash) |
+
+`YARN_VERSION=1.22.22` is required so Pages does not activate Yarn 4 against the classic `yarn.lock`.
 
 ## Layout
 
