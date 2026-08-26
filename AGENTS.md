@@ -9,7 +9,7 @@
 - API route names, error messages, and OpenAPI descriptions
 - Website UI copy (labels, buttons, empty states)
 - Git commit messages and pull request descriptions
-- New reference file names (e.g. `ga-catalog.yaml`, `original-manifest.yaml`)
+- New reference file names (e.g. `original-manifest.yaml`)
 
 **All code is TypeScript:**
 
@@ -40,8 +40,7 @@ Everything else (API, website, ragkeep sync, manifests) reads from or derives fr
 ```
 rudolf-steiner-ga-lecture-catalog.yaml       # SSOT
 reference/lecture-catalog-locations.yaml     # location whitelist
-reference/lecture-catalog-cycles.yaml        # cycle reference (read-only)
-reference/ga-catalog.yaml                    # GA volume titles (derived)
+reference/lecture-catalog-cycles.yaml        # cycle titles (read-only)
 reference/original-manifest.yaml             # id → R2 keys (generated audit twin)
 src/lib/                                     # shared TypeScript (paths, catalog, types)
 src/scripts/                                 # maintenance CLI (.ts, via tsx)

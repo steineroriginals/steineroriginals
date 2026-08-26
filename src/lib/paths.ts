@@ -24,8 +24,6 @@ export const LECTURE_CATALOG_CYCLES_PATH = path.join(
   "lecture-catalog-cycles.yaml"
 );
 
-export const GA_CATALOG_PATH = path.join(REPO_ROOT, "reference", "ga-catalog.yaml");
-
 export const ORIGINAL_MANIFEST_PATH = path.join(
   REPO_ROOT,
   "reference",

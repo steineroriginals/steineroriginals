@@ -96,7 +96,7 @@ export const de: Messages = {
   cycles: {
     label: "Zyklen",
     title: "Vortragszyklen",
-    filterPlaceholder: "Zyklusnummer filtern…",
+    filterPlaceholder: "Zyklus filtern…",
     back: "← Alle Zyklen",
     item: "Zyklus",
     lectures: "Vorträge",

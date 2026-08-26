@@ -28,7 +28,7 @@ export const es: Messages = {
   cycles: {
     label: "Ciclos",
     title: "Ciclos de conferencias",
-    filterPlaceholder: "Filtrar número de ciclo…",
+    filterPlaceholder: "Filtrar ciclos…",
     back: "← Todos los ciclos",
     item: "Ciclo",
     lectures: "conferencias",

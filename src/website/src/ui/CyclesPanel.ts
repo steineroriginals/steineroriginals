@@ -82,7 +82,10 @@ export function mountCyclesPanel(
     const q = filter.value.trim().toLowerCase();
     const filtered = cycles.filter((c) => {
       if (!q) return true;
-      return c.zyklus.includes(q);
+      return (
+        c.zyklus.includes(q) ||
+        c.titel.toLowerCase().includes(q)
+      );
     });
     listHost.innerHTML = "";
     if (filtered.length === 0) {
@@ -103,7 +106,9 @@ export function mountCyclesPanel(
       num.textContent = c.zyklus;
       const t = document.createElement("span");
       t.className = "cycle-title";
-      t.textContent = `${messages.cycles.item} ${c.zyklus}`;
+      t.textContent =
+        c.titel || `${messages.cycles.item} ${c.zyklus}`;
+      t.title = t.textContent;
       const count = document.createElement("span");
       count.className = "cycle-count";
       count.textContent = `${c.vortraege} ${messages.cycles.lectures}`;

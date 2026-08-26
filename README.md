@@ -28,12 +28,6 @@ npm run export:csv
 Requires **Node.js 20+**, **pdftotext** (poppler), and local GA PDFs at `GA_PDF_DIR` (default: `~/GA 180dpi/GA-Acrobat/GA`).
 
 ```bash
-# Preview GA catalog entries from local PDFs
-npm run maintain:ga-catalog
-
-# Write missing bands to reference/ga-catalog.yaml
-npm run maintain:ga-catalog -- --write
-
 # Suggest GA volumes for lectures without ga
 npm run maintain:ga-suggest
 
@@ -62,7 +56,7 @@ Cloudflare Pages: build command `yarn build:website`, output directory `src/webs
 
 ```
 rudolf-steiner-ga-lecture-catalog.yaml   # SSOT
-reference/                               # derived data (GA catalog, locations, cycles)
+reference/                               # locations, cycles, manifests
 src/lib/                                 # shared TypeScript
 src/scripts/                             # maintenance CLI
 src/restapi/                             # REST API (planned)

@@ -12,6 +12,7 @@ export interface LectureIndexEntry {
 
 export interface CycleIndexEntry {
   zyklus: string;
+  titel: string;
   vortraege: number;
 }
 

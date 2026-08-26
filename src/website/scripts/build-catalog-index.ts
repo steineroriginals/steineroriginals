@@ -7,9 +7,13 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { load } from "js-yaml";
 import { loadLectureCatalog } from "../../lib/catalog.js";
 import { compareGaNumbers } from "../../lib/ga-pdf.js";
-import { LECTURE_CATALOG_LOCATIONS_PATH } from "../../lib/paths.js";
+import {
+  LECTURE_CATALOG_CYCLES_PATH,
+  LECTURE_CATALOG_LOCATIONS_PATH,
+} from "../../lib/paths.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUT_DIR = path.resolve(__dirname, "..", "public", "data");
@@ -31,6 +35,7 @@ export interface LectureIndexEntry {
 
 export interface CycleIndexEntry {
   zyklus: string;
+  titel: string;
   vortraege: number;
 }
 
@@ -75,6 +80,24 @@ function loadLocationsWhitelist(): string[] {
     .filter((s) => s && !s.startsWith("#"));
 }
 
+/** Optional titles from reference YAML (list itself still comes from SSOT). */
+function loadCycleTitles(): Map<string, string> {
+  const map = new Map<string, string>();
+  if (!fs.existsSync(LECTURE_CATALOG_CYCLES_PATH)) return map;
+  const parsed = load(
+    fs.readFileSync(LECTURE_CATALOG_CYCLES_PATH, "utf-8")
+  ) as
+    | {
+        zyklen?: Array<{ zyklus: number | string; titel?: string }>;
+      }
+    | undefined;
+  for (const c of parsed?.zyklen ?? []) {
+    const key = String(c.zyklus);
+    if (c.titel?.trim()) map.set(key, c.titel.trim());
+  }
+  return map;
+}
+
 function main(): void {
   fs.mkdirSync(OUT_DIR, { recursive: true });
 
@@ -112,12 +135,18 @@ function main(): void {
     }
   }
 
+  const cycleTitles = loadCycleTitles();
+
   const gas: GaIndexEntry[] = [...gaCounts.entries()]
     .map(([ga, vortraege]) => ({ ga, vortraege }))
     .sort((a, b) => compareGaNumbers(a.ga, b.ga));
 
   const cycles: CycleIndexEntry[] = [...zyklusCounts.entries()]
-    .map(([zyklus, vortraege]) => ({ zyklus, vortraege }))
+    .map(([zyklus, vortraege]) => ({
+      zyklus,
+      titel: cycleTitles.get(zyklus) ?? "",
+      vortraege,
+    }))
     .sort((a, b) => {
       const na = Number(a.zyklus);
       const nb = Number(b.zyklus);

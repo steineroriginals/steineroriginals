@@ -24,17 +24,6 @@ export interface LectureCatalogFile {
   lectures: LectureEntry[];
 }
 
-export interface GaBand {
-  ga: string;
-  title: string;
-  titleDisplay?: string;
-  pdf: string;
-}
-
-export interface GaCatalogFile {
-  bands: GaBand[];
-}
-
 export interface CatalogStats {
   totalLectures: number;
   withGa: number;
