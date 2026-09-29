@@ -13,6 +13,7 @@
     "stats": "tsx src/scripts/stats_catalog.ts",
     "sort": "tsx src/scripts/sort_lectures_by_id.ts",
     "export:csv": "tsx src/scripts/yaml_to_csv.ts",
+    "export:pdf": "tsx src/scripts/export_catalog_pdf.ts",
     "maintain:ga-suggest": "tsx src/scripts/maintain-lecture-catalog/suggest_ga_for_missing.ts",
     "maintain:ga-toc": "tsx src/scripts/maintain-lecture-catalog/add_ga_from_ga_pdf_toc.ts",
     "maintain:ga-rsarchive": "tsx src/scripts/maintain-lecture-catalog/check_ga_against_rsarchive.ts",
@@ -21,7 +22,8 @@
     "build:website-data": "tsx src/website/scripts/build-catalog-index.ts",
     "dev:website": "yarn build:website-data && vite --config src/website/vite.config.ts",
     "build:website": "yarn build:website-data && vite build --config src/website/vite.config.ts",
-    "preview:website": "vite preview --config src/website/vite.config.ts"
+    "preview:website": "vite preview --config src/website/vite.config.ts",
+    "deploy:website-maintenance": "yarn dlx wrangler pages deploy src/website/maintenance --project-name=steineroriginals --branch=main --commit-dirty=true"
   },
   "devDependencies": {
     "@types/js-yaml": "^4.0.9",

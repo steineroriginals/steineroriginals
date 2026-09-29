@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="steineroriginals mark">
+  <circle cx="60" cy="60" r="52" fill="none" stroke="#2A2420" stroke-width="1.2" opacity="0.35"/>
+  <path fill="none" stroke="#2A2420" stroke-width="1.4" stroke-linecap="round"
+    d="M60 18
+       C78 22 96 36 96 60
+       C96 84 78 98 60 102
+       C42 98 24 84 24 60
+       C24 40 38 28 54 26
+       C70 24 82 36 82 52
+       C82 68 70 78 58 78
+       C48 78 40 70 40 60
+       C40 52 46 46 54 46
+       C60 46 64 50 64 56"/>
+  <circle cx="58" cy="58" r="3.2" fill="none" stroke="#2A2420" stroke-width="1.2"/>
+</svg>

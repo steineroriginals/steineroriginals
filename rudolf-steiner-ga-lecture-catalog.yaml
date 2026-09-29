@@ -821,7 +821,7 @@ lectures:
     anlass: In der Wohnung von Marie von Sivers in Berlin-Schlachtensee gab Rudolf Steiner im Sommer 1903 eine Reihe von privaten Leerstunden.
     ga: 88
   - id: 19030101e
-    uuid: c57ef4c3-ab63-54cd-8f5d-aa0e6deb1f58
+    uuid: 0e805542-b25d-498b-af61-e25e113033a6
     datum: 1903, 1904
     jahr: "1903"
     ort: Berlin
@@ -42886,7 +42886,7 @@ lectures:
       - key: 19220721a_4pp_P1070365_.pdf
       - key: 19220721a_6pp_P1060805_.pdf
   - id: 19220721b
-    uuid: 86cb4d20-6e72-5da8-9b63-a746acc5eae2
+    uuid: 1df0bae5-2c60-4e92-819a-1723fbd0ef5e
     datum: 21.07.1922
     jahr: "1922"
     ort: Dornach
@@ -50702,7 +50702,7 @@ lectures:
       - key: 19240323_24pp_Arenson_DSC02802_.pdf
       - key: 19240323_7pp_P1370166_.pdf
   - id: 19240324
-    uuid: dc6c5bff-b67e-5bcd-8fa9-201941976fb1
+    uuid: e54acff3-3b4d-4ba0-879a-90eea6bbf794
     datum: 24.03.1924
     jahr: "1924"
     ort: Dornach

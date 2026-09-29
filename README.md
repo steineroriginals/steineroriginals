@@ -63,6 +63,16 @@ Cloudflare Pages settings:
 
 The repo uses Yarn 4 (`packageManager` + `.yarn/releases`). Do **not** set `YARN_VERSION=1.x`.
 
+### Maintenance mode (take site offline)
+
+Static placeholder at `src/website/maintenance/` — deploy to production with Wrangler (requires `wrangler login` once):
+
+```bash
+yarn deploy:website-maintenance
+```
+
+Restore the normal site: Cloudflare dashboard → **Workers & Pages** → **steineroriginals** → **Deployments** → previous production deployment → **Rollback to this deployment** (or push to `main` to trigger a fresh build).
+
 ## Layout
 
 ```

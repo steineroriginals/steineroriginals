@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>steineroriginals — vorübergehend offline</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Libre+Baskerville:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/svg+xml" href="/assets/logo-mark.svg" />
+    <style>
+      :root {
+        --color-banner: #6b2b2b;
+        --color-banner-text: #f6f0e6;
+        --color-bg: #f6f0e6;
+        --color-panel: #eadcc6;
+        --color-text: #2a2420;
+        --color-text-muted: #5c534c;
+        --font-display: "Cormorant Garamond", Georgia, serif;
+        --font-ui: "Libre Baskerville", Georgia, serif;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        margin: 0;
+        min-height: 100%;
+      }
+
+      body {
+        background: #d9cbb4;
+        color: var(--color-text);
+        font-family: var(--font-ui);
+        font-size: 15px;
+        line-height: 1.55;
+      }
+
+      .page {
+        min-height: 100dvh;
+        max-width: 720px;
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        background: var(--color-bg);
+        box-shadow: 0 0 40px rgba(42, 36, 32, 0.18);
+      }
+
+      .banner {
+        display: flex;
+        align-items: center;
+        gap: 0.65rem;
+        padding: 0.85rem 1.25rem;
+        background: var(--color-banner);
+        color: var(--color-banner-text);
+      }
+
+      .banner__logo {
+        width: 1.75rem;
+        height: 1.75rem;
+        display: block;
+      }
+
+      .banner__wordmark {
+        font-family: var(--font-display);
+        font-size: 1.15rem;
+        letter-spacing: 0.04em;
+        font-weight: 600;
+      }
+
+      main {
+        flex: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 2.5rem 1.5rem;
+      }
+
+      .card {
+        width: min(100%, 28rem);
+        padding: 2rem 1.75rem;
+        text-align: center;
+        background: var(--color-panel);
+        border: 1px solid #c9b89a;
+      }
+
+      h1 {
+        margin: 0 0 0.75rem;
+        font-family: var(--font-display);
+        font-size: 1.85rem;
+        font-weight: 600;
+        line-height: 1.2;
+      }
+
+      p {
+        margin: 0;
+        color: var(--color-text-muted);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <header class="banner">
+        <img class="banner__logo" src="/assets/logo-mark.svg" width="28" height="28" alt="" />
+        <span class="banner__wordmark">steineroriginals</span>
+      </header>
+      <main>
+        <div class="card">
+          <h1>Vorübergehend offline</h1>
+          <p>Die Website ist derzeit nicht verfügbar und wird in Kürze wieder freigeschaltet.</p>
+        </div>
+      </main>
+    </div>
+  </body>
+</html>
