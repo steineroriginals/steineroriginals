@@ -1,0 +1,231 @@
+# Catalog lectures with a GA number and no seite_pdf
+# 229 entries
+69c	19140208	08.02.1914	Pforzheim	Christus im zwanzigsten Jahrhundert (falscher Eintrag in GA 69c)
+69d	19101203a	03.12.1910	Kassel	Menschenseele und Tierseele
+69d	19110531b	31.05.1911	Linz	Karma und Reinkarnation
+69d	19131015b	15.10.1913	Kopenhagen	Die Rätsel des Lebens
+69e	19110130	30.01.1911	Köln	Die Geisteswissenschaft und die Zukunft der Menschheit
+69e	19110131a	31.01.1911	Köln	Zarathustra, seine Lehre und seine Mission
+69e	19120517	17.05.1912	München	Das Wesen der geisteswissenschaftlichen Erkenntnis und deren Bedeutung für das Leben
+69e	19130218	18.02.1913	Stuttgart	""
+70a	19141103	03.11.1914	Hamburg	Das «Barbaren»-Volk Schillers und Fichtes
+70a	19150614	14.06.1915	Elberfeld	Warum nennen «sie» das Volk Schillers und Fichtes ein Barbarenvolk ? Eine Betrachtung auf Grundlage der Geisteswissenschaft
+75	19200708	08.07.1920	Bern	Anthroposophie, ihr Wesen und ihre philosophischen Grundlagen
+75	19210604a	04.06.1921	Zürich	Naturwissenschaft und Anthroposophie
+75	19211102	02.11.1921	Basel	Anthroposophie und Wissenschaft
+75	19220511	11.05.1922	Leipzig	Agnostizismus in der Wissenschaft und Anthroposophie
+90a	19040802	02.08.1904(?)	Berlin	Fleischwerdung
+90a	19040905a	05.09.1904(?)	Berlin	Die Reiche
+90a	19040101	01.01.1904	Berlin	Über die Wanderungen der Rassen
+90a	19040303	03.03.1904	Berlin	Mikrokosmos und Makrokosmos
+90a	19040601	01.06.1904	Berlin	Arten um zum Wissen und Wollen zu kommen
+90a	19040816	16.08.1904	Berlin	Von der Aufgabe und der Heimat des Menschen
+91	19040906	06.09.1904 (?)	Berlin	Von den Arhats bis zu den Mahatmas
+91	19030802	02.08.1903	Berlin	Farben und Lichtlehre I
+91	19030803	03.08.1903	Berlin	Farben und Lichtlehre II
+91	19030804	04.08.1903	Berlin	Farben und Lichtlehre III
+91	19030806	06.08.1903	Berlin	Farben und Lichtlehre IV
+91	19030808	08.08.1903	Berlin	Farben und Lichtlehre V
+91	19040817	17.08.1904	Graal	Über Meditation I
+91	19040818	18.08.1904	Graal	Über Meditation II
+91	19040819	19.08.1904	Graal	Hilfsbegriffe, Neues Testament und Sagen
+91	19040820	20.08.1904	Graal	Hilfsbegriffe, Neues Testament
+91	19040821	21.08.1904	Graal	Die Wochentage, einige Hilfsbegriffe
+91	19040822	22.08.1904	Graal	Form, Leben, Bewusstsein
+91	19040903	03.09.1904	Berlin	Manas als Licht und Liebe
+91	19040904	04.09.1904	Berlin	Die innere Evolution seit der lemurischen Zeit
+91	19040905b	05.09.1904	Berlin	Der Fall in die Materie
+91	19040908	08.09.1904	Berlin	Nach der sogenannten Sündflut
+91	19040910	10.09.1904	Berlin	Begriffe von den Übergängen von der Atlantischen zu unserer Rasse
+91	19050617	17.06.1905	Berlin	Die drei Welten
+91	19050618	18.06.1905	Berlin	Die Wesen, die zu unserem Kosmos gehören
+91	19050620	20.06.1905	Berlin	Die sieben Grundprinzipien von der Seite ihres inneren Zusammenhanges
+91	19050621	21.06.1905	Berlin	Die Benennung der Wochentage
+91	19050623	23.06.1905	Berlin	Die Jahresfeste im Zusammenhang mit der Kosmologie
+91	19050625	25.06.1905	Berlin	Der Inkarnationsprozess im Zusammenhang mit den HImmelsverhältnissen
+91	19050627	27.06.1905	Berlin	Evolutionsgesetze des inneren Karmas
+91	19050628	28.06.1905	Berlin	Bewusstseinsseele
+91	19050806	06.08.1905	Haubinda	Farben und Töne
+91	19050807	07.08.1905	Haubinda	Elementarreiche
+91	19050808	08.08.1905	Haubinda	Mond-Sinnesorgane
+91	19050809a	09.08.1905	Haubinda	Elementarwesen
+91	19050809b	09.08.1905	Haubinda	Der Stein der Weisen
+91	19050811	11.08.1905	Haubinda	Evolution und Hierarchien
+91	19050812	12.08.1905	Haubinda	Bewusstseinsformen
+91	19050813	13.08.1905	Haubinda	Zwölf Bewusstseinsstufen im Verhältnis zum Ätherleib
+91	19050814	14.08.1905	Haubinda	Reinkarnation
+91	19050815	15.08.1905	Haubinda	Christus
+91	19050827	27.08.1905	Berlin	Auge und Ohr
+91	19050828	28.08.1905	Berlin	Die Zukunft von Auge, Ohr und Tastsinn
+91	19050829	29.08.1905	Berlin	Die Naturreiche und ihr Verhältnis zu den Ätherarten
+91	19050902	02.09.1905	Berlin	Mars-, Merkur- und Jupiterwirkung auf die Ausbildung des Menschen-Ich
+91	19050904	04.09.1905	Berlin	Die Siebengliederung des Menschen
+91	19060821	21.08.1906	Landin	Über die vierte Dimension I
+91	19060823a	23.08.1906	Landin	Über die vierte Dimension II
+91	19060825a	25.08.1906	Landin	Über die vierte Dimension III
+91	19060827a	27.08.1906	Landin	Über die vierte Dimension IV
+91	19060831a	31.08.1906	Landin	Christus und Luzifer
+91	19060831b	31.08.1906	Landin	Das eherne Meer
+91	19060901a	01.09.1906	Landin	Über den Zusammenhang der drei Welten und der Naturreiche
+91	19060911	11.09.1906	Landin	Über das Schöpferwort
+91	19060912	12.09.1906	Landin	Die Bedeutund des Christus-Jesus
+91	19060913	13.09.1906	Landin	Das Weltenzentrum, Christus, das Ich
+91	19060914	14.09.1906	Landin	Der Zusammenhang der geistigen und der physischen Welt
+91	19060916	16.09.1906	Landin	Evolution und Involution
+91	19060918	18.09.1906	Landin	Substanz und Kraft
+91	19060919a	19.09.1906	Landin	Kraft und Substanz
+91	19060920	20.09.1906	Landin	Erde, Herz, Atom
+91	19060921	21.09.1906	Landin	Zahl und Offenbarung I
+91	19060922	22.09.1906	Landin	Zahl und Offenbarung II
+91	19060930	30.09.1906	Landin	Die drei Welten
+91	19061004	04.10.1906	Landin	Das elfte und zwölfte Gebot
+244	19081026c	26.10.1908	Berlin	Gemüt, Musik, philosoph. Systeme. Über Formale Logik
+244	19090108b	08.01.1909	München	""
+244	19090109b	09.01.1909	München	""
+244	19130609	09.06.1913	Stockholm	Ein theosophischer Ketzer. Doktor Rudolf Steiner über Anthroposophen und Theosophen
+244	19210303b	03.03.1921	Den Haag	Interview
+244	19210323d	23.03.1921	Stuttgart	Fragebeantwortung
+244	19210410c	10.04.1921	Dornach	Fragenbeantwortung zu Bühnenkunst und Schauspielkunst
+244	19211005c	05.10.1921	Paris	"Une lueur sur les origines de la guerre. Ein Interview über die unveröffentlichten Memoiren von Moltke"
+244	19211012b	12.10.1921	Stuttgart	Neue Tatsachen über die Vorgeschichte des Weltkrieges
+244	19211123b	23.11.1921	Kristiania (Oslo)	Als Doktor Steiner kam. Ein paar Worte mit dem berühmten Mann
+244	19211123c	23.11.1921	Kristiania (Oslo)	Dr. Rudolf Steiner in Kristiania. Der berühmte Geistesforscher spricht mit «Aftenposten»
+244	19211123d	23.11.1921	Kristiania (Oslo)	Dr. Rudolf Steiner und Frau kamen gestern nach Kristiania. Ein Gespräch über Geisteswissenschaft und Realpolitik
+244	19211209	09.12.1921	Kristiania (Oslo)	Bei Dr. Rudolf Steiner
+244	19220601b	01.06.1922	Wien	Gespräch mit Dr. Rudolf Steiner
+244	19220602c	02.06.1922	Wien	Der Kongress der Anthroposophie. Ein Gespräch mit Dr. Rudolf Steiner
+244	19230101d	01.01.1923	London	Der Waldorf-Plan
+244	19230102b	02.01.1923	Basel	Ein Interview bei Dr. Steiner
+244	19230105c	05.01.1923	Basel	Nach dem Brande des Goetheanums. Die Erforschung der Brandursache
+244	19230105d	05.01.1923	Basel	Zum Brand im Goetheanum. Ott im Verdacht als Brandstifter oder Mitwisser
+244	19230129b	29.01.1923	Dornach	"I. Bericht des Dr. Rudolf Steiner, Schriftsteller, Sohn des Johann, geb. 27. Februar 1861, von Geras Nieder-Österreich, wohnhaft in Dornach."
+244	19230927b	27.09.1923	Wien	Die praktische Arbeit der Anthroposophen
+251	19121208b	08.12.1912	Berlin	Faksimile des handschriftlichen Statuten-Entwurfs Rudolf Steiners für die «Anthroposophische Gesellschaft»
+251	19140118b	18.01.1914	Berlin	Über eine Broschüre von E. Boldt
+251	19140119a	19.01.1914	Berlin	Weiteres über die Broschüre von E. Boldt
+251	19140120a	20.01.1914	Berlin	Pseudowissenschaft der Gegenwart
+251	19140124b	24.01.1914	Berlin	Schlusswort zur Generalversammlung
+252	19130922a	22.09.1913	Basel	Wortbeiträge Rudolf Steiners zur 3. Generalversammlung des Johannesbau-Vereins und der 1. ordentlichen Generalversammlung des Johannesbauvereins Dornach
+252	19130922b	22.09.1913	Basel	Ansprache Rudolf Steiners zur 3. Generalversammlung des Johannesbau-Vereins
+252	19140119b	19.01.1914	Berlin	Ausführungen über die Anthroposophen-Kolonie in Dornach
+252	19140123b	23.01.1914	Berlin	Schlusswort nach Vortrag von Dr. Max Herrmann
+252	19140813b	13.08.1914	Dornach	Samariter-Kursus
+252	19140920b	20.09.1914	Dornach	Christian Morgenstern. Gedenken der Grundsteinlegung des Dornacher Baues. Die Geisteswissenschaft und das moderne Geistesleben
+252	19141231a	31.12.1914	Dornach	Diskussionsbeiträge Rudolf Steiners während der 2. ordentlichen Generalversammlung des Johannesbau-Vereins
+252	19151227a	27.12.1915	Dornach	Diskussionsbeiträge Rudolf Steiners während der 3. ordentlichen Generalversammlung des Johannesbau-Vereins
+252	19160924a	24.09.1916	Dornach	Diskussionsbeiträge Rudolf Steiners während der 4. ordemtlichen Generalversammlung des Johannesbau-Vereins
+252	19171021a	21.10.1917	Dornach	Diskussionsbeiträge Rudolf Steiners sowie Worte über die plastische Gruppe während der 5. ordentlichen Generalversammlung des Johannesbau-Vereins
+252	19180901a	01.09.1918	Dornach	Vorstandssitzung Goetheanumbauverein
+252	19181101a	01.11.1918	Dornach	""
+252	19181101b	01.11.1918	Dornach	Wortmeldung zur 1. außerordentlichen Generalversammlung des JohannesBau-Vereins
+252	19181103a	03.11.1918	Dornach	Wortmeldung zur 6. ordentliche Generalversammlung des Johannesbau-Verein
+252	19181103b	03.11.1918	Dornach	Ansprache zur 6. Generalversammlung des Johannesbau-Verein
+252	19191012a	12.10.1919	Dornach	Vorstandsitzung Verein des Goetheanum
+252	19200425a	25.04.1920	Dornach	Ansprache zur 7. ordentlichen Generalversammlung des Vereins des Goetheanum
+252	19200926c	26.09.1920	Dornach	Worte zur Eröffnung des Goetheanums
+252	19200926d	26.09.1920	Dornach	Wissenschaft, Kunst und Religion
+252	19210625	25.06.1921	Zürich	Der Baugedanke von Dornach
+252	19210627a	27.06.1921	Dornach	Ansprache zur 8. Generalversammlung des Vereins des Goetheanum, der freien Hochschule für Geisteswissenschaft
+252	19220625a	25.06.1922	Dornach	Ansprache zur 9. Generalversammlung des Vereins des Goetheanum, der freien Hochschule für Geisteswissenschaft
+252	19220803d	03.08.1922	Dornach	Ausführungen über den Bau
+252	19230617a	17.06.1923	Dornach	Ansprache zur 10. Generalversammlung des Vereins des Goetheanum, der freien Hochschule für Geisteswissenschaft
+252	19230721b	21.07.1923	Dornach	Ansprachen zur Internationalen Delegiertenversammlung der Anthroposophischen Gesellschaft für den Wiederaufbau des Goetheanums
+255b	19191217	17.12.1919	Dornach	Mitteilung vor dem Mitgliedervortrag
+259	19230101b	01.01.1923	Dornach	""
+259	19230104	04.01.1923	Dornach	Über die Durchführung eines internationalen Kongresses
+259	19230106c	06.01.1923	Dornach	Versammlung der Mitglieder der Anthroposophischen Gesellschaft. Rückblick auf den Bau des zerstörten Goetheanums und Hinweis auf den Wiederaufbau
+259	19230116	16.01.1923	Stuttgart	""
+259	19230117b	17.01.1923	Stuttgart	""
+259	19230122a	22.01.1923	Stuttgart	""
+259	19230122b	22.01.1923	Stuttgart	""
+259	19230130b	30.01.1923	Stuttgart	""
+259	19230131b	31.01.1923	Stuttgart	""
+259	19230205	05.02.1923	Stuttgart	""
+259	19230206c	06.02.1923	Stuttgart	""
+259	19230207	07.02.1923	Stuttgart	""
+259	19230208b	08.02.1923	Stuttgart	""
+259	19230213b	13.02.1923	Stuttgart	""
+259	19230224	24.02.1923	Stuttgart	""
+259	19230226	26.02.1923	Stuttgart	""
+259	19230227a	27.02.1923	Stuttgart	""
+259	19230228a	28.02.1923	Stuttgart	Anregung zur Bildung der "Freien Anthroposophischen Gesellschaft"
+259	19230301b	01.03.1923	Stuttgart	""
+259	19230422b	22.04.1923	Dornach	""
+259	19230517a	17.05.1923	Kristiania (Oslo)	""
+259	19230610a	10.06.1923	Dornach	""
+259	19230704b	04.07.1923	Stuttgart	""
+259	19230711b	11.07.1923	Stuttgart	""
+259	19230714b	14.07.1923	Stuttgart	""
+259	19230721a	21.07.1923	Dornach	Aufbaugedanken und Gesinnungsbildung (während der Delegiertenversammlung)
+259	19230722a	22.07.1923	Dornach	Zusammenkunft mit den deutschen Delgierten
+259	19230722c	22.07.1923	Dornach	Delegiertenversammlung
+259	19230819b	19.08.1923	Penmaenmawr (N.Wales)	Über die Zukunft der Anthroposophischen Gesellschaft in England
+259	19230902a	02.09.1923	London	Gründungsversammlung der «Anthroposophical Society in Great Britain»
+259	19230907	07.09.1923	Stuttgart	""
+259	19230914a	14.09.1923	Stuttgart	Einleitende Worte über die anthroposophische Bewegung
+259	19230917	17.09.1923	Stuttgart	Schlußwort zur Diskussion über Angelegenheiten der Anthroposophischen Gesellschaft
+259	19230921	21.09.1923	Dornach	Erinnerung an die Grundsteinlegung des Goetheanums. Bericht über die Stuttgarter Tagung. Die Gegner der Anthroposophie
+259	19231001b	01.10.1923	Wien	Zur Gründung der "Anthroposophischen Gesell- schaft in Österreich"
+259	19231118b	18.11.1923	Haag	Zur Gründung der holländischen Anthroposophischen Gesellschaft
+259	19231208a	08.12.1923	Dornach	Delegiertenversammlung der Anthroposophischen Gesellschaft in der Schweiz
+261	19150201	01.02.1915	Zürich	Trauerrede anläßlich des Todes von Frau Colazza
+265	19111217b	17.12.1911	Berlin	""
+265	19231023	23.10.1923	St. Gallen	""
+266a	19091207b	07.12.1909	Berlin	""
+266c	19130316	16.03.1913	Augsburg	""
+266c	19140414c	14.04.1914	Wien	"(eventuell 11.4.1914)"
+266c	19180609	09.06.1918	Tannbach b.Gutau	""
+277a	19240430b	30.04.1924	Stuttgart	Erste Konferenz mit Lehrern der Eurythmie-Schule. Konferenz mit Lehrerinnen und Dozenten des Eurythmeums
+277b	19190207b	07.02.1919	Winterthur	""
+277d	19231005b	05.10.1923	Dornach	"Auszug aus Mitgliedervortrag"
+277d	19231117d	17.11.1923	Den Haag	"Auszug aus Mitgliedervortrag"
+280	19220718	18.07.1922 oder 15.7.1922	Dornach	Vortrag 1
+280	19220719	19.07.1922	Dornach	Vortrag 2
+280	19220720	20.07.1922	Dornach	Vortrag 3
+280	19220721a	21.07.1922	Dornach	Vortrag 4
+280	19220722a	22.07.1922	Dornach	Vortrag 5
+280	19220725a	25.07.1922	Dornach	Vortrag 6
+280	19220726a	26.07.1922	Dornach	Vortrag 7
+280	19220727a	27.07.1922	Dornach	Vortrag 8
+280	19220728a	28.07.1922	Dornach	Vortrag 9
+280	19220729a	29.07.1922	Dornach	Vortrag 10
+280	19220731a	31.07.1922	Dornach	Vortrag 11
+280	19220801a	01.08.1922	Dornach	Vortrag 12
+280	19220802b	02.08.1922	Dornach	Vortrag 13
+280	19220803a	03.08.1922	Dornach	Vortrag 14
+280	19220804a	04.08.1922	Dornach	Vortrag 15
+280	19220805b	05.08.1922	Dornach	Vortrag 16
+280	19221004d	04.10.1922	Stuttgart	Vortrag 1
+280	19221005b	05.10.1922	Stuttgart	Vortrag 2
+280	19221006d	06.10.1922	Stuttgart	Vortrag 3
+280	19221007b	07.10.1922	Stuttgart	Vortrag 4
+280	19221008b	08.10.1922	Stuttgart	Vortrag 5
+280	19221009b	09.10.1922	Stuttgart	Vortrag 6
+280	19221010b	10.10.1922	Stuttgart	Vortrag 7
+280	19221011b	11.10.1922	Stuttgart	Vortrag 1
+280	19221012b	12.10.1922	Stuttgart	Vortrag 8
+280	19221013b	13.10.1922	Stuttgart	Vortrag 9
+280	19221014b	14.10.1922	Stuttgart	Vortrag 10
+281	19210730a	30.07.1921	Darmstadt	Dichtung und Rezitation, eine ästhetische Betrachtung mit rezitatorischen Proben von Marie Steiner
+284	19090405	05.04.1909	Malsch	Grundsteinlegung zum Modellbau eines Rosenkreuzer-Tempels
+286	19241101	01.11.1924	Basel	Das zweite Goetheanum
+288	19140716a	16.07.1914	Norrköping	Über der Dornacher Bau
+288	19150410	10.04.1915	Basel	Ein Dornacher Bau in seiner Gestaltung als Haus für Geisteswissenschaft
+288	19160920a	20.09.1916	Dornach	Bauformen als Welt- und Empfindungsgedanken
+288	19200123	23.01.1920	Dornach	Erster Vortrag
+288	19200124b	24.01.1920	Dornach	Zweiter Vortrag
+288	19200125b	25.01.1920	Dornach	Dritter Vortrag
+288	19200404c	04.04.1920	Dornach	Erster Vortrag
+288	19200405c	05.04.1920	Dornach	Zweiter Vortrag
+288	19200612b	12.06.1920	Stuttgart	Das Goetheanum in Dornach
+289	19201002b	02.10.1920	Dornach	"Erster Vortrag: Der Bau als Umrahmung der Mysterienfestspiele"
+289	19201009b	09.10.1920	Dornach	"Zweiter Vortrag: Die den Baugedanken tragenden künstlerischen Impulse"
+289	19201016a	16.10.1920	Dornach	"Dritter Vortrag: Der Doppelkuppelraum und seine Innenarchitektur"
+289	19210228a	28.02.1921	Haag	Der Baugedanke von Dornach (mit Lichtbildern)
+289	19210629	29.06.1921	Bern	Der Baugedanke von Dornach
+289	19210907	07.09.1921	Stuttgart	Der Baugedanke von Dornach (mit Lichtbildern)
+289	19211228c	28.12.1921	Dornach	"Erster Vortrag: Gestaltung der schaffenden Kräfte der Natur"
+289	19211230b	30.12.1921	Dornach	"Zweiter Vortrag: Die Kunst, einer Offenbarung geheimer Naturgesetze"
+332	19210322a	22.03.1921	Stuttgart	Zusammenkunft mit Technikern
+K45	19171203	03.12.1917	Dornach	Die Entwicklung des IIlustrativen in der Kunst vom Mittelalter bis zur Gegenwart
+K45	19180115	15.01.1918	Dornach	Die IIlustrationskunst Walo von Mays. - Der Kunstsinn der Griechen in Plastik und Architektur. Die notwendige Wiedergewinnung einer engeren Beziehung zwischen Künstlerischem und Erkenntnismäßigem

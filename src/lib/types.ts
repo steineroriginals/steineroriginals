@@ -13,6 +13,10 @@ export interface LectureEntry {
   vortragstitel?: string;
   anlass?: string;
   ga?: string;
+  /** PDF page in the GA volume. A map when the lecture is in more than one volume. */
+  seite_pdf?: number | Record<string, number>;
+  /** Same page number under the name written in the catalog today. */
+  seite_ga?: number | Record<string, number>;
   reihe?: string;
   zyklus?: number | string;
   ragkeep?: string;
